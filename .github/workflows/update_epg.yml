@@ -1,0 +1,53 @@
+name: Update FOX EPG Guide
+
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+  # Runs on a schedule
+  schedule:
+    # Runs at 14:00 UTC every day.
+    # 14:00 UTC = 12:00 AM (Midnight) AEST (UTC+10)
+    # 14:00 UTC = 11:30 PM ACST (UTC+9:30) 
+    # Adjust the time if your target "12am" is in a different timezone.
+    # '0 14 * * *' = Minute Hour Day Month DayOfWeek
+    - cron: '0 14 * * *'
+
+jobs:
+  build-and-commit:
+    runs-on: ubuntu-latest # Use the latest Ubuntu runner
+
+    steps:
+      # 1. Check out the repository code
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. Set up Python environment
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x' # Use any Python 3 version
+
+      # 3. Install dependencies (only 'requests' in this case)
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      # 4. Run the Python script to generate guide.xml
+      - name: Run EPG script
+        run: python fox_epg_scraper.py
+
+      # 5. Commit and push changes if guide.xml has changed
+      - name: Commit and push guide.xml
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add guide.xml
+          # Check if there are changes to commit (using --quiet avoids errors)
+          if git diff --staged --quiet; then
+            echo "No changes to guide.xml to commit."
+          else
+            git commit -m "Automated EPG Update: $(date -u)"
+            git push
+            echo "Committed and pushed guide.xml changes."
+          fi
