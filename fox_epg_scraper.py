@@ -112,8 +112,8 @@ def convert_to_xmltv(json_data):
 
         except Exception as e:
             print(f"Error processing programme: {programme_data.get('id')}, Error: {e}")
-
-    xml_string = ET.tostring(root, encoding="UTF-8", xml_declaration=False).decode('utf-8')
+    ET.indent(root, space="  ", level=0)
+    xml_string = ET.tostring(root, encoding="UTF-8", xml_declaration=True).decode('utf-8')
     return "<?xml version='1.0' encoding='UTF-8'?>\n" + xml_string
 
 
