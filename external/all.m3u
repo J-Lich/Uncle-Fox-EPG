@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ESPNU USA" tvg-name="ESPNU USA",ESPNU USA
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc40NzfRz8_Py9XKNSy0At6oRcg
 #EXTINF:-1 tvg-id="ESPN 1 NL" tvg-name="ESPN 1 NL",ESPN 1 NL
 http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc43NLfVz8_Py9XKNSy0AuBMRew
 #EXTINF:-1 tvg-id="ESPN 2 NL" tvg-name="ESPN 2 NL",ESPN 2 NL
