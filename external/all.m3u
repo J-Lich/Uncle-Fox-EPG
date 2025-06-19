@@ -1,40 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ESPN USA" tvg-name="ESPN USA",ESPN USA
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc01M9HPz8_L1co1LLQCnrBFA
-#EXTINF:-1 tvg-id="ESPN2 USA" tvg-name="ESPN2 USA",ESPN2 USA
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc01M9XPz8_L1co1LLQCmLBEz
-#EXTINF:-1 tvg-id="ESPNU USA" tvg-name="ESPNU USA",ESPNU USA
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc40NzfRz8_Py9XKNSy0At6oRcg
-#EXTINF:-1 tvg-id="ESPN 1 NL" tvg-name="ESPN 1 NL",ESPN 1 NL
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc43NLfVz8_Py9XKNSy0AuBMRew
 #EXTINF:-1 tvg-id="ESPN 2 NL" tvg-name="ESPN 2 NL",ESPN 2 NL
 http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc40tzPRz8_Py9XKNSy0At_4ReQ
-#EXTINF:-1 tvg-id="ESPN Premium Argentina" tvg-name="ESPN Premium Argentina",ESPN Premium Argentina
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc40tzPVz8_Py9XKNSy0AtnARbA
-#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN Brasil",ESPN Brasil
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLcy0M9XPz8_L1co1LLQCnuxFB
-#EXTINF:-1 tvg-id="ESPN2 Brasil" tvg-name="ESPN2 Brasil",ESPN2 Brasil
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy2M9HPz8_L1co1LLQCmOxE0
-#EXTINF:-1 tvg-id="ESPN3 Brasil" tvg-name="ESPN3 Brasil",ESPN3 Brasil
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLcy2M9XPz8_L1co1LLQCYsxC_
-#EXTINF:-1 tvg-id="ESPN4 Brasil" tvg-name="ESPN4 Brasil",ESPN4 Brasil
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLcy1M9XPz8_L1co1LLQCYyRDB
-#EXTINF:-1 tvg-id="ESPN SUR" tvg-name="ESPN SUR",ESPN SUR
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLcw1NLPVz8_Py9XKNSy0AqDMQ8g
-#EXTINF:-1 tvg-id="ESPN2 SUR" tvg-name="ESPN2 SUR",ESPN2 SUR
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcw1NDfRz8_Py9XKNSy0AteURYA
-#EXTINF:-1 tvg-id="ESPN Deportes" tvg-name="ESPN Deportes",ESPN Deportes
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc43NTfVz8_Py9XKNSy0At-cRdw
-#EXTINF:-1 tvg-id="ESPNews" tvg-name="ESPNews",ESPNews
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzjSws9HPz8_L1co1LLQCQFxCW
-#EXTINF:-1 tvg-id="Fox Sports 1 USA" tvg-name="Fox Sports 1 USA",Fox Sports 1 USA
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc40t9XPz8_L1co1LLQCn1xFE
 #EXTINF:-1 tvg-id="Fox Sports 2 USA" tvg-name="Fox Sports 2 USA",Fox Sports 2 USA
 http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc81NLfRz8_Py9XKNSy0AuCQRfA
 #EXTINF:-1 tvg-id="FOX Soccer Plus" tvg-name="FOX Soccer Plus",FOX Soccer Plus
 http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc81NzfRz8_Py9XKNSy0AqGwQ9g
-#EXTINF:-1 tvg-id="Fox Cricket" tvg-name="Fox Cricket",Fox Cricket
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc43NLPVz8_Py9XKNSy0AqGUQ9g
 #EXTINF:-1 tvg-id="FOX Deportes USA" tvg-name="FOX Deportes USA",FOX Deportes USA
 http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmpkY6-fm5-Xr5RqXWgAA9_4SlQ
 #EXTINF:-1 tvg-id="FOX Sports 502 AU" tvg-name="FOX Sports 502 AU",FOX Sports 502 AU
@@ -57,66 +27,18 @@ http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNL
 http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzzS0s9XPz8_L1co1LLQCQYxCc
 #EXTINF:-1 tvg-id="Fox Sports Premium MX" tvg-name="Fox Sports Premium MX",Fox Sports Premium MX
 http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLcy2MDfRz8_Py9XKNSy0AqB8Q7w
-#EXTINF:-1 tvg-id="Fox Business" tvg-name="Fox Business",Fox Business
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc40szfVz8_Py9XKNSy0AqGYQ9g
 #EXTINF:-1 tvg-id="FOX HD Bulgaria" tvg-name="FOX HD Bulgaria",FOX HD Bulgaria
 http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc00sjPVz8_Py9XKNSy0AtlERaQ
-#EXTINF:-1 tvg-id="FOX USA" tvg-name="FOX USA",FOX USA
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc01N9HPz8_L1co1LLQCnuBFB
-#EXTINF:-1 tvg-id="Fox News" tvg-name="Fox News",Fox News
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc41NzPVz8_Py9XKNSy0At9kRdg
 #EXTINF:-1 tvg-id="FOXNY USA" tvg-name="FOXNY USA",FOXNY USA
 http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc83NLPRz8_Py9XKNSy0AuDARfQ
 #EXTINF:-1 tvg-id="Fox Weather Channel" tvg-name="Fox Weather Channel",Fox Weather Channel
 http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc83NTfVz8_Py9XKNSy0AuBsRew
-#EXTINF:-1 tvg-id="GOLF Channel USA" tvg-name="GOLF Channel USA",GOLF Channel USA
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc40NLfRz8_Py9XKNSy0At8ARdA
 #EXTINF:-1 tvg-id="Movistar Golf Spain" tvg-name="Movistar Golf Spain",Movistar Golf Spain
 http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmhpZ6Ofm5-Xr5RqXWgAA-BASlw
-#EXTINF:-1 tvg-id="Sky Sports Football UK" tvg-name="Sky Sports Football UK",Sky Sports Football UK
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc41N9XPz8_L1co1LLQCnqxFA
-#EXTINF:-1 tvg-id="Sky Sports Arena UK" tvg-name="Sky Sports Arena UK",Sky Sports Arena UK
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc43N9HPz8_L1co1LLQCnthFB
-#EXTINF:-1 tvg-id="Sky Sports Action UK" tvg-name="Sky Sports Action UK",Sky Sports Action UK
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzjc31c_Pz8vVyjUstAIC1EF4
-#EXTINF:-1 tvg-id="Sky Sports Main Event" tvg-name="Sky Sports Main Event",Sky Sports Main Event
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc40t9HPz8_L1co1LLQCnzBFD
-#EXTINF:-1 tvg-id="Sky sports Premier League" tvg-name="Sky sports Premier League",Sky sports Premier League
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmGhob6Ofm5-Xr5RqXWgAA95ASjA
-#EXTINF:-1 tvg-id="Sky Sports F1 UK" tvg-name="Sky Sports F1 UK",Sky Sports F1 UK
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc80M9HPz8_L1co1LLQCmDREw
-#EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-name="Sky Sports Cricket",Sky Sports Cricket
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmpnq5-bn5evlGpdaAADm2RJj
-#EXTINF:-1 tvg-id="Sky Sports Golf UK" tvg-name="Sky Sports Golf UK",Sky Sports Golf UK
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc80N9HPz8_L1co1LLQCmGREx
 #EXTINF:-1 tvg-id="Sky Sports Golf Italy" tvg-name="Sky Sports Golf Italy",Sky Sports Golf Italy
 http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc03NTfRz8_Py9XKNSy0AqFQQ9A
-#EXTINF:-1 tvg-id="Sky Sport MotoGP Italy" tvg-name="Sky Sport MotoGP Italy",Sky Sport MotoGP Italy
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzTc1N9XPz8_L1co1LLQCQERCV
-#EXTINF:-1 tvg-id="Sky Sport Tennis Italy" tvg-name="Sky Sport Tennis Italy",Sky Sport Tennis Italy
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc03NzfRz8_Py9XKNSy0AqGoQ9g
-#EXTINF:-1 tvg-id="Sky Sport F1 Italy" tvg-name="Sky Sport F1 Italy",Sky Sport F1 Italy
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzTc3N9XPz8_L1co1LLQCQJxCX
-#EXTINF:-1 tvg-id="Sky Sports News UK" tvg-name="Sky Sports News UK",Sky Sports News UK
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc43NzPRz8_Py9XKNSy0Atk0RaQ
-#EXTINF:-1 tvg-id="Sky Sports MIX UK" tvg-name="Sky Sports MIX UK",Sky Sports MIX UK
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc01MLPVz8_Py9XKNSy0AqFoQ9Q
-#EXTINF:-1 tvg-id="Sky Sport Top Event DE" tvg-name="Sky Sport Top Event DE",Sky Sport Top Event DE
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmpqa6efm5-Xr5RqXWgAA-B4SmA
-#EXTINF:-1 tvg-id="Sky Sport Mix DE" tvg-name="Sky Sport Mix DE",Sky Sport Mix DE
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc01NzfVz8_Py9XKNSy0AqF0Q9Q
 #EXTINF:-1 tvg-id="Sky Sport Bundesliga 1 HD" tvg-name="Sky Sport Bundesliga 1 HD",Sky Sport Bundesliga 1 HD
 http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc01NLfRz8_Py9XKNSy0AqGgQ9g
-#EXTINF:-1 tvg-id="Sky Sport Austria 1 HD" tvg-name="Sky Sport Austria 1 HD",Sky Sport Austria 1 HD
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc01NLfVz8_Py9XKNSy0AqHMQ9w
-#EXTINF:-1 tvg-id="Sky Sport Football Italy" tvg-name="Sky Sport Football Italy",Sky Sport Football Italy
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmpgZ6Ofm5-Xr5RqXWgAA99sSkg
-#EXTINF:-1 tvg-id="Sky Sport UNO Italy" tvg-name="Sky Sport UNO Italy",Sky Sport UNO Italy
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc03MDPVz8_Py9XKNSy0AqBoQ7w
-#EXTINF:-1 tvg-id="Sky Sport Arena Italy" tvg-name="Sky Sport Arena Italy",Sky Sport Arena Italy
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc03MjPRz8_Py9XKNSy0AqCUQ8A
-#EXTINF:-1 tvg-id="Sky Sports Racing UK" tvg-name="Sky Sports Racing UK",Sky Sports Racing UK
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc01NTfRz8_Py9XKNSy0AtkURaA
 #EXTINF:-1 tvg-id="Sky UNO Italy" tvg-name="Sky UNO Italy",Sky UNO Italy
 http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy0sDPVz8_Py9XKNSy0Atm8Raw
 #EXTINF:-1 tvg-id="Sky Sport 1 NZ" tvg-name="Sky Sport 1 NZ",Sky Sport 1 NZ
@@ -157,8 +79,6 @@ http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNL
 http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc83MzfVz8_Py9XKNSy0AtosRbg
 #EXTINF:-1 tvg-id="Sky Cinema Thriller UK" tvg-name="Sky Cinema Thriller UK",Sky Cinema Thriller UK
 http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc83MLfVz8_Py9XKNSy0AtqERcA
-#EXTINF:-1 tvg-id="Sky Cinema Sci-Fi Horror UK" tvg-name="Sky Cinema Sci-Fi Horror UK",Sky Cinema Sci-Fi Horror UK
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc80sDPVz8_Py9XKNSy0AqEwQ8w
 #EXTINF:-1 tvg-id="Sky Cinema Collection Italy" tvg-name="Sky Cinema Collection Italy",Sky Cinema Collection Italy
 http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy1MLfVz8_Py9XKNSy0AtqMRcA
 #EXTINF:-1 tvg-id="Sky Cinema Uno Italy" tvg-name="Sky Cinema Uno Italy",Sky Cinema Uno Italy
@@ -179,24 +99,14 @@ http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNL
 http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy3MzPVz8_Py9XKNSy0AtpkRbw
 #EXTINF:-1 tvg-id="8Sky Cinema Suspense Italy" tvg-name="8Sky Cinema Suspense Italy",8Sky Cinema Suspense Italy
 http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLcy3MLPRz8_Py9XKNSy0AqJsQ-g
-#EXTINF:-1 tvg-id="Sky Sport 24 Italy" tvg-name="Sky Sport 24 Italy",Sky Sport 24 Italy
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy3MLPVz8_Py9XKNSy0Atq8RcQ
-#EXTINF:-1 tvg-id="Sky Sport Calcio Italy" tvg-name="Sky Sport Calcio Italy",Sky Sport Calcio Italy
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy3MDfRz8_Py9XKNSy0AtlgRaQ
 #EXTINF:-1 tvg-id="Sky Calcio 1 (251) Italy" tvg-name="Sky Calcio 1 (251) Italy",Sky Calcio 1 (251) Italy
 http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLcy3MDfVz8_Py9XKNSy0At_wReA
-#EXTINF:-1 tvg-id="Sky Calcio 2 (252) Italy" tvg-name="Sky Calcio 2 (252) Italy",Sky Calcio 2 (252) Italy
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy3MjfRz8_Py9XKNSy0Atm4Raw
 #EXTINF:-1 tvg-id="Sky Calcio 3 (253) Italy" tvg-name="Sky Calcio 3 (253) Italy",Sky Calcio 3 (253) Italy
 http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy3MjfVz8_Py9XKNSy0AtnkRbA
 #EXTINF:-1 tvg-id="Sky Calcio 4 (254) Italy" tvg-name="Sky Calcio 4 (254) Italy",Sky Calcio 4 (254) Italy
 http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy3MTfRz8_Py9XKNSy0AtoQRbQ
 #EXTINF:-1 tvg-id="Sky Calcio 5 (255) Italy" tvg-name="Sky Calcio 5 (255) Italy",Sky Calcio 5 (255) Italy
 http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy3MTfVz8_Py9XKNSy0Ato8Rbg
-#EXTINF:-1 tvg-id="Sky Calcio 6 (256) Italy" tvg-name="Sky Calcio 6 (256) Italy",Sky Calcio 6 (256) Italy
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy3MzfRz8_Py9XKNSy0AtpoRbw
-#EXTINF:-1 tvg-id="Sky Calcio 7 (257) Italy" tvg-name="Sky Calcio 7 (257) Italy",Sky Calcio 7 (257) Italy
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzLczN9XPz8_L1co1LLQCQThCa
 #EXTINF:-1 tvg-id="Sky Serie Italy" tvg-name="Sky Serie Italy",Sky Serie Italy
 http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy0sDPRz8_Py9XKNSy0AtmQRag
 #EXTINF:-1 tvg-id="Sky Showcase UK" tvg-name="Sky Showcase UK",Sky Showcase UK
@@ -209,23 +119,5 @@ http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNL
 http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc80sTPVz8_Py9XKNSy0AtoERbQ
 #EXTINF:-1 tvg-id="Sky History" tvg-name="Sky History",Sky History
 http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLc80szPRz8_Py9XKNSy0AtowRbg
-#EXTINF:-1 tvg-id="Sky Witness HD" tvg-name="Sky Witness HD",Sky Witness HD
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc43NDPVz8_Py9XKNSy0AqA0Q7g
-#EXTINF:-1 tvg-id="Sky Atlantic" tvg-name="Sky Atlantic",Sky Atlantic
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc43NjPRz8_Py9XKNSy0AqBgQ7w
-#EXTINF:-1 tvg-id="TNT Sports 1 UK" tvg-name="TNT Sports 1 UK",TNT Sports 1 UK
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzjQ31c_Pz8vVyjUstAIBzEFg
-#EXTINF:-1 tvg-id="TNT Sports 2 UK" tvg-name="TNT Sports 2 UK",TNT Sports 2 UK
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzjY30c_Pz8vVyjUstAIB-EFk
-#EXTINF:-1 tvg-id="TNT Sports 3 UK" tvg-name="TNT Sports 3 UK",TNT Sports 3 UK
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzjY31c_Pz8vVyjUstAICJEFo
-#EXTINF:-1 tvg-id="TNT Sports 4 UK" tvg-name="TNT Sports 4 UK",TNT Sports 4 UK
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS189LK9bLSy3PLs7XKyoF8fQLilJzM0tzjU30c_Pz8vVyjUstAICUEFs
-#EXTINF:-1 tvg-id="TNT Brasil" tvg-name="TNT Brasil",TNT Brasil
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS1y_PzEvRy0stzy7O1ysqBXP1C4pSczNLcy3M9XPz8_L1co1LLQCmchE5
-#EXTINF:-1 tvg-id="TNT Sports Argentina" tvg-name="TNT Sports Argentina",TNT Sports Argentina
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS109JqTTTy0stzy7O1ysqBXP1C4pSczNLc40tLPRz8_Py9XKNSy0AqHIQ9w
 #EXTINF:-1 tvg-id="TNT Sports HD Chile" tvg-name="TNT Sports HD Chile",TNT Sports HD Chile
 http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS10_Jz87ON9TLSy3PLs7XKyqFCugXFKXmZpbmmpkY6efm5-Xr5RqXWgAA9_MSlA
-#EXTINF:-1 tvg-id="TNT USA" tvg-name="TNT USA",TNT USA
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLc42NLfRz8_Py9XKNSy0At9gRdg
