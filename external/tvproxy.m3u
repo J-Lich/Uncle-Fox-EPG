@@ -1,15 +1,12 @@
 #EXTM3U
 #EXTINF:-1,Fox 502
-http://127.0.0.1:7861/proxy/m3u?url=https%3A%2F%2Fthedaddt.click%2Fstream%2Fstream-822.php
+http://127.0.0.1:7861/proxy/m3u?url=https%3A%2F%2Fthedaddt.click%2Fstream%2Fstream-820.php
 
 #EXTINF:-1,Fox 503
-http://127.0.0.1:7861/proxy/m3u?url=https%3A%2F%2Fthedaddt.click%2Fstream%2Fstream-8221.php
+http://127.0.0.1:7861/proxy/m3u?url=https%3A%2F%2Fthedaddt.click%2Fstream%2Fstream-821.php
 
 #EXTINF:-1,Fox 504
-http://this.wont.work
-http://this.two.wont.work
 http://127.0.0.1:7861/proxy/m3u?url=https%3A%2F%2Fthedaddt.click%2Fstream%2Fstream-822.php
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLcy2MjPRz8_Py9XKNSy0At8sRdA
 
 #EXTINF:-1,Fox 505
 http://127.0.0.1:7861/proxy/m3u?url=https%3A%2F%2Fthedaddt.click%2Fstream%2Fstream-823.php
@@ -18,5 +15,10 @@ http://127.0.0.1:7861/proxy/m3u?url=https%3A%2F%2Fthedaddt.click%2Fstream%2Fstre
 http://127.0.0.1:7861/proxy/m3u?url=https%3A%2F%2Fthedaddt.click%2Fstream%2Fstream-824.php
 
 #EXTINF:-1,Fox 507
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7Xy0stzy7O1ysqBXP1C4pSczNLcy2MjPRz8_Py9XKNSy0At8sRdA
 http://127.0.0.1:7861/proxy/m3u?url=https%3A%2F%2Fthedaddt.click%2Fstream%2Fstream-825.php
+
+#EXTINF:-1,Sky Sports Cricket
+http://127.0.0.1:7861/proxy/m3u?url=https%3A%2F%2Fthedaddt.click%2Fstream%2Fstream-65.php
+
+#EXTINF:-1,Sky Sports F1
+http://127.0.0.1:7861/proxy/m3u?url=https%3A%2F%2Fthedaddt.click%2Fstream%2Fstream-60.php
