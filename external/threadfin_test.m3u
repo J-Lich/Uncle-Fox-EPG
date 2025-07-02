@@ -89,30 +89,15 @@ https://ott.udptv.com/stream/skyuk/skysportsf1uhd/master.m3u8?u=discord.gg/civ3&
 
 
 --- 📺 Sky Sports Cricket
-#EXTINF:-1,tvg-id="Sky.Cricket.TVProxy" tvg-name="Sky Cricket (TVProxy)"
+#EXTINF:-1,tvg-id="Sky.Cricket.TVProxy" tvg-name="Sky Cricket (TVProxy)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-cricket-uk.png"
 http://127.0.0.1:7861/proxy/m3u?url=https%3A%2F%2Fthedaddt.click%2Fstream%2Fstream-65.php
 
-#EXTINF:-1,tvg-id="Sky.Cricket.Pigz" tvg-name="Sky Cricket (Pigz)"
+#EXTINF:-1,tvg-id="Sky.Cricket.Pigz" tvg-name="Sky Cricket (Pigz)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-cricket-uk.png"
 http://127.0.0.1:7860/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjUvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1,tvg-id="Sky.Cricket.A1X" tvg-name="Sky Cricket (A1X)"
+#EXTINF:-1,tvg-id="Sky.Cricket.A1X" tvg-name="Sky Cricket (A1X)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-cricket-uk.png"
 https://a1xs.vip/2000006
 
-#EXTINF:-1,tvg-id="Sky.Cricket.UDPTV" tvg-name="Sky Cricket (UDPTV)"
+#EXTINF:-1,tvg-id="Sky.Cricket.UDPTV" tvg-name="Sky Cricket (UDPTV)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-cricket-uk.png"
 https://ott.udptv.com/stream/skyuk/skysportscricket/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
-
-
-
-
-
-
-
-
-
-#EXTINF:-1  tvg-name="Sky Sports Cricket UK" tvg-id="SkySpCricket.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-cricket-uk.png" group-title="SPORTS",Sky Sports Cricket UK
-https://ott.udptv.com/stream/skyuk/skysportscricket/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-#EXTINF:-1  tvg-name="Sky Sports F1 UHD UK" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hd/sky-sports-f1-uhd-uk.png" group-title="SPORTS",Sky Sports F1 UHD UK
-https://ott.udptv.com/stream/skyuk/skysportsf1uhd/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-#EXTINF:-1  tvg-name="Sky Sports F1 UK" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="SPORTS",Sky Sports F1 UK
-https://ott.udptv.com/stream/skyuk/skysportsf1/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
