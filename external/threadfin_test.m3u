@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1,tvg-id="FOX 504 TVPROXY" tvg-name="Fox 504 (Direct TVProxy)"
+http://127.0.0.1:7861/proxy/m3u?url=https%3A%2F%2Fthedaddt.click%2Fstream%2Fstream-822.php
+
+#EXTINF:-1,tvg-id="FOX 504 D3V" tvg-name="Fox 504 (Direct d3v)"
+http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7PSy3XA-Ls4ny9olKwiH5BUWpuZmmuhZGRfm5-Xr5ernGpBQD2TRK-
+
+#EXTINF:-1,tvg-id="FOX 504 PIGZ" tvg-name="Fox 504 (Direct pigz)"
+http://127.0.0.1:7860/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW04MjIvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1,tvg-id="FOX 504 A1X" tvg-name="Fox 504 (Direct a1x)"
+https://a1xs.vip/700004
