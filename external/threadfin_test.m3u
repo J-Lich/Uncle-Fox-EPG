@@ -1,13 +1,115 @@
 #EXTM3U
 
-#EXTINF:-1,tvg-id="FOX 504 TVPROXY" tvg-name="Fox 504 (Direct TVProxy)"
-http://127.0.0.1:7861/proxy/m3u?url=https%3A%2F%2Fthedaddt.click%2Fstream%2Fstream-822.php
+--- 📺 FOX 502
+#EXTINF:-1,tvg-id="FOX.504.TVProxy" tvg-name="FOX 504 (TVProxy)"
+http://127.0.0.1:7861/proxy/m3u?url=https%3A%2F%2Fthedaddt.click%2Fstream%2Fstream-820.php
 
-#EXTINF:-1,tvg-id="FOX 504 D3V" tvg-name="Fox 504 (Direct d3v)"
-http://127.0.0.1:8888/proxy/m3u?url=eJzLKCkpKLbS169Kzc7PSy3XA-Ls4ny9olKwiH5BUWpuZmmuhZGRfm5-Xr5ernGpBQD2TRK-
-
-#EXTINF:-1,tvg-id="FOX 504 PIGZ" tvg-name="Fox 504 (Direct pigz)"
+#EXTINF:-1,tvg-id="FOX.504.Pigz" tvg-name="FOX 504 (Pigz)"
 http://127.0.0.1:7860/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW04MjIvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1,tvg-id="FOX 504 A1X" tvg-name="Fox 504 (Direct a1x)"
+#EXTINF:-1,tvg-id="FOX.504.A1X" tvg-name="FOX 504 (A1X)"
 https://a1xs.vip/700004
+
+--- 📺 FOX 504
+#EXTINF:-1,tvg-id="FOX.504.TVProxy" tvg-name="FOX 504 (TVProxy)"
+http://127.0.0.1:7861/proxy/m3u?url=https%3A%2F%2Fthedaddt.click%2Fstream%2Fstream-822.php
+
+#EXTINF:-1,tvg-id="FOX.504.Pigz" tvg-name="FOX 504 (Pigz)"
+http://127.0.0.1:7860/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW04MjIvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1,tvg-id="FOX.504.A1X" tvg-name="FOX 504 (A1X)"
+https://a1xs.vip/700004
+
+
+
+#EXTM3U
+#EXTINF:-1,Fox 502
+http://127.0.0.1:7861/proxy/m3u?url=https%3A%2F%2Fthedaddt.click%2Fstream%2Fstream-820.php
+
+#EXTINF:-1,Fox 503
+http://127.0.0.1:7861/proxy/m3u?url=https%3A%2F%2Fthedaddt.click%2Fstream%2Fstream-821.php
+
+#EXTINF:-1,Fox 504
+http://127.0.0.1:7861/proxy/m3u?url=https%3A%2F%2Fthedaddt.click%2Fstream%2Fstream-822.php
+
+#EXTINF:-1,Fox 505
+http://127.0.0.1:7861/proxy/m3u?url=https%3A%2F%2Fthedaddt.click%2Fstream%2Fstream-823.php
+
+#EXTINF:-1,Fox 506
+http://127.0.0.1:7861/proxy/m3u?url=https%3A%2F%2Fthedaddt.click%2Fstream%2Fstream-824.php
+
+#EXTINF:-1,Fox 507
+http://127.0.0.1:7861/proxy/m3u?url=https%3A%2F%2Fthedaddt.click%2Fstream%2Fstream-825.php
+
+#EXTINF:-1,Sky Sports Cricket
+http://127.0.0.1:7861/proxy/m3u?url=https%3A%2F%2Fthedaddt.click%2Fstream%2Fstream-65.php
+
+#EXTINF:-1,Sky Sports F1
+http://127.0.0.1:7861/proxy/m3u?url=https%3A%2F%2Fthedaddt.click%2Fstream%2Fstream-60.php
+
+
+--- 📺 AU Sports
+#EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="Fox Sports 501 FHD" tvg-logo="https://i.imgur.com/59gCbVd.png" group-title="AU Sports",Fox Sports 501 FHD
+https://a1xs.vip/700001
+#EXTINF:-1 tvg-id="FoxLeague.au" tvg-name="Fox Sports 502 FHD" tvg-logo="https://i.imgur.com/idKGREY.png" group-title="AU Sports",Fox Sports 502 FHD
+https://a1xs.vip/700002
+#EXTINF:-1 tvg-id="FoxSports503.au" tvg-name="Fox Sports 503 FHD" tvg-logo="https://i.imgur.com/5PUsSnn.png" group-title="AU Sports",Fox Sports 503 FHD
+https://a1xs.vip/700003
+#EXTINF:-1 tvg-id="FoxFooty.au" tvg-name="Fox Sports 504 FHD" tvg-logo="https://i.imgur.com/aEoU7gf.png" group-title="AU Sports",Fox Sports 504 FHD
+https://a1xs.vip/700004
+#EXTINF:-1 tvg-id="FoxSports505.au" tvg-name="Fox Sports 505 FHD" tvg-logo="https://i.imgur.com/angJkah.png" group-title="AU Sports",Fox Sports 505 FHD
+https://a1xs.vip/700005
+#EXTINF:-1 tvg-id="FoxSports506.au" tvg-name="Fox Sports 506 FHD" tvg-logo="https://i.imgur.com/eA1hiR0.png" group-title="AU Sports",Fox Sports 506 FHD
+https://a1xs.vip/700006
+#EXTINF:-1 tvg-id="FoxSportsMore.au" tvg-name="Fox Sports 507 FHD" tvg-logo="https://i.imgur.com/kGm7Ts1.png" group-title="AU Sports",Fox Sports 507 FHD
+https://a1xs.vip/700007
+
+https://a1xs.vip/2000015
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="UK: Sky Sports F1 UHD" tvg-logo="https://i.imgur.com/aetKPNi.png" group-title="UHD | 4K",UK: Sky Sports F1 UHD
+https://a1xs.vip/2000016
+
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="Sky Sports F1 UHD" tvg-logo="https://i.imgur.com/aetKPNi.png" group-title="UK Sports",Sky Sports F1 UHD
+https://a1xs.vip/2000016
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="UK Sports",Sky Sports F1 FHD
+https://a1xs.vip/2000005
+
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sports F1 FHD" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="UK Sports",Sky Sports News FHD
+https://a1xs.vip/2000004
+
+
+#EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-name="Sky Sports Cricket FHD" tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="UK Sports",Sky Sports Cricket FHD
+https://a1xs.vip/2000006
+
+
+#EXTINF:-1  tvg-name="Sky Sports Cricket UK" tvg-id="SkySpCricket.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-cricket-uk.png" group-title="SPORTS",Sky Sports Cricket UK
+https://ott.udptv.com/stream/skyuk/skysportscricket/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#EXTINF:-1  tvg-name="Sky Sports F1 UHD UK" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hd/sky-sports-f1-uhd-uk.png" group-title="SPORTS",Sky Sports F1 UHD UK
+https://ott.udptv.com/stream/skyuk/skysportsf1uhd/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#EXTINF:-1  tvg-name="Sky Sports F1 UK" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="SPORTS",Sky Sports F1 UK
+https://ott.udptv.com/stream/skyuk/skysportsf1/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+
+
+#EXTINF:-1 tvg-id="FoxLeague.au" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-502.png" group-title="AUSTRALIA",FOX Sports 502 AU
+http://127.0.0.1:7860/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW04MjAvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports503.au" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-503.png" group-title="AUSTRALIA",FOX Sports 503 AU
+http://127.0.0.1:7860/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW04MjEvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="FoxFooty.au" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-504.png" group-title="AUSTRALIA",FOX Sports 504 AU
+http://127.0.0.1:7860/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW04MjIvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports505.au" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-505.png" group-title="AUSTRALIA",FOX Sports 505 AU
+http://127.0.0.1:7860/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW04MjMvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports506.au" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-506.png" group-title="AUSTRALIA",FOX Sports 506 AU
+http://127.0.0.1:7860/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW04MjQvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="FoxCricket.au" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-cricket.png" group-title="AUSTRALIA",Fox Cricket
+http://127.0.0.1:7860/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0zNjkvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.Cricket.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-cricket-uk.png" group-title="UNITED KINGDOM",Sky Sports Cricket
+http://127.0.0.1:7860/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjUvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-f1-uk.png" group-title="UNITED KINGDOM",Sky Sports F1 UK
+http://127.0.0.1:7860/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02MC9tb25vLm0zdTg=.m3u8
