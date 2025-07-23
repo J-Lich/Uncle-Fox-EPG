@@ -1,158 +1,216 @@
 import json
-import xml.etree.ElementTree as ET
-from datetime import datetime, timedelta # Import timedelta
 import requests
+import xml.etree.ElementTree as ET
+from datetime import datetime, timedelta, timezone
+import pytz
+import time
 
-# --- Define the Icon Mapping ---
-ICON_MAP = {
-    "FOX Cricket": "https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/FOX%20Cricket.png",
-    "FOX Footy": "https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/FOX%20Footy.png",
-    "FOX League": "https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/FOX%20League.png",
-    "FOX Sports 503": "https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/FOX%20Sports%20503.png",
-    "FOX Sports 505": "https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/FOX%20Sports%20505.png",
-    "FOX Sports 506": "https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/FOX%20Sports%20506.png",
-    "FOX Sports More": "https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/FOX%20Sports%20More.png",
+# --- Configuration ---
+
+# 1. Channels Configuration:
+# Define the channels you want to include.
+# - Key (e.g., "FAF"): The channel tag from the Foxtel data source.
+# - "id_num": The numeric part of the channel ID you want in your XML file.
+# - "display_name": The full name you want to see in your EPG client.
+CHANNELS_CONFIG = {
+    "FS1": {"id_num": "501", "display_name": "FOX 501"},
+    "SP2": {"id_num": "502", "display_name": "FOX 502"},
+    "FS3": {"id_num": "503", "display_name": "FOX 503"},
+    "FAF": {"id_num": "504", "display_name": "FOX 504"},
+    "FSP": {"id_num": "505", "display_name": "FOX 505"},
+    "SPS": {"id_num": "506", "display_name": "FOX 506"},
+    "FSS": {"id_num": "507", "display_name": "FOX 507"},
+
+    # Example for adding another channel:
+    # "SKY": {"id_num": "600", "display_name": "Sky News"}
 }
-DEFAULT_ICON = "https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/FOX%20Sports.png"
-# --- End Icon Mapping ---
 
-def fetch_tv_guide_data(start_date, end_date, channel_id):
+# 2. EPG Duration:
+# Set the total number of days of EPG data to fetch.
+TOTAL_DAYS_TO_FETCH = 21
+
+# 3. Icon Mapping (for Channels):
+# The keys here must match the keys in CHANNELS_CONFIG (e.g., "FAF").
+ICON_MAP = {
+    "FAF": "https://i.imgur.com/f20p2vY.png",
+    "FSP": "https://i.imgur.com/gSPalrI.png",
+    # "SKY": "https://example.com/sky_logo.png",
+}
+DEFAULT_ICON = "https://i.imgur.com/Bf23v0P.png"
+
+# --- End Configuration ---
+
+
+def fetch_epg_data():
     """
-    Fetches TV guide data and extracts JSON using a flexible approach.
+    Fetches EPG data by first getting the grid in 6-hour chunks,
+    then fetching detailed data for each individual event.
     """
-    url = f'https://tvguide.foxsports.com.au/granite-api/programmes.json?from={start_date}&to={end_date}&channel={channel_id}&callback=handleTvGuide'
+    grid_base_url = 'https://www.foxtel.com.au/webepg/ws/foxtel/grid/events'
+    event_base_url = 'https://www.foxtel.com.au/webepg/ws/foxtel/event/'
+
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
-        'Referer': 'https://tvguide.foxsports.com.au/'
+        'Accept': 'application/json; charset=utf-8',
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15',
+        'X-Requested-With': 'XMLHttpRequest',
+        'Referer': 'https://www.foxtel.com.au/tv-guide/grid',
     }
 
-    try:
-        print(f"Fetching data from: {url}")
-        response = requests.get(url, headers=headers)
-        response.raise_for_status()
-        jsonp_text = response.text.strip()
+    now = datetime.now(timezone.utc)
+    total_duration_hours = TOTAL_DAYS_TO_FETCH * 24
+    chunk_duration_hours = 6
+    num_iterations = total_duration_hours // chunk_duration_hours
+
+    # Initialize the aggregated data structure based on the keys from the new config
+    aggregated_data = {"channelEventsByTag": {channel_tag: [] for channel_tag in CHANNELS_CONFIG.keys()}}
+    processed_event_ids = set()
+
+    print(f"Starting EPG fetch for {TOTAL_DAYS_TO_FETCH} days in {num_iterations} chunks...")
+
+    for n in range(num_iterations):
+        start_dt = now + timedelta(hours=n * chunk_duration_hours)
+        end_dt = now + timedelta(hours=(n + 1) * chunk_duration_hours)
+        start_ms = int(start_dt.timestamp() * 1000)
+        end_ms = int(end_dt.timestamp() * 1000)
+
+        grid_url = f'{grid_base_url}?startDate={start_ms}&endDate={end_ms}&regionId=20480'
+
+        print(f"\nFetching grid chunk {n + 1}/{num_iterations}...")
 
         try:
-            start_index = jsonp_text.index("{")
-            end_index = jsonp_text.rindex("}") + 1
-            json_string = jsonp_text[start_index:end_index]
-            print("Successfully extracted potential JSON. Attempting to parse...")
-            return json.loads(json_string)
+            response = requests.get(grid_url, headers=headers)
+            response.raise_for_status()
+            chunk_data = response.json()
 
-        except ValueError:
-            print("Error: Could not find '{' or '}' in the response.")
-            return None
-        except json.JSONDecodeError as e:
-            print(f"Error parsing extracted JSON: {e}")
-            return None
+            if "channelEventsByTag" in chunk_data:
+                for channel_tag, events in chunk_data["channelEventsByTag"].items():
+                    # Filter based on the keys in the new CHANNELS_CONFIG dictionary
+                    if channel_tag in CHANNELS_CONFIG:
+                        for event_summary in events:
+                            event_id = event_summary.get("eventId")
+                            if event_id and event_id not in processed_event_ids:
+                                print(f"  Fetching details for event ID: {event_id} ({event_summary.get('programTitle', '')})")
 
-    except requests.exceptions.RequestException as e:
-        print(f"Error fetching data: {e}")
-        return None
+                                event_detail_url = f"{event_base_url}{event_id}?movieHeight=213&tvShowHeight=213&regionId=20480"
+                                try:
+                                    event_response = requests.get(event_detail_url, headers=headers)
+                                    event_response.raise_for_status()
+                                    event_detail_json = event_response.json()
+
+                                    if "event" in event_detail_json:
+                                        aggregated_data["channelEventsByTag"][channel_tag].append(event_detail_json["event"])
+                                        processed_event_ids.add(event_id)
+
+                                    time.sleep(0.1)
+
+                                except requests.exceptions.RequestException as e:
+                                    print(f"    - Could not fetch details for event {event_id}. Using summary. Error: {e}")
+                                    aggregated_data["channelEventsByTag"][channel_tag].append(event_summary)
+                                    processed_event_ids.add(event_id)
+
+        except requests.exceptions.RequestException as e:
+            print(f"    Error fetching grid data for chunk {n + 1}: {e}")
+        except json.JSONDecodeError:
+            print(f"    Error decoding JSON for grid chunk {n + 1}. Skipping.")
+
+    return aggregated_data
+
 
 def convert_to_xmltv(json_data):
     """
-    Converts JSON data to an XMLTV file with dynamic icons.
+    Converts the aggregated and detailed JSON data into a standardized XMLTV format.
     """
-    if not json_data or "channel-programme" not in json_data:
-        print("Error: Invalid JSON data format.")
+    if not json_data or not json_data.get("channelEventsByTag"):
+        print("Error: No valid JSON data to convert.")
         return None
 
-    root = ET.Element("tv")
+    local_tz = pytz.timezone('Australia/Sydney')
+    root = ET.Element("tv", {"generator-info-name": "Foxtel EPG Scraper"})
 
-    channels = {}
-    for programme_data in json_data["channel-programme"]:
-        channel_name = programme_data["channelName"]
-        channel_id_num = str(programme_data["channelId"])
-        new_channel_id = channel_name.replace(" ", ".") + "." + channel_id_num
+    print("\nGenerating XMLTV file...")
+    # --- Create Channel Elements using the new CHANNELS_CONFIG ---
+    for channel_tag, channel_info in CHANNELS_CONFIG.items():
+        xml_channel_id = f"{channel_info['id_num']}.{channel_tag}"
+        channel_el = ET.SubElement(root, "channel", {"id": xml_channel_id})
+        ET.SubElement(channel_el, "display-name").text = channel_info['display_name']
+        ET.SubElement(channel_el, "icon", {"src": ICON_MAP.get(channel_tag, DEFAULT_ICON)})
 
-        if new_channel_id not in channels:
-            channels[new_channel_id] = channel_name
-            channel_el = ET.SubElement(root, "channel", {"id": new_channel_id})
-            ET.SubElement(channel_el, "display-name").text = channel_name
-            icon_url = ICON_MAP.get(channel_name, DEFAULT_ICON)
-            ET.SubElement(channel_el, "icon", {"src": icon_url})
+    # --- Create Programme Elements ---
+    for channel_tag, events in json_data["channelEventsByTag"].items():
+        print(f"  Processing {len(events)} events for channel: {channel_tag}")
 
-    for programme_data in json_data["channel-programme"]:
-        try:
-            start_dt = datetime.fromisoformat(programme_data["startTime"])
-            end_dt = datetime.fromisoformat(programme_data["endTime"])
+        # Get the config for the current channel to build the correct ID
+        channel_info = CHANNELS_CONFIG.get(channel_tag)
+        if not channel_info:
+            continue # Skip if the channel is not in our config
 
-            start_time = start_dt.strftime("%Y%m%d%H%M%S %z")
-            end_time = end_dt.strftime("%Y%m%d%H%M%S %z")
+        xml_channel_id = f"{channel_info['id_num']}.{channel_tag}"
 
-            title_parts = []
-            if programme_data.get("live"):
-                title_parts.append("LIVE:")
-            title_parts.append(programme_data.get("programmeTitle", "N/A"))
-            sub_title_text = programme_data.get("title")
-            if sub_title_text:
-                title_parts.append(sub_title_text)
-            title_parts.append(start_dt.strftime("%Y"))
-            new_title = " ".join(title_parts)
+        for event in events:
+            try:
+                start_ts = event['scheduledDate'] / 1000
+                duration_minutes = event.get('duration', 0)
 
-            prog_channel_name = programme_data["channelName"]
-            prog_channel_id_num = str(programme_data["channelId"])
-            prog_channel_id = prog_channel_name.replace(" ", ".") + "." + prog_channel_id_num
+                start_dt_utc = datetime.fromtimestamp(start_ts, tz=timezone.utc)
+                end_dt_utc = start_dt_utc + timedelta(minutes=duration_minutes)
 
-            programme_el = ET.SubElement(root, "programme", {
-                "start": start_time,
-                "stop": end_time,
-                "channel": prog_channel_id
-            })
+                start_dt_local = start_dt_utc.astimezone(local_tz)
+                end_dt_local = end_dt_utc.astimezone(local_tz)
 
-            ET.SubElement(programme_el, "title", {"lang": "en"}).text = new_title
-            ET.SubElement(programme_el, "desc", {"lang": "en"}).text = programme_data.get("synopsis", "")
-            ET.SubElement(programme_el, "date").text = start_dt.strftime("%Y")
-            icon_url = ICON_MAP.get(prog_channel_name, DEFAULT_ICON)
-            ET.SubElement(programme_el, "icon", {"src": icon_url})
-            ET.SubElement(programme_el, "category", {"lang": "en"}).text = programme_data.get("genreTitle", "")
-            if programme_data.get("parentGenreTitle"):
-                 ET.SubElement(programme_el, "category", {"lang": "en"}).text = programme_data.get("parentGenreTitle")
+                start_time_str = start_dt_local.strftime('%Y%m%d%H%M%S %z')
+                end_time_str = end_dt_local.strftime('%Y%m%d%H%M%S %z')
 
-        except Exception as e:
-            print(f"Error processing programme: {programme_data.get('id')}, Error: {e}")
-    
+                programme_el = ET.SubElement(root, "programme", {
+                    "start": start_time_str,
+                    "stop": end_time_str,
+                    "channel": xml_channel_id  # Use the correctly formatted ID
+                })
+
+                ET.SubElement(programme_el, "title", {"lang": "en"}).text = event.get('programTitle', 'No Title')
+
+                if event.get('episodeTitle'):
+                    ET.SubElement(programme_el, "sub-title", {"lang": "en"}).text = event.get('episodeTitle')
+
+                description = event.get('mergedSynopsis', event.get('shortSynopsis', ''))
+                ET.SubElement(programme_el, "desc", {"lang": "en"}).text = description
+
+                if event.get('imageUrl'):
+                    ET.SubElement(programme_el, "icon", {"src": event['imageUrl']})
+
+                s_num = event.get('seriesNumber')
+                e_num = event.get('episodeNumber')
+                if s_num and e_num:
+                    ET.SubElement(programme_el, "episode-num", {"system": "xmltv_ns"}).text = f"{int(s_num) - 1}.{int(e_num) - 1}."
+
+                rating = event.get('parentalRating')
+                if rating and rating != "NC":
+                    rating_el = ET.SubElement(programme_el, "rating")
+                    ET.SubElement(rating_el, "value").text = rating
+
+            except KeyError as e:
+                print(f"    Skipping event due to missing key: {e}")
+            except Exception as e:
+                print(f"    An unexpected error occurred while processing an event: {e}")
+
     ET.indent(root, space="  ", level=0)
     xml_string = ET.tostring(root, encoding="UTF-8", xml_declaration=True).decode('utf-8')
     return xml_string
 
 
-# --- Main part of the script ---
-# *** DYNAMIC DATES ***
-start_date_dt = datetime.now() 
-# Fetch for the next 30 days (adjust as needed)
-end_date_dt = start_date_dt + timedelta(days=30) 
+# --- Main Execution ---
+if __name__ == "__main__":
+    epg_json = fetch_epg_data()
 
-start_date = start_date_dt.strftime("%Y-%m-%d")
-end_date = end_date_dt.strftime("%Y-%m-%d")
+    if epg_json and any(epg_json["channelEventsByTag"].values()):
+        xmltv_output = convert_to_xmltv(epg_json)
 
-print(f"Running EPG update for dates: {start_date} to {end_date}")
-
-# *** Make sure this list contains all channel IDs you need ***
-channel_ids_to_fetch = [10, 13, 3, 12, 14, 2, 11] 
-
-all_programmes = []
-
-for ch_id in channel_ids_to_fetch:
-    print(f"\nFetching data for channel ID: {ch_id}")
-    tv_guide_json_single = fetch_tv_guide_data(start_date, end_date, ch_id)
-    if tv_guide_json_single and "channel-programme" in tv_guide_json_single:
-         all_programmes.extend(tv_guide_json_single["channel-programme"])
+        if xmltv_output:
+            output_filename = "guide.xml"
+            try:
+                with open(output_filename, "w", encoding="utf-8") as f:
+                    f.write(xmltv_output)
+                print(f"\n✅ XMLTV data successfully generated and saved to {output_filename}")
+            except IOError as e:
+                print(f"\n❌ Error saving file: {e}")
     else:
-        print(f"No data or error fetching for channel ID: {ch_id}")
-
-if all_programmes:
-    tv_guide_json = {"channel-programme": all_programmes}
-    xmltv_output = convert_to_xmltv(tv_guide_json)
-
-    if xmltv_output:
-        output_filename = "guide.xml" # This is the file we will commit
-        try:
-            with open(output_filename, "w", encoding="utf-8") as f:
-                f.write(xmltv_output)
-            print(f"\nXMLTV data successfully saved to {output_filename}")
-        except IOError as e:
-            print(f"Error saving file: {e}")
-else:
-    print("\nNo programme data was fetched.")
+        print("\n❌ No programme data was fetched. The XML file was not generated.")
