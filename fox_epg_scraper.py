@@ -32,11 +32,16 @@ TOTAL_DAYS_TO_FETCH = 21
 # 3. Icon Mapping (for Channels):
 # The keys here must match the keys in CHANNELS_CONFIG (e.g., "FAF").
 ICON_MAP = {
-    "FAF": "https://i.imgur.com/f20p2vY.png",
-    "FSP": "https://i.imgur.com/gSPalrI.png",
+    "FS1": "https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/FOX%20Cricket.png",
+    "FAF": "https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/FOX%20Footy.png",
+    "SP2": "https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/FOX%20League.png",
+    "FS3": "https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/FOX%20Sports%20503.png",
+    "FSP": "https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/FOX%20Sports%20505.png",
+    "SPS": "https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/FOX%20Sports%20506.png",
+    "FSS": "https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/FOX%20Sports%20More.png",
     # "SKY": "https://example.com/sky_logo.png",
 }
-DEFAULT_ICON = "https://i.imgur.com/Bf23v0P.png"
+DEFAULT_ICON = "https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/FOX%20Sports.png"
 
 # --- End Configuration ---
 
