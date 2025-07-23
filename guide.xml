@@ -28,16 +28,6 @@
     <display-name>FOX 507</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/FOX%20Sports%20More.png" />
   </channel>
-  <programme start="20250723200000 +1000" stop="20250723220000 +1000" channel="501.FS1">
-    <title lang="en">Live: Test ENG v IND: 4th Test Day 1 S1</title>
-    <sub-title lang="en">4th Test Day 1 S1</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20250723220000 +1000" stop="20250723224000 +1000" channel="501.FS1">
-    <title lang="en">Live: Lunch Break: ENG v IND Day 1</title>
-    <sub-title lang="en">ENG v IND Day 1</sub-title>
-    <desc lang="en">The game may be on a break, but don't go away. The team from England brings you exclusive continuing coverage, interviews, highlights, and much more.</desc>
-  </programme>
   <programme start="20250723224000 +1000" stop="20250724004000 +1000" channel="501.FS1">
     <title lang="en">Live: Test ENG v IND: 4th Test Day 1 S2</title>
     <sub-title lang="en">4th Test Day 1 S2</sub-title>
@@ -2117,33 +2107,10 @@
     <sub-title lang="en">Originals v Brave</sub-title>
     <desc lang="en">Originals v Brave.</desc>
   </programme>
-  <programme start="20250723200000 +1000" stop="20250723210000 +1000" channel="502.SP2">
-    <title lang="en">NRL 360</title>
-    <sub-title lang="en">Episode 66</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20250723210000 +1000" stop="20250723213000 +1000" channel="502.SP2">
-    <title lang="en">The Fan</title>
-    <sub-title lang="en">Episode 18</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20250723213000 +1000" stop="20250723223000 +1000" channel="502.SP2">
-    <title lang="en">NRL 360</title>
-    <sub-title lang="en">Episode 66</sub-title>
-    <desc lang="en">Episode 66: Braith &amp; Dan on Green Machine, Parr's Power Move, Manly's Mission &amp; Brailey Bailing? Plus Justin Hodges &amp; James Graham with memorable coach moments.</desc>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/xnewla.png?maxheight=213&amp;limit=f9f466d8fe197e21a2d9414f307621462b651191" />
-  </programme>
-  <programme start="20250723223000 +1000" stop="20250723230000 +1000" channel="502.SP2">
-    <title lang="en">The Fan</title>
-    <sub-title lang="en">Episode 18</sub-title>
-    <desc lang="en">Episode 18: On this episode; James Tedesco talks about being a veteran, NRL coaches on press conferences &amp; Vossy speaks with Brett Kimmorley.</desc>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/tx3cjg.png?maxheight=213&amp;limit=e2e98b9f67792eebd22653cd59f52ee7a8dd69b8" />
-  </programme>
   <programme start="20250723230000 +1000" stop="20250724000000 +1000" channel="502.SP2">
     <title lang="en">NRL 360</title>
     <sub-title lang="en">Episode 66</sub-title>
-    <desc lang="en">Episode 66: Braith &amp; Dan on Green Machine, Parr's Power Move, Manly's Mission &amp; Brailey Bailing? Plus Justin Hodges &amp; James Graham with memorable coach moments.</desc>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/xnewla.png?maxheight=213&amp;limit=f9f466d8fe197e21a2d9414f307621462b651191" />
+    <desc lang="en" />
   </programme>
   <programme start="20250724000000 +1000" stop="20250724003000 +1000" channel="502.SP2">
     <title lang="en">The Fan</title>
@@ -4983,27 +4950,10 @@
     <desc lang="en">Episode 72.</desc>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/xnewla.png?maxheight=213&amp;limit=f9f466d8fe197e21a2d9414f307621462b651191" />
   </programme>
-  <programme start="20250723202500 +1000" stop="20250723212000 +1000" channel="503.FS3">
-    <title lang="en">Golf: USPGA: Barracuda Championship</title>
-    <sub-title lang="en">Barracuda Championship</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20250723212000 +1000" stop="20250723214000 +1000" channel="503.FS3">
-    <title lang="en">Golf: The Open Mini</title>
-    <sub-title lang="en">Round 3</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20250723214000 +1000" stop="20250723234000 +1000" channel="503.FS3">
-    <title lang="en">Golf: The Open: Final Round</title>
-    <sub-title lang="en">Final Round</sub-title>
-    <desc lang="en">World No 1 Scottie Scheffler holds a four shot lead going into the final day. Coverage from Royal Portrush Golf Club as Scheffler looks to secure his fourth major.</desc>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/azs4jf.png?maxheight=213&amp;limit=09fe050ab9e643d67e6d1ed910aa1d82d5df44f8" />
-  </programme>
   <programme start="20250723234000 +1000" stop="20250724000500 +1000" channel="503.FS3">
     <title lang="en">Golf: The Cut</title>
     <sub-title lang="en">Episode 30</sub-title>
-    <desc lang="en">Episode 30: Making the cut in a PGA Tour event will get a little harder this season. Join us on The Cut as we bring you all the latest highlights and exclusive news.</desc>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/adid3.png?maxheight=213&amp;limit=56e72a404294017b5e2b2604b0e2b2c9560d36ab" />
+    <desc lang="en" />
   </programme>
   <programme start="20250724000500 +1000" stop="20250724010000 +1000" channel="503.FS3">
     <title lang="en">Golf: USPGA: Barracuda Championship</title>
@@ -6297,39 +6247,10 @@
     <title lang="en">Golf: USPGA Mini</title>
     <desc lang="en">Golf: USPGA Mini</desc>
   </programme>
-  <programme start="20250723200000 +1000" stop="20250723210000 +1000" channel="504.FAF">
-    <title lang="en">AFL 360</title>
-    <sub-title lang="en">Episode 64</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20250723210000 +1000" stop="20250723213000 +1000" channel="504.FAF">
-    <title lang="en">First Crack Preview</title>
-    <sub-title lang="en">Episode 20</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20250723213000 +1000" stop="20250723223000 +1000" channel="504.FAF">
-    <title lang="en">AFL 360</title>
-    <sub-title lang="en">Episode 64</sub-title>
-    <desc lang="en">Episode 64: Gerard and Garry preview a massive Round 20, along with premiership coaches Simon Goodwin, John Longmire and Adam Simpson.</desc>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/r8hfxc.png?maxheight=213&amp;limit=c949b2cbcd7ee91bb2a3c9e743d476e428f707d7" />
-  </programme>
-  <programme start="20250723223000 +1000" stop="20250723230000 +1000" channel="504.FAF">
-    <title lang="en">First Crack Preview</title>
-    <sub-title lang="en">Episode 20</sub-title>
-    <desc lang="en">Episode 20: Jay Clark, David King and Leigh Montagna preview a monster weekend of Footy.</desc>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/sx61fk.png?maxheight=213&amp;limit=224c4b09855951233ef5b6e5297a5f0d943ff54c" />
-  </programme>
-  <programme start="20250723230000 +1000" stop="20250723230500 +1000" channel="504.FAF">
-    <title lang="en">Foxcatcher AFL Preview</title>
-    <sub-title lang="en">Episode 41</sub-title>
-    <desc lang="en">Episode 41: The Pointsbet betting show featuring Jules Vallance and Bernie Vince provides you with all the betting insights you need to heading into the new weekend of footy.</desc>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/aqxx9d.png?maxheight=213&amp;limit=583aa4a4ee5bdae828ecdfd144d0743db047e28d" />
-  </programme>
   <programme start="20250723230500 +1000" stop="20250724000500 +1000" channel="504.FAF">
     <title lang="en">AFL 360</title>
     <sub-title lang="en">Episode 64</sub-title>
-    <desc lang="en">Episode 64: Gerard and Garry preview a massive Round 20, along with premiership coaches Simon Goodwin, John Longmire and Adam Simpson.</desc>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/r8hfxc.png?maxheight=213&amp;limit=c949b2cbcd7ee91bb2a3c9e743d476e428f707d7" />
+    <desc lang="en" />
   </programme>
   <programme start="20250724000500 +1000" stop="20250724003500 +1000" channel="504.FAF">
     <title lang="en">First Crack Preview</title>
@@ -8544,11 +8465,6 @@
     <desc lang="en">Episode 70: Gerard Whateley and Garry Lyon discuss the latest AFL news as they are joined by special guests to breakdown what's going on in the footy world.</desc>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/r8hfxc.png?maxheight=213&amp;limit=c949b2cbcd7ee91bb2a3c9e743d476e428f707d7" />
   </programme>
-  <programme start="20250723190000 +1000" stop="20250723210000 +1000" channel="505.FSP">
-    <title lang="en">World Matchplay Darts: Day 4</title>
-    <sub-title lang="en">Day 4</sub-title>
-    <desc lang="en" />
-  </programme>
   <programme start="20250723210000 +1000" stop="20250724010000 +1000" channel="505.FSP">
     <title lang="en">Live: Championship League of Snooker</title>
     <sub-title lang="en">Final Day Day Session</sub-title>
@@ -9879,22 +9795,10 @@
     <desc lang="en">FR.</desc>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8ja9i.png?maxheight=213&amp;limit=10e1c34b2372db7b9cdb2cda023412b683de087c" />
   </programme>
-  <programme start="20250723203000 +1000" stop="20250723213000 +1000" channel="506.SPS">
-    <title lang="en">Rodeo: Pro Bull Riders Australia</title>
-    <sub-title lang="en">Episode 9</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20250723213000 +1000" stop="20250723233000 +1000" channel="506.SPS">
-    <title lang="en">World Matchplay Darts: Day 4</title>
-    <sub-title lang="en">Day 4</sub-title>
-    <desc lang="en">With reigning champ Luke Humphries eliminated, young superstar Luke Littler looks to add another title to his bow at Winter Gardens.</desc>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/b824uu.png?maxheight=213&amp;limit=54a8caa444777d90abb52b6383c46119d653adc1" />
-  </programme>
   <programme start="20250723233000 +1000" stop="20250724000000 +1000" channel="506.SPS">
     <title lang="en">Motorsport: Le Tour Auto</title>
     <sub-title lang="en">Le Tour Auto</sub-title>
-    <desc lang="en">The Tour Auto is the oldest motor racing event still in operation. The legendary road rally pays homage to good old vintage cars where competitors tackle a route of about 2,000km on some of the most beautiful roads in France.</desc>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/17/placeholder-16x9-beam.png?maxheight=213&amp;limit=b106f50a28388844395afd87e0d3a2d7883f4460" />
+    <desc lang="en" />
   </programme>
   <programme start="20250724000000 +1000" stop="20250724020000 +1000" channel="506.SPS">
     <title lang="en">World Cup of Darts: FD NS</title>
@@ -11661,7 +11565,6 @@
     <title lang="en">Motorsport: The Valentino Rossi Story</title>
     <sub-title lang="en">The Valentino Rossi Story</sub-title>
     <desc lang="en">Follow legendary 9-time motorcycle world champion Valentino Rossi's transition to 4 wheels and his rapid learning for endurance car racing.</desc>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/2xtw0y.png?maxheight=213&amp;limit=a888b11a5346ba073155c1f086b0d2d91769eb7b" />
   </programme>
   <programme start="20250806080000 +1000" stop="20250806083000 +1000" channel="506.SPS">
     <title lang="en">Supercars: The Formation Lap: Episode 7</title>
