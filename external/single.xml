@@ -7076,6 +7076,774 @@
     <category lang="en">Racing</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
+  <channel id="Hub.Premier.1.sg">
+    <display-name lang="en">Hub Premier 1</display-name>
+    <url>http://www.singteltv.com.sg</url>
+  </channel>
+  <channel id="Hub.Premier.2.sg">
+    <display-name lang="en">Hub Premier 2</display-name>
+    <url>http://www.singteltv.com.sg</url>
+  </channel>
+  <channel id="Hub.Premier.3.sg">
+    <display-name lang="en">Hub Premier 3</display-name>
+    <url>http://www.singteltv.com.sg</url>
+  </channel>
+  <channel id="Hub.Premier.4.sg">
+    <display-name lang="en">Hub Premier 4</display-name>
+    <url>http://www.singteltv.com.sg</url>
+  </channel>
+  <programme start="20250723000000 +0800" stop="20250723003000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">Classic Match</title>
+    <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2015/2016 season.</desc>
+  </programme>
+  <programme start="20250723003000 +0800" stop="20250723010000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW30 Liverpool v Everton</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20250723010000 +0800" stop="20250723020000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL BEST OF... PREMIER LEAGUE DUTCH MASTERS</title>
+    <desc lang="en">A high-energy hour showcasing legendary Dutch footballers, including Ruud Gullit, Edwin van der Sar, George Boateng, Mario Melchiot, Jaap Stam and more.</desc>
+  </programme>
+  <programme start="20250723020000 +0800" stop="20250723023000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We look back on the extraordinary career of Mohamed Salah, tracing his rise from a small village in Egypt to global football stardom. We speak to those closest to him to highlight his early years, struggles, and determination, shedding light on the pivotal moments that shaped his journey to becoming a Premier League legend with Liverpool.</desc>
+  </programme>
+  <programme start="20250723023000 +0800" stop="20250723033000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">REVIEW - THU 03 APR</title>
+    <desc lang="en">Highlights of every Matchweek 30 fixture, featuring two blockbuster derbies; the Merseyside clash between Liverpool and Everton, and the midweek finale as Chelsea face Spurs in a London showdown.</desc>
+  </programme>
+  <programme start="20250723033000 +0800" stop="20250723040000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">Classic Match</title>
+    <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2015/2016 season.</desc>
+  </programme>
+  <programme start="20250723040000 +0800" stop="20250723043000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW30 Chelsea v Tottenham Hotspur</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20250723043000 +0800" stop="20250723050000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW30 Liverpool v Everton</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20250723050000 +0800" stop="20250723053000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">Classic Match</title>
+    <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2015/2016 season.</desc>
+  </programme>
+  <programme start="20250723053000 +0800" stop="20250723060000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">From his early days in Finland to lifting the Champions League trophy in 2005, we chart Sami Hyypiä's journey to the top of English football. We join him for a snowmobiling adventure across the icy wilderness of Finland and though interviews and personal moments, showcase not only his leadership and skill on the pitch but also his deep connection to his roots.</desc>
+  </programme>
+  <programme start="20250723060000 +0800" stop="20250723063000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">Lauded as one of the greatest footballers of his generation, Ruud Gullit's venture into management brought about mixed fortunes, including a well-publicised fallout with Ex-Newcastle striker Alan Shearer. Here Gullit and Shearer lift the lid on what really went on behind the scenes at the club and how a huge gamble by the Dutchman backfired in spectacular fashion.</desc>
+  </programme>
+  <programme start="20250723063000 +0800" stop="20250723073000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL BEST OF... PREMIER LEAGUE DUTCH MASTERS</title>
+    <desc lang="en">A high-energy hour showcasing legendary Dutch footballers, including Ruud Gullit, Edwin van der Sar, George Boateng, Mario Melchiot, Jaap Stam and more.</desc>
+  </programme>
+  <programme start="20250723073000 +0800" stop="20250723080000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW30 Chelsea v Tottenham Hotspur</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20250723080000 +0800" stop="20250723083000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">Classic Match</title>
+    <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2015/2016 season.</desc>
+  </programme>
+  <programme start="20250723083000 +0800" stop="20250723090000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL RAW: STORY OF THE SEASON 24/25</title>
+    <desc lang="en">Look back on another incredible Premier League season through the lens of PL RAW, featuring all the biggest and best moments from the 24/25 campaign.</desc>
+  </programme>
+  <programme start="20250723090000 +0800" stop="20250723093000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW31 Fulham v Liverpool</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20250723093000 +0800" stop="20250723103000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL MOMENTS</title>
+    <desc lang="en">Liverpool icon Robbie Fowler talks us through the standout moments from his glittering Premier League career.</desc>
+  </programme>
+  <programme start="20250723103000 +0800" stop="20250723110000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">THE BIG INTERVIEW</title>
+    <desc lang="en">With the remnants of the celebratory confetti barely gone from the Anfield pitch, Curtis Jones joins the Big Interview to reflect on an historic title-winning season. Having signed for his beloved team at just 9 years of age, the Liverpool born and bred midfielder explains just how much the title triumph means to him and sheds light on the impact of Arne Slot and the differences in approach of his new manager compared to Jurgen Klopp.</desc>
+  </programme>
+  <programme start="20250723110000 +0800" stop="20250723120000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">REVIEW - MON 07 APR</title>
+    <desc lang="en">Highlights of every Matchweek 31 fixture, featuring Saturday's late kick-off with Aston Villa taking on the in-form Nottingham Forest, then the Manchester derby as United host City at Old Trafford.</desc>
+  </programme>
+  <programme start="20250723120000 +0800" stop="20250723123000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW31 Manchester United v Manchester City</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20250723123000 +0800" stop="20250723130000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW31 Fulham v Liverpool</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20250723130000 +0800" stop="20250723133000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">Lauded as one of the greatest footballers of his generation, Ruud Gullit's venture into management brought about mixed fortunes, including a well-publicised fallout with Ex-Newcastle striker Alan Shearer. Here Gullit and Shearer lift the lid on what really went on behind the scenes at the club and how a huge gamble by the Dutchman backfired in spectacular fashion.</desc>
+  </programme>
+  <programme start="20250723133000 +0800" stop="20250723143000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL BEST OF... PREMIER LEAGUE DUTCH MASTERS</title>
+    <desc lang="en">A high-energy hour showcasing legendary Dutch footballers, including Ruud Gullit, Edwin van der Sar, George Boateng, Mario Melchiot, Jaap Stam and more.</desc>
+  </programme>
+  <programme start="20250723143000 +0800" stop="20250723153000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">REVIEW OF THE SEASON - 2024/2025 (LIV)</title>
+    <desc lang="en">Relive another extraordinary Premier League campaign as Liverpool soared to an historic 20th league title, Nottingham Forest defied expectations and the promoted sides were strenuously challenged. There were also tactical transformations, shifts in narrative trends, and a more open field than ever before. Review of the Season documents all of the thrilling stories to emerge across the 380 matches.</desc>
+  </programme>
+  <programme start="20250723153000 +0800" stop="20250723160000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">UNDER THE SKIN: NOTTINGHAM FOREST</title>
+    <desc lang="en">This documentary celebrates the incredible, rollercoaster ride of Nottingham Forest Showcasing the club's fans, culture and traditions, we see how Forest's return to European football was achieved by reconnecting with the legacy of Brian Clough.</desc>
+  </programme>
+  <programme start="20250723160000 +0800" stop="20250723170000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">REVIEW - MON 07 APR</title>
+    <desc lang="en">Highlights of every Matchweek 31 fixture, featuring Saturday's late kick-off with Aston Villa taking on the in-form Nottingham Forest, then the Manchester derby as United host City at Old Trafford.</desc>
+  </programme>
+  <programme start="20250723170000 +0800" stop="20250723173000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW31 Manchester United v Manchester City</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20250723173000 +0800" stop="20250723180000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW31 Fulham v Liverpool</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20250723180000 +0800" stop="20250723183000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">THE BIG INTERVIEW</title>
+    <desc lang="en">With the remnants of the celebratory confetti barely gone from the Anfield pitch, Curtis Jones joins the Big Interview to reflect on an historic title-winning season. Having signed for his beloved team at just 9 years of age, the Liverpool born and bred midfielder explains just how much the title triumph means to him and sheds light on the impact of Arne Slot and the differences in approach of his new manager compared to Jurgen Klopp.</desc>
+  </programme>
+  <programme start="20250723183000 +0800" stop="20250723190000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">From his humble beginnings at Queen's Park in Scotland to becoming a key player for Liverpool, Andy Robertson's rise is a tale of resilience, hard work, and determination. We delve in to his early struggles, his breakthrough at Hull City, and his crucial role in Liverpool's historic Premier League and Champions League triumphs.</desc>
+  </programme>
+  <programme start="20250723190000 +0800" stop="20250723200000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL BEST OF... PREMIER LEAGUE DUTCH MASTERS</title>
+    <desc lang="en">A high-energy hour showcasing legendary Dutch footballers, including Ruud Gullit, Edwin van der Sar, George Boateng, Mario Melchiot, Jaap Stam and more.</desc>
+  </programme>
+  <programme start="20250723200000 +0800" stop="20250723203000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">Lauded as one of the greatest footballers of his generation, Ruud Gullit's venture into management brought about mixed fortunes, including a well-publicised fallout with Ex-Newcastle striker Alan Shearer. Here Gullit and Shearer lift the lid on what really went on behind the scenes at the club and how a huge gamble by the Dutchman backfired in spectacular fashion.</desc>
+  </programme>
+  <programme start="20250723203000 +0800" stop="20250723210000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We catch up with Juan Mata in Australia, where the former Premier League star is now playing with Western Sydney Wanderers.  The Spaniard reflects on his memorable years in England with Chelsea and Manchester United, sharing insights into his greatest moments, personal growth, and connection with fans. As he begins a new chapter down under, he also opens up about life after the Premier League and what lies ahead both on and off the pitch.</desc>
+  </programme>
+  <programme start="20250723210000 +0800" stop="20250723213000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW31 Manchester United v Manchester City</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20250723213000 +0800" stop="20250723223000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">REVIEW - MON 07 APR</title>
+    <desc lang="en">Highlights of every Matchweek 31 fixture, featuring Saturday's late kick-off with Aston Villa taking on the in-form Nottingham Forest, then the Manchester derby as United host City at Old Trafford.</desc>
+  </programme>
+  <programme start="20250723223000 +0800" stop="20250723223000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">Classic Match</title>
+    <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2010/2011 season.</desc>
+  </programme>
+  <programme start="20250723223000 +0800" stop="20250724003000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">Classic Match</title>
+    <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2010/2011 season.</desc>
+  </programme>
+  <programme start="20250724003000 +0800" stop="20250724010000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW31 Fulham v Liverpool</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20250724010000 +0800" stop="20250724013000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We celebrate the unique legacy of footballing dynasties in the Premier League; where talent, passion, and pride are passed from one generation to the next. From the iconic saves of Peter Schmeichel to the rise of his son Kasper, the goal-scoring legacy of Ian Wright carried on by son's Shaun and Bradley, and the Lampards' deep-rooted Chelsea connection, this episode explores the bonds that tie football families together.</desc>
+  </programme>
+  <programme start="20250724013000 +0800" stop="20250724020000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">Lauded as one of the greatest footballers of his generation, Ruud Gullit's venture into management brought about mixed fortunes, including a well-publicised fallout with Ex-Newcastle striker Alan Shearer. Here Gullit and Shearer lift the lid on what really went on behind the scenes at the club and how a huge gamble by the Dutchman backfired in spectacular fashion.</desc>
+  </programme>
+  <programme start="20250724020000 +0800" stop="20250724030000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL BEST OF... PREMIER LEAGUE DUTCH MASTERS</title>
+    <desc lang="en">A high-energy hour showcasing legendary Dutch footballers, including Ruud Gullit, Edwin van der Sar, George Boateng, Mario Melchiot, Jaap Stam and more.</desc>
+  </programme>
+  <programme start="20250724030000 +0800" stop="20250724033000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL 100: ROBIN VAN PERSIE</title>
+    <desc lang="en">Premier League 100, celebrates some of the leading names to have achieved iconic milestones within England's top flight. From scoring over 100 goals, to making over 100 clean sheets, we speak to the legends that left their mark and reflect on the goals and saves that set them apart from their rivals.</desc>
+  </programme>
+  <programme start="20250724033000 +0800" stop="20250724040000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We catch up with Juan Mata in Australia, where the former Premier League star is now playing with Western Sydney Wanderers.  The Spaniard reflects on his memorable years in England with Chelsea and Manchester United, sharing insights into his greatest moments, personal growth, and connection with fans. As he begins a new chapter down under, he also opens up about life after the Premier League and what lies ahead both on and off the pitch.</desc>
+  </programme>
+  <programme start="20250724040000 +0800" stop="20250724043000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW31 Manchester United v Manchester City</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20250724043000 +0800" stop="20250724050000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW31 Fulham v Liverpool</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20250724050000 +0800" stop="20250724060000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">REVIEW - MON 07 APR</title>
+    <desc lang="en">Highlights of every Matchweek 31 fixture, featuring Saturday's late kick-off with Aston Villa taking on the in-form Nottingham Forest, then the Manchester derby as United host City at Old Trafford.</desc>
+  </programme>
+  <programme start="20250724060000 +0800" stop="20250724063000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We celebrate the unique legacy of footballing dynasties in the Premier League; where talent, passion, and pride are passed from one generation to the next. From the iconic saves of Peter Schmeichel to the rise of his son Kasper, the goal-scoring legacy of Ian Wright carried on by son's Shaun and Bradley, and the Lampards' deep-rooted Chelsea connection, this episode explores the bonds that tie football families together.</desc>
+  </programme>
+  <programme start="20250724063000 +0800" stop="20250724073000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL MOMENTS</title>
+    <desc lang="en">Yaya Toure reflects on the defining moments of his illustrious Premier League career, counting down his top ten moments. An African icon and Ivory Coast legend, Toure's journey is filled with pivotal performances and unforgettable milestones that showcase his immense impact on the Premier League and cement his legacy as one of football's greatest midfielders.</desc>
+  </programme>
+  <programme start="20250724073000 +0800" stop="20250724080000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW31 Manchester United v Manchester City</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20250724080000 +0800" stop="20250724083000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We chart the rise of Portuguese star Rúben Dias, from his early days in Portugal to the heart of Manchester City's defence. We meet the family, friends, and coaches who shaped his journey, offering a rare glimpse into the upbringing and mindset that forged a Premier League leader. Then, in Manchester, Rúben reflects on his career so far, his impact at City, and the values that continue to drive him on.</desc>
+  </programme>
+  <programme start="20250724083000 +0800" stop="20250724090000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">Classic Match</title>
+    <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2018/2019 season.</desc>
+  </programme>
+  <programme start="20250724090000 +0800" stop="20250724093000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW32 Manchester City v Crystal Palace</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20250724093000 +0800" stop="20250724100000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL RAW: STORY OF THE SEASON 24/25</title>
+    <desc lang="en">Look back on another incredible Premier League season through the lens of PL RAW, featuring all the biggest and best moments from the 24/25 campaign.</desc>
+  </programme>
+  <programme start="20250724100000 +0800" stop="20250724103000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We celebrate the unique legacy of footballing dynasties in the Premier League; where talent, passion, and pride are passed from one generation to the next. From the iconic saves of Peter Schmeichel to the rise of his son Kasper, the goal-scoring legacy of Ian Wright carried on by son's Shaun and Bradley, and the Lampards' deep-rooted Chelsea connection, this episode explores the bonds that tie football families together.</desc>
+  </programme>
+  <programme start="20250724103000 +0800" stop="20250724110000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">Lauded as one of the greatest footballers of his generation, Ruud Gullit's venture into management brought about mixed fortunes, including a well-publicised fallout with Ex-Newcastle striker Alan Shearer. Here Gullit and Shearer lift the lid on what really went on behind the scenes at the club and how a huge gamble by the Dutchman backfired in spectacular fashion.</desc>
+  </programme>
+  <programme start="20250724110000 +0800" stop="20250724120000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL BEST OF... PREMIER LEAGUE DUTCH MASTERS</title>
+    <desc lang="en">A high-energy hour showcasing legendary Dutch footballers, including Ruud Gullit, Edwin van der Sar, George Boateng, Mario Melchiot, Jaap Stam and more.</desc>
+  </programme>
+  <programme start="20250724120000 +0800" stop="20250724123000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW32 Wolverhampton Wanderers v Tottenham Hotspur</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20250724123000 +0800" stop="20250724130000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW32 Manchester City v Crystal Palace</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20250724130000 +0800" stop="20250724140000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">REVIEW - MON 14 APR</title>
+    <desc lang="en">Highlights of every Matchweek 32 fixture including the weekend opener of Crystal Palace at Manchester City, Arsenal take on Brentford at the Emirates, and then Monday's clash between Bournemouth and Fulham.</desc>
+  </programme>
+  <programme start="20250724140000 +0800" stop="20250724150000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">GOALS OF THE SEASON - 2024/2025 (GB: SALAH)</title>
+    <desc lang="en">From free-kicks to solo runs, scissor kicks to 30-yard screamers, Goals of the Season revisits some of the most memorable strikes from the 24/25 campaign, whilst paying homage to the Golden Boot winner.</desc>
+  </programme>
+  <programme start="20250724150000 +0800" stop="20250724153000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We celebrate the unique legacy of footballing dynasties in the Premier League; where talent, passion, and pride are passed from one generation to the next. From the iconic saves of Peter Schmeichel to the rise of his son Kasper, the goal-scoring legacy of Ian Wright carried on by son's Shaun and Bradley, and the Lampards' deep-rooted Chelsea connection, this episode explores the bonds that tie football families together.</desc>
+  </programme>
+  <programme start="20250724153000 +0800" stop="20250724163000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL MOMENTS</title>
+    <desc lang="en">Yaya Toure reflects on the defining moments of his illustrious Premier League career, counting down his top ten moments. An African icon and Ivory Coast legend, Toure's journey is filled with pivotal performances and unforgettable milestones that showcase his immense impact on the Premier League and cement his legacy as one of football's greatest midfielders.</desc>
+  </programme>
+  <programme start="20250724163000 +0800" stop="20250724170000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">Classic Match</title>
+    <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2010/2011 season.</desc>
+  </programme>
+  <programme start="20250724170000 +0800" stop="20250724173000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW32 Wolverhampton Wanderers v Tottenham Hotspur</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20250724173000 +0800" stop="20250724180000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW32 Manchester City v Crystal Palace</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20250724180000 +0800" stop="20250724190000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">REVIEW - MON 14 APR</title>
+    <desc lang="en">Highlights of every Matchweek 32 fixture including the weekend opener of Crystal Palace at Manchester City, Arsenal take on Brentford at the Emirates, and then Monday's clash between Bournemouth and Fulham.</desc>
+  </programme>
+  <programme start="20250724190000 +0800" stop="20250724200000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">REVIEW OF THE SEASON - 2024/2025 (LIV)</title>
+    <desc lang="en">Relive another extraordinary Premier League campaign as Liverpool soared to an historic 20th league title, Nottingham Forest defied expectations and the promoted sides were strenuously challenged. There were also tactical transformations, shifts in narrative trends, and a more open field than ever before. Review of the Season documents all of the thrilling stories to emerge across the 380 matches.</desc>
+  </programme>
+  <programme start="20250724200000 +0800" stop="20250724203000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We celebrate the unique legacy of footballing dynasties in the Premier League; where talent, passion, and pride are passed from one generation to the next. From the iconic saves of Peter Schmeichel to the rise of his son Kasper, the goal-scoring legacy of Ian Wright carried on by son's Shaun and Bradley, and the Lampards' deep-rooted Chelsea connection, this episode explores the bonds that tie football families together.</desc>
+  </programme>
+  <programme start="20250724203000 +0800" stop="20250724210000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL REWIND</title>
+    <desc lang="en">In 2023/24, Wolves completed a Premier League double over Tottenham Hotspur - including a breathtaking comeback victory at Molineux. Gary O'Neil, Mario Lemina and Tommy Doyle relive the key moments from their Spurs double salvo.</desc>
+  </programme>
+  <programme start="20250724210000 +0800" stop="20250724213000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW32 Wolverhampton Wanderers v Tottenham Hotspur</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20250724213000 +0800" stop="20250724223000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">GOALS OF THE SEASON - 2024/2025 (GB: SALAH)</title>
+    <desc lang="en">From free-kicks to solo runs, scissor kicks to 30-yard screamers, Goals of the Season revisits some of the most memorable strikes from the 24/25 campaign, whilst paying homage to the Golden Boot winner.</desc>
+  </programme>
+  <programme start="20250724223000 +0800" stop="20250724233000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">REVIEW - MON 14 APR</title>
+    <desc lang="en">Highlights of every Matchweek 32 fixture including the weekend opener of Crystal Palace at Manchester City, Arsenal take on Brentford at the Emirates, and then Monday's clash between Bournemouth and Fulham.</desc>
+  </programme>
+  <programme start="20250724233000 +0800" stop="20250725000000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL RAW: STORY OF THE SEASON 24/25</title>
+    <desc lang="en">Look back on another incredible Premier League season through the lens of PL RAW, featuring all the biggest and best moments from the 24/25 campaign.</desc>
+  </programme>
+  <programme start="20250725000000 +0800" stop="20250725003000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We chart the rise of Portuguese star Rúben Dias, from his early days in Portugal to the heart of Manchester City's defence. We meet the family, friends, and coaches who shaped his journey, offering a rare glimpse into the upbringing and mindset that forged a Premier League leader. Then, in Manchester, Rúben reflects on his career so far, his impact at City, and the values that continue to drive him on.</desc>
+  </programme>
+  <programme start="20250725003000 +0800" stop="20250725010000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW32 Manchester City v Crystal Palace</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20250725010000 +0800" stop="20250725013000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">Classic Match</title>
+    <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2018/2019 season.</desc>
+  </programme>
+  <programme start="20250725013000 +0800" stop="20250725020000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL REWIND</title>
+    <desc lang="en">Manchester City v QPR on the final day of the 2011/12 season will forever be remembered as the most dramatic of finales to a Premier League season. Shaun Wright-Phillips and Joleon Lescott offer the perspective from both sides, with the final day drama at the Etihad set in the context of Manchester City's Run-In and their pursuit of a first Premier League Title.</desc>
+  </programme>
+  <programme start="20250725020000 +0800" stop="20250725023000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We celebrate the unique legacy of footballing dynasties in the Premier League; where talent, passion, and pride are passed from one generation to the next. From the iconic saves of Peter Schmeichel to the rise of his son Kasper, the goal-scoring legacy of Ian Wright carried on by son's Shaun and Bradley, and the Lampards' deep-rooted Chelsea connection, this episode explores the bonds that tie football families together.</desc>
+  </programme>
+  <programme start="20250725023000 +0800" stop="20250725030000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">Lauded as one of the greatest footballers of his generation, Ruud Gullit's venture into management brought about mixed fortunes, including a well-publicised fallout with Ex-Newcastle striker Alan Shearer. Here Gullit and Shearer lift the lid on what really went on behind the scenes at the club and how a huge gamble by the Dutchman backfired in spectacular fashion.</desc>
+  </programme>
+  <programme start="20250725030000 +0800" stop="20250725040000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL BEST OF... PREMIER LEAGUE DUTCH MASTERS</title>
+    <desc lang="en">A high-energy hour showcasing legendary Dutch footballers, including Ruud Gullit, Edwin van der Sar, George Boateng, Mario Melchiot, Jaap Stam and more.</desc>
+  </programme>
+  <programme start="20250725040000 +0800" stop="20250725043000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW32 Wolverhampton Wanderers v Tottenham Hotspur</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20250725043000 +0800" stop="20250725050000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW32 Manchester City v Crystal Palace</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20250725050000 +0800" stop="20250725060000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">REVIEW - MON 14 APR</title>
+    <desc lang="en">Highlights of every Matchweek 32 fixture including the weekend opener of Crystal Palace at Manchester City, Arsenal take on Brentford at the Emirates, and then Monday's clash between Bournemouth and Fulham.</desc>
+  </programme>
+  <programme start="20250725060000 +0800" stop="20250725070000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">1-TO-11</title>
+    <desc lang="en">Aaron Lennon joins Will Perry on 1-to-11 to select his all-time best eleven teammates. They dig into his career, recalling standout players and memorable moments.</desc>
+  </programme>
+  <programme start="20250725070000 +0800" stop="20250725073000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">Classic Match</title>
+    <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2010/2011 season.</desc>
+  </programme>
+  <programme start="20250725073000 +0800" stop="20250725080000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW32 Wolverhampton Wanderers v Tottenham Hotspur</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20250725080000 +0800" stop="20250725090000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL BEST OF... PREMIER LEAGUE DUTCH MASTERS</title>
+    <desc lang="en">A high-energy hour showcasing legendary Dutch footballers, including Ruud Gullit, Edwin van der Sar, George Boateng, Mario Melchiot, Jaap Stam and more.</desc>
+  </programme>
+  <programme start="20250725090000 +0800" stop="20250725093000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We celebrate the unique legacy of footballing dynasties in the Premier League; where talent, passion, and pride are passed from one generation to the next. From the iconic saves of Peter Schmeichel to the rise of his son Kasper, the goal-scoring legacy of Ian Wright carried on by son's Shaun and Bradley, and the Lampards' deep-rooted Chelsea connection, this episode explores the bonds that tie football families together.</desc>
+  </programme>
+  <programme start="20250725093000 +0800" stop="20250725100000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">As the curtain comes down on Everton's time at Goodison Park, PL Stories takes a poignant look back at one of English football's most iconic grounds. For over 130 years, Goodison has been more than just a stadium; it's been a home, a fortress, and the stage for countless moments of triumph, heartbreak, and unforgettable drama.</desc>
+  </programme>
+  <programme start="20250725100000 +0800" stop="20250725120000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">REVIEW OF THE SEASON - 2024/2025 (LIV)</title>
+    <desc lang="en">Relive another extraordinary Premier League campaign as Liverpool soared to an historic 20th league title, Nottingham Forest defied expectations and the promoted sides were strenuously challenged. There were also tactical transformations, shifts in narrative trends, and a more open field than ever before. Review of the Season documents all of the thrilling stories to emerge across the 380 matches.</desc>
+  </programme>
+  <programme start="20250725120000 +0800" stop="20250725130000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">GOALS OF THE SEASON - 2024/2025 (GB: SALAH)</title>
+    <desc lang="en">From free-kicks to solo runs, scissor kicks to 30-yard screamers, Goals of the Season revisits some of the most memorable strikes from the 24/25 campaign, whilst paying homage to the Golden Boot winner.</desc>
+  </programme>
+  <programme start="20250725130000 +0800" stop="20250725133000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We sit down with Bruno Guimarães to trace his remarkable journey from the streets of Brazil to Premier League stardom with Newcastle United. Travelling back to South America, we meet the family, friends, and coaches who shaped his early years and believed in his dream. Bruno opens up about the sacrifices, setbacks, and defining moments that fuelled his rise, offering a heartfelt look at the person behind the player.</desc>
+  </programme>
+  <programme start="20250725133000 +0800" stop="20250725140000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We celebrate the unique legacy of footballing dynasties in the Premier League; where talent, passion, and pride are passed from one generation to the next. From the iconic saves of Peter Schmeichel to the rise of his son Kasper, the goal-scoring legacy of Ian Wright carried on by son's Shaun and Bradley, and the Lampards' deep-rooted Chelsea connection, this episode explores the bonds that tie football families together.</desc>
+  </programme>
+  <programme start="20250725140000 +0800" stop="20250725150000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL BEST OF... PREMIER LEAGUE DUTCH MASTERS</title>
+    <desc lang="en">A high-energy hour showcasing legendary Dutch footballers, including Ruud Gullit, Edwin van der Sar, George Boateng, Mario Melchiot, Jaap Stam and more.</desc>
+  </programme>
+  <programme start="20250725150000 +0800" stop="20250725153000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL 100: ROBIN VAN PERSIE</title>
+    <desc lang="en">Premier League 100, celebrates some of the leading names to have achieved iconic milestones within England's top flight. From scoring over 100 goals, to making over 100 clean sheets, we speak to the legends that left their mark and reflect on the goals and saves that set them apart from their rivals.</desc>
+  </programme>
+  <programme start="20250725153000 +0800" stop="20250725160000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW32 Wolverhampton Wanderers v Tottenham Hotspur</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20250725160000 +0800" stop="20250725163000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW32 Manchester City v Crystal Palace</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20250725163000 +0800" stop="20250725170000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We chart the rise of Portuguese star Rúben Dias, from his early days in Portugal to the heart of Manchester City's defence. We meet the family, friends, and coaches who shaped his journey, offering a rare glimpse into the upbringing and mindset that forged a Premier League leader. Then, in Manchester, Rúben reflects on his career so far, his impact at City, and the values that continue to drive him on.</desc>
+  </programme>
+  <programme start="20250725170000 +0800" stop="20250725180000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">REVIEW - MON 14 APR</title>
+    <desc lang="en">Highlights of every Matchweek 32 fixture including the weekend opener of Crystal Palace at Manchester City, Arsenal take on Brentford at the Emirates, and then Monday's clash between Bournemouth and Fulham.</desc>
+  </programme>
+  <programme start="20250725180000 +0800" stop="20250725183000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We sit down with Claude Makelele to reflect on the career of a true midfield master. Celebrated for redefining the defensive midfield role, Makelele shares his memories of life in the Premier League, from joining Chelsea during a transformative era to becoming the heartbeat of a title-winning side. With insight from teammates, coaches, and opponents, we explore the intelligence, discipline, and influence that made his name synonymous with the position he perfected.</desc>
+  </programme>
+  <programme start="20250725183000 +0800" stop="20250725190000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We celebrate the unique legacy of footballing dynasties in the Premier League; where talent, passion, and pride are passed from one generation to the next. From the iconic saves of Peter Schmeichel to the rise of his son Kasper, the goal-scoring legacy of Ian Wright carried on by son's Shaun and Bradley, and the Lampards' deep-rooted Chelsea connection, this episode explores the bonds that tie football families together.</desc>
+  </programme>
+  <programme start="20250725190000 +0800" stop="20250725200000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">WELCOME TO THE WEEKEND: Best Of Welcome To The Weekend #2</title>
+    <desc lang="en">Welcome to the Weekend head to the Midlands in this episode of the best from the 2024/25 season as JJ, Olivia and Andrew are pitchside at the King Power Stadium. Ayo gets unrivalled access at Anfield while Afrobeats star Joeboy joins the team on the sofa.</desc>
+  </programme>
+  <programme start="20250725200000 +0800" stop="20250725210000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">WELCOME TO THE WEEKEND: Best Of Welcome To The Weekend #1</title>
+    <desc lang="en">Welcome to the Weekend brings you the best from the 2024/25 season. In this episdoe, Michail Antonio pranks his teammates, Olivia and Andrew walk dogs with James Maddison and Dejan Kulusevski, plus the presenters are put to the test at London's velodrome.</desc>
+  </programme>
+  <programme start="20250725210000 +0800" stop="20250725220000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL BEST OF... PREMIER LEAGUE DUTCH MASTERS</title>
+    <desc lang="en">A high-energy hour showcasing legendary Dutch footballers, including Ruud Gullit, Edwin van der Sar, George Boateng, Mario Melchiot, Jaap Stam and more.</desc>
+  </programme>
+  <programme start="20250725220000 +0800" stop="20250726000000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">REVIEW OF THE SEASON - 2017/2018 (MNC)</title>
+    <desc lang="en">A review of all the best goals, action and drama from Premier League seasons past.</desc>
+  </programme>
+  <programme start="20250726000000 +0800" stop="20250726003000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">Classic Match</title>
+    <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2017/2018 season.</desc>
+  </programme>
+  <programme start="20250726003000 +0800" stop="20250726010000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">In a nail-biting climax to the 2011-2012 Premier League season, Manchester City clinched the title with unparalleled drama. Facing Queens Park Rangers on the final matchday, City secured a 3-2 victory with Sergio Aguero's iconic last-minute goal, securing their first league title in 44 years and etching that game into footballing folklore. They have since become the dominant power in English football and we look at how it all began.</desc>
+  </programme>
+  <programme start="20250726010000 +0800" stop="20250726020000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">WELCOME TO THE WEEKEND: Best Of Welcome To The Weekend #2</title>
+    <desc lang="en">Welcome to the Weekend head to the Midlands in this episode of the best from the 2024/25 season as JJ, Olivia and Andrew are pitchside at the King Power Stadium. Ayo gets unrivalled access at Anfield while Afrobeats star Joeboy joins the team on the sofa.</desc>
+  </programme>
+  <programme start="20250726020000 +0800" stop="20250726030000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">GOALS OF THE SEASON - 2024/2025 (GB: SALAH)</title>
+    <desc lang="en">From free-kicks to solo runs, scissor kicks to 30-yard screamers, Goals of the Season revisits some of the most memorable strikes from the 24/25 campaign, whilst paying homage to the Golden Boot winner.</desc>
+  </programme>
+  <programme start="20250726030000 +0800" stop="20250726040000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We dive into the fiercest rivalry in English football-Manchester United and Liverpool. As Liverpool draw level with United's record haul of top-flight titles, this is a story of history, pride, and the relentless pursuit of greatness. With insight from icons on both sides-Ian Rush, Lou Macari, Brian Kidd, Michael Owen, Phil Thompson, and new Liverpool boss Arne Slot, we unpack the moments that have defined generations, split families, and lit up the Premier League.</desc>
+  </programme>
+  <programme start="20250726040000 +0800" stop="20250726050000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL BEST OF... PREMIER LEAGUE AMERICAS UNITED</title>
+    <desc lang="en">A thrilling showcase of legendary footballers from the Americas who have stepped into the Timeless studio, featuring Tim Howard, Dwight Yorke, Wes Morgan, John Barnes, Brad Friedel, and others.</desc>
+  </programme>
+  <programme start="20250726050000 +0800" stop="20250726053000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">Arguably the greatest American goalkeeper of all time, Brad Friedel made an incredible 450 appearances in the Premier League playing for Tottenham, Aston Villa, Blackburn and Liverpool. We sit down with the 52-year-old to recount his incredible journey to the top of English football.</desc>
+  </programme>
+  <programme start="20250726053000 +0800" stop="20250726060000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">Upon creating an American Ice Hockey team, owner Bill Foley outlandlishly claimed his team would lift the Stanley Cup in six years. His dream came true. Now, owner of AFC Bournemouth and flying in the Premier League, he's already making bold claims for the Cherries' future.</desc>
+  </programme>
+  <programme start="20250726060000 +0800" stop="20250726063000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">As the curtain comes down on Everton's time at Goodison Park, PL Stories takes a poignant look back at one of English football's most iconic grounds. For over 130 years, Goodison has been more than just a stadium; it's been a home, a fortress, and the stage for countless moments of triumph, heartbreak, and unforgettable drama.</desc>
+  </programme>
+  <programme start="20250726063000 +0800" stop="20250726070000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL RAW: STORY OF THE SEASON 24/25</title>
+    <desc lang="en">Look back on another incredible Premier League season through the lens of PL RAW, featuring all the biggest and best moments from the 24/25 campaign.</desc>
+  </programme>
+  <programme start="20250726070000 +0800" stop="20250726080000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">WELCOME TO THE WEEKEND: Best Of Welcome To The Weekend #2</title>
+    <desc lang="en">Welcome to the Weekend head to the Midlands in this episode of the best from the 2024/25 season as JJ, Olivia and Andrew are pitchside at the King Power Stadium. Ayo gets unrivalled access at Anfield while Afrobeats star Joeboy joins the team on the sofa.</desc>
+  </programme>
+  <programme start="20250726080000 +0800" stop="20250726083000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">Classic Match</title>
+    <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2017/2018 season.</desc>
+  </programme>
+  <programme start="20250726083000 +0800" stop="20250726090000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">Classic Match</title>
+    <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2017/2018 season.</desc>
+  </programme>
+  <programme start="20250726090000 +0800" stop="20250726100000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">GOALS OF THE SEASON - 2017/2018 (GB: SALAH)</title>
+    <desc lang="en">We take a look back at some of the most spectacular and important goals from previous Premier League seasons.</desc>
+  </programme>
+  <programme start="20250726100000 +0800" stop="20250726103000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We celebrate the greatest goalscorers in Premier League history; the icons whose instinct, power, and flair have lit up stadiums and etched their names into footballing folklore. From Alan Shearer's relentless consistency to Thierry Henry's elegance, Sergio Aguero's killer instinct to Harry Kane's rise, we relive the moments that defined an era.</desc>
+  </programme>
+  <programme start="20250726103000 +0800" stop="20250726110000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">Upon creating an American Ice Hockey team, owner Bill Foley outlandlishly claimed his team would lift the Stanley Cup in six years. His dream came true. Now, owner of AFC Bournemouth and flying in the Premier League, he's already making bold claims for the Cherries' future.</desc>
+  </programme>
+  <programme start="20250726110000 +0800" stop="20250726113000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">Classic Match</title>
+    <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2016/2017 season.</desc>
+  </programme>
+  <programme start="20250726113000 +0800" stop="20250726120000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">As the curtain comes down on Everton's time at Goodison Park, PL Stories takes a poignant look back at one of English football's most iconic grounds. For over 130 years, Goodison has been more than just a stadium; it's been a home, a fortress, and the stage for countless moments of triumph, heartbreak, and unforgettable drama.</desc>
+  </programme>
+  <programme start="20250726120000 +0800" stop="20250726130000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">WELCOME TO THE WEEKEND: Best Of Welcome To The Weekend #2</title>
+    <desc lang="en">Welcome to the Weekend head to the Midlands in this episode of the best from the 2024/25 season as JJ, Olivia and Andrew are pitchside at the King Power Stadium. Ayo gets unrivalled access at Anfield while Afrobeats star Joeboy joins the team on the sofa.</desc>
+  </programme>
+  <programme start="20250726130000 +0800" stop="20250726133000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL RAW: STORY OF THE SEASON 24/25</title>
+    <desc lang="en">Look back on another incredible Premier League season through the lens of PL RAW, featuring all the biggest and best moments from the 24/25 campaign.</desc>
+  </programme>
+  <programme start="20250726133000 +0800" stop="20250726140000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We sit down with Bruno Guimarães to trace his remarkable journey from the streets of Brazil to Premier League stardom with Newcastle United. Travelling back to South America, we meet the family, friends, and coaches who shaped his early years and believed in his dream. Bruno opens up about the sacrifices, setbacks, and defining moments that fuelled his rise, offering a heartfelt look at the person behind the player.</desc>
+  </programme>
+  <programme start="20250726140000 +0800" stop="20250726160000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">REVIEW OF THE SEASON - 2024/2025 (LIV)</title>
+    <desc lang="en">Relive another extraordinary Premier League campaign as Liverpool soared to an historic 20th league title, Nottingham Forest defied expectations and the promoted sides were strenuously challenged. There were also tactical transformations, shifts in narrative trends, and a more open field than ever before. Review of the Season documents all of the thrilling stories to emerge across the 380 matches.</desc>
+  </programme>
+  <programme start="20250726160000 +0800" stop="20250726163000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">As the curtain comes down on Everton's time at Goodison Park, PL Stories takes a poignant look back at one of English football's most iconic grounds. For over 130 years, Goodison has been more than just a stadium; it's been a home, a fortress, and the stage for countless moments of triumph, heartbreak, and unforgettable drama.</desc>
+  </programme>
+  <programme start="20250726163000 +0800" stop="20250726170000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">Classic Match</title>
+    <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2016/2017 season.</desc>
+  </programme>
+  <programme start="20250726170000 +0800" stop="20250726180000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">WELCOME TO THE WEEKEND: Best Of Welcome To The Weekend #2</title>
+    <desc lang="en">Welcome to the Weekend head to the Midlands in this episode of the best from the 2024/25 season as JJ, Olivia and Andrew are pitchside at the King Power Stadium. Ayo gets unrivalled access at Anfield while Afrobeats star Joeboy joins the team on the sofa.</desc>
+  </programme>
+  <programme start="20250726180000 +0800" stop="20250726183000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL RAW: STORY OF THE SEASON 24/25</title>
+    <desc lang="en">Look back on another incredible Premier League season through the lens of PL RAW, featuring all the biggest and best moments from the 24/25 campaign.</desc>
+  </programme>
+  <programme start="20250726183000 +0800" stop="20250726190000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We catch up with Juan Mata in Australia, where the former Premier League star is now playing with Western Sydney Wanderers.  The Spaniard reflects on his memorable years in England with Chelsea and Manchester United, sharing insights into his greatest moments, personal growth, and connection with fans. As he begins a new chapter down under, he also opens up about life after the Premier League and what lies ahead both on and off the pitch.</desc>
+  </programme>
+  <programme start="20250726190000 +0800" stop="20250726193000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We sit down with Bruno Guimarães to trace his remarkable journey from the streets of Brazil to Premier League stardom with Newcastle United. Travelling back to South America, we meet the family, friends, and coaches who shaped his early years and believed in his dream. Bruno opens up about the sacrifices, setbacks, and defining moments that fuelled his rise, offering a heartfelt look at the person behind the player.</desc>
+  </programme>
+  <programme start="20250726193000 +0800" stop="20250726200000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">Arguably the greatest American goalkeeper of all time, Brad Friedel made an incredible 450 appearances in the Premier League playing for Tottenham, Aston Villa, Blackburn and Liverpool. We sit down with the 52-year-old to recount his incredible journey to the top of English football.</desc>
+  </programme>
+  <programme start="20250726200000 +0800" stop="20250726210000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL BEST OF... PREMIER LEAGUE AMERICAS UNITED</title>
+    <desc lang="en">A thrilling showcase of legendary footballers from the Americas who have stepped into the Timeless studio, featuring Tim Howard, Dwight Yorke, Wes Morgan, John Barnes, Brad Friedel, and others.</desc>
+  </programme>
+  <programme start="20250726210000 +0800" stop="20250726213000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">Reggae Rhythms in the Premier League explores the powerful connection between Jamaica and the world's most-watched football league, showcasing how the island's culture, music, and style have influenced the Premier League. We feature iconic Jamaican players who have left their mark, while also diving into the impact of reggae music, fashion, and fan culture on the game.</desc>
+  </programme>
+  <programme start="20250726213000 +0800" stop="20250726220000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">Upon creating an American Ice Hockey team, owner Bill Foley outlandlishly claimed his team would lift the Stanley Cup in six years. His dream came true. Now, owner of AFC Bournemouth and flying in the Premier League, he's already making bold claims for the Cherries' future.</desc>
+  </programme>
+  <programme start="20250726220000 +0800" stop="20250726223000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">As the curtain comes down on Everton's time at Goodison Park, PL Stories takes a poignant look back at one of English football's most iconic grounds. For over 130 years, Goodison has been more than just a stadium; it's been a home, a fortress, and the stage for countless moments of triumph, heartbreak, and unforgettable drama.</desc>
+  </programme>
+  <programme start="20250726223000 +0800" stop="20250726230000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">Classic Match</title>
+    <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2016/2017 season.</desc>
+  </programme>
+  <programme start="20250723000000 +0800" stop="20250723060000 +0800" channel="Hub.Premier.2.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250723060000 +0800" stop="20250723120000 +0800" channel="Hub.Premier.2.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250723120000 +0800" stop="20250723180000 +0800" channel="Hub.Premier.2.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250723180000 +0800" stop="20250724000000 +0800" channel="Hub.Premier.2.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250724000000 +0800" stop="20250724060000 +0800" channel="Hub.Premier.2.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250724060000 +0800" stop="20250724120000 +0800" channel="Hub.Premier.2.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250724120000 +0800" stop="20250724180000 +0800" channel="Hub.Premier.2.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250724180000 +0800" stop="20250725000000 +0800" channel="Hub.Premier.2.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250725000000 +0800" stop="20250725060000 +0800" channel="Hub.Premier.2.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250725060000 +0800" stop="20250725120000 +0800" channel="Hub.Premier.2.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250725120000 +0800" stop="20250725180000 +0800" channel="Hub.Premier.2.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250725180000 +0800" stop="20250726000000 +0800" channel="Hub.Premier.2.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250726000000 +0800" stop="20250726060000 +0800" channel="Hub.Premier.2.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250726060000 +0800" stop="20250726120000 +0800" channel="Hub.Premier.2.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250726120000 +0800" stop="20250726140000 +0800" channel="Hub.Premier.2.sg">
+    <title lang="en">Ipswich Town vs Liverpool (MW01)</title>
+    <desc lang="en">Ipswich Town's most recent Premier League game was in May 2002 against Liverpool at Anfield, losing 5-0 as they were relegated. Since then, the two sides have only faced once, a 1-1 draw in the League Cup in December 2002 before the Tractor Boys lost 5-4 on penalties.</desc>
+  </programme>
+  <programme start="20250726140000 +0800" stop="20250726160000 +0800" channel="Hub.Premier.2.sg">
+    <title lang="en">Wolverhampton Wanderers vs Chelsea (MW02)</title>
+    <desc lang="en">Chelsea are winless in four away league games against Wolves (D1 L3), since a 5-2 victory in September 2019 under Frank Lampard.</desc>
+  </programme>
+  <programme start="20250726160000 +0800" stop="20250726180000 +0800" channel="Hub.Premier.2.sg">
+    <title lang="en">Everton vs AFC Bournemouth (MW03)</title>
+    <desc lang="en">Everton have lost all five of their Premier League games in August under Sean Dyche without scoring a single goal. Indeed, Dyche has a win ratio of just 12.5% in August, the worst percentage of any manager to manage more than 10 games in August.</desc>
+  </programme>
+  <programme start="20250726180000 +0800" stop="20250726200000 +0800" channel="Hub.Premier.2.sg">
+    <title lang="en">Tottenham Hotspur v Arsenal (MW04)</title>
+    <desc lang="en">Arsenal have won their last two Premier League away games against Tottenham, as many as in their previous 17 such visits (D6 L9). They last won three consecutive away north London derbies between January 1987 and September 1988.</desc>
+  </programme>
+  <programme start="20250726200000 +0800" stop="20250726220000 +0800" channel="Hub.Premier.2.sg">
+    <title lang="en">Manchester City vs Arsenal (MW05)</title>
+    <desc lang="en">Manchester City are unbeaten in their last nine Premier League home games against Arsenal (W7 D2) since a 2-0 defeat in January 2015.</desc>
+  </programme>
+  <programme start="20250723000000 +0800" stop="20250723060000 +0800" channel="Hub.Premier.3.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250723060000 +0800" stop="20250723120000 +0800" channel="Hub.Premier.3.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250723120000 +0800" stop="20250723180000 +0800" channel="Hub.Premier.3.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250723180000 +0800" stop="20250724000000 +0800" channel="Hub.Premier.3.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250724000000 +0800" stop="20250724060000 +0800" channel="Hub.Premier.3.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250724060000 +0800" stop="20250724120000 +0800" channel="Hub.Premier.3.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250724120000 +0800" stop="20250724180000 +0800" channel="Hub.Premier.3.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250724180000 +0800" stop="20250725000000 +0800" channel="Hub.Premier.3.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250725000000 +0800" stop="20250725060000 +0800" channel="Hub.Premier.3.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250725060000 +0800" stop="20250725120000 +0800" channel="Hub.Premier.3.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250725120000 +0800" stop="20250725180000 +0800" channel="Hub.Premier.3.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250725180000 +0800" stop="20250726000000 +0800" channel="Hub.Premier.3.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250726000000 +0800" stop="20250726060000 +0800" channel="Hub.Premier.3.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250726060000 +0800" stop="20250726120000 +0800" channel="Hub.Premier.3.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250726120000 +0800" stop="20250726180000 +0800" channel="Hub.Premier.3.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250723000000 +0800" stop="20250723060000 +0800" channel="Hub.Premier.4.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250723060000 +0800" stop="20250723120000 +0800" channel="Hub.Premier.4.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250723120000 +0800" stop="20250723180000 +0800" channel="Hub.Premier.4.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250723180000 +0800" stop="20250724000000 +0800" channel="Hub.Premier.4.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250724000000 +0800" stop="20250724060000 +0800" channel="Hub.Premier.4.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250724060000 +0800" stop="20250724120000 +0800" channel="Hub.Premier.4.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250724120000 +0800" stop="20250724180000 +0800" channel="Hub.Premier.4.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250724180000 +0800" stop="20250725000000 +0800" channel="Hub.Premier.4.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250725000000 +0800" stop="20250725060000 +0800" channel="Hub.Premier.4.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250725060000 +0800" stop="20250725120000 +0800" channel="Hub.Premier.4.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250725120000 +0800" stop="20250725180000 +0800" channel="Hub.Premier.4.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250725180000 +0800" stop="20250726000000 +0800" channel="Hub.Premier.4.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250726000000 +0800" stop="20250726060000 +0800" channel="Hub.Premier.4.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250726060000 +0800" stop="20250726120000 +0800" channel="Hub.Premier.4.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20250726120000 +0800" stop="20250726180000 +0800" channel="Hub.Premier.4.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
   <channel id="TNT.Sports.2.HD.uk">
     <url>http://www.virginmedia.com</url>
     <display-name lang="en">TNT Sports 2 HD</display-name>
@@ -7134,6 +7902,12 @@
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3838.png" />
     <url>http://www.sky.com</url>
     <display-name lang="en">SkySp Fball</display-name>
+  </channel>
+  <channel id="SkySp.Fball.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3939.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3939.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySp Fball HD</display-name>
   </channel>
   <programme channel="TNT.Sports.1.HD.uk" start="20250723013000 +0000" stop="20250723020000 +0000">
     <title lang="en">MLB Closer</title>
@@ -15222,6 +15996,1760 @@
     </rating>
   </programme>
   <programme channel="SkySp.Fball.uk" start="20250726224500 +0000" stop="20250726230000 +0000">
+    <title lang="en">EFL 15/16:Middlesbrough v Brighton</title>
+    <desc lang="en">A look back at some classic matches from the English Football League. Here, Middlesbrough take on Brighton and Hove Albion in a tense Championship promotion decider in May 2016.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e3fb469f-c3f6-4b01-a54d-ff987c13d1dd/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723000000 +0000" stop="20250723010000 +0000">
+    <title lang="en">EFL Play-Off Final: League 1 16/17</title>
+    <desc lang="en">Bradford City face Millwall at Wembley in the Sky Bet League 1 play-off final, as the teams battle for a spot in next season's Sky Bet Championship.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5362ea03-fef5-45c6-a22e-5ea2aad8f6c5/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723010000 +0000" stop="20250723020000 +0000">
+    <title lang="en">EFL Play-Off Final: League 2 16/17</title>
+    <desc lang="en">Exeter City meet Blackpool at Wembley Stadium in the final of the Sky Bet League 2 play-offs. The two meetings in the season ended in a draw and a Blackpool win.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a25d8f62-f4a8-4b9e-8542-9ecef04fb599/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723020000 +0000" stop="20250723021500 +0000">
+    <title lang="en">EFL 08/09: Cardiff v Swansea</title>
+    <desc lang="en">A chance to relive a classic clash from the English Football League. Here, Cardiff City meet Swansea City in a thrilling south Wales derby at Ninian Park in 2009.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/cb66738c-62e2-4435-8da1-858cc2b29dae/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723021500 +0000" stop="20250723023000 +0000">
+    <title lang="en">EFL 08/09: Millwall v Scunthorpe</title>
+    <desc lang="en">A chance to relive a classic clash from the English Football League. Here, Millwall face Scunthorpe at Wembley Stadium in the League 1 play-off final in 2009.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/272be84b-36df-4b4f-815d-0d15e6bd8708/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723023000 +0000" stop="20250723024500 +0000">
+    <title lang="en">EFL 09/10: Sheff Utd v Sheff Weds</title>
+    <desc lang="en">A chance to relive a classic clash from the English Football League. Here, Sheffield United and Sheffield Wednesday meet in a thrilling Steel City derby in September 2009.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/42bd3b1e-07dc-45bc-a5fb-ea2863da47e9/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723024500 +0000" stop="20250723030000 +0000">
+    <title lang="en">EFL 10/11: Peterborough v So'ton</title>
+    <desc lang="en">A chance to relive a classic clash from the English Football League. Here, Peterborough and Southampton meet in an eight-goal thriller in League 1 in February 2011.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2edaa370-2c88-49b6-92a3-39dbce02d3fe/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723030000 +0000" stop="20250723050000 +0000">
+    <title lang="en">Retro C'Ship 00: B'burn v Man City</title>
+    <desc lang="en">A chance to relive a classic clash from the second tier from over the years. Here, back in 2000, Blackburn Rovers and Manchester City go head-to-head in a memorable First Division clash.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/15682025-6234-4b3f-937b-51691c3d420c/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723050000 +0000" stop="20250723070000 +0000">
+    <title lang="en">Retro C'Ship 12: B'pool v West Ham</title>
+    <desc lang="en">A chance to relive a classic match from the Championship. Here the play-off final from the 2011-12 campaign, as Blackpool and West Ham meet at Wembley.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/85fbbf2d-d0e2-45f4-9469-c17b163fbcbb/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723070000 +0000" stop="20250723071500 +0000">
+    <title lang="en">EFL 12/13: Watford v Leicester</title>
+    <desc lang="en">A chance to relive a classic clash from the English Football League. Here, Watford meet Leicester City in the famous second leg of their Championship play-off semi-final in May 2013.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d0348981-bc5d-4f03-b76e-1579ebf2b79c/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723071500 +0000" stop="20250723073000 +0000">
+    <title lang="en">EFL 13/14: Sheff Weds v Leeds Utd</title>
+    <desc lang="en">Relive a classic match from the Football League. Here, Yorkshire rivals Sheffield Wednesday and Leeds United meet at Hillsborough in January 2014 in a memorable game for the Owls.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/41da3eae-7c69-4453-b505-48cff7c4d54f/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723073000 +0000" stop="20250723074500 +0000">
+    <title lang="en">EFL 13/14: Derby County v N.Forest</title>
+    <desc lang="en">A chance to relive a classic clash from the English Football League. Here, Derby County meet Nottingham Forest in the Sky Bet Championship.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d92da56f-8078-46d3-860e-23de03365f58/16-9" />
+    <episode-num system="xmltv_ns">.17.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723074500 +0000" stop="20250723080000 +0000">
+    <title lang="en">EFL 13/14: QPR v N. Forest</title>
+    <desc lang="en">Relive a classic match from the English Football League. Here, QPR host Nottingham Forest at Loftus Road in the 2013-14 season in a seven-goal thriller.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/65108474-2c06-45d2-95e0-9686f9bd8f73/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723080000 +0000" stop="20250723081500 +0000">
+    <title lang="en">EFL 14/15: Brentford v Fulham</title>
+    <desc lang="en">Relive some classic action from the English Football League. Here, a west London derby in the Sky Bet Championship between Brentford and Fulham at Griffin Park in November 2014.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2d8d6dd6-fe66-4846-a613-248bbd6bd7ba/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723081500 +0000" stop="20250723083000 +0000">
+    <title lang="en">EFL 14/15: Derby County v N.Forest</title>
+    <desc lang="en">Relive some classic English Football League action. Here, a Midlands derby in the Sky Bet Championship between Derby County and Nottingham Forest at the iPro Stadium in January 2015.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/be105fb0-c587-4c7a-9e06-b214ae77fff0/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723083000 +0000" stop="20250723084500 +0000">
+    <title lang="en">EFL 14/15: Norwich v Ipswich</title>
+    <desc lang="en">A chance to relive some classic action from the EFL. Here, Norwich City and Ipswich Town clash in an East Anglian derby at Carrow Road back in March 2015.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/207b8fe0-4e0c-4410-8ee3-8950a91276d8/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723084500 +0000" stop="20250723090000 +0000">
+    <title lang="en">EFL 14/15: Wolves v Leeds Utd</title>
+    <desc lang="en">A chance to relive some classic action from the EFL. Here, Wolverhampton Wanderers host Leeds United at Molineux in April 2015 in a thrilling game that saw seven goals.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/176d838f-5323-4ed4-b053-3a66f7014c76/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723090000 +0000" stop="20250723100000 +0000">
+    <title lang="en">EFL Cup 15/16:Liverpool v Man City</title>
+    <desc lang="en">The first silverware of the season is claimed as Liverpool meet Manchester City at Wembley in the Capital One Cup final. Both have won this recently, Liverpool in 2012 and Man City in 2014.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/48e38a8e-120c-4190-b0b6-262ead663879/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723100000 +0000" stop="20250723110000 +0000">
+    <title lang="en">1983 - When Aberdeen Ruled Europe</title>
+    <desc lang="en">The story of the greatest year in the history of Aberdeen, when the yet to be knighted, Alex Ferguson, guided the club to two European trophies in the space of six months.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/26d64588-4892-34a6-9848-3d483c598bd5/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723110000 +0000" stop="20250723113000 +0000">
+    <title lang="en">SPFL: Old Firm Derby Goals</title>
+    <desc lang="en">A look at some of the very best goals scored in Old Firm derby clashes between Celtic and Rangers over the years.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c3964bbc-1968-4652-99d2-60aadfad4f78/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723113000 +0000" stop="20250723120000 +0000">
+    <title lang="en">SPFL: Edinburgh Derby Goals</title>
+    <desc lang="en">A look at some of the very best goals scored in Edinburgh derby clashes between rivals Hearts and Hibs over the years.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/011ee4b1-7805-4dae-b305-e204b04277c6/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723120000 +0000" stop="20250723123000 +0000">
+    <title lang="en">SPFL: Craig Brown: My Scotland</title>
+    <desc lang="en">No one has taken charge of the Scottish men's team more often than Craig Brown. He reflects on his time with the national side and recalls what it was like to lead his country at France 98.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a0134711-1d6b-33c1-ba65-ac993e277adf/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723123000 +0000" stop="20250723130000 +0000">
+    <title lang="en">SPFL: There's Only One Sauzee</title>
+    <desc lang="en">Hibernian legend Franck Sauzée sits down with Luke Shanley to reflect on his time in Leith as a Hibs player and manager, and recollect his Champions League success with Marseille in 1993.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/dbdb252b-d18b-3a20-a924-b7cd1cd1cdd9/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723130000 +0000" stop="20250723131500 +0000">
+    <title lang="en">EFL 14/15: Swindon v Sheff Utd</title>
+    <desc lang="en">Relive a classic match from the English Football League. Here, Swindon Town host Sheffield United at the County Ground in a 10-goal thriller in the play-offs back in May 2015.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0928e066-6bc0-48ae-9b75-a89e381c900a/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723131500 +0000" stop="20250723133000 +0000">
+    <title lang="en">EFL 14/15: Norwich v Ipswich</title>
+    <desc lang="en">Relive some classic action from the English Football League. Here, East Anglian rivals Norwich City and Ipswich Town meet at Carrow Road in the Sky Bet play-offs in May 2015.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/746e7ee1-b476-4fd7-9e25-64396e9ea5ab/16-9" />
+    <episode-num system="xmltv_ns">.24.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723133000 +0000" stop="20250723134500 +0000">
+    <title lang="en">EFL 14/15: Derby County v Leeds</title>
+    <desc lang="en">A chance to relive some classic action from the EFL. Here, Derby County take on Leeds United at Pride Park in August 2015 in a game that saw a thrilling late winner.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5747a1e2-1e2b-48c4-8e7a-55d95b33ecd2/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723134500 +0000" stop="20250723140000 +0000">
+    <title lang="en">EFL 15/16: Hull City v Reading</title>
+    <desc lang="en">A chance to relive some classic action from the EFL. Here, Hull City take on Reading at the KC Stadium in December 2015 in a thrilling clash that saw a late winner.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/da809ecb-617d-4a17-9c3d-734ce080531e/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723140000 +0000" stop="20250723141500 +0000">
+    <title lang="en">EFL 15/16: QPR v Middlesbrough</title>
+    <desc lang="en">A chance to relive some classic action from the English Football League. Here, QPR host Middlesbrough in a five-goal thriller at Loftus Road in the 2015-16 season.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1ba775bc-0ac8-40a8-9897-184f108c4929/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723141500 +0000" stop="20250723143000 +0000">
+    <title lang="en">EFL 15/16: B'ham v Middlesbrough</title>
+    <desc lang="en">Relive some classic action from the English Football League. Here, Birmingham City take on Middlesbrough at St Andrew's in a four-goal thriller in the 2015-16 season.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c2485363-4b53-4d37-9b45-b1c2b3bf72f5/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723143000 +0000" stop="20250723144500 +0000">
+    <title lang="en">EFL 15/16:Middlesbrough v Brighton</title>
+    <desc lang="en">A look back at some classic matches from the English Football League. Here, Middlesbrough take on Brighton and Hove Albion in a tense Championship promotion decider in May 2016.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e3fb469f-c3f6-4b01-a54d-ff987c13d1dd/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723144500 +0000" stop="20250723150000 +0000">
+    <title lang="en">EFL 16/17: Aston Villa v N. Forest</title>
+    <desc lang="en">A look back at some classic matches from the English Football League. Here, Aston Villa play Nottingham Forest in a thrilling draw in September 2016 in the Sky Bet Championship.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6f9f8c14-dd93-47b3-aec6-508ce4e5c458/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723150000 +0000" stop="20250723160000 +0000">
+    <title lang="en">EFL Cup 22/23: Man Utd v Newcastle</title>
+    <desc lang="en">Twenty four years in the making, Newcastle return to Wembley for a Carabao Cup final with Manchester United, as Erik ten Hag has the chance to end United's six-year trophy drought. (26.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f4648538-37f0-423f-844d-f88c5ec71a40/16-9" />
+    <episode-num system="onscreen">02</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723160000 +0000" stop="20250723163000 +0000">
+    <title lang="en">EFL Cup Best Goals: 2022/23</title>
+    <desc lang="en">From the Abbey all the way to Wembley - this season's Carabao Cup has thrown up a host of spectacular goals. Look back at the 2022-2023 competition's finest strikes.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e1c49718-1781-4f27-be43-322a776bba40/16-9" />
+    <episode-num system="xmltv_ns">.15.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723163000 +0000" stop="20250723170000 +0000">
+    <title lang="en">EFL Trophy Final 2022/23</title>
+    <desc lang="en">The moment to shine at Wembley has arrived for Bolton Wanderers and Plymouth Argyle, as the pair turn their attentions away from promotion to the final of the 2022-23 EFL Trophy. (02.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8dbafae4-3828-4762-8dd1-28dfbbefe817/16-9" />
+    <episode-num system="onscreen">04</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723170000 +0000" stop="20250723173000 +0000">
+    <title lang="en">Jimmy Glass: The Great Escape</title>
+    <desc lang="en">20 years on from Carlisle's remarkable escape from relegation, take a look back at one of football's most extraordinary events. Hear from Jimmy Glass, captain David Brightwell and others.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a1e73db5-c3bb-426f-b32d-2f816504cdf9/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723173000 +0000" stop="20250723180000 +0000">
+    <title lang="en">EFL Rivalries: East Anglian Derby</title>
+    <desc lang="en">A look at some of the great derbies in English football. This episode looks at the 'East Anglian Derby', contested between Norwich City and Ipswich Town.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/77cee8e6-3ff4-4816-82d7-8a3c236048c1/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723180000 +0000" stop="20250723183000 +0000">
+    <title lang="en">EFL Rivalries: Second City Derby</title>
+    <desc lang="en">A look at some of the great derbies in English football. This episode celebrates the 'Second City Derby', contested between rivals Birmingham City and Aston Villa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1c89ed13-038c-4e12-9142-95a8329b1891/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723183000 +0000" stop="20250723190000 +0000">
+    <title lang="en">EFL Rivalries: East Midlands Derby</title>
+    <desc lang="en">A special look at some of the EFL's biggest derby rivalries. Here, the rivalry between East Midlands clubs Nottingham Forest and Derby County, a match with a storied history.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4e4cf7d8-8f8c-4fcf-bf67-12d16b290d99/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723190000 +0000" stop="20250723191500 +0000">
+    <title lang="en">EFL 16/17: Cardiff v Bristol City</title>
+    <desc lang="en">Relive some classic matches in English football. Here, Cardiff City face Bristol City in a Severnside derby in the Sky Bet Championship, in what was Neil Warnock's first game at Cardiff.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/02bb94e2-1d3f-4fa9-bdcd-7bec416ae4c6/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723191500 +0000" stop="20250723193000 +0000">
+    <title lang="en">EFL 16/17: Burton v Birmingham</title>
+    <desc lang="en">Relive some classic matches in English football. Here, Burton Albion face Birmingham City in 2016 in the Sky Bet Championship, in what was the sides' first competitive meeting.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6fd62068-dff9-49cc-90e8-c3fa7aaa7ff9/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723193000 +0000" stop="20250723194500 +0000">
+    <title lang="en">EFL 16/17:Birmingham v Aston Villa</title>
+    <desc lang="en">A chance to relive some classic action from the English Football League. Here, local rivals Birmingham City and Aston Villa clash in the Sky Bet Championship at St Andrew's in October 2016.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1866298a-4b58-4026-a1b0-9f56ba454815/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723194500 +0000" stop="20250723200000 +0000">
+    <title lang="en">EFL 16/17: Wolves v Derby County</title>
+    <desc lang="en">A chance to relive some classic action from the English Football League. Here, Wolves host Derby County at Molineux in a five-goal thriller back in a Bonfire Night sizzler in 2016.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e2d58bfb-4cc0-437b-966b-a5c04dc4ddb4/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723200000 +0000" stop="20250723201500 +0000">
+    <title lang="en">EFL 16/17: N. Forest v Newcastle</title>
+    <desc lang="en">Relive some classic action from the English Football League. Here, Nottingham Forest take on Newcastle United at the City Ground in a game that saw two red cards and two penalties.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/dcf81b40-c13e-42bc-99f5-041b199fa97e/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723201500 +0000" stop="20250723203000 +0000">
+    <title lang="en">EFL 16/17: Leeds Utd v Aston Villa</title>
+    <desc lang="en">Relive some classic matches in English football. Here, Leeds United face Aston Villa in the Sky Bet Championship, with the sides meeting in the league for the first time since 2004.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8f97e2af-61d9-4b22-b31e-25e2b2451e26/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723203000 +0000" stop="20250723204500 +0000">
+    <title lang="en">EFL 16/17: Huddersfield v Leeds</title>
+    <desc lang="en">Relive some classic matches in English football. Here, a West Yorkshire derby as Huddersfield Town play Leeds United in 2017 in the Sky Bet Championship.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1f203fc5-2aa5-495c-9a29-3ef3addcef55/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723204500 +0000" stop="20250723210000 +0000">
+    <title lang="en">EFL 16/17: Sheff Weds v Newcastle</title>
+    <desc lang="en">Relive some classic matches in English football. Here, Sheffield Wednesday take on Newcastle United in 2017 in the Sky Bet Championship, with both sides looking for promotion chances.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e685947a-8ec0-4e4a-882c-6809354bcd1c/16-9" />
+    <episode-num system="xmltv_ns">.39.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723210000 +0000" stop="20250723220000 +0000">
+    <title lang="en">EFL Cup 23/24: Chelsea v Liverpool</title>
+    <desc lang="en">Jurgen Klopp's farewell tour stops at Wembley for this season's Carabao Cup final as Liverpool face Chelsea. Just two years ago, the Reds beat the Blues here for a ninth League Cup. (25.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a1477e92-362e-3a61-a568-240c362d452a/16-9" />
+    <episode-num system="onscreen">02</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723220000 +0000" stop="20250723223000 +0000">
+    <title lang="en">EFL Cup Best Goals: 2023/24</title>
+    <desc lang="en">From Vale Park all the way to Wembley - this season's Carabao Cup has thrown up a host of stunning goals. Look back at the finest strikes from the 2023-24 competition.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e8afb11d-cca7-3675-ae94-9a43ebaba63e/16-9" />
+    <episode-num system="xmltv_ns">.15.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723223000 +0000" stop="20250723230000 +0000">
+    <title lang="en">EFL Trophy Final 2023/24</title>
+    <desc lang="en">Under the Wembley arch, a winner of the Bristol Street Motors Trophy is crowned as Darren Ferguson's Peterborough face a Wycombe team playing in their first EFL Trophy final. (07.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d199b4ad-88d3-3504-aeff-79c6ef5aaf59/16-9" />
+    <episode-num system="onscreen">04</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250723230000 +0000" stop="20250724000000 +0000">
+    <title lang="en">EFL Play-Off Final: C'Ship 17/18</title>
+    <desc lang="en">Fulham and Aston Villa meet in the Sky Bet Championship play-off final at Wembley. Villa are looking to end a two-year exile from the Premier League, Fulham were last there in 2014.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4cb890f6-5740-42d8-8406-0c997d138bcc/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724000000 +0000" stop="20250724010000 +0000">
+    <title lang="en">EFL Play-Off Final: League 1 17/18</title>
+    <desc lang="en">Rotherham United take on Shrewsbury Town at Wembley in the Sky Bet League One play-off final. The sides each beat each other once during the regular season.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a783cd4a-b4fd-3a40-b80b-b5965f76198d/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724010000 +0000" stop="20250724020000 +0000">
+    <title lang="en">EFL Play-Off Final: League 2 17/18</title>
+    <desc lang="en">Coventry City and Exeter City go head-to-head in the Sky Bet League Two play-off final at Wembley. The sides each beat each other once during the regular season.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a606c237-23c5-4ad5-acee-d49e6f186c3c/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724020000 +0000" stop="20250724021500 +0000">
+    <title lang="en">EFL 16/17: Fulham v Aston Villa</title>
+    <desc lang="en">Remember some classic matches from English football. In this episode, Fulham looked to maintain their playoff hopes against Aston Villa in the Sky Bet Championship in April 2017.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e025b4d2-83a6-4b77-8e87-de8f2c409ab7/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724021500 +0000" stop="20250724023000 +0000">
+    <title lang="en">EFL 17/18: N. Forest v Ipswich</title>
+    <desc lang="en">Relive some classic matches in English football. Here, Nottingham Forest look to avoid relegation from the Sky Bet Championship as they face Ipswich Town in May 2017.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0bc87d5f-0856-4351-8769-37d066e3fc83/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724023000 +0000" stop="20250724024500 +0000">
+    <title lang="en">EFL 12/13: Brentford v Swindon</title>
+    <desc lang="en">Remember some classic matches from English football. Here, Brentford face Swindon Town in May 2013 in the League 1 semi final at Griffin Park.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/24a62017-71ff-42c2-a4e5-ed840e2c1e15/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724024500 +0000" stop="20250724030000 +0000">
+    <title lang="en">EFL 12/13: Bradford v Arsenal</title>
+    <desc lang="en">A look at some of the greatest matches from English football. Here, League 2 side Bradford City take on Premier League giants Arsenal in the Football League Cup in December 2012.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b3a04602-f21f-4f02-9f3e-196da007bdef/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724030000 +0000" stop="20250724050000 +0000">
+    <title lang="en">Retro C'Ship 10: B'pool v Cardiff</title>
+    <desc lang="en">A chance to relive the memorable 2010 Championship play-off final, as Blackpool and Cardiff City go head-to-head at Wembley in a thrilling final with a lot on the line.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d816dd45-bbbb-4f36-bb12-32a2b6a237bb/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724050000 +0000" stop="20250724070000 +0000">
+    <title lang="en">Retro C'Ship 13:Watford v L'cester</title>
+    <desc lang="en">A chance to relive a classic match from the Championship. Here the most incredible Championship play-off semi-final second leg between Watford and Leicester.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/193391b7-3027-4591-bac6-24f40f67abe4/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724070000 +0000" stop="20250724071500 +0000">
+    <title lang="en">EFL 16/17: Derby v Hull City</title>
+    <desc lang="en">A chance to relive a classic match from the EFL. Here, Derby County and Hull City go head-to-head in a thrilling encounter back in 2017.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/abc1e196-fe45-4783-9d13-7bb37c7bbd81/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724071500 +0000" stop="20250724073000 +0000">
+    <title lang="en">EFL 16/17: Sheff Weds v Sheff Utd</title>
+    <desc lang="en">A chance to relive a classic match from the EFL. Here, relive a thrilling Steel City derby between rivals Sheffield Wednesday and Sheffield United at Hillsborough Stadium.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4cbe648d-956d-447c-b6d1-a2511aeac699/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724073000 +0000" stop="20250724074500 +0000">
+    <title lang="en">EFL 16/17: Leeds Utd v Sheff Utd</title>
+    <desc lang="en">A look at a classic match from the EFL. Here, Leeds and Sheffield United go head-to-head at Elland Road in a thrilling contest back in 2017.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/418c70b6-ec1a-4bdd-830a-43fd603a4738/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724074500 +0000" stop="20250724080000 +0000">
+    <title lang="en">EFL 16/17: Ipswich v Sheff Weds</title>
+    <desc lang="en">A look at a classic match from the EFL. Here, Ipswich Town and Sheffield Wednesday meet at Portman Road in a four-goal thriller back in 2017.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e9429f91-ae79-451f-80fc-d942717170a0/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724080000 +0000" stop="20250724081500 +0000">
+    <title lang="en">EFL 16/17: QPR v Brentford</title>
+    <desc lang="en">A chance to relive a classic match from the EFL. Here, QPR and Brentford go head-to-head at Loftus Road in a west London derby in 2017 that had a dramatic finish.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7d7f7f77-1083-4f3c-a94d-ef3c4ef72655/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724081500 +0000" stop="20250724083000 +0000">
+    <title lang="en">EFL 16/17:Sheff Utd v Bristol City</title>
+    <desc lang="en">A chance to relive a classic match from the EFL. Here, Sheffield United host Bristol City at Bramall Lane in 2017 in a game with a late dramatic twist.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a17222ff-805a-4664-a324-f7f789f0dbe6/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724083000 +0000" stop="20250724084500 +0000">
+    <title lang="en">EFL 16/17: Reading v Cardiff</title>
+    <desc lang="en">A chance to relive a classic match from the EFL. Here, Reading host Cardiff City at the Madejski Stadium in 2017 in a game with a thrilling conclusion.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0e4b7e37-4cec-4e5c-97dc-8ba52306b396/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724084500 +0000" stop="20250724090000 +0000">
+    <title lang="en">EFL 17/18: Bristol City v Man Utd</title>
+    <desc lang="en">A chance to relive a classic match from the EFL Cup. Here, Bristol City host Premier League Man Utd at Ashton Gate in the 2017-18 competition's quarter-finals.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7190cb96-fcdd-48cc-ab22-de0e4e5ea46d/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724090000 +0000" stop="20250724100000 +0000">
+    <title lang="en">EFL Cup 16/17: Man Utd v So'ton</title>
+    <desc lang="en">Manchester United take on Southampton in the EFL Cup final at Wembley. United are looking to win the trophy for a fifth time, while Southampton are aiming to win it for the first time.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/eb4bf102-31f6-4494-8398-ed082763e616/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724100000 +0000" stop="20250724110000 +0000">
+    <title lang="en">Celtic's Invincibles</title>
+    <desc lang="en">Go behind the scenes of Celtic's remarkable 2016-2017 campaign in the SPFL Premiership, in which they completed their title-winning season without losing a league match.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ba93a061-2132-4be0-9a57-a790ae2aaa3f/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724110000 +0000" stop="20250724113000 +0000">
+    <title lang="en">Jimmy Glass: The Great Escape</title>
+    <desc lang="en">20 years on from Carlisle's remarkable escape from relegation, take a look back at one of football's most extraordinary events. Hear from Jimmy Glass, captain David Brightwell and others.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a1e73db5-c3bb-426f-b32d-2f816504cdf9/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724113000 +0000" stop="20250724120000 +0000">
+    <title lang="en">EFL Rivalries: East Anglian Derby</title>
+    <desc lang="en">A look at some of the great derbies in English football. This episode looks at the 'East Anglian Derby', contested between Norwich City and Ipswich Town.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/77cee8e6-3ff4-4816-82d7-8a3c236048c1/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724120000 +0000" stop="20250724123000 +0000">
+    <title lang="en">EFL Rivalries: Second City Derby</title>
+    <desc lang="en">A look at some of the great derbies in English football. This episode celebrates the 'Second City Derby', contested between rivals Birmingham City and Aston Villa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1c89ed13-038c-4e12-9142-95a8329b1891/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724123000 +0000" stop="20250724130000 +0000">
+    <title lang="en">EFL Rivalries: East Midlands Derby</title>
+    <desc lang="en">A special look at some of the EFL's biggest derby rivalries. Here, the rivalry between East Midlands clubs Nottingham Forest and Derby County, a match with a storied history.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4e4cf7d8-8f8c-4fcf-bf67-12d16b290d99/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724130000 +0000" stop="20250724131500 +0000">
+    <title lang="en">EFL 17/18: Leeds v Bristol City</title>
+    <desc lang="en">A chance to relive a classic match from the EFL. Here, Leeds United host Bristol City at Elland Road in the Sky Bet Championship in a match that saw a dramatic comeback.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/329d7834-6166-40b7-862f-73d003d9d041/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724131500 +0000" stop="20250724133000 +0000">
+    <title lang="en">EFL 17/18: Arsenal v Man City</title>
+    <desc lang="en">A chance to relive a classic match from the EFL Cup. Here, Arsenal and Man City go head-to-head in the final of the 2017-18 competition at Wembley.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f917db64-91e6-4987-ab85-6bc11423d375/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724133000 +0000" stop="20250724134500 +0000">
+    <title lang="en">EFL 17/18: Aston Villa v Wolves</title>
+    <desc lang="en">A chance to relive a classic match from the EFL. Here, Aston Villa host Wolves at Villa Park in a memorable Midlands derby in the 2017-18 campaign.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a9080163-643e-4609-97e0-aa472fda2217/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724134500 +0000" stop="20250724140000 +0000">
+    <title lang="en">EFL 17/18: Fulham v QPR</title>
+    <desc lang="en">A chance to relive a classic match from the EFL. Here, promotion-chasing Fulham host QPR at Craven Cottage in a west London derby that saw a memorable comeback.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a209c5e7-142c-42d0-a683-210e19b5e48d/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724140000 +0000" stop="20250724141500 +0000">
+    <title lang="en">EFL 17/18: Middlesbrough v Wolves</title>
+    <desc lang="en">A chance to relive a classic match from the EFL. Here, Middlesbrough host Wolves at the Riverside in 2018 in a game that saw the visitors reduced to nine men.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/11808105-058b-4b4a-b966-1e3c5a03823c/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724141500 +0000" stop="20250724143000 +0000">
+    <title lang="en">EFL 17/18: Cardiff v Wolves</title>
+    <desc lang="en">A chance to relive a classic match from the EFL. Here, Cardiff City host Wolves at the Cardiff City Stadium in 2018 in a match that had a dramatic ending.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6ce2484f-3c1c-49c2-b7ee-9a4002bd0de5/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724143000 +0000" stop="20250724144500 +0000">
+    <title lang="en">EFL 17/18: Derby County v Cardiff</title>
+    <desc lang="en">A chance to relive a classic match from the EFL. Here, Derby County take on Cardiff City at Pride Park in the 2017-18 campaign in a match with implications in the play-off race.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c72afaf4-3eff-4bab-ac81-3dbac9dd260b/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724144500 +0000" stop="20250724150000 +0000">
+    <title lang="en">EFL 17/18: Derby County v Leeds</title>
+    <desc lang="en">A chance to relive a classic match from the EFL. Here, Derby County take on Marcelo Bielsa's Leeds United at Pride Park in a Championship match that saw five goals.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/129cded8-be8a-4652-8c03-f5d30079044d/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724150000 +0000" stop="20250724160000 +0000">
+    <title lang="en">EFL Cup 23/24: Chelsea v Liverpool</title>
+    <desc lang="en">Jurgen Klopp's farewell tour stops at Wembley for this season's Carabao Cup final as Liverpool face Chelsea. Just two years ago, the Reds beat the Blues here for a ninth League Cup. (25.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a1477e92-362e-3a61-a568-240c362d452a/16-9" />
+    <episode-num system="onscreen">02</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724160000 +0000" stop="20250724163000 +0000">
+    <title lang="en">EFL Cup Best Goals: 2023/24</title>
+    <desc lang="en">From Vale Park all the way to Wembley - this season's Carabao Cup has thrown up a host of stunning goals. Look back at the finest strikes from the 2023-24 competition.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e8afb11d-cca7-3675-ae94-9a43ebaba63e/16-9" />
+    <episode-num system="xmltv_ns">.15.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724163000 +0000" stop="20250724170000 +0000">
+    <title lang="en">EFL Trophy Final 2023/24</title>
+    <desc lang="en">Under the Wembley arch, a winner of the Bristol Street Motors Trophy is crowned as Darren Ferguson's Peterborough face a Wycombe team playing in their first EFL Trophy final. (07.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d199b4ad-88d3-3504-aeff-79c6ef5aaf59/16-9" />
+    <episode-num system="onscreen">04</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724170000 +0000" stop="20250724180000 +0000">
+    <title lang="en">EFL Play-Off Final: C'Ship 05/06</title>
+    <desc lang="en">A look back at some classic Football League play-off finals from years gone by. Here, Leeds United take on Watford at the Millennium Stadium in the Championship play-off final in 2006.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b059981f-c587-307e-887e-60fd21d55408/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724180000 +0000" stop="20250724200000 +0000">
+    <title lang="en">EFL Play-Off Final: C'Ship 06/07</title>
+    <desc lang="en">A look back at some classic Football League play-off finals from years gone by. Here, Derby County take on West Bromwich Albion at Wembley in the Championship play-off final in 2007.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a2d23a4c-668b-4dd0-820d-506e6b783f17/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724200000 +0000" stop="20250724201500 +0000">
+    <title lang="en">EFL 17/18: West Brom v Leeds Utd</title>
+    <desc lang="en">A chance to relive a classic match from the EFL. Here, West Brom take on Leeds United at The Hawthorns in a high-scoring Championship match that saw one side dominate.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/05b82640-a09f-4c00-a330-34f61fd71e39/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724201500 +0000" stop="20250724203000 +0000">
+    <title lang="en">EFL 17/18: A. Villa v Birmingham</title>
+    <desc lang="en">A chance to relive a classic match from the EFL. Here, Aston Villa host Birmingham City at Villa Park in a high-scoring Second City derby.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0147239e-50a0-4ea0-935c-af0b1319f511/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724203000 +0000" stop="20250724204500 +0000">
+    <title lang="en">EFL 17/18: Aston Villa v N. Forest</title>
+    <desc lang="en">A chance to relive a classic match from the EFL. Here, Aston Villa host Nottingham Forest at Villa Park in an enthralling, end-to-end encounter that saw 10 goals.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1b38ed0e-ca33-43ba-9e6e-6398f7ce6deb/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724204500 +0000" stop="20250724210000 +0000">
+    <title lang="en">EFL 18/19: Aston Villa v Leeds Utd</title>
+    <desc lang="en">In the dying embers of an 2018-19 Sky Bet Championship clash at Villa Park, Kemar Roofe's last-gasp goal sealed a famous Leeds comeback having trailed 2-0 to Aston Villa.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d34513cf-c8f4-4a59-ac75-fbf3c8008188/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724210000 +0000" stop="20250724220000 +0000">
+    <title lang="en">EFL Cup 24/25: L'pool v Newcastle</title>
+    <desc lang="en">In an EFL Cup final of firsts, Arne Slot targets his first piece of silverware with Liverpool while Newcastle bid to end the club's 70-year wait for a first major trophy since 1955. (16.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4dbc31a2-8c9c-4a4f-aea0-2f2131d39a80/16-9" />
+    <episode-num system="onscreen">03</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724220000 +0000" stop="20250724223000 +0000">
+    <title lang="en">EFL Cup Best Goals: 2024/25</title>
+    <desc lang="en">From the Valley all the way to Wembley - this season's Carabao Cup has thrown up a host of stunning goals. Look back at the finest strikes from the 2024-25 competition.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/10bd94fc-71b8-42ea-b037-27ddf414b4ba/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724223000 +0000" stop="20250724230000 +0000">
+    <title lang="en">EFL Trophy Final 2024/25</title>
+    <desc lang="en">In the final of the 2024-2025 EFL Trophy, Birmingham City and Peterborough compete at Wembley Stadium. (13.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f46945f0-bfb4-47bb-a253-253ddfdca116/16-9" />
+    <episode-num system="onscreen">04</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250724230000 +0000" stop="20250725000000 +0000">
+    <title lang="en">1983 - When Aberdeen Ruled Europe</title>
+    <desc lang="en">The story of the greatest year in the history of Aberdeen, when the yet to be knighted, Alex Ferguson, guided the club to two European trophies in the space of six months.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/26d64588-4892-34a6-9848-3d483c598bd5/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250725000000 +0000" stop="20250725003000 +0000">
+    <title lang="en">Scottish Goals Of The Season 14-15</title>
+    <desc lang="en">Look back at the very best goals from the 2014-2015 Scottish Premiership season.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/34f112ef-5ed7-43e3-8077-c650cf13a674/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250725003000 +0000" stop="20250725010000 +0000">
+    <title lang="en">SPFL 16/17: Rangers v Celtic</title>
+    <desc lang="en">Scottish football's biggest game is back at Ibrox as Rangers host Celtic in the SPFL Ladbrokes Premiership. Celtic won the first meeting between the sides this season 5-1 in September.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f7f771b0-b7b6-437c-ab9f-40fb92ce6ac1/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250725010000 +0000" stop="20250725013000 +0000">
+    <title lang="en">SPFL 16/17: Celtic v Rangers</title>
+    <desc lang="en">Celtic host Rangers at Celtic Park in the SPFL Ladbrokes Premiership. Celtic are looking to remain on track to stay unbeaten through a full league season.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/901fded0-513a-44f0-9e1f-efd395cc113b/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250725013000 +0000" stop="20250725020000 +0000">
+    <title lang="en">SPFL 16/17: Rangers v Celtic</title>
+    <desc lang="en">Rangers play Celtic at Ibrox in the SPFL Ladbrokes Premiership. Celtic will be looking to avoid defeat as they aim to remain on track to complete an unbeaten season in the league.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3103dc67-6dc6-4636-beb9-2e8e0ce124a5/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250725020000 +0000" stop="20250725021500 +0000">
+    <title lang="en">SPFL 2017/18: Rangers v Celtic</title>
+    <desc lang="en">Classic action from the Scottish Premiership. Here, Rangers host Celtic at Ibrox in September 2017 in the Ladbrokes Premiership. Celtic came into the clash unbeaten in 56 domestic matches.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/33de721b-d930-4d01-a927-d985d2403131/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250725021500 +0000" stop="20250725023000 +0000">
+    <title lang="en">SPFL 2017/18: Celtic v Rangers</title>
+    <desc lang="en">Classic action from the Scottish Premiership. Here, Celtic meet Rangers in a tense encounter in the final Old Firm derby of 2017.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d3d3fc66-43dd-42d3-90c9-c5744baf77d9/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250725023000 +0000" stop="20250725030000 +0000">
+    <title lang="en">SPFL 2017/18: Rangers v Celtic</title>
+    <desc lang="en">Relive some classic action from the Scottish Premiership. Here, Rangers and Celtic go head-to-head at Ibrox in a five-goal thriller in March 2018.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/bb929718-3d71-4c4f-8ae4-00d1173d8208/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250725030000 +0000" stop="20250725033000 +0000">
+    <title lang="en">SPFL 2017/18: Celtic v Rangers</title>
+    <desc lang="en">Relive some classic action from the Scottish Premiership. Here, Celtic meet Rangers at Celtic Park in the 2017-18 season - where three points for the hosts would secure the title.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d3d3fc66-43dd-42d3-90c9-c5744baf77d9/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250725033000 +0000" stop="20250725040000 +0000">
+    <title lang="en">SPFL 18/19: Celtic v Rangers</title>
+    <desc lang="en">Celtic host Rangers at Celtic Park in the SPFL Ladbrokes Premiership. This is new Rangers boss Steven Gerrard's first Old Firm derby.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/60795f1d-bb7c-4b6a-b27c-d14770c02d4f/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250725040000 +0000" stop="20250725043000 +0000">
+    <title lang="en">SPFL 18/19: Rangers v Celtic</title>
+    <desc lang="en">Rangers take on Celtic at Ibrox in the SPFL Ladbrokes Premiership. A win for Rangers draws them level with the visitors at the top, while a win for Celtic puts them six points clear.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2bf4c79e-86bc-4a0d-b77b-51d1f7da77ce/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250725043000 +0000" stop="20250725050000 +0000">
+    <title lang="en">SPFL 18/19: Celtic v Rangers</title>
+    <desc lang="en">Celtic host rivals Rangers at Celtic Park in the SPFL Ladbrokes Premiership. Celtic can move 13 points clear at the top with a win.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/de624b40-af24-39ad-a402-596b1ef15a46/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250725050000 +0000" stop="20250725070000 +0000">
+    <title lang="en">Retro L1 15: Swindon v Sheff Utd</title>
+    <desc lang="en">A chance to relive a classic match from years gone by in the EFL. Here, Swindon and Sheffield United go head-to-head in the second leg of their 2015 play-off semi-final.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/32211b89-f57f-4a64-980d-c43b8c747f9e/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250725070000 +0000" stop="20250725071500 +0000">
+    <title lang="en">EFL 18/19: Aston Villa v Sheff Utd</title>
+    <desc lang="en">In 2019 at Villa Park, Tyrone Mings, Tammy Abraham and Andre Green saved Villa's blushes, scoring three goals in the final 10 minutes to steal a point from the visiting Sheffield United.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d2b48ac6-7246-4e44-96d5-5cd527ca46a2/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250725071500 +0000" stop="20250725073000 +0000">
+    <title lang="en">EFL 18/19:Leeds Utd v Derby County</title>
+    <desc lang="en">Frank Lampard's Derby go to Elland Road for the second leg of their 2018-19 Sky Bet Championship play-off semi-final with Marcelo Bielsa's Leeds, with the odds stacked against them.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b1605fd4-7cec-40f9-9bea-d49aaf7e32de/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250725073000 +0000" stop="20250725074500 +0000">
+    <title lang="en">EFL 18/19: Charlton v Doncaster</title>
+    <desc lang="en">Two matches of Sky Bet League 1 semi-final play-off action couldn't separate Charlton Athletic and Doncaster Rovers in 2019, as a date at Wembley hinged on a dramatic penalty shootout.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2db38d92-f811-41d2-a5e2-8f3faea51e6b/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250725074500 +0000" stop="20250725080000 +0000">
+    <title lang="en">EFL 21/22: Coventry City v Fulham</title>
+    <desc lang="en">In October 2021, Coventry took Fulham to the sword, putting four past the travelling west Londoners who eventually went on to secure Premier League promotion.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/65846c3f-9e39-44bd-b2a9-0a8a26e02923/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250725080000 +0000" stop="20250725081500 +0000">
+    <title lang="en">EFL 21/22: Blackburn v Fulham</title>
+    <desc lang="en">In a Sky Bet Championship encounter to remember for the visitors - and one to forget for the hosts - the travelling Fulham put seven unanswered goals past a hapless Blackburn at Ewood Park.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f9e5233c-ebb4-4489-935c-0c79de41cd48/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250725081500 +0000" stop="20250725083000 +0000">
+    <title lang="en">EFL 97/98: Charlton v Sunderland</title>
+    <desc lang="en">Relive a classic clash from the English Football League - here, rewind to May 1998 for the First Division play-off final at Wembley, as Charlton met Sunderland in an eight-goal thriller.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/00c94f19-7532-40e2-95bc-d65cb02d6de4/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250725083000 +0000" stop="20250725084500 +0000">
+    <title lang="en">EFL 98/99: Gillingham v Man City</title>
+    <desc lang="en">Relive a classic match from the English Football League. Here, remember the thrilling 1998-99 Second Division play-off final between Gillingham and Manchester City at Wembley.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a5b1961a-02c8-4626-bcf9-0e69b2f41254/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250725084500 +0000" stop="20250725090000 +0000">
+    <title lang="en">EFL 98/99: Bolton v Watford</title>
+    <desc lang="en">Relive a classic match from the English Football League. Here, Bolton Wanderers and Watford face off in the First Division play-off final at Wembley back in 1999.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/da355279-b029-4083-b1cf-507a2d827dfa/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250725090000 +0000" stop="20250725100000 +0000">
+    <title lang="en">Live WSL Fixtures 2025-26</title>
+    <desc lang="en">Ahead of the 2025-26 WSL, the fixtures for the brand-new women's top-flight campaign are revealed.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+    <icon src="https://images.metadata.sky.com/pd-image/124b8bd8-ee93-4749-98db-456b3c04ac64/16-9" />
+    <episode-num system="xmltv_ns">.223.</episode-num>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250725100000 +0000" stop="20250725110000 +0000">
+    <title lang="en">Henrik Larsson - 20 Years On</title>
+    <desc lang="en">Henrik Larsson sits down with former strike partner Chris Sutton to discuss his magnificent seven years at Celtic two decades after bowing out at Paradise.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/671071c0-e4f4-3b08-abc0-39cdff341e3a/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250725110000 +0000" stop="20250725120000 +0000">
+    <title lang="en">EFL Play-Off Final: C'Ship 05/06</title>
+    <desc lang="en">A look back at some classic Football League play-off finals from years gone by. Here, Leeds United take on Watford at the Millennium Stadium in the Championship play-off final in 2006.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/166d97a3-1a1e-4b81-bbca-6afd60046858/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250725120000 +0000" stop="20250725140000 +0000">
+    <title lang="en">EFL Play-Off Final: C'Ship 06/07</title>
+    <desc lang="en">A look back at some classic Football League play-off finals from years gone by. Here, Derby County take on West Bromwich Albion at Wembley in the Championship play-off final in 2007.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a2d23a4c-668b-4dd0-820d-506e6b783f17/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250725140000 +0000" stop="20250725141500 +0000">
+    <title lang="en">EFL 00/01: Bolton v Preston</title>
+    <desc lang="en">A chance to relive a classic clash from the Football League. Here, Bolton Wanderers and Preston North End meet in the First Division play-off final at the Millennium Stadium back in 2001.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/71c72886-b1fe-4d84-9e40-9f0060648cb8/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250725141500 +0000" stop="20250725143000 +0000">
+    <title lang="en">EFL 02/03: Sheff Utd v Wolves</title>
+    <desc lang="en">A chance to relive a classic English Football League clash. Here, Sheffield United and Wolves meet in the First Division play-off final at the Millennium Stadium in Cardiff back in 2003.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0442ded0-6e72-4d74-a80b-a2483c9cd34c/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250725143000 +0000" stop="20250725144500 +0000">
+    <title lang="en">EFL 06/07: N. Forest v Yeovil</title>
+    <desc lang="en">Relive a classic clash from the English Football League. Here, Nottingham Forest face Yeovil in their Sky Bet League One play-off semi-final second leg at the City Ground in 2007.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b08d69d5-4d53-4634-8d64-d2ea82509f32/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250725144500 +0000" stop="20250725150000 +0000">
+    <title lang="en">EFL 08/09: Cardiff v Swansea</title>
+    <desc lang="en">A chance to relive a classic clash from the English Football League. Here, Cardiff City meet Swansea City in a thrilling south Wales derby at Ninian Park in 2009.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/cb66738c-62e2-4435-8da1-858cc2b29dae/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250725150000 +0000" stop="20250725160000 +0000">
+    <title lang="en">EFL Cup 24/25: L'pool v Newcastle</title>
+    <desc lang="en">In an EFL Cup final of firsts, Arne Slot targets his first piece of silverware with Liverpool while Newcastle bid to end the club's 70-year wait for a first major trophy since 1955. (16.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4dbc31a2-8c9c-4a4f-aea0-2f2131d39a80/16-9" />
+    <episode-num system="onscreen">03</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250725160000 +0000" stop="20250725163000 +0000">
+    <title lang="en">EFL Cup Best Goals: 2024/25</title>
+    <desc lang="en">From the Valley all the way to Wembley - this season's Carabao Cup has thrown up a host of stunning goals. Look back at the finest strikes from the 2024-25 competition.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/10bd94fc-71b8-42ea-b037-27ddf414b4ba/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250725163000 +0000" stop="20250725170000 +0000">
+    <title lang="en">EFL Trophy Final 2024/25</title>
+    <desc lang="en">In the final of the 2024-2025 EFL Trophy, Birmingham City and Peterborough compete at Wembley Stadium. (13.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f46945f0-bfb4-47bb-a253-253ddfdca116/16-9" />
+    <episode-num system="onscreen">04</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250725170000 +0000" stop="20250725180000 +0000">
+    <title lang="en">EFL Play-Off Final: C'Ship 07/08</title>
+    <desc lang="en">A look back at some classic Football League play-off finals from years gone by. Here, Bristol City take on Hull City at Wembley in the Championship play-off final in 2008.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9e7b36d7-9bd6-37a9-85d6-617c23daaa15/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250725180000 +0000" stop="20250725190000 +0000">
+    <title lang="en">EFL Play-Off Final: C'Ship 08/09</title>
+    <desc lang="en">A look back at some classic Football League play-off finals from years gone by. Here, Burnley take on Sheffield United at Wembley in the Championship play-off final in 2009.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a654c82d-5e83-491b-b838-1a5b05b9af1d/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250725190000 +0000" stop="20250725200000 +0000">
+    <title lang="en">EFL Play-Off Final: C'Ship 11/12</title>
+    <desc lang="en">A look back at some classic Football League play-off finals from years gone by. Here, Blackpool take on West Ham United at Wembley in the Championship play-off final in 2012.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/85fbbf2d-d0e2-45f4-9469-c17b163fbcbb/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250725200000 +0000" stop="20250725201500 +0000">
+    <title lang="en">EFL 08/09: Millwall v Scunthorpe</title>
+    <desc lang="en">A chance to relive a classic clash from the English Football League. Here, Millwall face Scunthorpe at Wembley Stadium in the League 1 play-off final in 2009.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/272be84b-36df-4b4f-815d-0d15e6bd8708/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250725201500 +0000" stop="20250725203000 +0000">
+    <title lang="en">EFL 09/10: Sheff Utd v Sheff Weds</title>
+    <desc lang="en">A chance to relive a classic clash from the English Football League. Here, Sheffield United and Sheffield Wednesday meet in a thrilling Steel City derby in September 2009.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/42bd3b1e-07dc-45bc-a5fb-ea2863da47e9/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250725203000 +0000" stop="20250725204500 +0000">
+    <title lang="en">EFL 10/11: Peterborough v So'ton</title>
+    <desc lang="en">A chance to relive a classic clash from the English Football League. Here, Peterborough and Southampton meet in an eight-goal thriller in League 1 in February 2011.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2edaa370-2c88-49b6-92a3-39dbce02d3fe/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250725204500 +0000" stop="20250725210000 +0000">
+    <title lang="en">EFL 12/13: Watford v Leicester</title>
+    <desc lang="en">A chance to relive a classic clash from the English Football League. Here, Watford meet Leicester City in the famous second leg of their Championship play-off semi-final in May 2013.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d0348981-bc5d-4f03-b76e-1579ebf2b79c/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250725210000 +0000" stop="20250725230000 +0000">
+    <title lang="en">EFL Cup Retro 10:A.Villa v Man Utd</title>
+    <desc lang="en">A chance to relive a classic League Cup final. Here, Aston Villa and Manchester United meet in the 2009-10 final at Wembley.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/39ce8004-fa7b-3f55-b773-634accd1ce37/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250725230000 +0000" stop="20250726000000 +0000">
+    <title lang="en">EFL Play-Off Final: C'Ship 18/19</title>
+    <desc lang="en">Dean Smith's Aston Villa and Frank Lampard's Derby County meet at Wembley in the Sky Bet Championship play-off final, as the final side in next year's Premier League is confirmed.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/867bbe4c-0bea-44f9-8662-e3947a101971/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250726000000 +0000" stop="20250726010000 +0000">
+    <title lang="en">EFL Play-Off Final: League 1 18/19</title>
+    <desc lang="en">Charlton Athletic take on Sunderland at Wembley in the Sky Bet League One play-off final. These sides famously met in the Division One play-off final back in 1998 in a 4-4 thriller.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e0ae125c-ea1f-4cb5-9a0b-1c54f477a713/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250726010000 +0000" stop="20250726020000 +0000">
+    <title lang="en">EFL Play-Off Final: League 2 18/19</title>
+    <desc lang="en">Newport County and Tranmere Rovers face off at Wembley in the Sky Bet League Two play-off final, with the final place in next season's League One on the line.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4502d78f-fd2c-4d42-8754-244eb54a3244/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250726020000 +0000" stop="20250726021500 +0000">
+    <title lang="en">EFL 13/14: Sheff Weds v Leeds Utd</title>
+    <desc lang="en">Relive a classic match from the Football League. Here, Yorkshire rivals Sheffield Wednesday and Leeds United meet at Hillsborough in January 2014 in a memorable game for the Owls.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/41da3eae-7c69-4453-b505-48cff7c4d54f/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250726021500 +0000" stop="20250726023000 +0000">
+    <title lang="en">EFL 13/14: Derby County v N.Forest</title>
+    <desc lang="en">A chance to relive a classic clash from the English Football League. Here, Derby County meet Nottingham Forest in the Sky Bet Championship.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d92da56f-8078-46d3-860e-23de03365f58/16-9" />
+    <episode-num system="xmltv_ns">.17.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250726023000 +0000" stop="20250726024500 +0000">
+    <title lang="en">EFL 13/14: QPR v N. Forest</title>
+    <desc lang="en">Relive a classic match from the English Football League. Here, QPR host Nottingham Forest at Loftus Road in the 2013-14 season in a seven-goal thriller.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/65108474-2c06-45d2-95e0-9686f9bd8f73/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250726024500 +0000" stop="20250726030000 +0000">
+    <title lang="en">EFL 14/15: Brentford v Fulham</title>
+    <desc lang="en">Relive some classic action from the English Football League. Here, a west London derby in the Sky Bet Championship between Brentford and Fulham at Griffin Park in November 2014.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2d8d6dd6-fe66-4846-a613-248bbd6bd7ba/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250726030000 +0000" stop="20250726050000 +0000">
+    <title lang="en">Retro C'Ship 12: B'pool v West Ham</title>
+    <desc lang="en">A chance to relive a classic match from the Championship. Here the play-off final from the 2011-12 campaign, as Blackpool and West Ham meet at Wembley.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/85fbbf2d-d0e2-45f4-9469-c17b163fbcbb/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250726050000 +0000" stop="20250726070000 +0000">
+    <title lang="en">Retro L1 19: Charlton v S'land</title>
+    <desc lang="en">A chance to look back at a classic League One play-off final, as Charlton and Sunderland go head-to-head in the 2019 final at Wembley. It was to go right to the wire..</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f6cc85a9-a17d-4197-92db-4494d249453e/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250726070000 +0000" stop="20250726071500 +0000">
+    <title lang="en">EFL 14/15: Derby County v N.Forest</title>
+    <desc lang="en">Relive some classic English Football League action. Here, a Midlands derby in the Sky Bet Championship between Derby County and Nottingham Forest at the iPro Stadium in January 2015.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/be105fb0-c587-4c7a-9e06-b214ae77fff0/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250726071500 +0000" stop="20250726073000 +0000">
+    <title lang="en">EFL 14/15: Norwich v Ipswich</title>
+    <desc lang="en">A chance to relive some classic action from the EFL. Here, Norwich City and Ipswich Town clash in an East Anglian derby at Carrow Road back in March 2015.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/207b8fe0-4e0c-4410-8ee3-8950a91276d8/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250726073000 +0000" stop="20250726074500 +0000">
+    <title lang="en">EFL 14/15: Wolves v Leeds Utd</title>
+    <desc lang="en">A chance to relive some classic action from the EFL. Here, Wolverhampton Wanderers host Leeds United at Molineux in April 2015 in a thrilling game that saw seven goals.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/176d838f-5323-4ed4-b053-3a66f7014c76/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250726074500 +0000" stop="20250726080000 +0000">
+    <title lang="en">EFL 14/15: Swindon v Sheff Utd</title>
+    <desc lang="en">Relive a classic match from the English Football League. Here, Swindon Town host Sheffield United at the County Ground in a 10-goal thriller in the play-offs back in May 2015.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0928e066-6bc0-48ae-9b75-a89e381c900a/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250726080000 +0000" stop="20250726081500 +0000">
+    <title lang="en">EFL 14/15: Norwich v Ipswich</title>
+    <desc lang="en">Relive some classic action from the English Football League. Here, East Anglian rivals Norwich City and Ipswich Town meet at Carrow Road in the Sky Bet play-offs in May 2015.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/746e7ee1-b476-4fd7-9e25-64396e9ea5ab/16-9" />
+    <episode-num system="xmltv_ns">.24.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250726081500 +0000" stop="20250726083000 +0000">
+    <title lang="en">EFL 14/15: Derby County v Leeds</title>
+    <desc lang="en">A chance to relive some classic action from the EFL. Here, Derby County take on Leeds United at Pride Park in August 2015 in a game that saw a thrilling late winner.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5747a1e2-1e2b-48c4-8e7a-55d95b33ecd2/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250726083000 +0000" stop="20250726084500 +0000">
+    <title lang="en">EFL 15/16: Hull City v Reading</title>
+    <desc lang="en">A chance to relive some classic action from the EFL. Here, Hull City take on Reading at the KC Stadium in December 2015 in a thrilling clash that saw a late winner.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/da809ecb-617d-4a17-9c3d-734ce080531e/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250726084500 +0000" stop="20250726090000 +0000">
+    <title lang="en">EFL 15/16: QPR v Middlesbrough</title>
+    <desc lang="en">A chance to relive some classic action from the English Football League. Here, QPR host Middlesbrough in a five-goal thriller at Loftus Road in the 2015-16 season.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1ba775bc-0ac8-40a8-9897-184f108c4929/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250726090000 +0000" stop="20250726100000 +0000">
+    <title lang="en">EFL Cup 18/19: Chelsea v Man City</title>
+    <desc lang="en">Chelsea and Manchester City go head-to-head in the Carabao Cup final at Wembley. City won 6-0 when the sides met recently in the league.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/107d973d-56b5-48ba-af08-22b142a07919/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250726100000 +0000" stop="20250726103000 +0000">
+    <title lang="en">EFL Cup Best Goals: 2018/19</title>
+    <desc lang="en">A look at all the very best goals scored from across another memorable season in the 2018-19 Carabao Cup.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2ebe024c-b247-4bbc-9c1b-ae3028028d36/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250726103000 +0000" stop="20250726110000 +0000">
+    <title lang="en">Best Championship Goals 2017/18</title>
+    <desc lang="en">Enjoy some of the finest goals from the Sky Bet Championship during the 2017-2018 season.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/968d8fe6-88c2-44ea-ad97-d0f195dc8ded/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250726110000 +0000" stop="20250726113000 +0000">
+    <title lang="en">EFL SF: Chesterfield v Walsall</title>
+    <desc lang="en">Chesterfield and Walsall face off in the first leg of a Sky Bet League Two play-off semi-final. Can the hosts take a big step towards back-to-back promotions with a win at home? (11.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f9c40d79-272e-4fd3-9d7e-b716a11401e2/16-9" />
+    <episode-num system="onscreen">05</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250726113000 +0000" stop="20250726120000 +0000">
+    <title lang="en">EFL SF: Notts County v Wimbledon</title>
+    <desc lang="en">Despite losing out on an automatic-promotion spot, Notts County continue their promotion bid with a Sky Bet League Two play-off semi-final first leg against AFC Wimbledon. (11.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6a1db9f9-40d0-497e-b870-6189eb497de7/16-9" />
+    <episode-num system="onscreen">05</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250726120000 +0000" stop="20250726123000 +0000">
+    <title lang="en">EFL SF: Walsall v Chesterfield</title>
+    <desc lang="en">The second leg of the Sky Bet League Two play-off semi-final between Walsall and Chesterfield. The hosts bring a two-goal advantage back to the Bescot Stadium. (16.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/608ae7e8-ba34-4a06-b495-9db1ad38e698/16-9" />
+    <episode-num system="onscreen">05</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250726123000 +0000" stop="20250726130000 +0000">
+    <title lang="en">EFL SF: Wimbledon v Notts County</title>
+    <desc lang="en">A Sky Bet League Two play-off semi-final second leg between AFC Wimbledon and Notts County. The hosts bring a 1-0 lead to the Cherry Red Records Stadium after the first leg. (17.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ab3caf92-2e75-41ae-9ecd-f16b5cfcec6f/16-9" />
+    <episode-num system="onscreen">05</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250726130000 +0000" stop="20250726140000 +0000">
+    <title lang="en">EFL Play-Off Final: League 2 24/25</title>
+    <desc lang="en">Wembley Stadium sets the stage for AFC Wimbledon and Walsall in the 2024-25 Sky Bet League Two play-off final, with the winner ascending to England's third tier. (26.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e33d1bb0-5ce6-40c5-8bb2-9eddff5a70ef/16-9" />
+    <episode-num system="onscreen">05</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250726140000 +0000" stop="20250726143000 +0000">
+    <title lang="en">EFL SF: Leyton Orient v Stockport</title>
+    <desc lang="en">Having secured their highest league finish for 23 years, Stockport County visit Brisbane Road for the first leg of their Sky Bet League One play-off semi-final with Leyton Orient. (10.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/edc88ad0-c424-4987-82ec-c2f78212f293/16-9" />
+    <episode-num system="onscreen">05</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250726143000 +0000" stop="20250726150000 +0000">
+    <title lang="en">EFL SF: Wycombe v Charlton</title>
+    <desc lang="en">The first leg of a Sky Bet League One play-off semi-final. (10.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/01f975b2-3af0-4097-b4e2-8ec27f30eaf5/16-9" />
+    <episode-num system="onscreen">05</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250726150000 +0000" stop="20250726153000 +0000">
+    <title lang="en">EFL SF: Stockport v Leyton Orient</title>
+    <desc lang="en">The second leg of a Sky Bet League One play-off semi-final between Stockport County and Leyton Orient. Things remain all-square after the first leg after a 2-2 thriller. (14.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ad54da84-a15a-42e4-aa02-286679940790/16-9" />
+    <episode-num system="onscreen">05</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250726153000 +0000" stop="20250726160000 +0000">
+    <title lang="en">EFL SF: Charlton v Wycombe</title>
+    <desc lang="en">The second leg of the Sky Bet League One play-off semi-final between Charlton Athletic and Wycombe Wanderers. With the first leg ending goalless, it is all to play for. (15.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5cdc420c-d68d-415e-a349-49b9fec73e82/16-9" />
+    <episode-num system="onscreen">05</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250726160000 +0000" stop="20250726170000 +0000">
+    <title lang="en">EFL Play-Off Final: League 1 24/25</title>
+    <desc lang="en">Wembley Stadium hosts the Sky Bet League One play-off final, as Charlton Athletic and Leyton Orient go toe to toe for promotion. Charlton emerged victorious in both league games. (25.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6a19821f-aff6-495b-a423-0c9da5a95708/16-9" />
+    <episode-num system="onscreen">05</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250726170000 +0000" stop="20250726173000 +0000">
+    <title lang="en">EFL PO SF: Bristol City v Sheff U</title>
+    <desc lang="en">In the first leg of their Sky Bet Championship play-off semi-final, Bristol City, entering their first play-off since 2008, host third-placed Sheffield United at Ashton Gate. (08.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f83bb999-efe2-40cf-8d1f-c7d1c9ddeb45/16-9" />
+    <episode-num system="onscreen">05</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250726173000 +0000" stop="20250726180000 +0000">
+    <title lang="en">EFL PO SF: Coventry v Sunderland</title>
+    <desc lang="en">Aiming to reach their second play-off final in three years, Coventry City face Sunderland at the Coventry Building Society Arena in their Sky Bet Championship semi-final first leg. (09.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/dcfe0bf8-672b-4aed-b3b4-0297dc54d580/16-9" />
+    <episode-num system="onscreen">05</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250726180000 +0000" stop="20250726183000 +0000">
+    <title lang="en">EFL PO SF: Sheff U v Bristol City</title>
+    <desc lang="en">Carrying over a surging 3-0 win over Bristol City last Thursday, Sheffield United return to Bramall Lane to finish the job in their second Sky Bet Championship play-off semi-final. (12.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4bbfe98a-3dbc-4af0-a1ff-a5031a3ac0da/16-9" />
+    <episode-num system="onscreen">05</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250726183000 +0000" stop="20250726190000 +0000">
+    <title lang="en">EFL PO SF: Sunderland v Coventry</title>
+    <desc lang="en">Bringing the advantage to the Stadium of Light thanks to an Eliezer Mayenda strike, Sunderland face Coventry in the second leg of their Sky Bet Championship play-off semi-final. (13.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/fbfdbe45-a23d-4e6f-9ac2-16fea446c1c4/16-9" />
+    <episode-num system="onscreen">05</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250726190000 +0000" stop="20250726200000 +0000">
+    <title lang="en">EFL Play-Off Final: C'Ship 24/25</title>
+    <desc lang="en">Sheffield United and Sunderland face off for a place in next year's Premier League, as Wembley Stadium hosts the 2024-25 Sky Bet Championship play-off final. (24.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d1a8deb2-61b2-454a-ab2f-507980259336/16-9" />
+    <episode-num system="onscreen">05</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250726200000 +0000" stop="20250726210000 +0000">
+    <title lang="en">EFL Cup 24/25: L'pool v Newcastle</title>
+    <desc lang="en">In an EFL Cup final of firsts, Arne Slot targets his first piece of silverware with Liverpool while Newcastle bid to end the club's 70-year wait for a first major trophy since 1955. (16.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4dbc31a2-8c9c-4a4f-aea0-2f2131d39a80/16-9" />
+    <episode-num system="onscreen">03</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250726210000 +0000" stop="20250726213000 +0000">
+    <title lang="en">EFL Cup Best Goals: 2024/25</title>
+    <desc lang="en">From the Valley all the way to Wembley - this season's Carabao Cup has thrown up a host of stunning goals. Look back at the finest strikes from the 2024-25 competition.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/10bd94fc-71b8-42ea-b037-27ddf414b4ba/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250726213000 +0000" stop="20250726220000 +0000">
+    <title lang="en">EFL Trophy Final 2024/25</title>
+    <desc lang="en">In the final of the 2024-2025 EFL Trophy, Birmingham City and Peterborough compete at Wembley Stadium. (13.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f46945f0-bfb4-47bb-a253-253ddfdca116/16-9" />
+    <episode-num system="onscreen">04</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250726220000 +0000" stop="20250726223000 +0000">
+    <title lang="en">Scottish Premiership Goals 2024/25</title>
+    <desc lang="en">A look at the finest strikes from the 2024-25 Scottish Premiership season.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/25baa765-5b8c-4a7b-ae1b-8759f0414604/16-9" />
+    <episode-num system="xmltv_ns">.45.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250726223000 +0000" stop="20250726224500 +0000">
+    <title lang="en">EFL 15/16: B'ham v Middlesbrough</title>
+    <desc lang="en">Relive some classic action from the English Football League. Here, Birmingham City take on Middlesbrough at St Andrew's in a four-goal thriller in the 2015-16 season.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c2485363-4b53-4d37-9b45-b1c2b3bf72f5/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20250726224500 +0000" stop="20250726230000 +0000">
     <title lang="en">EFL 15/16:Middlesbrough v Brighton</title>
     <desc lang="en">A look back at some classic matches from the English Football League. Here, Middlesbrough take on Brighton and Hove Albion in a tense Championship promotion decider in May 2016.</desc>
     <category lang="en">Sports</category>
