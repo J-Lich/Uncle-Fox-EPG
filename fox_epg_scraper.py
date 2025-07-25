@@ -96,7 +96,7 @@ def fetch_epg_data():
                             if event_id and event_id not in processed_event_ids:
                                 print(f"  Fetching details for event ID: {event_id} ({event_summary.get('programTitle', '')})")
 
-                                event_detail_url = f"{event_base_url}{event_id}?movieHeight=213&tvShowHeight=213&regionId=20480"
+                                event_detail_url = f"{event_base_url}{event_id}?movieHeight=720&tvShowHeight=720&regionId=20480"
                                 try:
                                     event_response = requests.get(event_detail_url, headers=headers)
                                     event_response.raise_for_status()
