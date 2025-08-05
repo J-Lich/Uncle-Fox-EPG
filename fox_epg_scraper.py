@@ -135,7 +135,7 @@ def convert_to_xmltv(json_data):
     print("\nGenerating XMLTV file...")
     # --- Create Channel Elements using the new CHANNELS_CONFIG ---
     for channel_tag, channel_info in CHANNELS_CONFIG.items():
-        xml_channel_id = f"{channel_info['id_num']}.{channel_tag}"
+        xml_channel_id = f"{channel_info['id_num']}"
         channel_el = ET.SubElement(root, "channel", {"id": xml_channel_id})
         ET.SubElement(channel_el, "display-name").text = channel_info['display_name']
         ET.SubElement(channel_el, "icon", {"src": ICON_MAP.get(channel_tag, DEFAULT_ICON)})
@@ -149,7 +149,7 @@ def convert_to_xmltv(json_data):
         if not channel_info:
             continue # Skip if the channel is not in our config
 
-        xml_channel_id = f"{channel_info['id_num']}.{channel_tag}"
+        xml_channel_id = f"{channel_info['id_num']}"
 
         for event in events:
             try:
