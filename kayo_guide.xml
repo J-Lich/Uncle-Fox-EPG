@@ -24,7 +24,7 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/FOX%2520Sports.png" />
   </channel>
-  <programme start="20250808183000 +1000" stop="20250809002500 +1000" channel="4k.kayo.504">
+  <programme start="20250808183028 +1000" stop="20250809002528 +1000" channel="4k.kayo.504">
     <title lang="en">AFL: Geelong Cats vs Essendon Bombers</title>
     <sub-title lang="en">2025</sub-title>
     <desc lang="en">The Cats look to secure their place in the top four as they host a young Bombers side in a Friday night clash.</desc>
@@ -36,7 +36,7 @@
     <desc lang="en">Friday Night Football kicks off in Newcastle with the visitors surging towards the Top 4 on a eight-game winning streak.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68914a13e4b06699ce306634-1754464590991?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20250808195000 +1000" stop="20250808235500 +1000" channel="4k.kayo.502">
+  <programme start="20250808195650 +1000" stop="20250809000150 +1000" channel="4k.kayo.502">
     <title lang="en">Premiership: Canberra vs Manly</title>
     <sub-title lang="en">2025</sub-title>
     <desc lang="en">The hosts are under threat for the Minor Premiership, while the visitors are nearing must-win territory in their tussle for the Top 8.</desc>
@@ -57,24 +57,29 @@
     <desc lang="en">The grid for Races 23 and 24 are set to be determined in the first two qualifying sessions of the weekend. </desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6892a4dee4b0bac79530a640-1754458392082?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20250808234500 +1000" stop="20250809041000 +1000" channel="4k.kayo.501">
+  <programme start="20250808234550 +1000" stop="20250809041050 +1000" channel="4k.kayo.501">
     <title lang="en">: Phoenix v Rockets</title>
     <desc lang="en">Game 4: Ellyse Perry's Phoenix host Trent Rockets, featuring Australians Ash Gardner and Alana King, at Edgbaston.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/688c3bdae4b0ade5a9d361ae-1754541343601?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20250808213000 +1000" stop="20250809034000 +1000" channel="4k.kayo.505">
+  <programme start="20250809030000 +1000" stop="20250809075500 +1000" channel="4k.kayo.501">
+    <title lang="en">: Phoenix v Rockets</title>
+    <desc lang="en">Game 4: Marcus Stoinis and Joe Root's Trent Rockets head to Edgbaston to take on Liam Livingstone’s Birmingham Phoenix.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/688c3bf5e4b008593c4b3795-1754541598834?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250808213029 +1000" stop="20250809034029 +1000" channel="4k.kayo.505">
     <title lang="en">Scottish_Championship: Nexo Championship</title>
     <sub-title lang="en">2025</sub-title>
     <desc lang="en">Second round action of the Nexo Championship from Trump International Golf Links, Aberdeenshire.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6892df77e4b0c10b3c8b4e98-1754456065750?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20250808221500 +1000" stop="20250809091000 +1000" channel="4k.kayo.503">
+  <programme start="20250808221525 +1000" stop="20250809091025 +1000" channel="4k.kayo.503">
     <title lang="en">St. Jude Championship: FedEx St. Jude Championship</title>
     <sub-title lang="en">2025</sub-title>
     <desc lang="en">Australia’s Min Woo Lee faces an uphill battle to be in contention as the second round begins at TPC Southwind in Memphis.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6892dd30e4b0625becd11194-1754466482903?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20250808233000 +1000" stop="20250809044000 +1000" channel="4k.kayo.506">
+  <programme start="20250808233031 +1000" stop="20250809044031 +1000" channel="4k.kayo.506">
     <title lang="en">: PIF Championship: RD1</title>
     <desc lang="en">First round action of the PIF Championship from Centurion Club, London</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68942ca2e4b0f4404e1203a9-1754545857649?location=hero-portrait-m2&amp;imwidth=720" />
