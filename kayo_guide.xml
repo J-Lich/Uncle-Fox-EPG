@@ -24,27 +24,7 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20250825234552 +1000" stop="20250826041052 +1000" channel="4k.kayo.501">
-    <title lang="en">: Invincibles v Spirit</title>
-    <desc lang="en">Game 29: Meg Lanning leads the Invincibles against the London Spirit. A decisive game for both teams pushing for a place in the Eliminator.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68a27b24e4b0a7a3bf51cc3a-1755734512946?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250826030000 +1000" stop="20250826075500 +1000" channel="4k.kayo.501">
-    <title lang="en">: Invincibles v Spirit</title>
-    <desc lang="en">Game 29: Oval Invincibles have dominated this London derby, winning seven of their eight matches against London Spirit.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68a27b14e4b02c590afc4835-1755734523619?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250825220126 +1000" stop="20250826041126 +1000" channel="4k.kayo.506">
-    <title lang="en">: Cadwell Park: Day 2</title>
-    <desc lang="en">Round 7 continues at Cadwell Park with races 2 and 3 of the weekend. The winner of the "King of the Mountain" trophy will be decided.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68a7cb24e4b04f6a9633651e-1755827056372?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250826030000 +1000" stop="20250826074000 +1000" channel="4k.kayo.505">
-    <title lang="en">: Pairs Cup: Week 13</title>
-    <desc lang="en">The Pairs Cup continues with a new generation of players challenging established professionals.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68a3f533e4b0503e37f3b47d-1755575709337?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250826234500 +1000" stop="20250827041000 +1000" channel="4k.kayo.501">
+  <programme start="20250826234553 +1000" stop="20250827041053 +1000" channel="4k.kayo.501">
     <title lang="en">: Superchargers v Originals</title>
     <desc lang="en">Game 30: Annabel Sutherland and Georgia Wareham will be vital for the Superchargers against the Originals.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68a27f0fe4b0e2b585904244-1755734539332?location=hero-portrait-m2&amp;imwidth=720" />
@@ -59,10 +39,16 @@
     <desc lang="en">Game 13: The Kings look to keep their home record strong against a formidable Guyana side.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68abc769e4b0500e32419a62-1756104318853?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20250827053000 +1000" stop="20250827161000 +1000" channel="4k.kayo.505">
+  <programme start="20250827053000 +1000" stop="20250827151000 +1000" channel="4k.kayo.505">
     <title lang="en">: WSL Finals</title>
     <desc lang="en">Day 1: The 2025 season reaches its epic conclusion in Fiji with Australia’s Molly Picklum entering the week as World No. 1.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68a55446e4b0e2b585904380-1756091684732?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250827190500 +1000" stop="20250828001000 +1000" channel="4k.kayo.504">
+    <title lang="en">AFL: Gold Coast Suns vs Essendon Bombers</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">The Suns hold the fate of a few teams in their hands as they fight for a place in their first ever finals series against the undermanned Bombers.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68abb202e4b0500e32419a57-1756161174320?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20250827234500 +1000" stop="20250828041000 +1000" channel="4k.kayo.501">
     <title lang="en">: Rockets v Phoenix</title>
@@ -82,12 +68,12 @@
   <programme start="20250828060000 +1000" stop="20250828161000 +1000" channel="4k.kayo.505">
     <title lang="en">: WSL Finals</title>
     <desc lang="en">Day 2: The winner-takes-all showdown continues at Cloudbreak in Fiji as the top five men and women vie for world titles.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ab9c18e4b0a53c2f3925e3-1756077147277?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ab9c18e4b0a53c2f3925e3-1756162463129?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20250828190000 +1000" stop="20250828235000 +1000" channel="4k.kayo.502">
     <title lang="en">Premiership: Canterbury vs Penrith</title>
     <sub-title lang="en">2025</sub-title>
-    <desc lang="en">Watch Round 26 of the NRL on Kayo.</desc>
+    <desc lang="en">Round 26 begins with the Bulldogs looking to seal a top four spot by ending an eight-game losing streak against the Panthers. </desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68abf042e4b0af84649b9bb5-1756098669854?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20250829045500 +1000" stop="20250829084000 +1000" channel="4k.kayo.502">
@@ -95,21 +81,38 @@
     <desc lang="en">Round 24 of the Super League from Leigh Sports Village Stadium.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68abf4ebe4b0fdc5872e025e-1756099876347?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20250828213000 +1000" stop="20250829034000 +1000" channel="4k.kayo.503">
+    <title lang="en">Omega European Masters: Omega European Masters</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Wyndham Clark and Matt Fitzpatrick headline the field as play begins in Crans-sur-Sierre Golf Club, Switzerland.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ad36bee4b0500e32419aa9-1756189430388?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250829050000 +1000" stop="20250829091000 +1000" channel="4k.kayo.503">
+    <title lang="en">: FM Championship: RD1</title>
+    <desc lang="en">First round coverage of the FM Championship from TPC Boston, Massachusetts.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ad4a45e4b0a53c2f39263e-1756189484098?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20250829050000 +1000" stop="20250829070000 +1000" channel="4k.kayo.505">
     <title lang="en">: WSL Finals</title>
     <desc lang="en">Day 3: The winner-takes-all showdown continues at Cloudbreak in Fiji as the top five men and women vie for world titles. </desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68aba021e4b04040bf4fdda4-1756078169551?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20250829190000 +1000" stop="20250829222500 +1000" channel="4k.kayo.504">
+    <title lang="en">AFL Women's: Richmond Tigers Women vs Essendon Bombers Women</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Dreamtime in Darwin returns with a blockbuster clash between Essendon and Richmond to kick off AFLW Indigenous Round on Friday night.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ad4e4fe4b0c08ac69b9224-1756188267541?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20250829170000 +1000" stop="20250829210000 +1000" channel="4k.kayo.502">
     <title lang="en">Premiership: Warriors vs Parramatta</title>
     <sub-title lang="en">2025</sub-title>
-    <desc lang="en">Watch Round 26 of the NRL on Kayo.</desc>
+    <desc lang="en">A win moves the hosts closer to a Top 4 berth, while the visitors could repeat their spoiler role after putting a dent in the Roosters' Top 8 plans.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68abf0a4e4b0a53c2f392603-1756098769301?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20250829195000 +1000" stop="20250829235500 +1000" channel="4k.kayo.502">
     <title lang="en">Premiership: Melbourne vs Sydney Roosters</title>
     <sub-title lang="en">2025</sub-title>
-    <desc lang="en">Watch Round 26 of the NRL on Kayo.</desc>
+    <desc lang="en">The Storm can celebrate Craig Bellamy's 600th game by sealing a Top 2 spot, while the Roosters are under pressure to retain eighth.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68abf105e4b0af84649b9bb6-1756098850172?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20250830043000 +1000" stop="20250830083000 +1000" channel="4k.kayo.502">
@@ -122,15 +125,66 @@
     <desc lang="en">Game 16: A pivotal match between two of the tournament's powerhouses. Andre Russell's hitting for Trinbago against Rovman Powell's bowling attack.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68abeca6e4b0a53c2f3925fa-1756097801341?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20250829180000 +1000" stop="20250829201000 +1000" channel="4k.kayo.506">
+    <title lang="en">: Netherlands: Practice 1</title>
+    <desc lang="en">The 2025 F1 Academy season resumes with practice at Circuit Zandvoort following a 10-week season break.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ad0feee4b04040bf4fdde2-1756173330119?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250829200000 +1000" stop="20250829225500 +1000" channel="4k.kayo.506">
+    <title lang="en">Formula One World Championship: Dutch Grand Prix</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">The Formula 1 summer break has come to an end and the season resumes with the first practice session at Circuit Zandvoort.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68acff5de4b0c08ac69b9203-1756185473375?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250829234500 +1000" stop="20250830024000 +1000" channel="4k.kayo.506">
+    <title lang="en">Formula One World Championship: Dutch Grand Prix</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Circuit Zandvoort in the Netherlands plays host to the second practice session of the Formula 1 weekend.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68acfff7e4b0c08ac69b9204-1756186984617?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250830013000 +1000" stop="20250830031000 +1000" channel="4k.kayo.506">
+    <title lang="en">: Netherlands: Practice 2</title>
+    <desc lang="en">The 2025 F1 Academy season resumes with practice at Circuit Zandvoort following a 10-week season break.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ad14d9e4b0a53c2f39261f-1756173618328?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250829213000 +1000" stop="20250830034000 +1000" channel="4k.kayo.503">
+    <title lang="en">Omega European Masters: Omega European Masters</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Wyndham Clark and Matt Fitzpatrick headline the field as play begins in Crans-sur-Sierre Golf Club, Switzerland.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ad376ce4b0654cea8bfa5d-1756189467672?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250830050000 +1000" stop="20250830091000 +1000" channel="4k.kayo.503">
+    <title lang="en">: FM Championship: RD2</title>
+    <desc lang="en">Second round coverage of the FM Championship from TPC Boston, Massachusetts.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ad4b46e4b0a53c2f392641-1756189560605?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20250830000000 +1000" stop="20250830024000 +1000" channel="4k.kayo.505">
     <title lang="en">: Slovenia: D1</title>
     <desc lang="en">Day 1 of the ICF Canoe Slalom World Cup from Ljubljana begins.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68abe9d8e4b0a53c2f3925f8-1756097408808?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20250830150000 +1000" stop="20250830181000 +1000" channel="4k.kayo.504">
+    <title lang="en">AFL Women's: Geelong Cats Women vs Sydney Swans Women</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">The red-hot Swans head to GMHBA Stadium to take on the winless Cats in a ladder-shaping contest for both teams in Round 3 AFLW action.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ad504de4b0500e32419acc-1756188798362?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250830170000 +1000" stop="20250830201000 +1000" channel="4k.kayo.504">
+    <title lang="en">AFL Women's: Port Adelaide Power Women vs Gold Coast Suns Women</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Two teams desperate for their first points of the 2025 AFLW season battle it out as Port Adelaide hosts Gold Coast at Alberton Oval.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ad50e6e4b0c08a8fd9487d-1756188931650?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250830190000 +1000" stop="20250830222500 +1000" channel="4k.kayo.504">
+    <title lang="en">AFL Women's: Western Bulldogs Women vs Hawthorn Hawks Women</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">A confident Western Bulldogs outfit fresh off an upset victory take on the undefeated Hawks under lights at Whitten Oval on Saturday night.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ad5150e4b0c08a8fd9487f-1756189027943?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20250830124000 +1000" stop="20250830152500 +1000" channel="4k.kayo.502">
     <title lang="en">Women's Premiership: Canberra Women vs Wests Tigers Women</title>
     <sub-title lang="en">2025</sub-title>
-    <desc lang="en">Watch Round 9 of the NRLW on Kayo.</desc>
+    <desc lang="en">Zahara Temara had five try assists as the Raiders made it back-to-back wins. Last time they played in Canberra, the visitors lost a nine-try thriller.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68abf3dce4b0a0a6622d319a-1756099567570?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20250830143000 +1000" stop="20250830181000 +1000" channel="4k.kayo.502">
@@ -139,10 +193,10 @@
     <desc lang="en">Watch Round 26 of the NRL on Kayo.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68abf26be4b0a53c2f392607-1756099428956?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20250830150000 +1000" stop="20250830175500 +1000" channel="4k.kayo.505">
+  <programme start="20250830151000 +1000" stop="20250830181000 +1000" channel="4k.kayo.505">
     <title lang="en">Women's Premiership: St George Illawarra Women vs Warriors Women</title>
     <sub-title lang="en">2025</sub-title>
-    <desc lang="en">Watch Round 9 of the NRLW on Kayo.</desc>
+    <desc lang="en">The visitors enter Round 9 one point outside the Top 6 as they take on the Dragons.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68abedd0e4b0500e32419a77-1756098040827?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20250830170000 +1000" stop="20250830203500 +1000" channel="4k.kayo.502">
@@ -151,10 +205,10 @@
     <desc lang="en">Watch Round 26 of the NRL on Kayo.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68abf31ee4b037cb47262b87-1756099384736?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20250830170000 +1000" stop="20250830195500 +1000" channel="4k.kayo.505">
+  <programme start="20250830171000 +1000" stop="20250830201000 +1000" channel="4k.kayo.505">
     <title lang="en">Women's Premiership: North Queensland Women vs Sydney Roosters Women</title>
     <sub-title lang="en">2025</sub-title>
-    <desc lang="en">Watch Round 9 of the NRLW on Kayo.</desc>
+    <desc lang="en">The hosts are building nicely with a three-game winning streak, but face a massive test against the undefeated competition leaders.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68abef27e4b09cd721771c57-1756098380171?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20250830192500 +1000" stop="20250830234000 +1000" channel="4k.kayo.502">
@@ -163,18 +217,96 @@
     <desc lang="en">Watch Round 26 of the NRL on Kayo.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68abf38fe4b09343ab9a1209-1756099492420?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20250830234500 +1000" stop="20250831031000 +1000" channel="4k.kayo.502">
+    <title lang="en">: Hull FC v Leeds</title>
+    <desc lang="en">Round 24 of the Super League from MKM Stadium.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ad4385e4b0a53c2f39263b-1756185549516?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20250831085500 +1000" stop="20250831141000 +1000" channel="4k.kayo.501">
     <title lang="en">: Trinbago v Guyana</title>
     <desc lang="en">Game 17: Imran Tahir’s Warriors aim to outplay Kieron Pollard’s Knight Riders in a key fixture at Brian Lara Cricket Academy.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68abed37e4b0a0a6622d3193-1756097905471?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20250831133000 +1000" stop="20250831162500 +1000" channel="4k.kayo.505">
+  <programme start="20250830182300 +1000" stop="20250830201000 +1000" channel="4k.kayo.506">
+    <title lang="en">: Netherlands: Qualifying</title>
+    <desc lang="en">Championship leader Doriane Pin is the driver to beat as the F1 Academy qualifying begins at Circuit Zandvoort.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ad3761e4b0c08ac69b920e-1756182453545?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250830190500 +1000" stop="20250830215500 +1000" channel="4k.kayo.506">
+    <title lang="en">Formula One World Championship: Dutch Grand Prix</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">The third practice session of the Formula 1 weekend is set to begin from Circuit Zandvoort. A crucial time for teams to finalise their car setups for qualifying.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ad0057e4b0500e32419a99-1756185387697?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250830205800 +1000" stop="20250830224500 +1000" channel="4k.kayo.506">
+    <title lang="en">: Netherlands: Qualifying</title>
+    <desc lang="en">The penultimate qualifying session of the 2025 Porsche Supercup season starts from Circuit Zandvoort.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ad3e72e4b0500e32419abb-1756184359193?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250830143000 +1000" stop="20250830184000 +1000" channel="4k.kayo.503">
+    <title lang="en">: NT C'ship: RD3</title>
+    <desc lang="en">Third round action of the Northern Territory PGA Championship begins from Palmerston Golf and Country Club.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ad50b0e4b0a0a6622d31ca-1756189128082?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250830203000 +1000" stop="20250831024000 +1000" channel="4k.kayo.503">
+    <title lang="en">Omega European Masters: Omega European Masters</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Moving day in Switzerland with contenders aiming to climb the leaderboard and set up a strong finish.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ad3812e4b0a53c2f392627-1756189536221?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250831050000 +1000" stop="20250831091000 +1000" channel="4k.kayo.503">
+    <title lang="en">: FM Championship: RD3</title>
+    <desc lang="en">Third round coverage of the FM Championship from TPC Boston, Massachusetts.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ad4c0ce4b0a0a6622d31c6-1756189626674?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250830220000 +1000" stop="20250831004000 +1000" channel="4k.kayo.505">
+    <title lang="en">: Slovenia: D2</title>
+    <desc lang="en">Day 2 of the ICF Canoe Slalom World Cup from Ljubljana begins.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68acfb08e4b0a53c2f392614-1756167042095?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250831130000 +1000" stop="20250831161000 +1000" channel="4k.kayo.504">
+    <title lang="en">AFL Women's: Collingwood Magpies Women vs Melbourne Demons Women</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Can Collingwood make it two in a row or will Melbourne continue their dominate start to the AFLW season as two rivals clash at Victoria Park.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ad51a8e4b0a0a6622d31cd-1756189123116?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250831150000 +1000" stop="20250831181000 +1000" channel="4k.kayo.504">
+    <title lang="en">AFL Women's: Fremantle Dockers Women vs North Melbourne Kangaroos Women</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">A massive test for the Dockers on home turf as they host defending premier North Melbourne at Fremantle Oval on Sunday afternoon.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ad51f7e4b0a53c2f392649-1756189234674?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250831170000 +1000" stop="20250831201000 +1000" channel="4k.kayo.504">
+    <title lang="en">AFL Women's: Brisbane Lions Women vs Carlton Blues Women</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Fresh off its highest ever AFLW score, Brisbane aims to continue the momentum when it returns home to face Carlton in Springfield.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ad527de4b08a12e7e024e4-1756189371976?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250831114500 +1000" stop="20250831144000 +1000" channel="4k.kayo.502">
+    <title lang="en">Women's Premiership: Cronulla Women vs Newcastle Women</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Watch Round 9 of the NRLW on Kayo.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ad12c7e4b04040bf4fdde6-1756173075321?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250831133000 +1000" stop="20250831170500 +1000" channel="4k.kayo.502">
+    <title lang="en">Premiership: Cronulla vs Newcastle</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Watch Round 26 of the NRL on Kayo.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ad1211e4b0a53c2f392617-1756172849031?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250831134000 +1000" stop="20250831162500 +1000" channel="4k.kayo.505">
     <title lang="en">Women's Premiership: Brisbane Women vs Canterbury Women</title>
     <sub-title lang="en">2025</sub-title>
     <desc lang="en">Watch Round 9 of the NRLW on Kayo.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68abef8ee4b0af84649b9bb3-1756098474247?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20250831180000 +1000" stop="20250831211000 +1000" channel="4k.kayo.505">
+  <programme start="20250831155500 +1000" stop="20250831201000 +1000" channel="4k.kayo.502">
+    <title lang="en">Premiership: Dolphins vs Gold Coast Titans</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Watch Round 26 of the NRL on Kayo.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ad1262e4b04040bf4fdde5-1756172940208?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250831181000 +1000" stop="20250831211000 +1000" channel="4k.kayo.505">
     <title lang="en">Women's Premiership: Gold Coast Women vs Parramatta Women</title>
     <sub-title lang="en">2025</sub-title>
     <desc lang="en">Watch Round 9 of the NRLW on Kayo.</desc>
@@ -184,7 +316,23 @@
     <title lang="en">Formula One World Championship: Dutch Grand Prix</title>
     <sub-title lang="en">2025</sub-title>
     <desc lang="en">The team of rivals, the relentless legends, and the fearless hunters. The second half of the 2025 F1 season gets underway from Circuit Zandvoort.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68aaab83e4b0503e37f3b748-1756015632199?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68aaab83e4b0503e37f3b748-1756185728524?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250831123000 +1000" stop="20250831184000 +1000" channel="4k.kayo.503">
+    <title lang="en">: NT C'ship: Final RD</title>
+    <desc lang="en">Final round action of the Northern Territory PGA Championship begins from Palmerston Golf and Country Club.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ad5249e4b075bbe8f45ae7-1756189371897?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250831203000 +1000" stop="20250901024000 +1000" channel="4k.kayo.503">
+    <title lang="en">Omega European Masters: Omega European Masters</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Final round action takes place in the Swiss Alps as the field battles for one of the tour’s prestigious titles.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ad3ec3e4b0a0a6622d31bb-1756189602784?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250831220000 +1000" stop="20250901004000 +1000" channel="4k.kayo.505">
+    <title lang="en">: Slovenia: FD</title>
+    <desc lang="en">Final Day of the ICF Canoe Slalom World Cup from Ljubljana begins.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ad3da3e4b037cd81705e41-1756184038562?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20250902005500 +1000" stop="20250902061000 +1000" channel="4k.kayo.501">
     <title lang="en">: Trinbago v St Kitt</title>
