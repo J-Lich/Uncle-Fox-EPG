@@ -24,70 +24,25 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20250904183037 +1000" stop="20250905001037 +1000" channel="4k.kayo.504">
-    <title lang="en">AFL: Adelaide Crows vs Collingwood Magpies</title>
-    <sub-title lang="en">2025</sub-title>
-    <desc lang="en">QF: Fox Footy’s all-star commentary team will be at Adelaide Oval to bring you all the build-up, the call and the fallout as the finals series launch on Fox.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b52c9be4b08935ccf58ac6-1756792193032?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250904190032 +1000" stop="20250904235032 +1000" channel="4k.kayo.502">
-    <title lang="en">Premiership: Brisbane vs Melbourne</title>
-    <sub-title lang="en">2025</sub-title>
-    <desc lang="en">The hosts can secure fourth place, but the visitors will be primed after an embarrassing loss. What a way to kick off the regular season's final round.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b514e3e4b04023c1dc71cc-1756879432202?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250905045500 +1000" stop="20250905081000 +1000" channel="4k.kayo.505">
-    <title lang="en">: Salford v Catalans</title>
-    <desc lang="en">Round 25 of the Super League from Salford Stadium.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b538cfe4b026b7ad18317c-1756707683037?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250905045500 +1000" stop="20250905083000 +1000" channel="4k.kayo.502">
-    <title lang="en">: Huddersfield v Leeds</title>
-    <desc lang="en">Round 25 of the Super League from ACCU Stadium.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b53c49e4b08935ccf58ade-1756711031605?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250904213051 +1000" stop="20250905071051 +1000" channel="4k.kayo.501">
-    <title lang="en">One-Day Internationals: England vs South Africa</title>
-    <sub-title lang="en">2025</sub-title>
-    <desc lang="en">Game 2: Aiden Markram's blitz has put England on the ropes. It's do-or-die for England to force a decider as action moves to Lord's.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68a6971fe4b0503e37f3b614-1756704169325?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250905085500 +1000" stop="20250905141000 +1000" channel="4k.kayo.501">
-    <title lang="en">: Barbados v Guyana</title>
-    <desc lang="en">Game 21: The Barbados Royals host Guyana at Kensington Oval. Both teams are looking for valuable wins as the tournament enters its final stages.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68af8eefe4b0402f0a157cdd-1756775287518?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250904170006 +1000" stop="20250904231006 +1000" channel="4k.kayo.503">
-    <title lang="en">The Irish Open: Amgen Irish Open</title>
-    <sub-title lang="en">2025</sub-title>
-    <desc lang="en">Part 1: McIlroy, Lowry, and Hatton headline the field as they look to build form before the Ryder cup.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b63b90e4b02909f4183dc5-1756773327648?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250905010000 +1000" stop="20250905041000 +1000" channel="4k.kayo.503">
-    <title lang="en">The Irish Open: Amgen Irish Open</title>
-    <sub-title lang="en">2025</sub-title>
-    <desc lang="en">Part 2: McIlroy, Lowry, and Hatton headline the field as they look to build form before the Ryder cup.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b63c52e4b08935ccf58af3-1756773559444?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250905183000 +1000" stop="20250906004000 +1000" channel="4k.kayo.504">
+  <programme start="20250905183036 +1000" stop="20250906004036 +1000" channel="4k.kayo.504">
     <title lang="en">AFL: Geelong Cats vs Brisbane Lions</title>
     <sub-title lang="en">2025</sub-title>
     <desc lang="en">QF: Two premiership favourites with a thrilling recent history fight for a place in the preliminary final.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b533a9e4b02909f4183db6-1756792438101?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20250905170000 +1000" stop="20250905210000 +1000" channel="4k.kayo.502">
+  <programme start="20250905170004 +1000" stop="20250905210004 +1000" channel="4k.kayo.502">
     <title lang="en">Premiership: Manly vs Warriors</title>
     <sub-title lang="en">2025</sub-title>
     <desc lang="en">Daly Cherry-Evans ends a stellar 15-year Sea Eagles career in front of home fans. The Warriors need to rebound from a loss as they prepare for the Finals.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b64f78e4b026b7ad1831a4-1756879574331?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20250905173500 +1000" stop="20250905204000 +1000" channel="4k.kayo.503">
+  <programme start="20250905173505 +1000" stop="20250905204005 +1000" channel="4k.kayo.503">
     <title lang="en">Women's Premiership: Sydney Roosters Women vs Canberra Women</title>
     <sub-title lang="en">2025</sub-title>
     <desc lang="en">The visitors have turned their season around with three straight wins but face the undefeated competition ladders to begin Round 10.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b51425e4b026b7ad18315f-1756882185257?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20250905195000 +1000" stop="20250905235500 +1000" channel="4k.kayo.502">
+  <programme start="20250905195843 +1000" stop="20250906000343 +1000" channel="4k.kayo.502">
     <title lang="en">Premiership: Sydney Roosters vs South Sydney</title>
     <sub-title lang="en">2025</sub-title>
     <desc lang="en">Disputes over grounds, players &amp; 234 games...add a Roosters quest for 8th &amp; a possible try-scoring record. Ingredients for another classic.</desc>
@@ -101,30 +56,35 @@
   <programme start="20250906031500 +1000" stop="20250906074000 +1000" channel="4k.kayo.501">
     <title lang="en">: Durham v Hampshire</title>
     <desc lang="en">QF 2: Durham’s all-round strength led by Ben Stokes meets Hampshire’s balanced attack including Liam Dawson and Nathan Ellis.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68a6921be4b002200b5ab80e-1755746928542?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68a6921be4b002200b5ab80e-1757054891188?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20250906085500 +1000" stop="20250906141000 +1000" channel="4k.kayo.501">
     <title lang="en">: Barbados v Falcons</title>
     <desc lang="en">Game 22: The Royals host the Falcons in Barbados. Pakistani all-rounder Imad Wasim will need to be at his best to secure a victory for the Falcons.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68afae50e4b0a81aa6d26ab1-1756775335323?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20250905165500 +1000" stop="20250905210000 +1000" channel="4k.kayo.506">
+  <programme start="20250905211008 +1000" stop="20250906012008 +1000" channel="4k.kayo.505">
+    <title lang="en">: Catalonia: Practice 2</title>
+    <desc lang="en">The second practice session of the MotoGP weekend is set to begin from Circuit de Barcelona-Catalonia.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b7a762e4b0402fc32de1b6-1756866786871?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250905235313 +1000" stop="20250906014513 +1000" channel="4k.kayo.506">
+    <title lang="en">: Italy: Qualifying</title>
+    <desc lang="en">Round 11 of the Formula 2 season heads to the fast-paced Monza Circuit where pole position is up for grabs.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b7a44ae4b0b677ce419de1-1756865762277?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250905165511 +1000" stop="20250905210511 +1000" channel="4k.kayo.506">
     <title lang="en">: Catalonia: Practice 1</title>
     <desc lang="en">The 2025 MotoGP season moves to the Barcelona for Round 15, and it starts with the first practice session.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b7a61ae4b0402346476732-1756866281406?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20250905210000 +1000" stop="20250906001000 +1000" channel="4k.kayo.506">
+  <programme start="20250905210008 +1000" stop="20250906001008 +1000" channel="4k.kayo.506">
     <title lang="en">Formula One World Championship: Italian Grand Prix</title>
     <sub-title lang="en">2025</sub-title>
     <desc lang="en">The historic Monza Circuit is the next stop on the Formula 1 calendar, and it all gets underway with the first practice session.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b77573e4b0b677ce419dce-1756854008325?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20250905211000 +1000" stop="20250906012000 +1000" channel="4k.kayo.505">
-    <title lang="en">: Catalonia: Practice 2</title>
-    <desc lang="en">The second practice session of the MotoGP weekend is set to begin from Circuit de Barcelona-Catalonia.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b7a762e4b0402fc32de1b6-1756866786871?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250905225800 +1000" stop="20250906004000 +1000" channel="4k.kayo.506">
+  <programme start="20250905225809 +1000" stop="20250906004009 +1000" channel="4k.kayo.506">
     <title lang="en">: Italy: Qualifying</title>
     <desc lang="en">Spots at the front of the Formula 3 grid are up for grabs as the qualifying session gets underway.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b62547e4b08935ccf58ae4-1756767644727?location=hero-portrait-m2&amp;imwidth=720" />
@@ -135,7 +95,7 @@
     <desc lang="en">The drivers are back on the Monza Circuit for the second practice session of the weekend.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b775f4e4b0402f0a157e99-1756855230664?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20250905220000 +1000" stop="20250906041000 +1000" channel="4k.kayo.503">
+  <programme start="20250905220014 +1000" stop="20250906041014 +1000" channel="4k.kayo.503">
     <title lang="en">The Irish Open: Amgen Irish Open</title>
     <sub-title lang="en">2025</sub-title>
     <desc lang="en">McIlroy, Lowry, and Hatton headline the field as they look to build form before the Ryder cup.</desc>
@@ -176,11 +136,29 @@
     <desc lang="en">EF: Gold Coast’s long-awaited September arrival comes with an Elimination Final trip west to face Fremantle.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b53578e4b08d47958c87f6-1756796233465?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20250906190000 +1000" stop="20250906222500 +1000" channel="4k.kayo.503">
+    <title lang="en">AFL Women's: Hawthorn Hawks Women vs St Kilda Saints Women</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">The AFLW heads to Cairns where the undefeated Hawks go head-to-head with Euro-Yroke in Indigenous Round.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b68a56e4b026b7ad1831c7-1756793479867?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250906124000 +1000" stop="20250906154000 +1000" channel="4k.kayo.502">
+    <title lang="en">Women's Premiership: St George Illawarra Women vs North Queensland Women</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">The visitors have secured a place in the Finals, while the hosts need to win their last two games &amp; rely on other results to grab a spot.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b65411e4b026b7ad1831ad-1756970662122?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20250906143000 +1000" stop="20250906181000 +1000" channel="4k.kayo.502">
     <title lang="en">Premiership: St George Illawarra vs Penrith</title>
     <sub-title lang="en">2025</sub-title>
     <desc lang="en">A daunting challenge awaits the wounded Dragons at the end of a frustrating season. It's the four-time champs, one game away from another Finals campaign.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b65284e4b02909f4183dcf-1756881659950?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250906170000 +1000" stop="20250906203500 +1000" channel="4k.kayo.502">
+    <title lang="en">Premiership: Gold Coast Titans vs Wests Tigers</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">This game signals the end of Des Hasler's two-year stint with the Titans. In contrast, Benji Marshall &amp; Wests Tigers made significant progress in 2025.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b6530ee4b02909f4183dd1-1756881762663?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20250906171000 +1000" stop="20250906201000 +1000" channel="4k.kayo.503">
     <title lang="en">Women's Premiership: Canterbury Women vs Cronulla Women</title>
@@ -191,7 +169,7 @@
   <programme start="20250906192500 +1000" stop="20250906234000 +1000" channel="4k.kayo.502">
     <title lang="en">Premiership: Canterbury vs Cronulla</title>
     <sub-title lang="en">2025</sub-title>
-    <desc lang="en">The Bulldogs are locked into third place, while the Sharks will be sweating on other results to know their status in pursuit of a crucial Top 4 spot.</desc>
+    <desc lang="en">This clash is about fine tuning for Week 1 of the Finals when the Bulldogs will play the Storm in Melbourne, while the Sharks have a home game.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b65387e4b0b3c35342ec78-1756881851574?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20250906235500 +1000" stop="20250907031000 +1000" channel="4k.kayo.502">
@@ -202,12 +180,12 @@
   <programme start="20250906231500 +1000" stop="20250907034000 +1000" channel="4k.kayo.501">
     <title lang="en">: Lancashire v Kent</title>
     <desc lang="en">QF 3: Lancashire charge at Old Trafford, powered by Jos Buttler, aiming to outplay Kent’s top-order including Zak Crawley and Kane Richardson.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68a692cee4b0e2b585904464-1755747084499?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68a692cee4b0e2b585904464-1757054929615?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20250907031500 +1000" stop="20250907074000 +1000" channel="4k.kayo.501">
     <title lang="en">: Somerset v Birmingham</title>
     <desc lang="en">QF 4: Somerset welcome Warwickshire Bears to Taunton, where Peter Siddle will bolster a strong home side against Moeen Ali’s experienced visitors.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68a6935fe4b0e2b585904465-1755747228113?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68a6935fe4b0e2b585904465-1757054969847?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20250907035500 +1000" stop="20250907091000 +1000" channel="4k.kayo.506">
     <title lang="en">: Guyana v Trinbago</title>
@@ -227,23 +205,33 @@
   <programme start="20250906171000 +1000" stop="20250906192000 +1000" channel="4k.kayo.506">
     <title lang="en">: Italy: Sprint Race</title>
     <desc lang="en">The reverse grid format offers an opportunity for drivers further down the order to score big points.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b8cdc6e4b08935ccf58bb9-1756941813694?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b8cdc6e4b08935ccf58bb9-1757035796124?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20250906183300 +1000" stop="20250906202000 +1000" channel="4k.kayo.506">
     <title lang="en">: Italy: Qualifying</title>
     <desc lang="en">The qualifying session of the 2025 Porsche Supercup finale gets underway from the Monza Circuit.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b91ac4e4b0ac1b32d8bd28-1756961719925?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b91ac4e4b0ac1b32d8bd28-1757055638734?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20250906184500 +1000" stop="20250906205000 +1000" channel="4k.kayo.505">
     <title lang="en">: Catalonia: Qualifying</title>
     <desc lang="en">Marc Márquez is looking for his ninth pole position of 2025 when qualifying begins at Circuit de Barcelona-Catalunya.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b7afc2e4b0a077761a12a6-1756868773625?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20250906200000 +1000" stop="20250906215000 +1000" channel="4k.kayo.505">
+    <title lang="en">: Catalonia: Race 1</title>
+    <desc lang="en">Championship leader Mattia Casadei battles to extend his lead over rivals Lorenzo Baldassarri and Andrea Mantovani in the final races of the season.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b8cb44e4b0402346476755-1756941201619?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20250906201500 +1000" stop="20250907001000 +1000" channel="4k.kayo.506">
     <title lang="en">Formula One World Championship: Italian Grand Prix</title>
     <sub-title lang="en">2025</sub-title>
     <desc lang="en">The third practice session of the Formula 1 weekend is set to begin from the Monza Circuit.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b777d4e4b0a0779bfabead-1756855400335?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250906204000 +1000" stop="20250907011000 +1000" channel="4k.kayo.505">
+    <title lang="en">: Catalonia: Sprint Race</title>
+    <desc lang="en">(Includes Moto2 + Moto3 Qualifying) Marc Márquez seeks to extend his championship lead as rivals Álex Márquez &amp; Francesco Bagnaia look to find a strong result</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ba3484e4b0ac1b32d8bd85-1757033719998?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20250906221000 +1000" stop="20250907002500 +1000" channel="4k.kayo.506">
     <title lang="en">: Italy: Sprint Race</title>
@@ -255,6 +243,16 @@
     <sub-title lang="en">2025</sub-title>
     <desc lang="en">Lewis Hamilton starts with a five-place grid penalty. After Lando Norris' retirement at the Dutch GP,  this session is an opportunity for him to fight back</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b77cfce4b0a0779bfabeb6-1756855635214?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250907000000 +1000" stop="20250907022500 +1000" channel="4k.kayo.506">
+    <title lang="en">: Catalonia: Race 2</title>
+    <desc lang="en">Championship leader Mattia Casadei battles to extend his lead over rivals Lorenzo Baldassarri and Andrea Mantovani in the final races of the season.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b8e0e1e4b0a077761a12e0-1756946908693?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250907090000 +1000" stop="20250907131000 +1000" channel="4k.kayo.506">
+    <title lang="en">: NASCAR</title>
+    <desc lang="en">Only 20 points separate teammates Connor Zilisch and Justin Allgaier to decide the Regular Season Championship.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ba4681e4b0ac1b32d8bda9-1757038299354?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20250906213000 +1000" stop="20250907034000 +1000" channel="4k.kayo.503">
     <title lang="en">The Irish Open: Amgen Irish Open</title>
@@ -271,6 +269,11 @@
     <title lang="en">: Walker Cup: Day 1</title>
     <desc lang="en">Part 2: Amateurs from USA, Great Britain and Ireland face off as the Americans aim to defend their Walker Cup title.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b8ea17e4b0402fc32de1de-1756949079591?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250907000000 +1000" stop="20250907024000 +1000" channel="4k.kayo.505">
+    <title lang="en">: Final: D2</title>
+    <desc lang="en">The final race of the ICF Canoe Slalom World Cup continues from Augsburg, Germany.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b65314e4b04023c1dc7215-1757055182505?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20250907130000 +1000" stop="20250907161000 +1000" channel="4k.kayo.504">
     <title lang="en">AFL Women's: Sydney Swans Women vs Fremantle Dockers Women</title>
@@ -305,14 +308,8 @@
   <programme start="20250907115500 +1000" stop="20250907145000 +1000" channel="4k.kayo.502">
     <title lang="en">Women's Premiership: Warriors Women vs Brisbane Women</title>
     <sub-title lang="en">2025</sub-title>
-    <desc lang="en">The hosts need to upset the second-placed Broncos to retain their slim Finals hopes. </desc>
+    <desc lang="en">The hosts need to upset the second-placed Broncos to retain their slim Finals hopes.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b79a06e4b0a077761a1296-1756882503943?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250907134000 +1000" stop="20250907164000 +1000" channel="4k.kayo.505">
-    <title lang="en">Women's Premiership: Newcastle Women vs Gold Coast Women</title>
-    <sub-title lang="en">2025</sub-title>
-    <desc lang="en">Plenty at stake in what shapes as the match-of-the-round, the victor will wrap up a spot in the Top 6.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b654b7e4b08935ccf58b08-1756882587300?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20250907134000 +1000" stop="20250907170500 +1000" channel="4k.kayo.502">
     <title lang="en">Premiership: Dolphins vs Canberra</title>
@@ -320,13 +317,19 @@
     <desc lang="en">The Dolphins head into Round 27 hoping for a chance to reach their first Finals Series, while the Minor Premiers have the luxury of resting players.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b79efbe4b0402fc32de1ab-1756882003477?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20250907134000 +1000" stop="20250907164000 +1000" channel="4k.kayo.505">
+    <title lang="en">Women's Premiership: Newcastle Women vs Gold Coast Women</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Plenty at stake in what shapes as the match-of-the-round, the victor will wrap up a spot in the Top 6.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b654b7e4b08935ccf58b08-1756882587300?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20250907155500 +1000" stop="20250907201000 +1000" channel="4k.kayo.502">
     <title lang="en">Premiership: Parramatta vs Newcastle</title>
     <sub-title lang="en">2025</sub-title>
     <desc lang="en">The regular season ends with contrasting clubs. The Eels improved under new coach Jason Ryles, while the Knights need a replacement for Adam O'Brien.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b79fe1e4b0402346476729-1756882102362?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20250907181000 +1000" stop="20250907205500 +1000" channel="4k.kayo.503">
+  <programme start="20250907181000 +1000" stop="20250907211000 +1000" channel="4k.kayo.503">
     <title lang="en">Women's Premiership: Parramatta Women vs Wests Tigers Women</title>
     <sub-title lang="en">2025</sub-title>
     <desc lang="en">Bragging rights are on the line in this Western Sydney Derby, with a win each after their first two clashes.</desc>
@@ -340,7 +343,7 @@
   <programme start="20250907193000 +1000" stop="20250908051000 +1000" channel="4k.kayo.501">
     <title lang="en">One-Day Internationals: England vs South Africa</title>
     <sub-title lang="en">2025</sub-title>
-    <desc lang="en">Game 3: The final ODI at Utilita Bowl will determine the series winner. Expect a thrilling finale with both sides vying for the win.</desc>
+    <desc lang="en">Game 3: Can England find an answer to the dominant Proteas and avoid a series whitewash?</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68a6982ce4b0503e37f3b616-1756704282722?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20250908045500 +1000" stop="20250908101000 +1000" channel="4k.kayo.501">
@@ -348,16 +351,56 @@
     <desc lang="en">Game 2: The Barbados Royals face the Guyana Amazon Warriors. Australian Laura Harris, now with the Warriors, will be key against her old team.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68abad12e4b0a53c2f3925e6-1756878943910?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20250908095500 +1000" stop="20250908151000 +1000" channel="4k.kayo.501">
+    <title lang="en">: Guyana v St Kitt</title>
+    <desc lang="en">Game 25: Ben McDermott and Moeen Ali’s Guyana battle Jason Holder’s Patriots in a high-stakes encounter at Providence Stadium.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68abefa3e4b0a0a6622d3196-1756346847292?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250907161000 +1000" stop="20250907182500 +1000" channel="4k.kayo.506">
+    <title lang="en">: Italy: Race</title>
+    <desc lang="en">While the Drivers' Championship has been clinched by Rafael Câmara, the battle for second place is tight between Mari Boya &amp; Nikola Tsolov.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ba3c1fe4b0402346476801-1757035711470?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250907173500 +1000" stop="20250907191000 +1000" channel="4k.kayo.505">
+    <title lang="en">: Catalonia: Warm Up</title>
+    <desc lang="en">The riders get one final look around the circuit before all the races begin.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ba3585e4b0ac1b32d8bd86-1757033998540?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250907174000 +1000" stop="20250907202000 +1000" channel="4k.kayo.506">
+    <title lang="en">: Italy: Race</title>
+    <desc lang="en">The championship is wide open with several drivers in contention. Leonardo Fornaroli leads, but Jak Crawford and Richard Verschoor are close behind.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ba3e6be4b08935ccf58c6d-1757036257662?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250907184500 +1000" stop="20250907211000 +1000" channel="4k.kayo.505">
+    <title lang="en">: Catalonia: Race</title>
+    <desc lang="en">José Antonio Rueda leads the way in a tight championship, but fierce competition from Ángel Piqueras and Máximo Quiles means every point is vital.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ba3b31e4b0a077761a1373-1757035418173?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20250907194000 +1000" stop="20250907214000 +1000" channel="4k.kayo.506">
     <title lang="en">: Italy: Race</title>
     <desc lang="en">The season concludes in Monza, where championship leaders Alessandro Ghiretti, Robert de Haan and Flynt Schuring battle for the title.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b91c46e4b065b61c31716a-1756962022385?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b91c46e4b065b61c31716a-1757055672838?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250907200000 +1000" stop="20250907222500 +1000" channel="4k.kayo.505">
+    <title lang="en">: Catalonia: Race</title>
+    <desc lang="en">The 15th race of the season takes the grid to Barcelona, as the fierce title fight continues between Manuel González and Aron Canet.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ba3821e4b08935ccf58c69-1757034626103?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250907211500 +1000" stop="20250908002500 +1000" channel="4k.kayo.505">
+    <title lang="en">: Catalonia: Race</title>
+    <desc lang="en">Championship leader Marc Márquez looks to defend his top spot on a circuit where he is without a win since 2019.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ba3760e4b0ac1b32d8bd8a-1757034425197?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20250907213000 +1000" stop="20250908034000 +1000" channel="4k.kayo.506">
     <title lang="en">Formula One World Championship: Italian Grand Prix</title>
     <sub-title lang="en">2025</sub-title>
     <desc lang="en">Oscar Piastri looks to extend his lead, while Lando Norris looks to make up for lost points, and Ferrari seeks to rebound from recent struggles.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b6903be4b04023c1dc7249-1756795047726?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250908043000 +1000" stop="20250908094000 +1000" channel="4k.kayo.506">
+    <title lang="en">: NASCAR</title>
+    <desc lang="en">Playoff drivers fight to stay above the cutoff line in the second race of the Round of 16. The pressure is on stars like Joey Logano &amp; Shane van Gisbergen.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ba47cde4b0402fc32de257-1757038609538?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20250907213000 +1000" stop="20250908034000 +1000" channel="4k.kayo.503">
     <title lang="en">The Irish Open: Amgen Irish Open</title>
@@ -385,6 +428,21 @@
     <desc lang="en">The Pairs Cup continues with a new generation of players challenging established professionals.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b8cb65e4b08935ccf58bb7-1756941256784?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20250910002000 +1000" stop="20250910054000 +1000" channel="4k.kayo.501">
+    <title lang="en">: Afghanistan v Hong Kong</title>
+    <desc lang="en">Game 1: Rashid Khan's Afghanistan face Hong Kong in the tournament opener, with both teams eager for a strong start to the campaign.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ba1f52e4b08935ccf58c4c-1757028230143?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250909150000 +1000" stop="20250909181000 +1000" channel="4k.kayo.505">
+    <title lang="en">: Finals: D2</title>
+    <desc lang="en">Day two action of the Archery World Championships begins from Gwangju, South Korea.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ba966be4b0ac1b32d8bdd2-1757058718710?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250911002000 +1000" stop="20250911054000 +1000" channel="4k.kayo.503">
+    <title lang="en">: India v UAE</title>
+    <desc lang="en">Game 2: India's Asia Cup campaign begins, captain Suryakumar Yadav will test his teams strength against the host nation UAE.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ba24e6e4b0402fc32de229-1757029659667?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20250911030000 +1000" stop="20250911084000 +1000" channel="4k.kayo.501">
     <title lang="en">Twenty20 Internationals: England vs South Africa</title>
     <sub-title lang="en">2025</sub-title>
@@ -401,10 +459,25 @@
     <desc lang="en">Game 26: Shai Hope leads the Warriors against Obed McCoy’s Falcons in a must-win game at Providence Stadium.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ae9641e4b081096daede07-1756346901929?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20250910150000 +1000" stop="20250910181000 +1000" channel="4k.kayo.505">
+    <title lang="en">: Finals: D3</title>
+    <desc lang="en">Day three action of the Archery World Championships begins from Gwangju, South Korea.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ba96ebe4b0ac1b32d8bdd3-1757058862090?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250912002000 +1000" stop="20250912054000 +1000" channel="4k.kayo.501">
+    <title lang="en">: Bangladesh v Hong Kong</title>
+    <desc lang="en">Game 3: Bangladesh, runners-up in the 2018 Asia Cup, will be looking to dominate against Hong Kong.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ba2653e4b08935ccf58c54-1757030034858?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20250912085500 +1000" stop="20250912141000 +1000" channel="4k.kayo.501">
     <title lang="en">: Barbados v St Kitt</title>
     <desc lang="en">Game 27: Kyle Mayers’ Patriots seek victory over Brandon King’s Royals at Kensington Oval.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68afaeb2e4b0c73a44888714-1756775367594?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250913002000 +1000" stop="20250913054000 +1000" channel="4k.kayo.506">
+    <title lang="en">: Pakistan v Oman</title>
+    <desc lang="en">Game 4: Salman Ali Agha's Pakistan begins its tournament against Oman. The Pakistan pace attack, featuring Shaheen Shah Afridi, will be key.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ba2d6ae4b0402fc32de234-1757031894631?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20250913030000 +1000" stop="20250913084000 +1000" channel="4k.kayo.501">
     <title lang="en">Twenty20 Internationals: England vs South Africa</title>
@@ -427,6 +500,11 @@
     <desc lang="en">SF 2: In the second semi-final, a place in the final is up for grabs at Edgbaston.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68afe0c7e4b0c73a44888736-1756356884564?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20250914002000 +1000" stop="20250914054000 +1000" channel="4k.kayo.506">
+    <title lang="en">: Bangladesh v Sri Lanka</title>
+    <desc lang="en">Game 5: Bangladesh and Sri Lanka, two of the sub-continent's fiercest competitors, go head-to-head in a critical Group B match.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ba2e6ae4b08935ccf58c5f-1757032151160?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20250914031500 +1000" stop="20250914081000 +1000" channel="4k.kayo.501">
     <title lang="en">: Final</title>
     <desc lang="en">Final: The two best teams in the country battle it out at Edgbaston for the T20 Blast trophy</desc>
@@ -441,7 +519,12 @@
     <title lang="en">Women's One-Day Internationals: India Women vs Australia Women</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Game 1: Alyssa Healy returns for Australia against Harmanpreet Kaur's India. This series is a crucial warm-up for both teams' World Cup campaigns.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b77504e4b04023c1dc7272-1756853632748?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b77504e4b04023c1dc7272-1757027620514?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250915002000 +1000" stop="20250915054000 +1000" channel="4k.kayo.506">
+    <title lang="en">: India v Pakistan</title>
+    <desc lang="en">Game 6: Cricket's most intense rivalry. India and Pakistan, resume their epic battle on the big stage.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ba28ace4b04023464767f0-1757030662475?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20250915035500 +1000" stop="20250915084000 +1000" channel="4k.kayo.501">
     <title lang="en">: Barbados v Guyana</title>
@@ -458,10 +541,25 @@
     <desc lang="en">Game 6: A final spot is up for grabs! Jess Jonassen's Trinbago battles the reigning champions with Australians Georgia Redmayne and Courtney Webb.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b91d62e4b0402346476782-1756962239551?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20250917095500 +1000" stop="20250917151000 +1000" channel="4k.kayo.501">
+    <title lang="en">: Eliminator</title>
+    <desc lang="en">Eliminator: Third meets fourth at Providence Stadium in a knockout battle for a place in the Qualifier.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ba33b5e4b08935ccf58c61-1757033543003?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20250917175000 +1000" stop="20250918031000 +1000" channel="4k.kayo.501">
     <title lang="en">Women's One-Day Internationals: India Women vs Australia Women</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Game 2: At home, Ellyse Perry scored the fastest-ever century against India in women's ODIs. She will look to replicate that form in New Chandigarh.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68b91e74e4b0410bb0da06f2-1756962469595?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250918035500 +1000" stop="20250918091000 +1000" channel="4k.kayo.501">
+    <title lang="en">: Final</title>
+    <desc lang="en">Final: The top two teams compete for the championship title at Providence Stadium.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ba372fe4b0a077761a136f-1757034337229?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250918095500 +1000" stop="20250918151000 +1000" channel="4k.kayo.501">
+    <title lang="en">: Qualifier 1</title>
+    <desc lang="en">Qualifier 1: First and second place sides clash at Providence Stadium for a direct route to the final.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ba335de4b0402fc32de239-1757033552323?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
 </tv>
