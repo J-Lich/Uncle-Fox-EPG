@@ -24,48 +24,7 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20250919043000 +1000" stop="20250919084000 +1000" channel="4k.kayo.502">
-    <title lang="en">: Hull KR v Warrington</title>
-    <desc lang="en">Round 27 of the Super League from Sewell Group Craven Park.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ca4047e4b064d9ff39e632-1758085341321?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250919045500 +1000" stop="20250919081000 +1000" channel="4k.kayo.505">
-    <title lang="en">: Hull FC v Catalans</title>
-    <desc lang="en">Round 27 of the Super League from MKM Stadium.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68c8c0a2e4b06d0ba80a2363-1757987058895?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250919002000 +1000" stop="20250919054000 +1000" channel="4k.kayo.501">
-    <title lang="en">: Sri Lanka v Afghanistan</title>
-    <desc lang="en">Game 11: In a clash of the two Group B favorites, Afghanistan's last opportunity to reach the Super 4 rests on a win.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68c0c5dce4b0b22deff11ea0-1757464095401?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250919002000 +1000" stop="20250919054000 +1000" channel="4k.kayo.505">
-    <title lang="en">: Hindi: SL v AFG</title>
-    <desc lang="en">Fox Cricket presents Hindi language coverage of this Asia Cup game between Sri Lanka v Afghanistan</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68c8be8ae4b0390a31f478ba-1758174793604?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250918193000 +1000" stop="20250918224000 +1000" channel="4k.kayo.505">
-    <title lang="en">: Panathinaikos v Partizan</title>
-    <desc lang="en">Two of Europe's most storied clubs battle it out in the first game of this prestigious pre-season tournament.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68c378f8e4b03874d487309b-1757641447954?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250918180000 +1000" stop="20250918201000 +1000" channel="4k.kayo.503">
-    <title lang="en">: Paro v Papot</title>
-    <desc lang="en">All the undercard action for the Liam Paro v David Papot pay-per-view gets underway.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68c37b89e4b0169a9d362485-1757897389474?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250918213012 +1000" stop="20250919034012 +1000" channel="4k.kayo.503">
-    <title lang="en">FedEx Open de France: FedEx Open de France</title>
-    <sub-title lang="en">2025</sub-title>
-    <desc lang="en">Brooks Koepka and Min Woo Lee headline the field as play begins from Golf de Saint-Nom-La-Bretèche, Paris.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68c903f7e4b0390a31f478ef-1758004310906?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250918150000 +1000" stop="20250918191000 +1000" channel="4k.kayo.505">
-    <title lang="en">: Hana Championship: R1</title>
-    <desc lang="en">First round action of the Hana Financial Group Championship from Bear’s Best Cheongna Golf Club.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ca4ae4e4b064d9ff39e637-1758088136553?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250919183000 +1000" stop="20250920004000 +1000" channel="4k.kayo.504">
+  <programme start="20250919183031 +1000" stop="20250920004031 +1000" channel="4k.kayo.504">
     <title lang="en">AFL: Geelong Cats vs Hawthorn Hawks</title>
     <sub-title lang="en">2025</sub-title>
     <desc lang="en">Preliminary Final: Two of the league's biggest rivals fight for a place in the 2025 AFL Grand Final.</desc>
@@ -102,33 +61,33 @@
     <desc lang="en">Qualifier 2: Eliminator winner Trinbago face St Lucia for the last spot in the CPL final.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ba34e2e4b0a077761a136a-1758166215739?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20250919180000 +1000" stop="20250919211000 +1000" channel="4k.kayo.506">
-    <title lang="en">Formula One World Championship: Azerbaijan Grand Prix</title>
-    <sub-title lang="en">2025</sub-title>
-    <desc lang="en">After a two week long break since Monza, the F1 circus lands in Baku as the first practice session of the weekend gets underway.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68c8c102e4b0ad10baea70ab-1757998047177?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250919195500 +1000" stop="20250919214500 +1000" channel="4k.kayo.506">
-    <title lang="en">: Azerbaijan: Qualifying</title>
-    <desc lang="en">Round 12 of the Formula 2 season heads to the Baku City Circuit where pole position is up for grabs.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68c8d1cfe4b0925fede34b0f-1757991471380?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250919214500 +1000" stop="20250920004000 +1000" channel="4k.kayo.506">
+  <programme start="20250919214211 +1000" stop="20250920003711 +1000" channel="4k.kayo.506">
     <title lang="en">Formula One World Championship: Azerbaijan Grand Prix</title>
     <sub-title lang="en">2025</sub-title>
     <desc lang="en">The drivers are back on the Baku City Circuit to fine-tune their cars for the second practice session of the weekend.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68c8c11de4b081f273470355-1758173242128?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20250919150000 +1000" stop="20250919191000 +1000" channel="4k.kayo.503">
-    <title lang="en">: Hana Championship: R2</title>
-    <desc lang="en">Second round action of the Hana Financial Group Championship from Bear’s Best Cheongna Golf Club</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68cbab67e4b053c73ab5fce7-1758178407421?location=hero-portrait-m2&amp;imwidth=720" />
+  <programme start="20250919180005 +1000" stop="20250919211005 +1000" channel="4k.kayo.506">
+    <title lang="en">Formula One World Championship: Azerbaijan Grand Prix</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">After a two week long break since Monza, the F1 circus lands in Baku as the first practice session of the weekend gets underway.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68c8c102e4b0ad10baea70ab-1757998047177?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20250919213000 +1000" stop="20250920034000 +1000" channel="4k.kayo.503">
+  <programme start="20250919195820 +1000" stop="20250919224820 +1000" channel="4k.kayo.506">
+    <title lang="en">: Azerbaijan: Qualifying</title>
+    <desc lang="en">Round 12 of the Formula 2 season heads to the Baku City Circuit where pole position is up for grabs.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68c8d1cfe4b0925fede34b0f-1757991471380?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250919213010 +1000" stop="20250920034010 +1000" channel="4k.kayo.503">
     <title lang="en">FedEx Open de France: FedEx Open de France</title>
     <sub-title lang="en">2025</sub-title>
     <desc lang="en">Brooks Koepka and Min Woo Lee headline the field as play continues from Golf de Saint-Nom-La-Bretèche, Paris.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68cba66de4b053c73ab5fce2-1758176965518?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250919150037 +1000" stop="20250919191037 +1000" channel="4k.kayo.503">
+    <title lang="en">: Hana Championship: R2</title>
+    <desc lang="en">Second round action of the Hana Financial Group Championship from Bear’s Best Cheongna Golf Club</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68cbab67e4b053c73ab5fce7-1758178407421?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20250920060000 +1000" stop="20250920101000 +1000" channel="4k.kayo.503">
     <title lang="en">: Arkansas Championship: RD1</title>
@@ -182,6 +141,17 @@
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Game 3: With the series locked at 1-1, Australia and India will get their final look at each other before the ODI World Cup kicks off.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ba1c76e4b08935ccf58c44-1758110926864?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250920193000 +1000" stop="20250920213000 +1000" channel="4k.kayo.505">
+    <title lang="en">: London One Day Cup Final Hampshire v Worcestershire</title>
+    <desc lang="en">Final: Hampshire and Worcestershire battle it out to determine the champion of the Metro Bank One Day Cup.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ccb125e4b00c072271bb1f-1758245211655?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250921002000 +1000" stop="20250921054000 +1000" channel="4k.kayo.505">
+    <title lang="en">Twenty20 Internationals: Sri Lanka vs Bangladesh</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Super 4: Defending champions Sri Lanka take on a resurgent Bangladesh in the first match of the Super 4 round.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68cc9a2ae4b0ad10d8406d79-1758239745175?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20250920181500 +1000" stop="20250920212000 +1000" channel="4k.kayo.506">
     <title lang="en">Formula One World Championship: Azerbaijan Grand Prix</title>
@@ -246,13 +216,23 @@
     <desc lang="en">SF: The Bulldogs coach &amp; key players were part of the Panthers' first two years of their four consecutive titles. A Prelim in Brisbane is the winner's prize.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68c8b575e4b0ad10baea7096-1758073041605?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20250921135500 +1000" stop="20250921220000 +1000" channel="4k.kayo.501">
+  <programme start="20250922013000 +1000" stop="20250922051000 +1000" channel="4k.kayo.502">
+    <title lang="en">: St Helens v York</title>
+    <desc lang="en">SF: Semi Final of the Women's Super League from Totally Wicked Stadium.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ccad0ee4b0ad10d8406d93-1758244162491?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250922040000 +1000" stop="20250922074000 +1000" channel="4k.kayo.502">
+    <title lang="en">: Wigan v Leeds</title>
+    <desc lang="en">SF: Semi Final of the Women's Super League from The Brick Community Stadium.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ccac6fe4b0925ff8419eee-1758244037703?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250921135500 +1000" stop="20250921230000 +1000" channel="4k.kayo.501">
     <title lang="en">: U19 Australia v India</title>
     <desc lang="en">Game 1: Australia’s cricketing stars of tomorrow face off against India and IPL wonder kid Vaibhav Suryavanshi.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68c0b349e4b0e0761c55d569-1758163387221?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20250922002000 +1000" stop="20250922054000 +1000" channel="4k.kayo.501">
-    <title lang="en">Twenty20 Internationals: 1st Group A vs 2nd Group A</title>
+    <title lang="en">Twenty20 Internationals: India vs Pakistan</title>
     <sub-title lang="en">2025</sub-title>
     <desc lang="en">Super 4: India and Pakistan clash again as the two most dominant teams from Group A; the winner will be on the verge of the final.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68cb3877e4b093dcd10d543f-1758148858734?location=hero-portrait-m2&amp;imwidth=720" />
@@ -260,7 +240,7 @@
   <programme start="20250922095500 +1000" stop="20250922151000 +1000" channel="4k.kayo.501">
     <title lang="en">: Final</title>
     <desc lang="en">Final: The CPL champions are crowned at Providence Stadium after a season of thrilling T20 cricket.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ba3564e4b0a077761a136e-1757033892519?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ba3564e4b0a077761a136e-1758259558891?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20250921165500 +1000" stop="20250921192500 +1000" channel="4k.kayo.506">
     <title lang="en">: Azerbaijan: Race</title>
@@ -273,12 +253,27 @@
     <desc lang="en">Championship rivals and teammates Oscar Piastri and Lando Norris face off in a high-speed showdown on the dramatic Baku street circuit.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68c8c129e4b093a826e10391-1757987555543?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20250922033000 +1000" stop="20250922084000 +1000" channel="4k.kayo.506">
+    <title lang="en">: NASCAR</title>
+    <desc lang="en">The Round of 12 begins in New Hampshire as drivers fight for playoff survival. Bubba Wallace and Chase Elliott look to secure their spot.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ccab48e4b0925ff8419ee9-1758243981124?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250921163000 +1000" stop="20250921194000 +1000" channel="4k.kayo.505">
+    <title lang="en">: KK Partizan v Sydney</title>
+    <desc lang="en">The Sydney Kings look to showcase their talents against Europe’s best when they take on KK Partizan.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68c3794ce4b057df86076124-1757641483323?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250921190000 +1000" stop="20250921221000 +1000" channel="4k.kayo.505">
+    <title lang="en">: Panathinaikos v Adelaide</title>
+    <desc lang="en">Bryce Cotton’s first game in an Adelaide 36ers jersey is against Greek-giants Panathinaikos in the Pavlos Giannakopoulos Tournament.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68c3799be4b03874d48730a0-1757641504609?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20250921140000 +1000" stop="20250921181000 +1000" channel="4k.kayo.506">
     <title lang="en">: Hana Championship: Final RD</title>
     <desc lang="en">Final round action of the Hana Financial Group Championship from Bear’s Best Cheongna Golf Club</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68cbad70e4b0925ff8419e94-1758178748609?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20250921210000 +1000" stop="20250922031000 +1000" channel="4k.kayo.503">
+  <programme start="20250921203000 +1000" stop="20250922024000 +1000" channel="4k.kayo.503">
     <title lang="en">FedEx Open de France: FedEx Open de France</title>
     <sub-title lang="en">2025</sub-title>
     <desc lang="en">Final Round action of the Open De France from Golf de Saint-Nom-La-Bretèche, Paris.</desc>
@@ -299,12 +294,12 @@
     <desc lang="en">Day one of the World Rowing Championships begins from Shanghai, China.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68cb8fb7e4b0925ff8419e84-1758171106259?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20250922120000 +1000" stop="20250922152000 +1000" channel="4k.kayo.505">
+  <programme start="20250922120000 +1000" stop="20250922154000 +1000" channel="4k.kayo.505">
     <title lang="en">: World C'ships: Morning 2</title>
     <desc lang="en">Day two of the World Rowing Championships begins from Shanghai, China.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68cb91aae4b0ad101c750569-1758171637865?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20250922160000 +1000" stop="20250922182000 +1000" channel="4k.kayo.505">
+  <programme start="20250922160000 +1000" stop="20250922184000 +1000" channel="4k.kayo.505">
     <title lang="en">: World C'ships: Afternoon 2</title>
     <desc lang="en">Day two of the World Rowing Championships continues from Shanghai, China.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68cb9309e4b0ad101c75056c-1758171924817?location=hero-portrait-m2&amp;imwidth=720" />
@@ -313,6 +308,18 @@
     <title lang="en">: Pairs Cup: Week 16</title>
     <desc lang="en">The Pairs Cup continues with a new generation of players challenging established professionals.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68cb7b4ee4b01572fd766cb4-1758165931242?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250924002000 +1000" stop="20250924054000 +1000" channel="4k.kayo.501">
+    <title lang="en">Twenty20 Internationals: Pakistan vs Sri Lanka</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Super 4: Pakistan look to build momentum, but face an in-form Sri Lanka side that topped Group B.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68cc9d3fe4b0ad10d8406d7d-1758242310223?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250924002000 +1000" stop="20250924054000 +1000" channel="4k.kayo.505">
+    <title lang="en">Twenty20 Internationals: Pakistan vs Sri Lanka</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Fox Cricket presents Hindi language coverage of this Asia Cup Super 4 game between Pakistan v Sri Lanka</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68cc9d47e4b00c072271bb13-1758242313559?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20250923120000 +1000" stop="20250923144000 +1000" channel="4k.kayo.505">
     <title lang="en">: World C'ships: D3</title>
@@ -324,10 +331,52 @@
     <desc lang="en">Game 2: With the Under-19 World Cup on the horizon, Australia and India's emerging talent continue their battle at Ian Healy Oval.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68c0bd98e4b0f9a12697b9d5-1758163548283?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20250925002000 +1000" stop="20250925054000 +1000" channel="4k.kayo.505">
+    <title lang="en">Twenty20 Internationals: India vs Bangladesh</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Fox Cricket presents Hindi language coverage of this Asia Cup Super 4 game between India v Bangladesh</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68cc9e8be4b0925ff8419edc-1758244600845?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250925002000 +1000" stop="20250925054000 +1000" channel="4k.kayo.501">
+    <title lang="en">Twenty20 Internationals: India vs Bangladesh</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Super 4: Tournament favorite India's strong opening unit challenges Bangladesh's fighting spirit in a crucial Super 4 fixture.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68cc9e77e4b0ad10d8406d7f-1758244597073?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250926002000 +1000" stop="20250926054000 +1000" channel="4k.kayo.505">
+    <title lang="en">Twenty20 Internationals: Pakistan vs Bangladesh</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Fox Cricket presents Hindi language coverage of this Asia Cup Super 4 game between Pakistan v Bangladesh</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68cc9fe5e4b01572fd766d06-1758244492008?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250926002000 +1000" stop="20250926054000 +1000" channel="4k.kayo.501">
+    <title lang="en">Twenty20 Internationals: Pakistan vs Bangladesh</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Super 4: Pakistan, led by Shaheen Afridi, faces a spirited Bangladesh side fighting to get in the best position for a possible final's spot.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68cc9fd1e4b0314eecdc9c70-1758244488647?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20250926142500 +1000" stop="20250926234000 +1000" channel="4k.kayo.501">
     <title lang="en">: U19 Australia v India</title>
     <desc lang="en">Game 3: The Australia v India Under 19 series concludes with the final match at Ian Healy Oval.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68c0bd9ee4b08f6ecbefa51e-1758163464113?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250927002000 +1000" stop="20250927054000 +1000" channel="4k.kayo.506">
+    <title lang="en">Twenty20 Internationals: India vs Sri Lanka</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Fox Cricket presents Hindi language coverage of this Asia Cup Super 4 game between India v Sri Lanka</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68cca106e4b0b23f10594d22-1758244402993?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250927002000 +1000" stop="20250927054000 +1000" channel="4k.kayo.501">
+    <title lang="en">Twenty20 Internationals: India vs Sri Lanka</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Super 4: The final Super 4 game gets underway as India, the winner of Group A, faces off with Group B winner Sri Lanka with Finals placement on the line.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68cca0e6e4b0314eecdc9c72-1758244390549?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250929002000 +1000" stop="20250929054000 +1000" channel="4k.kayo.501">
+    <title lang="en">Twenty20 Internationals: 1st vs 2nd</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Final: The Super Four stage has determined the two best teams in the tournament, and they will now face off to be crowned champions.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68cca310e4b01572fd766d07-1758260017006?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251001153000 +1000" stop="20251001211000 +1000" channel="4k.kayo.501">
     <title lang="en">Twenty20 Internationals: New Zealand vs Australia</title>
