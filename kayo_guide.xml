@@ -24,20 +24,11 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20250922120041 +1000" stop="20250922154041 +1000" channel="4k.kayo.505">
-    <title lang="en">: World C'ships: Morning 2</title>
-    <desc lang="en">Day two of the World Rowing Championships begins from Shanghai, China.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68cb91aae4b0ad101c750569-1758171637865?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250922160046 +1000" stop="20250922184046 +1000" channel="4k.kayo.505">
-    <title lang="en">: World C'ships: Afternoon 2</title>
-    <desc lang="en">Day two of the World Rowing Championships continues from Shanghai, China.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68cb9309e4b0ad101c75056c-1758171924817?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250923030000 +1000" stop="20250923074000 +1000" channel="4k.kayo.505">
-    <title lang="en">: Pairs Cup: Week 16</title>
-    <desc lang="en">The Pairs Cup continues with a new generation of players challenging established professionals.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68cb7b4ee4b01572fd766cb4-1758165931242?location=hero-portrait-m2&amp;imwidth=720" />
+  <programme start="20250924002000 +1000" stop="20250924054000 +1000" channel="4k.kayo.505">
+    <title lang="en">Twenty20 Internationals: Pakistan vs Sri Lanka</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Fox Cricket presents Hindi language coverage of this Asia Cup Super 4 game between Pakistan v Sri Lanka</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68cc9d47e4b00c072271bb13-1758242313559?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20250924002000 +1000" stop="20250924054000 +1000" channel="4k.kayo.501">
     <title lang="en">Twenty20 Internationals: Pakistan vs Sri Lanka</title>
@@ -45,18 +36,12 @@
     <desc lang="en">Super 4: Pakistan look to build momentum, but face an in-form Sri Lanka side that topped Group B.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68cc9d3fe4b0ad10d8406d7d-1758242310223?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20250924002000 +1000" stop="20250924054000 +1000" channel="4k.kayo.505">
-    <title lang="en">Twenty20 Internationals: Pakistan vs Sri Lanka</title>
-    <sub-title lang="en">2025</sub-title>
-    <desc lang="en">Fox Cricket presents Hindi language coverage of this Asia Cup Super 4 game between Pakistan v Sri Lanka</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68cc9d47e4b00c072271bb13-1758242313559?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250923120000 +1000" stop="20250923144000 +1000" channel="4k.kayo.505">
+  <programme start="20250923120032 +1000" stop="20250923144032 +1000" channel="4k.kayo.505">
     <title lang="en">: World C'ships: D3</title>
     <desc lang="en">Day three of the World Rowing Championships begins from Shanghai, China.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68cb9e4fe4b053c73ab5fcdf-1758174858581?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68cb9e4fe4b053c73ab5fcdf-1758583863951?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20250924142500 +1000" stop="20250924234000 +1000" channel="4k.kayo.501">
+  <programme start="20250924135500 +1000" stop="20250924231000 +1000" channel="4k.kayo.501">
     <title lang="en">: U19 Australia v India</title>
     <desc lang="en">Game 2: With the Under-19 World Cup on the horizon, Australia and India's emerging talent continue their battle at Ian Healy Oval.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68c0bd98e4b0f9a12697b9d5-1758163548283?location=hero-portrait-m2&amp;imwidth=720" />
@@ -76,7 +61,13 @@
   <programme start="20250924120000 +1000" stop="20250924150000 +1000" channel="4k.kayo.505">
     <title lang="en">: World C'ships: D4</title>
     <desc lang="en">Day four of the World Rowing Championships begins from Shanghai, China.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d0c9fde4b0989e42d4be37-1758513748562?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d0c9fde4b0989e42d4be37-1758583891155?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250925190000 +1000" stop="20250925221000 +1000" channel="4k.kayo.505">
+    <title lang="en">AFL Women's: Geelong Cats Women vs Hawthorn Hawks Women</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">A Thursday night blockbuster to kick off Round 7 as Geelong hosts Hawthorn under lights at GMHBA Stadium.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d1fce3e4b00c0709e8941e-1758592278841?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20250926002000 +1000" stop="20250926054000 +1000" channel="4k.kayo.505">
     <title lang="en">Twenty20 Internationals: Pakistan vs Bangladesh</title>
@@ -93,12 +84,41 @@
   <programme start="20250925120000 +1000" stop="20250925144000 +1000" channel="4k.kayo.505">
     <title lang="en">: World C'ships: Morning 5</title>
     <desc lang="en">Day five of the World Rowing Championships begins from Shanghai, China.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d0cf09e4b0989e42d4be3d-1758514991443?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d0cf09e4b0989e42d4be3d-1758583903676?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20250925153000 +1000" stop="20250925184000 +1000" channel="4k.kayo.505">
     <title lang="en">: World C'ships: Afternoon 5</title>
     <desc lang="en">Day five of the World Rowing Championships continues from Shanghai, China.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d0d188e4b025822c3d1ed4-1758515731291?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d0d188e4b025822c3d1ed4-1758583910036?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250926130000 +1000" stop="20250926161000 +1000" channel="4k.kayo.504">
+    <title lang="en">AFL Women's: Melbourne Demons Women vs Gold Coast Suns Women</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">A tough assignment for Gold Coast as it heads to Casey Fields to take on the second-placed Dees on Friday afternoon.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d1fd35e4b0e9c56e88db8e-1758595918549?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250926150000 +1000" stop="20250926181000 +1000" channel="4k.kayo.504">
+    <title lang="en">AFL Women's: Essendon Bombers Women vs North Melbourne Kangaroos Women</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">The rampaging defending premier North Melbourne faces its next challenger Essendon at Windy Hill on Friday afternoon.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d1fd8ee4b00c0709e89421-1758592429274?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250926190000 +1000" stop="20250926221000 +1000" channel="4k.kayo.505">
+    <title lang="en">AFL Women's: Western Bulldogs Women vs Collingwood Magpies Women</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Friday night footy heads to Whitten Oval as the Western Bulldogs go head-to-head with Collingwood with finals chances on the line.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d1fdcbe4b042f6442d1a17-1758592512615?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250926183000 +1000" stop="20250926232500 +1000" channel="4k.kayo.502">
+    <title lang="en">Premiership: Melbourne vs Cronulla</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">PF: Watch the NRL Finals on Kayo.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d20038e4b0c3ccec17980e-1758613198432?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250927043000 +1000" stop="20250927084000 +1000" channel="4k.kayo.502">
+    <title lang="en">: Leigh v Wakefield</title>
+    <desc lang="en">EF: Elimination Final of the Super League from Leigh Sports Village Stadium.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d205dce4b062767bbdd5a7-1758594599904?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20250926142500 +1000" stop="20250926234000 +1000" channel="4k.kayo.501">
     <title lang="en">: U19 Australia v India</title>
@@ -120,7 +140,69 @@
   <programme start="20250926180000 +1000" stop="20250927091000 +1000" channel="4k.kayo.503">
     <title lang="en">: Ryder Cup</title>
     <desc lang="en">Team Europe vs Team America. The 2025 Ryder Cup tees off from Bethpage Black.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d09acbe4b025822c3d1ea9-1758501619097?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d09acbe4b025822c3d1ea9-1758584307242?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250926143000 +1000" stop="20250926185000 +1000" channel="4k.kayo.505">
+    <title lang="en">: World C'ships: D6</title>
+    <desc lang="en">Day six of the World Rowing Championships begins from Shanghai, China.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d1d7d4e4b06cd99558dcb3-1758583918627?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250927160000 +1000" stop="20250927191000 +1000" channel="4k.kayo.502">
+    <title lang="en">: Bears v Devils</title>
+    <desc lang="en">GF: Grand Final of the QLD Cup from Kayo Stadium, Redcliffe.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d2071ce4b0b04205096d7a-1758594876865?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250927190000 +1000" stop="20250927223000 +1000" channel="4k.kayo.502">
+    <title lang="en">Women's Premiership: Sydney Roosters Women vs Cronulla Women</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">PF: Watch the NRLW Preliminary Finals on Kayo.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d1ff8fe4b09fefec16519a-1758592988201?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250928043000 +1000" stop="20250928084000 +1000" channel="4k.kayo.502">
+    <title lang="en">: Leeds v St Helens</title>
+    <desc lang="en">EF: Elimination Final of the Super League from AMT Headingley Stadium.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d2081de4b0898dcfd3fcdc-1758595148855?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250927150000 +1000" stop="20250927185000 +1000" channel="4k.kayo.505">
+    <title lang="en">: World C'ships: D7</title>
+    <desc lang="en">Day seven of the World Rowing Championships begins from Shanghai, China.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d1e7fde4b062767bbdd585-1758586903062?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250928130000 +1000" stop="20250928161000 +1000" channel="4k.kayo.504">
+    <title lang="en">AFL Women's: St Kilda Saints Women vs Port Adelaide Power Women</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">A finals-shaping contest awaits at RSEA Park with a valuable win up for grabs when St Kilda and Port Adelaide battle it out on Sunday.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d1fe1ce4b062767bbdd5a0-1758592575451?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250928150000 +1000" stop="20250928181000 +1000" channel="4k.kayo.505">
+    <title lang="en">AFL Women's: Brisbane Lions Women vs Richmond Tigers Women</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Brisbane star Ally Anderson is set to play a historic 100th milestone match when the Lions host the winless Richmond at Springfield on Sunday.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d1febde4b062767bbdd5a1-1758595907514?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250928150000 +1000" stop="20250928181000 +1000" channel="4k.kayo.504">
+    <title lang="en">AFL Women's: Adelaide Crows Women vs Sydney Swans Women</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Adelaide champion Ebony Marinoff will join Ally Anderson as the first 100 game AFLW players when the Crows host Sydney in a blockbuster Sunday afternoon clash.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d1fe62e4b08f72eb66db50-1758592677131?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250928170000 +1000" stop="20250928201000 +1000" channel="4k.kayo.504">
+    <title lang="en">AFL Women's: West Coast Eagles Women vs Greater Western Sydney Giants Women</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">West Coast is fighting to maintain its place in the top eight when it battles the Giants aiming for three wins in a row to close out Round 7 in the west.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d1fef8e4b042f6442d1a1c-1758592796420?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250928123000 +1000" stop="20250928161000 +1000" channel="4k.kayo.502">
+    <title lang="en">Women's Premiership: Brisbane Women vs Newcastle Women</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">PF: Watch the NRLW Preliminary Finals on Kayo.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d20ae0e4b00c0709e8942b-1758595933023?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250928150000 +1000" stop="20250928192500 +1000" channel="4k.kayo.502">
+    <title lang="en">Premiership: Brisbane vs Penrith</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">PF: Watch the NRL Finals on Kayo.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d20b93e4b0c3ccec179812-1758596033755?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20250929002000 +1000" stop="20250929054000 +1000" channel="4k.kayo.501">
     <title lang="en">Twenty20 Internationals: 1st vs 2nd</title>
@@ -145,6 +227,12 @@
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Game 2: Australia's history of dominance against New Zealand will be tested by the home side's knack for thrilling, close contests.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ba3d9ce4b0402346476805-1757036059901?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251004132500 +1000" stop="20251004152500 +1000" channel="4k.kayo.501">
+    <title lang="en">Sheffield Shield: Western Australia vs New South Wales</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">Day 1: Cameron Green returns for Western Australia as they seek to recapture form against a New South Wales team featuring Nathan Lyon at the WACA.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d22568e4b09fefec1651bb-1758602655269?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251004153000 +1000" stop="20251004211000 +1000" channel="4k.kayo.501">
     <title lang="en">Twenty20 Internationals: New Zealand vs Australia</title>
