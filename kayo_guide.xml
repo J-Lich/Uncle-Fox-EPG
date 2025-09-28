@@ -24,98 +24,11 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20250927100008 +1000" stop="20250927224008 +1000" channel="4k.kayo.504">
-    <title lang="en">: Grand Final Day on Fox</title>
-    <desc lang="en">Grand Final Day on Fox</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d49e09e4b031fa9a0c1e4b-1758765895039?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250927180000 +1000" stop="20250927224000 +1000" channel="4k.kayo.504">
-    <title lang="en">: Geelong v Brisbane</title>
-    <desc lang="en">The Cats and Lions face off for the 2025 Premiership.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d355cae4b02a5d766d2ce4-1758680585103?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250927140000 +1000" stop="20250927165500 +1000" channel="4k.kayo.502">
-    <title lang="en">: Tigers v Bears</title>
-    <desc lang="en">GF: The Bears caused an upset in their Prelim Final, while the Tigers retained their undefeated record in 2025 to advance to the decider.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d4adebe4b031fa9a0c1e56-1758841633920?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250927155448 +1000" stop="20250927191948 +1000" channel="4k.kayo.502">
-    <title lang="en">: Bears v Devils</title>
-    <desc lang="en">GF: Both sides snatched victory late in their Prelim Finals. The Devils are chasing their fourth premiership from the past five years.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d2071ce4b0b04205096d7a-1758667534776?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250927190000 +1000" stop="20250927224000 +1000" channel="4k.kayo.502">
-    <title lang="en">Women's Premiership: Sydney Roosters Women vs Cronulla Women</title>
-    <sub-title lang="en">2025</sub-title>
-    <desc lang="en">PF: The Roosters are undefeated in 2025 &amp; have won all four games in this rivalry, including last year's Grand Final &amp; their Round 11 clash.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d1ff8fe4b09fefec16519a-1758592988201?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250928043000 +1000" stop="20250928084000 +1000" channel="4k.kayo.502">
-    <title lang="en">: Leeds v St Helens</title>
-    <desc lang="en">EF: Elimination Final of the Super League from AMT Headingley Stadium.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d2081de4b0898dcfd3fcdc-1758595148855?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250927114804 +1000" stop="20250927135804 +1000" channel="4k.kayo.506">
-    <title lang="en">: Japan: Qualifying</title>
-    <desc lang="en">With a championship title in reach, Marc Marquez battles his brother and only remaining rival, Alex Marquez, for a crucial qualifying position.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d1e7e2e4b06cd99558dcbb-1758586980730?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250927134000 +1000" stop="20250927175500 +1000" channel="4k.kayo.506">
-    <title lang="en">: Japan: Sprint Race</title>
-    <desc lang="en">(Includes Moto2 + Moto3 Qualifying) Marc Marquez aims to extend his championship lead, with his brother Alex Marquez as his only rival for the MotoGP crown</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d1e8c5e4b02218fe0c6f50-1758587187685?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250927170019 +1000" stop="20250927191019 +1000" channel="4k.kayo.506">
-    <title lang="en">: Japan: Race 1</title>
-    <desc lang="en">Championship leader Ryota Ogiwara and rival Seiryu Ikegami continue their battle on home soil as the title fight reaches a crucial stage.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d35ed9e4b02a5d766d2ce8-1758841792819?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250927185000 +1000" stop="20250927205000 +1000" channel="4k.kayo.506">
-    <title lang="en">: Aragon: Superpole</title>
-    <desc lang="en">Round 10 of the 2025 World Superbikes Championship starts with the Superpole.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d1f57de4b04f9dccd1306a-1758590456499?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250927202000 +1000" stop="20250928011000 +1000" channel="4k.kayo.506">
-    <title lang="en">: Aragon: Race 1</title>
-    <desc lang="en">With just 39 points separating championship rivals Toprak Razgatlioglu and Nicolo Bulega, the WSBK title battle heats up in Aragon.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d1f661e4b04f9dccd1306b-1758590622492?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250928053000 +1000" stop="20250928101000 +1000" channel="4k.kayo.506">
-    <title lang="en">: NASCAR</title>
-    <desc lang="en">The Xfinity playoffs continue in Kansas with Connor Zilisch at the front. The field fights for crucial points with several drivers near the cutline.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d1ecf4e4b0b21d84ce0da2-1758588290062?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250928093500 +1000" stop="20250928114000 +1000" channel="4k.kayo.506">
-    <title lang="en">: Japan: Race 2</title>
-    <desc lang="en">Championship leader Ryota Ogiwara and rival Seiryu Ikegami continue their battle on home soil as the title fight reaches a crucial stage.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d35fede4b031fa9a0c1e00-1758841803194?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250927180000 +1000" stop="20250928091000 +1000" channel="4k.kayo.503">
-    <title lang="en">: Ryder Cup: Day 2</title>
-    <desc lang="en">The battle intensifies on the second day as both teams fight to set the stage for a decisive final showdown.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d37769e4b003522c108778-1758689243107?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250927210500 +1000" stop="20250928091000 +1000" channel="4k.kayo.505">
-    <title lang="en">: Featured Groups: D2</title>
-    <desc lang="en">Xander Schauffele and Patrick Cantlay take on Team Europe's Jon Rahm and Tyrell Hatton at Bethpage Black, New York.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d5d412e4b0022d1b16d29c-1758935943370?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250927150000 +1000" stop="20250927185000 +1000" channel="4k.kayo.505">
-    <title lang="en">: World C'ships: D7</title>
-    <desc lang="en">Day seven of the World Rowing Championships begins from Shanghai, China.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d1e7fde4b062767bbdd585-1758667446565?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250928130000 +1000" stop="20250928161000 +1000" channel="4k.kayo.504">
+  <programme start="20250928130004 +1000" stop="20250928161004 +1000" channel="4k.kayo.504">
     <title lang="en">AFL Women's: St Kilda Saints Women vs Port Adelaide Power Women</title>
     <sub-title lang="en">2025</sub-title>
     <desc lang="en">A finals-shaping contest awaits at RSEA Park with a valuable win up for grabs when St Kilda and Port Adelaide battle it out on Sunday.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d1fe1ce4b062767bbdd5a0-1758592575451?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20250928150000 +1000" stop="20250928181000 +1000" channel="4k.kayo.504">
-    <title lang="en">AFL Women's: Adelaide Crows Women vs Sydney Swans Women</title>
-    <sub-title lang="en">2025</sub-title>
-    <desc lang="en">Adelaide champion Ebony Marinoff will join Ally Anderson as the first 100 game AFLW players when the Crows host Sydney in a blockbuster Sunday afternoon clash.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d1fe62e4b08f72eb66db50-1758592677131?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20250928150000 +1000" stop="20250928181000 +1000" channel="4k.kayo.505">
     <title lang="en">AFL Women's: Brisbane Lions Women vs Richmond Tigers Women</title>
@@ -123,19 +36,25 @@
     <desc lang="en">Brisbane star Ally Anderson is set to play a historic 100th milestone match when the Lions host the winless Richmond at Springfield on Sunday.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d1febde4b062767bbdd5a1-1758595907514?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20250928170000 +1000" stop="20250928201000 +1000" channel="4k.kayo.504">
+  <programme start="20250928150033 +1000" stop="20250928181033 +1000" channel="4k.kayo.504">
+    <title lang="en">AFL Women's: Adelaide Crows Women vs Sydney Swans Women</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Adelaide champion Ebony Marinoff will join Ally Anderson as the first 100 game AFLW players when the Crows host Sydney in a blockbuster Sunday afternoon clash.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d1fe62e4b08f72eb66db50-1758592677131?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20250928170007 +1000" stop="20250928201007 +1000" channel="4k.kayo.504">
     <title lang="en">AFL Women's: West Coast Eagles Women vs Greater Western Sydney Giants Women</title>
     <sub-title lang="en">2025</sub-title>
     <desc lang="en">West Coast is fighting to maintain its place in the top eight when it battles the Giants aiming for three wins in a row to close out Round 7 in the west.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d1fef8e4b042f6442d1a1c-1758592796420?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20250928123000 +1000" stop="20250928161000 +1000" channel="4k.kayo.502">
+  <programme start="20250928123029 +1000" stop="20250928161029 +1000" channel="4k.kayo.502">
     <title lang="en">Women's Premiership: Brisbane Women vs Newcastle Women</title>
     <sub-title lang="en">2025</sub-title>
     <desc lang="en">PF: After the Broncos' Round 8 victory over the Knights, the honours are even in this six-game rivalry. A Grand Final berth is on the line in Brisbane.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d20ae0e4b00c0709e8942b-1758595933023?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20250928150000 +1000" stop="20250928201000 +1000" channel="4k.kayo.502">
+  <programme start="20250928150042 +1000" stop="20250928201042 +1000" channel="4k.kayo.502">
     <title lang="en">Premiership: Brisbane vs Penrith</title>
     <sub-title lang="en">2025</sub-title>
     <desc lang="en">PF: A rematch of 2023's Grand Final between two sides peaking at the right time. A place in the decider is the reward.</desc>
@@ -147,22 +66,22 @@
     <desc lang="en">Final: Heated rivals India and Pakistan have reached the final and will face off to be crowned Asia Cup Champions 2025.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68cca310e4b01572fd766d07-1758853965911?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20250928103500 +1000" stop="20250928121000 +1000" channel="4k.kayo.506">
+  <programme start="20250928103513 +1000" stop="20250928121013 +1000" channel="4k.kayo.506">
     <title lang="en">: Japan: Warm Up</title>
     <desc lang="en">The riders get one final look around the circuit before all the races begin.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d1e9a1e4b00c0709e8940b-1758587409538?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20250928114500 +1000" stop="20250928141000 +1000" channel="4k.kayo.506">
+  <programme start="20250928114510 +1000" stop="20250928141010 +1000" channel="4k.kayo.506">
     <title lang="en">: Japan: Race</title>
     <desc lang="en">Championship leader José Antonio Rueda faces pressure from Ángel Piqueras as the title fight heats up in Japan.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d1ea9ce4b06cd99558dcc3-1758587665501?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20250928130000 +1000" stop="20250928152500 +1000" channel="4k.kayo.506">
+  <programme start="20250928130025 +1000" stop="20250928152525 +1000" channel="4k.kayo.506">
     <title lang="en">: Japan: Race</title>
     <desc lang="en">Manuel González aims to extend his championship lead over rival Diogo Moreira in a crucial late-season race.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d1eb5be4b0276aa8e68fde-1758587862756?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20250928141500 +1000" stop="20250928173000 +1000" channel="4k.kayo.506">
+  <programme start="20250928141521 +1000" stop="20250928173021 +1000" channel="4k.kayo.506">
     <title lang="en">: Japan: Race</title>
     <desc lang="en">On the cusp of one of the greatest comebacks in sporting history, Marc Marquez is vying to take back the throne and become a 7-time World Champion.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d1ec23e4b0276aa8e68fe1-1758588030572?location=hero-portrait-m2&amp;imwidth=720" />
@@ -172,7 +91,7 @@
     <desc lang="en">It's a new day at MotorLand Aragon and it starts with the all-important Superpole Race.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d1f6fbe4b00c0709e8941a-1758590832861?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20250928202000 +1000" stop="20250929011000 +1000" channel="4k.kayo.506">
+  <programme start="20250928202013 +1000" stop="20250929011013 +1000" channel="4k.kayo.506">
     <title lang="en">: Aragon: Race 2</title>
     <desc lang="en">Championship leader Toprak Razgatlioglu looks to extend his unbeaten streak at a circuit where Ducati holds a multi-race winning record.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d1f7b0e4b06cd99558dcd3-1758590990085?location=hero-portrait-m2&amp;imwidth=720" />
@@ -182,20 +101,20 @@
     <desc lang="en">Drivers battle at Kansas Speedway for a spot in the next playoff round. With a win at New Hampshire, Ryan Blaney is safe, while others fight for survival.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d1edb8e4b0276aa8e68fe3-1758588494947?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20250928230000 +1000" stop="20250929091000 +1000" channel="4k.kayo.503">
+  <programme start="20250928230009 +1000" stop="20250929091009 +1000" channel="4k.kayo.503">
     <title lang="en">: Ryder Cup: Final Day</title>
     <desc lang="en">It all comes down to singles play, with every match carrying weight in the decisive clash between Europe and the United States.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d379c9e4b031fa9a0c1e24-1758689797813?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20250929020000 +1000" stop="20250929091000 +1000" channel="4k.kayo.505">
     <title lang="en">: Featured Groups: Final Day</title>
-    <desc lang="en">Final Day featured group coverage from the Ryder Cup at Bethpage Black, New York.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d5d4f4e4b0022d1b16d29d-1758844192021?location=hero-portrait-m2&amp;imwidth=720" />
+    <desc lang="en">USA's Scottie Scheffler takes on Europe's Rory McIlroy in the Final Day featured match coverage from the Ryder Cup at Bethpage Black, New York.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d5d4f4e4b0022d1b16d29d-1759057449771?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20250928120000 +1000" stop="20250928135500 +1000" channel="4k.kayo.505">
+  <programme start="20250928120022 +1000" stop="20250928135522 +1000" channel="4k.kayo.505">
     <title lang="en">: World C'ships: Final Morning</title>
     <desc lang="en">Final Day of the World Rowing Championships begins from Shanghai, China.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d322c7e4b043614c2a3c4d-1758888567476?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d322c7e4b043614c2a3c4d-1758984258895?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20250930030000 +1000" stop="20250930074000 +1000" channel="4k.kayo.505">
     <title lang="en">: Pairs Cup: Week 17</title>
