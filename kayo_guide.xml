@@ -24,32 +24,59 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20250930030000 +1000" stop="20250930074000 +1000" channel="4k.kayo.505">
-    <title lang="en">: Pairs Cup: Week 17</title>
-    <desc lang="en">The Pairs Cup continues with a new generation of players challenging established professionals.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d49286e4b003522c1087be-1758762307445?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
   <programme start="20251001024500 +1000" stop="20251001063000 +1000" channel="4k.kayo.506">
     <title lang="en">: Speedway of Nations: D1</title>
     <desc lang="en">The ultimate test of team riding as 15 countries battle it out over four nights to be crowned FIM Speedway world team champions.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68da3d79e4b03714f8bf74a5-1759133291937?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68da3d79e4b03714f8bf74a5-1759210289382?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251001160000 +1000" stop="20251001211000 +1000" channel="4k.kayo.501">
     <title lang="en">Twenty20 Internationals: New Zealand vs Australia</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Game 1: Two decades since T20I cricket began with NZ v Australia, the trans-Tasman rivals put each other to the test before next years World Cup.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ba3827e4b024f7544872c9-1757034621963?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ba3827e4b024f7544872c9-1759207347732?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251002024500 +1000" stop="20251002063000 +1000" channel="4k.kayo.506">
     <title lang="en">: Speedway of Nations: D2</title>
     <desc lang="en">The 2022 champions, Australia, will be looking to reclaim the title with a formidable lineup including Brady Kurtz, Jack Holder and Jason Doyle.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68da3f8be4b08f3861a01819-1759133774388?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20251002090000 +1000" stop="20251002131000 +1000" channel="4k.kayo.503">
+    <title lang="en">: Lotte Championship: RD1</title>
+    <desc lang="en">First round coverage of the Lotte Championship from Hoakalei Country Club.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db290de4b0c32ef4eda3f7-1759193393164?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20251002135000 +1000" stop="20251002225000 +1000" channel="4k.kayo.501">
     <title lang="en">Test Matches: India vs West Indies</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Day 1: Captain Shubman Gill leads India in his first home test series. West Indies, under a new head coach, will be looking to prove their mettle.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d08830e4b00c072dcc38a5-1758840302292?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251002160000 +1000" stop="20251002211000 +1000" channel="4k.kayo.503">
+    <title lang="en">: Jakarta Championship: RD1</title>
+    <desc lang="en">First round action of the Jakarta International Championship from Damai Indah Golf Course, Indonesia</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db3108e4b054338c87e8ec-1759195517064?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251002210000 +1000" stop="20251003031000 +1000" channel="4k.kayo.505">
+    <title lang="en">Alfred Dunhill Links Champs: Alfred Dunhill Links Championship</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Ryder Cup heroes Fleetwood, Hatton, Fitzpatrick and MacIntyre headline a world-class field at the Old Course at St Andrews</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db109ae4b03714f8bf74af-1759187209979?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251003060000 +1000" stop="20251003101000 +1000" channel="4k.kayo.503">
+    <title lang="en">Sanderson Farms Champs: Sanderson Farms Championship</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Min Woo Lee features in a competitive field as contenders chase crucial FedExCup points early in the PGA Tour season.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db6c88e4b054338c87e90d-1759210700939?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251003090000 +1000" stop="20251003131000 +1000" channel="4k.kayo.503">
+    <title lang="en">: Lotte Championship: RD2</title>
+    <desc lang="en">Second round coverage of the Lotte Championship from Hoakalei Country Club.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db2b37e4b08f3861a01858-1759193949717?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251004043000 +1000" stop="20251004084000 +1000" channel="4k.kayo.502">
+    <title lang="en">: Wigan v Leigh</title>
+    <desc lang="en">SF: Semi Final of the Super League from The Brick Community Stadium.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db749de4b08aee6dbe81b0-1759212798119?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251003135000 +1000" stop="20251003225000 +1000" channel="4k.kayo.505">
     <title lang="en">Test Matches: India vs West Indies</title>
@@ -61,7 +88,39 @@
     <title lang="en">Twenty20 Internationals: New Zealand vs Australia</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Game 2: Australia's history of dominance against New Zealand will be tested by the home side's knack for thrilling, close contests.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ba3d9ce4b0402346476805-1757036059901?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ba3d9ce4b0402346476805-1759209127586?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251004024500 +1000" stop="20251004071500 +1000" channel="4k.kayo.506">
+    <title lang="en">: Speedway of Nations: D3</title>
+    <desc lang="en">Witness the stars of tomorrow as teams of under-21 talent from eight nations all face each other in an intense head-to-head format.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db0a64e4b03714f8bf74ad-1759185666301?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251003160000 +1000" stop="20251003211000 +1000" channel="4k.kayo.503">
+    <title lang="en">: Jakarta Championship: RD2</title>
+    <desc lang="en">Second round action of the Jakarta International Championship from Damai Indah Golf Course, Indonesia</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db31c3e4b0e302a4eeab5c-1759195676715?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251003210000 +1000" stop="20251004031000 +1000" channel="4k.kayo.505">
+    <title lang="en">Alfred Dunhill Links Champs: Alfred Dunhill Links Championship</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Ryder Cup heroes Fleetwood, Hatton, Fitzpatrick and MacIntyre headline a world-class field at the Old Course at St Andrews</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db1189e4b08aee6dbe8164-1759187396227?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251004060000 +1000" stop="20251004101000 +1000" channel="4k.kayo.503">
+    <title lang="en">Sanderson Farms Champs: Sanderson Farms Championship</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Min Woo Lee features in a competitive field as contenders chase crucial FedExCup points early in the PGA Tour season.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db6d18e4b054338c87e910-1759210893860?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251004090000 +1000" stop="20251004131000 +1000" channel="4k.kayo.503">
+    <title lang="en">: Lotte Championship: RD3</title>
+    <desc lang="en">Third round coverage of the Lotte Championship from Hoakalei Country Club.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db2bb9e4b0f6fdcd2dcb44-1759194080663?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251005030000 +1100" stop="20251005071000 +1100" channel="4k.kayo.502">
+    <title lang="en">: Hull KR v St Helens</title>
+    <desc lang="en">SF: Semi Final of the Super League from Sewell Group Craven Park.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68dbbbf9e4b02230632eb9af-1759231240380?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251004122500 +1000" stop="20251004211000 +1000" channel="4k.kayo.501">
     <title lang="en">Sheffield Shield: Western Australia vs New South Wales</title>
@@ -79,7 +138,34 @@
     <title lang="en">Twenty20 Internationals: New Zealand vs Australia</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Game 3: Two decades after playing the first T20I, New Zealand and Australia will battle one final time to claim series victory and bragging rights.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ba3e6ee4b0402fc32de24a-1757036217675?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ba3e6ee4b0402fc32de24a-1759207620629?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251005033000 +1100" stop="20251005074500 +1100" channel="4k.kayo.506">
+    <title lang="en">: Speedway of Nations: Final</title>
+    <desc lang="en">Host nation Poland, led by five-time Speedway GP world champion Bartosz Zmarzlik, are determined to win their first-ever FIM SON gold medal on home soil.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db0c0ce4b08f3861a0183a-1759186092747?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251004140000 +1000" stop="20251004191000 +1000" channel="4k.kayo.503">
+    <title lang="en">: Jakarta Championship: RD3</title>
+    <desc lang="en">Third round action of the Jakarta International Championship from Damai Indah Golf Course, Indonesia</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db32f2e4b03714f8bf74d1-1759195939779?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251004210000 +1000" stop="20251005041000 +1100" channel="4k.kayo.505">
+    <title lang="en">Alfred Dunhill Links Champs: Alfred Dunhill Links Championship</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Third Round action of the Alfred Dunhill Links Championship at the Old Course at St Andrews</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db15a2e4b08f3861a01848-1759188435325?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251005070000 +1100" stop="20251005111000 +1100" channel="4k.kayo.503">
+    <title lang="en">Sanderson Farms Champs: Sanderson Farms Championship</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Third Round action of the Sanderson Farms Championship at the Country Club of Jackson.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db6e40e4b0df0be01b146c-1759211134557?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251005100000 +1100" stop="20251005141000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Lotte Championship: Final RD</title>
+    <desc lang="en">Final round coverage of the Lotte Championship from Hoakalei Country Club.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db2ce3e4b08aee6dbe817e-1759194394780?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251005132500 +1100" stop="20251005221000 +1100" channel="4k.kayo.501">
     <title lang="en">Sheffield Shield: Western Australia vs New South Wales</title>
@@ -92,6 +178,29 @@
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Day 4: In 2019, Jasprit Bumrah became the only Indian bowler to take a Test hat-trick against the West Indies.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d5c54fe4b02f10ccb779fa-1758840357983?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251005213000 +1100" stop="20251006025500 +1100" channel="4k.kayo.506">
+    <title lang="en">Formula One World Championship: Singapore Grand Prix</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">From Max Verstappen's championship prospects to Oscar Piastri's Azerbaijan woes, it all gets settled on the streets of the Marina Bay circuit.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db6b81e4b08aee6dbe81a1-1759211179275?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251005150000 +1100" stop="20251005201000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Jakarta Championship: Final RD</title>
+    <desc lang="en">Final round action of the Jakarta International Championship from Damai Indah Golf Course, Indonesia</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db35f7e4b08aee6dbe8185-1759196724644?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251005213000 +1100" stop="20251006041000 +1100" channel="4k.kayo.503">
+    <title lang="en">Alfred Dunhill Links Champs: Alfred Dunhill Links Championship</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Final Round action of the Alfred Dunhill Links Championship at the Old Course at St Andrews</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db1398e4b043c5931c666a-1759187998524?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251006063000 +1100" stop="20251006104000 +1100" channel="4k.kayo.503">
+    <title lang="en">Sanderson Farms Champs: Sanderson Farms Championship</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Final Round action of the Sanderson Farms Championship at the Country Club of Jackson.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db6ee8e4b03714f8bf74f7-1759211827739?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251006132500 +1100" stop="20251006221000 +1100" channel="4k.kayo.501">
     <title lang="en">Sheffield Shield: Western Australia vs New South Wales</title>
