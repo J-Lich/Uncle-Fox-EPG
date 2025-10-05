@@ -24,158 +24,42 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20251004130009 +1000" stop="20251004161009 +1000" channel="4k.kayo.504">
-    <title lang="en">AFL Women's: Greater Western Sydney Giants Women vs St Kilda Saints Women</title>
-    <sub-title lang="en">2025</sub-title>
-    <desc lang="en">St Kilda is aiming for four in a row to keep in the hunt for the AFLW finals as it travels to Henson Park to take on the Giants.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db7a76e4b08aee6dbe81bb-1759214239767?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251004130300 +1000" stop="20251004161000 +1000" channel="4k.kayo.503">
-    <title lang="en">: GWS v St Kilda</title>
-    <desc lang="en">Fox Footy presents Mandarin language coverage of GWS v St Kilda.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df5077e4b08f3876a8e6c2-1759466069436?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251004150031 +1000" stop="20251004181031 +1000" channel="4k.kayo.504">
-    <title lang="en">AFL Women's: North Melbourne Kangaroos Women vs Sydney Swans Women</title>
-    <sub-title lang="en">2025</sub-title>
-    <desc lang="en">The defending premier North Melbourne hosts Sydney as the AFLW returns to Launceston with the Swans fighting for their season.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db7ac4e4b0df06514e6f56-1759214311490?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251004170005 +1000" stop="20251004201005 +1000" channel="4k.kayo.504">
-    <title lang="en">AFL Women's: Gold Coast Suns Women vs Brisbane Lions Women</title>
-    <sub-title lang="en">2025</sub-title>
-    <desc lang="en">The annual Q Clash awaits an injury-hot Gold Coast and Brisbane at People First Stadium with the Lions aiming to climb up the ladder.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db7afbe4b09f9807d0ed16-1759214386753?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251004190028 +1000" stop="20251004222528 +1000" channel="4k.kayo.504">
-    <title lang="en">AFL Women's: Port Adelaide Power Women vs Western Bulldogs Women</title>
-    <sub-title lang="en">2025</sub-title>
-    <desc lang="en">It’s crunch time for Port Adelaide after a fadeout last week as they host the Western Bulldogs at Alberton Oval on Saturday night.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db7b56e4b054338c87e92e-1759214466159?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251005015900 +1000" stop="20251005071000 +1100" channel="4k.kayo.502">
-    <title lang="en">: Hull KR v St Helens</title>
-    <desc lang="en">SF: Semi Final of the Super League from Sewell Group Craven Park.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68dbbbf9e4b02230632eb9af-1759231240380?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251004135014 +1000" stop="20251004225014 +1000" channel="4k.kayo.505">
-    <title lang="en">Test Matches: India vs West Indies</title>
-    <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Day 3: Jasprit Bumrah takes the new ball as the West Indies battle to stay in the match.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d5c530e4b096f9470ae6fb-1759294354855?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251004160010 +1000" stop="20251004211010 +1000" channel="4k.kayo.501">
-    <title lang="en">Twenty20 Internationals: New Zealand vs Australia</title>
-    <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Game 3: The final match of the 3-match T20 Series. The Aussies lead 1-0 after Friday's washout.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ba3e6ee4b0402fc32de24a-1759490325946?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251004220011 +1000" stop="20251005034011 +1100" channel="4k.kayo.506">
-    <title lang="en">Formula One World Championship: Singapore Grand Prix</title>
-    <sub-title lang="en">2025</sub-title>
-    <desc lang="en">McLaren looks to rebound after Azerbaijan as the fight for pole intensifies under the lights at Marina Bay.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db6b79e4b054338c87e90a-1759211105759?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251004103511 +1000" stop="20251004135511 +1000" channel="4k.kayo.506">
-    <title lang="en">: Indonesia: Practice 3</title>
-    <desc lang="en">Qualifying is just around the corner, but the day's MotoGP action starts with the third and final practice session.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db7db9e4b054338c87e930-1759215468444?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251004124806 +1000" stop="20251004145806 +1000" channel="4k.kayo.506">
-    <title lang="en">: Indonesia: Qualifying</title>
-    <desc lang="en">MotoGP Champion Marc Márquez is looking for his ninth pole position of 2025 when qualifying begins at the Mandalika International Street Circuit.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db7fd8e4b054338c87e932-1759218627793?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251004144010 +1000" stop="20251004185510 +1000" channel="4k.kayo.506">
-    <title lang="en">: Indonesia: Sprint Race</title>
-    <desc lang="en">(Includes Moto2 + Moto3 Qualifying) Marco Bezzecchi obliterated the all-time lap record to claim pole position in Mandalika.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db8c76e4b08f3876a8e5b6-1759218894391?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251004180010 +1000" stop="20251004200510 +1000" channel="4k.kayo.506">
-    <title lang="en">: Indonesia: Race 1</title>
-    <desc lang="en">Championship leader Ryota Ogiwara could secure the 2025 Championship with his eighth consecutive win.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68dc8b95e4b01d0e5da7cf4a-1759466981686?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251004191511 +1000" stop="20251004215511 +1000" channel="4k.kayo.506">
-    <title lang="en">Formula One World Championship: Singapore Grand Prix</title>
-    <sub-title lang="en">2025</sub-title>
-    <desc lang="en">The third and final practice session begins at the Marina Bay Street Circuit ahead of the all-important qualifying session.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db6b6fe4b08aee6dbe81a0-1759210625209?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251005033000 +1100" stop="20251005074500 +1100" channel="4k.kayo.506">
-    <title lang="en">: Speedway of Nations: Final</title>
-    <desc lang="en">Host nation Poland, led by five-time Speedway GP world champion Bartosz Zmarzlik, are determined to win their first-ever FIM SON gold medal on home soil.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db0c0ce4b08f3861a0183a-1759186092747?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251005073000 +1100" stop="20251005121000 +1100" channel="4k.kayo.506">
-    <title lang="en">: NASCAR</title>
-    <desc lang="en">Championship contender Connor Zilisch, a road course specialist, aims for another victory as the Round of 12 playoff cutoff race commences.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df96a2e4b0ec13f69a0778-1759483737250?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251004140005 +1000" stop="20251004191005 +1000" channel="4k.kayo.503">
-    <title lang="en">: Jakarta Championship: RD3</title>
-    <desc lang="en">Third round action of the Jakarta International Championship from Damai Indah Golf Course, Indonesia</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db32f2e4b03714f8bf74d1-1759195939779?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251004213011 +1000" stop="20251005041011 +1100" channel="4k.kayo.505">
-    <title lang="en">Alfred Dunhill Links Champs: Alfred Dunhill Links Championship</title>
-    <sub-title lang="en">2025</sub-title>
-    <desc lang="en">Robert MacIntyre and Richard Sterne are tied in first place going into Round 3 of the Alfred Dunhill Links Championship.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db15a2e4b08f3861a01848-1759188435325?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251005070000 +1100" stop="20251005111000 +1100" channel="4k.kayo.503">
-    <title lang="en">Sanderson Farms Champs: Sanderson Farms Championship</title>
-    <sub-title lang="en">2025</sub-title>
-    <desc lang="en">Third Round action of the Sanderson Farms Championship at the Country Club of Jackson.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db6e40e4b0df0be01b146c-1759292875633?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251005100000 +1100" stop="20251005141000 +1100" channel="4k.kayo.503">
-    <title lang="en">: Lotte Championship: Final RD</title>
-    <desc lang="en">Final round coverage of the Lotte Championship from Hoakalei Country Club.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db2ce3e4b08aee6dbe817e-1759194394780?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251004190008 +1000" stop="20251004224008 +1000" channel="4k.kayo.503">
-    <title lang="en">Netball Tests: Australia vs South Africa</title>
-    <sub-title lang="en">2025</sub-title>
-    <desc lang="en">The series kicks off in Bendigo as the Diamonds look to best South Africa in this three game matchup leading up to the Constellation Cup.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ddfac4e4b01d0e5da7cfec-1759451651012?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251005130000 +1100" stop="20251005161000 +1100" channel="4k.kayo.504">
+  <programme start="20251005130012 +1100" stop="20251005161012 +1100" channel="4k.kayo.504">
     <title lang="en">AFL Women's: Richmond Tigers Women vs Adelaide Crows Women</title>
     <sub-title lang="en">2025</sub-title>
     <desc lang="en">The winless Tigers face off against top four contender Adelaide Crows at Ikon Park on Sunday afternoon as the finals race heats up.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db7b94e4b03805d09e7a7f-1759214538432?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251005150000 +1100" stop="20251005181000 +1100" channel="4k.kayo.504">
+  <programme start="20251005150035 +1100" stop="20251005181035 +1100" channel="4k.kayo.504">
     <title lang="en">AFL Women's: Geelong Cats Women vs Carlton Blues Women</title>
     <sub-title lang="en">2025</sub-title>
     <desc lang="en">The teams desperate to play finals in 2025 with Geelong hosting Carlton in the match of the round at GMHBA Stadium on Sunday.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db7bdce4b0df06514e6f5c-1759215388427?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251005170000 +1100" stop="20251005201000 +1100" channel="4k.kayo.504">
+  <programme start="20251005170053 +1100" stop="20251005201053 +1100" channel="4k.kayo.504">
     <title lang="en">AFL Women's: West Coast Eagles Women vs Collingwood Magpies Women</title>
     <sub-title lang="en">2025</sub-title>
     <desc lang="en">Fresh off its biggest AFLW win, West Coast takes on Collingwood on home turf as the Eagles look to cement a place in the top eight.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db7c18e4b09f9807d0ed1c-1759214693813?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251005130000 +1100" stop="20251005164000 +1100" channel="4k.kayo.502">
+  <programme start="20251005130012 +1100" stop="20251005194512 +1100" channel="4k.kayo.502">
+    <title lang="en">: Grand Final Day On Fox</title>
+    <desc lang="en">Lara Pitt is joined by Michael Ennis and Kevin Walters to discuss Grand Final Day, including crosses to Accor Stadium.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68dcaca3e4b01d0e5da7cf75-1759446917810?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251005130012 +1100" stop="20251005164012 +1100" channel="4k.kayo.502">
     <title lang="en">National State Championship: Warriors vs Burleigh</title>
     <sub-title lang="en">2025</sub-title>
     <desc lang="en">Burleigh Bears are hoping it's third time lucky in this fixture, while the Warriors are making their first appearance as NSW Cup champions.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ddbfd2e4b08f3876a8e63f-1759363153891?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251005130000 +1100" stop="20251005194500 +1100" channel="4k.kayo.502">
-    <title lang="en">: Grand Final Day On Fox</title>
-    <desc lang="en">Lara Pitt is joined by Michael Ennis and Kevin Walters to discuss Grand Final Day, including crosses to Accor Stadium.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68dcaca3e4b01d0e5da7cf75-1759446917810?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251005152000 +1100" stop="20251005191000 +1100" channel="4k.kayo.502">
+  <programme start="20251005152214 +1100" stop="20251005191214 +1100" channel="4k.kayo.502">
     <title lang="en">Women's Premiership: Sydney Roosters Women vs Brisbane Women</title>
     <sub-title lang="en">2025</sub-title>
     <desc lang="en">GF: 2025's standout sides meet to decide this year's NRLW premiers. The Roosters are undefeated, after inflicting the Broncos' only loss in Round 3.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db67b5e4b033a8b48db9b0-1759209455142?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251005214500 +1100" stop="20251006005500 +1100" channel="4k.kayo.502">
+  <programme start="20251005214535 +1100" stop="20251006005535 +1100" channel="4k.kayo.502">
     <title lang="en">: Storm v Broncos</title>
     <desc lang="en">GF: A stellar Finals series ends with the Storm chasing their first premiership since 2020, while the Broncos are looking to end a 19-year title drought.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db64c0e4b033a8b48db9ab-1759273128095?location=hero-portrait-m2&amp;imwidth=720" />
@@ -190,42 +74,47 @@
     <desc lang="en">Coverage of the 53rd Koori Knockout showcasing Indigenous sporting talent concludes with Finals from Men's, Women's &amp; Juniors competitions.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68dde956e4b0ec13f69a068d-1759373883535?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251005125500 +1100" stop="20251005221000 +1100" channel="4k.kayo.501">
+  <programme start="20251005125506 +1100" stop="20251005221006 +1100" channel="4k.kayo.501">
     <title lang="en">Sheffield Shield: Western Australia vs New South Wales</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Day 2: The Ashes auditions will be in full force as Cameron Green's Western Australia takes on Sam Konstas's New South Wales. Day 2 begins.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d22634e4b0e9c56e88dbb8-1759444963955?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251005123500 +1100" stop="20251005144000 +1100" channel="4k.kayo.506">
-    <title lang="en">: Indonesia: Race 2</title>
-    <desc lang="en">Championship leader Ryota Ogiwara could secure the 2025 Championship with his eighth consecutive win.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68dc8ce5e4b05e691a15aae5-1759467005116?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251005133500 +1100" stop="20251005151000 +1100" channel="4k.kayo.506">
-    <title lang="en">: Indonesia: Warm Up</title>
-    <desc lang="en">The riders get one final look around the circuit before all the races begin.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68dd0035e4b08f3876a8e61b-1759314223392?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251005144500 +1100" stop="20251005171000 +1100" channel="4k.kayo.506">
-    <title lang="en">: Indonesia: Race</title>
-    <desc lang="en">The championship fight is heating up as José Antonio Rueda leads Ángel Piqueras. Both riders must maximise points here to stay ahead of the competitive pack</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df2da6e4b0254e67736473-1759456847354?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251005160000 +1100" stop="20251005182500 +1100" channel="4k.kayo.506">
-    <title lang="en">: Indonesia: Race</title>
-    <desc lang="en">Manuel González leads the intermediate class, but Diogo Moreira &amp; Daniel Holgado are closing the gap fast. The title race reaches its final, crucial stage.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df2f2ce4b0254e67736478-1759457350905?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251005171500 +1100" stop="20251005202500 +1100" channel="4k.kayo.506">
-    <title lang="en">: Indonesia: Race</title>
-    <desc lang="en">Newly crowned champion Marc Márquez fights to break his Mandalika winless streak. While Álex Márquez &amp; Francesco Bagnaia fiercely contest the runner-up spot</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df2c6ae4b07fa8b486c5d3-1759456551550?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251005213000 +1100" stop="20251006025500 +1100" channel="4k.kayo.506">
+  <programme start="20251005213015 +1100" stop="20251006025515 +1100" channel="4k.kayo.506">
     <title lang="en">Formula One World Championship: Singapore Grand Prix</title>
     <sub-title lang="en">2025</sub-title>
     <desc lang="en">From Verstappen seeking his elusive first Singapore win to Piastri's Azerbaijan woes, the next chapter in the title fight will be settled in Singapore.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db6b81e4b08aee6dbe81a1-1759211179275?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251005123509 +1100" stop="20251005144009 +1100" channel="4k.kayo.506">
+    <title lang="en">: Indonesia: Race 2</title>
+    <desc lang="en">Championship leader Ryota Ogiwara could secure the 2025 Championship with his eighth consecutive win.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68dc8ce5e4b05e691a15aae5-1759467005116?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251005133512 +1100" stop="20251005151012 +1100" channel="4k.kayo.506">
+    <title lang="en">: Indonesia: Warm Up</title>
+    <desc lang="en">The riders get one final look around the circuit before all the races begin.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68dd0035e4b08f3876a8e61b-1759314223392?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251005144531 +1100" stop="20251005171031 +1100" channel="4k.kayo.506">
+    <title lang="en">: Indonesia: Race</title>
+    <desc lang="en">The championship fight is heating up as José Antonio Rueda leads Ángel Piqueras. Both riders must maximise points here to stay ahead of the competitive pack</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df2da6e4b0254e67736473-1759456847354?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251005160014 +1100" stop="20251005182514 +1100" channel="4k.kayo.506">
+    <title lang="en">: Indonesia: Race</title>
+    <desc lang="en">Manuel González leads the intermediate class, but Diogo Moreira &amp; Daniel Holgado are closing the gap fast. The title race reaches its final, crucial stage.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df2f2ce4b0254e67736478-1759457350905?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251005171609 +1100" stop="20251005202609 +1100" channel="4k.kayo.506">
+    <title lang="en">: Indonesia: Race</title>
+    <desc lang="en">Newly crowned champion Marc Márquez fights to break his Mandalika winless streak. While Álex Márquez &amp; Francesco Bagnaia fiercely contest the runner-up spot</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df2c6ae4b07fa8b486c5d3-1759456551550?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251005182019 +1100" stop="20251005202019 +1100" channel="4k.kayo.505">
+    <title lang="en">: Singapore: Race 2</title>
+    <desc lang="en">All eyes will be on the tight, demanding night race to see if Maya Weug can further close the 20-point gap or if Doriane Pin will clinch the crown.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db7720e4b08aee6dbe81b8-1759287161687?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251006020000 +1100" stop="20251006044000 +1100" channel="4k.kayo.505">
     <title lang="en">: Nigeria: Finals</title>
@@ -237,18 +126,18 @@
     <desc lang="en">The Charlotte Roval road course will give Shane van Gisbergen another opportunity to add to his successful rookie season in the Cup Series.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df9988e4b01d0e5da7d0ea-1759484537147?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251005140000 +1100" stop="20251005201000 +1100" channel="4k.kayo.503">
-    <title lang="en">: Jakarta Championship: Final RD</title>
-    <desc lang="en">Final round action of the Jakarta International Championship from Damai Indah Golf Course, Indonesia</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db35f7e4b08aee6dbe8185-1759196724644?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251005213000 +1100" stop="20251006041000 +1100" channel="4k.kayo.503">
+  <programme start="20251005213014 +1100" stop="20251006041014 +1100" channel="4k.kayo.503">
     <title lang="en">Alfred Dunhill Links Champs: Alfred Dunhill Links Championship</title>
     <sub-title lang="en">2025</sub-title>
     <desc lang="en">Final Round action of the Alfred Dunhill Links Championship at the Old Course at St Andrews.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db1398e4b043c5931c666a-1759187998524?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251006063000 +1100" stop="20251006104000 +1100" channel="4k.kayo.503">
+  <programme start="20251005140009 +1100" stop="20251005201009 +1100" channel="4k.kayo.503">
+    <title lang="en">: Jakarta Championship: Final RD</title>
+    <desc lang="en">Final round action of the Jakarta International Championship from Damai Indah Golf Course, Indonesia</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68db35f7e4b08aee6dbe8185-1759196724644?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251006053000 +1100" stop="20251006104000 +1100" channel="4k.kayo.503">
     <title lang="en">Sanderson Farms Champs: Sanderson Farms Championship</title>
     <sub-title lang="en">2025</sub-title>
     <desc lang="en">Final Round action of the Sanderson Farms Championship at the Country Club of Jackson.</desc>
@@ -259,7 +148,7 @@
     <desc lang="en">The season moves onto Cadiz for the second last event as Australia look to hold onto top position heading towards the Grand Final.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ddf81ce4b08aee6dbe82b9-1759377786769?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251006132500 +1100" stop="20251006221000 +1100" channel="4k.kayo.501">
+  <programme start="20251006125500 +1100" stop="20251006221000 +1100" channel="4k.kayo.501">
     <title lang="en">Sheffield Shield: Western Australia vs New South Wales</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Day 3: The WACA sets the scene for a thrilling Day 3. Can elite Australian players from both sides deliver a match-winning performance?</desc>
@@ -270,7 +159,7 @@
     <desc lang="en">After Mike De Decker was the surprise winner last year, the likes of Littler and Humphries will be looking to take the spoils this time around.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68de0dc0e4b0254e67736437-1759383036776?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251007132500 +1100" stop="20251007221000 +1100" channel="4k.kayo.501">
+  <programme start="20251007125500 +1100" stop="20251007214000 +1100" channel="4k.kayo.501">
     <title lang="en">Sheffield Shield: Western Australia vs New South Wales</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Day 4: Western Australia and New South Wales will be looking for strong finishes as the final day gets underway from the WACA.</desc>
@@ -327,5 +216,11 @@
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Day 5: India and the West Indies look to wrap up the Second Test as Day 5 gets under way.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df16b1e4b08aee6dbe82ec-1759451186161?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251018164500 +1100" stop="20251018221000 +1100" channel="4k.kayo.501">
+    <title lang="en">Twenty20 Internationals: New Zealand vs England</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">Game 1: Harry Brook brings England's white-ball "bazball" approach to New Zealand for the T20 Series opener.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d5d792e4b0edecb7946ea3-1758844977412?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
 </tv>
