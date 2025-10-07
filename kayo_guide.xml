@@ -24,53 +24,65 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20251006125500 +1100" stop="20251006221000 +1100" channel="4k.kayo.501">
-    <title lang="en">Sheffield Shield: Western Australia vs New South Wales</title>
-    <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Day 3: The WACA sets the scene for a thrilling Day 3. Can elite Australian players from both sides deliver a match-winning performance?</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d22638e4b062767bbdd5d9-1759445016808?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251007040000 +1100" stop="20251007101000 +1100" channel="4k.kayo.505">
-    <title lang="en">: World Grand Prix: D1</title>
-    <desc lang="en">After Mike De Decker was the surprise winner last year, the likes of Littler and Humphries will be looking to take the spoils this time around.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68de0dc0e4b0254e67736437-1759383036776?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251006170000 +1100" stop="20251006171800 +1100" channel="4k.kayo.503">
-    <title lang="en">: Sanderson Farms C'Ship</title>
-    <desc lang="en">Mini: Final Day: Final Round action of the Sanderson Farms Championship at the Country Club of Jackson.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e302b3e4b0dfc340ee08a6-1759707919528?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
   <programme start="20251007125500 +1100" stop="20251007221000 +1100" channel="4k.kayo.501">
     <title lang="en">Sheffield Shield: Western Australia vs New South Wales</title>
     <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Day 4: Western Australia and New South Wales will be looking for strong finishes as the final day gets underway from the WACA.</desc>
+    <desc lang="en">Day 4: WA requires 142 runs after lunch with five wickets in hand for victory against the NSW attack, led by Nathan Lyon.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d2263ce4b062767bbdd5da-1759445095552?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251008100000 +1100" stop="20251008183000 +1100" channel="4k.kayo.501">
-    <title lang="en">: VIC v TAS</title>
+    <title lang="en">Women's National Cricket League: Victoria Women vs Tasmania Women</title>
+    <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Round 2 of the WNCL kicks off with Victoria taking on Tasmania at Junction Oval.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d5dcb7e4b096f9470ae710-1758846244342?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251008040000 +1100" stop="20251008101000 +1100" channel="4k.kayo.505">
-    <title lang="en">: World Grand Prix: D2</title>
-    <desc lang="en">After Mike De Decker was the surprise winner last year, the likes of Littler and Humphries will be looking to take the spoils this time around.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68de1853e4b054c6170fbb37-1759385736388?location=hero-portrait-m2&amp;imwidth=720" />
+    <title lang="en">: World Grand Prix</title>
+    <desc lang="en">Day 2: After Mike De Decker was the surprise winner last year, the likes of Littler and Humphries will be looking to take the spoils this time around.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68de1853e4b054c6170fbb37-1759790263158?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251008173000 +1100" stop="20251008201000 +1100" channel="4k.kayo.506">
     <title lang="en">: Bathurst: Street Party</title>
-    <desc lang="en">Bathurst Week begins with the Supercars on full display as they make their way down Russell Street.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df28dae4b0ec13f69a0733-1759455484532?location=hero-portrait-m2&amp;imwidth=720" />
+    <desc lang="en">Bathurst Week festivities begin with an epic street party. The Supercars will be on display as they parade from the Mount Panorama Circuit to the town centre</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df28dae4b0ec13f69a0733-1759799223832?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251009050000 +1100" stop="20251009101000 +1100" channel="4k.kayo.505">
+    <title lang="en">: World Grand Prix</title>
+    <desc lang="en">Day 3: After Mike De Decker was the surprise winner last year, the likes of Littler and Humphries will be looking to take the spoils this time around.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e44024e4b0505bca28b16d-1759790275390?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251008190000 +1100" stop="20251008224000 +1100" channel="4k.kayo.505">
+    <title lang="en">Netball Tests: Australia vs South Africa</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">A win in Game 1 extended the Diamonds win streak against South Africa to 47 games. The teams matchup in Wollongong for Game 2.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df1a40e4b0ec13f69a0712-1759455000474?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251009165500 +1100" stop="20251010021000 +1100" channel="4k.kayo.501">
-    <title lang="en">: WA v NSW</title>
+    <title lang="en">National One-Day Cup: Western Australia vs New South Wales</title>
+    <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">New South Wales' Kurtis Patterson faces Western Australia's pace attack, led by Jhye Richardson.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68dc98c7e4b08aee6dbe8222-1759287555935?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251010050000 +1100" stop="20251010101000 +1100" channel="4k.kayo.505">
+    <title lang="en">: World Grand Prix</title>
+    <desc lang="en">Day 4: After Mike De Decker was the surprise winner last year, the likes of Littler and Humphries will be looking to take the spoils this time around.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e49adae4b08a9fe4438c3e-1759812407332?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251010145000 +1100" stop="20251010235000 +1100" channel="4k.kayo.501">
     <title lang="en">Test Matches: India vs West Indies</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Day 1: India’s Shubman Gill, will look to build on their dominant First Test performance against Roston Chase's West Indies.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df167fe4b08aee6dbe82ea-1759451109656?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251011050000 +1100" stop="20251011101000 +1100" channel="4k.kayo.505">
+    <title lang="en">: World Grand Prix</title>
+    <desc lang="en">Day 5: After Mike De Decker was the surprise winner last year, the likes of Littler and Humphries will be looking to take the spoils this time around.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e49cf7e4b0d4934c2c715d-1759812908708?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251012030000 +1100" stop="20251012082500 +1100" channel="4k.kayo.502">
+    <title lang="en">: Hull KR v Wigan</title>
+    <desc lang="en">GF: A rematch of the 2024 decider sees Wigan going for a three peat while Hull KR are looking to avenge last year's loss at iconic Old Trafford.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e4649be4b0dfc340ee08c3-1759798564995?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251011145000 +1100" stop="20251011235000 +1100" channel="4k.kayo.501">
     <title lang="en">Test Matches: India vs West Indies</title>
@@ -107,5 +119,11 @@
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Game 1: India seeks revenge on Australian soil as the first of three ODIs gets underway from Perth.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d362fce4b02a5d766d2cec-1758684064488?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251020164500 +1100" stop="20251020221000 +1100" channel="4k.kayo.501">
+    <title lang="en">Twenty20 Internationals: New Zealand vs England</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">Game 2: The series moves to Christchurch as New Zealand and Harry Brook’s England squad clash in a crucial game 2.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d5d7a3e4b0022d1b16d29f-1758845012049?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
 </tv>
