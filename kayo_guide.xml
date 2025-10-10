@@ -24,54 +24,32 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20251009165525 +1100" stop="20251010021025 +1100" channel="4k.kayo.501">
-    <title lang="en">National One-Day Cup: Western Australia vs New South Wales</title>
-    <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">New South Wales' Kurtis Patterson faces Western Australia's pace attack, led by Jhye Richardson.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68dc98c7e4b08aee6dbe8222-1759287555935?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251010000021 +1100" stop="20251010021021 +1100" channel="4k.kayo.505">
-    <title lang="en">: World Cup: Day 1</title>
-    <desc lang="en">Day one action of the Extreme H World Cup from Qiddiya City, Saudi Arabia.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e6e273e4b0505bca28b320-1759979069717?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251010072500 +1100" stop="20251010182500 +1100" channel="4k.kayo.506">
-    <title lang="en">: Bathurst 1000</title>
-    <desc lang="en">Day 2: Track action begins at Mount Panorama, with Supercars practice, plus support category racing from SuperUtes, Dunlop Series and Porsche Carrera Cup.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e463fde4b08a9fe4438c21-1759971860281?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251010050000 +1100" stop="20251010101000 +1100" channel="4k.kayo.505">
-    <title lang="en">: World Grand Prix</title>
-    <desc lang="en">Day 4: After Mike De Decker was the surprise winner last year, the likes of Littler and Humphries will be looking to take the spoils this time around.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e49adae4b08a9fe4438c3e-1759873017415?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251009230012 +1100" stop="20251010051012 +1100" channel="4k.kayo.503">
-    <title lang="en">Open de Espana: Open de Espana presented by Madrid</title>
+  <programme start="20251010190000 +1100" stop="20251010222500 +1100" channel="4k.kayo.504">
+    <title lang="en">AFL Women's: Western Bulldogs Women vs Essendon Bombers Women</title>
     <sub-title lang="en">2025</sub-title>
-    <desc lang="en">Jon Rahm aims for a record fourth title on home soil, with Shane Lowry, Sergio Garcia and Patrick Reed among the challengers.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e5e858e4b0c466b3a96075-1759897732650?location=hero-portrait-m2&amp;imwidth=720" />
+    <desc lang="en">A Friday night showdown between Western Bulldogs and Essendon as both teams fight to keep their seasons alive.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e5b394e4b0d4934c2c71af-1759884419005?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251009120000 +1100" stop="20251009171000 +1100" channel="4k.kayo.503">
-    <title lang="en">The_ZOZO_Championship: Baycurrent Classic</title>
-    <sub-title lang="en">2025</sub-title>
-    <desc lang="en">Min Woo Lee, Adam Scott, Xander Schauffele and Collin Morikawa headline the Baycurrent Classic at Yokohama Country Club.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e59797e4b0dfc340ee096f-1759877226226?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251009140009 +1100" stop="20251009201009 +1100" channel="4k.kayo.505">
-    <title lang="en">: Shanghai: RD1</title>
-    <desc lang="en">Min Jee Lee headlines the field as players chase momentum in the Asian swing ahead of the season’s close.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e5aabae4b08a9fe4438d3a-1759881999664?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251010145000 +1100" stop="20251010235000 +1100" channel="4k.kayo.501">
+  <programme start="20251010145010 +1100" stop="20251010235010 +1100" channel="4k.kayo.501">
     <title lang="en">Test Matches: India vs West Indies</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Day 1: India’s Shubman Gill, will look to build on their dominant First Test performance against Roston Chase's West Indies.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df167fe4b08aee6dbe82ea-1759886969322?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251010155500 +1100" stop="20251010182500 +1100" channel="4k.kayo.506">
+  <programme start="20251011095500 +1100" stop="20251011181000 +1100" channel="4k.kayo.501">
+    <title lang="en">: NSW v WA</title>
+    <desc lang="en">Western Australia look to topple the reigning champions New South Wales in their second clash this week at Cricket Central.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d5df47e4b0edecb7946eca-1759365711614?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251010155944 +1100" stop="20251010182944 +1100" channel="4k.kayo.506">
     <title lang="en">: Bathurst 1000 Qualifying</title>
     <desc lang="en">The Gen3 Camaros and Mustangs will take on the 6.2km Mount Panorama Circuit for Qualifying to secure a position in the Top 10 Shootout.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e463bce4b0d4934c2c7132-1759798465437?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251011000019 +1100" stop="20251011021019 +1100" channel="4k.kayo.505">
+    <title lang="en">: World Cup: Day 2</title>
+    <desc lang="en">Day two action of the Extreme H World Cup from Qiddiya City, Saudi Arabia.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e6e301e4b0505bca28b322-1760045973430?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251011082500 +1100" stop="20251011192500 +1100" channel="4k.kayo.506">
     <title lang="en">: Bathurst 1000</title>
@@ -83,16 +61,22 @@
     <desc lang="en">Day 5: After Mike De Decker was the surprise winner last year, the likes of Littler and Humphries will be looking to take the spoils this time around.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e49cf7e4b0d4934c2c715d-1759873011045?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251010140000 +1100" stop="20251010201000 +1100" channel="4k.kayo.505">
-    <title lang="en">: Shanghai: RD2</title>
-    <desc lang="en">Min Jee Lee headlines the field as players chase momentum in the Asian swing ahead of the season’s close.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e5ab79e4b0505bca28b24a-1759882140802?location=hero-portrait-m2&amp;imwidth=720" />
+  <programme start="20251010230007 +1100" stop="20251011051007 +1100" channel="4k.kayo.503">
+    <title lang="en">Open de Espana: Open de Espana presented by Madrid</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Jon Rahm aims for a record fourth title on home soil, with Shane Lowry, Sergio Garcia and Patrick Reed among the challengers.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e5e8d5e4b019b86705417f-1759897977684?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251010140000 +1100" stop="20251010191000 +1100" channel="4k.kayo.503">
+  <programme start="20251010140006 +1100" stop="20251010191006 +1100" channel="4k.kayo.503">
     <title lang="en">The_ZOZO_Championship: Baycurrent Classic</title>
     <sub-title lang="en">2025</sub-title>
     <desc lang="en">Min Woo Lee, Adam Scott, Xander Schauffele and Collin Morikawa headline the Baycurrent Classic at Yokohama Country Club.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e5979fe4b0505bca28b232-1759877316424?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251010140008 +1100" stop="20251010201008 +1100" channel="4k.kayo.505">
+    <title lang="en">: Shanghai: RD2</title>
+    <desc lang="en">Min Jee Lee headlines the field as players chase momentum in the Asian swing ahead of the season’s close.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e5ab79e4b0505bca28b24a-1759882140802?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251011130000 +1100" stop="20251011161000 +1100" channel="4k.kayo.504">
     <title lang="en">AFL Women's: Adelaide Crows Women vs West Coast Eagles Women</title>
@@ -123,11 +107,26 @@
     <desc lang="en">GF: A rematch of the 2024 decider sees Wigan going for a three peat while Hull KR are looking to avenge last year's loss at iconic Old Trafford.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e4649be4b0dfc340ee08c3-1759990087333?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20251011132500 +1100" stop="20251011163000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Brampton v White Rock</title>
+    <desc lang="en">Day 3: Brampton Blitz meet White Rock Warriors in the Canada Super60.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e84a82e4b0505bca28b392-1760054021410?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20251011145000 +1100" stop="20251011235000 +1100" channel="4k.kayo.501">
     <title lang="en">Test Matches: India vs West Indies</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Day 2: Action continues in Delhi as India aims to maintain its dominance on home soil. Day 2 begins.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df1687e4b01d0e5da7d01c-1759887060268?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251012085500 +1100" stop="20251012120000 +1100" channel="4k.kayo.501">
+    <title lang="en">: Toronto v Vancouver</title>
+    <desc lang="en">Day 4: Second meeting in two days sees both teams battle for series control at BC Place.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e84ca5e4b0505bca28b398-1760054614625?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251012105500 +1100" stop="20251012140000 +1100" channel="4k.kayo.501">
+    <title lang="en">: Toronto v Mississauga</title>
+    <desc lang="en">Day 4: Toronto Sixers face Mississauga Masters in the Canada Super60.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e84ca8e4b0ade454638dc9-1760054619252?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251011164800 +1100" stop="20251011192500 +1100" channel="4k.kayo.506">
     <title lang="en">: Bathurst 1000 TTSO</title>
@@ -137,12 +136,12 @@
   <programme start="20251011205000 +1100" stop="20251011224000 +1100" channel="4k.kayo.505">
     <title lang="en">: Estoril: Superpole</title>
     <desc lang="en">Round 11 of the 2025 World Superbikes Championship starts with the Superpole.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e73714e4b0de5c7c51e9de-1759986099112?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e73714e4b0de5c7c51e9de-1760046471313?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251011222000 +1100" stop="20251012031000 +1100" channel="4k.kayo.505">
     <title lang="en">: Estoril: Race 1</title>
     <desc lang="en">The Estoril Round sets the stage for a dramatic title showdown between rivals Toprak Razgatlioglu and Nicolo Bulega.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e738aee4b0ade454638da1-1759986393674?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e738aee4b0ade454638da1-1760046893078?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251012070000 +1100" stop="20251012195500 +1100" channel="4k.kayo.506">
     <title lang="en">: Bathurst 1000</title>
@@ -207,7 +206,12 @@
   <programme start="20251012154000 +1100" stop="20251012192000 +1100" channel="4k.kayo.502">
     <title lang="en">: PNG v PM'S XIII</title>
     <desc lang="en">Australia's side contains rep players &amp; rising NRL talent, while veterans Nene MacDonald &amp; Jack De Belin, plus teenager Cooper Bai are in the PNG team.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e6fe73e4b0505bca28b330-1759994628529?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e6fe73e4b0505bca28b330-1760049913800?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251012132500 +1100" stop="20251012163000 +1100" channel="4k.kayo.505">
+    <title lang="en">: Montreal v White Rock</title>
+    <desc lang="en">Day 4: Montreal Royal Tigers take on White Rock Warriors in the Canada Super60.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e84dc2e4b032e5d1e1b46b-1760054791561?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251012145000 +1100" stop="20251012235000 +1100" channel="4k.kayo.501">
     <title lang="en">Test Matches: India vs West Indies</title>
@@ -215,25 +219,35 @@
     <desc lang="en">Day 3: Can the West Indies find their rhythm in Delhi and draw a win against India as Day 3 begins?</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df169de4b01d0e5da7d01d-1759887368245?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20251013105500 +1100" stop="20251013140000 +1100" channel="4k.kayo.501">
+    <title lang="en">: Brampton v Montreal</title>
+    <desc lang="en">Day 5: Brampton Blitz meet Montreal Royal Tigers in the Canada Super60.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e84e77e4b0a699d676b951-1760055078272?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20251012114000 +1100" stop="20251012190500 +1100" channel="4k.kayo.506">
     <title lang="en">: Bathurst 1000 Race</title>
     <desc lang="en">The stage is set as 27 cars and 54 drivers tackle the legendary Mount Panorama Circuit for 161 laps and their shot at Bathurst glory.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e4642de4b0d4934c2c7134-1759798630051?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251012205000 +1100" stop="20251012224000 +1100" channel="4k.kayo.505">
+  <programme start="20251012204500 +1100" stop="20251012224000 +1100" channel="4k.kayo.505">
     <title lang="en">: Estoril: S.Pole Race</title>
     <desc lang="en">The Estoril Superpole Race sets up the final race of the weekend with a crucial sprint for grid positions and championship points.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e74289e4b0846e7f63224a-1759986536463?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e74289e4b0846e7f63224a-1760046903013?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251012222000 +1100" stop="20251013031000 +1100" channel="4k.kayo.505">
     <title lang="en">: Estoril: Race 2</title>
     <desc lang="en">World Superbike leader Toprak Razgatlioglu battles Nicolo Bulega in the penultimate round, where the championship could be decided.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e742cbe4b0a699d676b921-1759986573748?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e742cbe4b0a699d676b921-1760046911278?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251013080000 +1100" stop="20251013131000 +1100" channel="4k.kayo.506">
     <title lang="en">: NASCAR</title>
-    <desc lang="en">Eight elite drivers start the Round of 8 in the Cup Series playoffs in Las Vegas, chasing one of four spots in the final race. </desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e758c0e4b0a699d676b928-1759992212973?location=hero-portrait-m2&amp;imwidth=720" />
+    <desc lang="en">Eight elite drivers start the Round of 8 in the Cup Series playoffs in Las Vegas, chasing one of four spots in the final race.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e758c0e4b0a699d676b928-1760046385288?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251013060000 +1100" stop="20251013091000 +1100" channel="4k.kayo.505">
+    <title lang="en">: World Grand Prix</title>
+    <desc lang="en">Final Day: After Mike De Decker was the surprise winner last year, the likes of Littler and Humphries will be looking to take the spoils this time around.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e73501e4b0de5c7c51e9d8-1759983128461?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251012140000 +1100" stop="20251012201000 +1100" channel="4k.kayo.503">
     <title lang="en">: WA C'ship: Final RD</title>
@@ -252,16 +266,41 @@
     <desc lang="en">The Diamonds look to wrap up a clean sweep of the SPAR Proteas as the teams meet for Game 3 in Adelaide.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df1ac7e4b08aee6dbe82f0-1759456210969?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20251013132500 +1100" stop="20251013163000 +1100" channel="4k.kayo.505">
+    <title lang="en">: Toronto v Vancouver</title>
+    <desc lang="en">Day 5: Toronto Sixers take on Vancouver Kings in the Canada Super60.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e84e7ae4b0a699d676b952-1760055084377?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20251013145000 +1100" stop="20251013235000 +1100" channel="4k.kayo.501">
     <title lang="en">Test Matches: India vs West Indies</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Day 4: Captain Shubman Gill will be pushing his young side to finish the home series on a winning note as Day 4 begins.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df16a9e4b01d0e5da7d01e-1759888004632?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20251013162500 +1100" stop="20251013193000 +1100" channel="4k.kayo.505">
+    <title lang="en">: Mississauga v White Rock</title>
+    <desc lang="en">Day 5: White Rock Warriors play Mississauga Masters in the Canada Super60.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e84e7de4b0d4934c2c7280-1760055091016?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251014075500 +1100" stop="20251014110000 +1100" channel="4k.kayo.501">
+    <title lang="en">: Semi 1 Final Day</title>
+    <desc lang="en">Final Day: First Place meets Fourth Place in Semi-Final 1 of the Canada Super60.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e84f98e4b0622b19d101ee-1760055294679?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251014102500 +1100" stop="20251014133000 +1100" channel="4k.kayo.501">
+    <title lang="en">: Semi 2 Final Day</title>
+    <desc lang="en">Final Day: Second Place faces Third Place in Semi-Final 2 of the Canada Super60.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e84f9be4b0505bca28b39e-1760055298658?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20251014040000 +1100" stop="20251014084000 +1100" channel="4k.kayo.505">
     <title lang="en">: Pairs Cup: Week 19</title>
     <desc lang="en">The Pairs Cup continues with a new generation of players challenging established professionals.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e729d0e4b0505bca28b34c-1759980127405?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251014142500 +1100" stop="20251014194000 +1100" channel="4k.kayo.505">
+    <title lang="en">: CanadaSuper60MensFinal</title>
+    <desc lang="en">Final Day: Winners of the semifinals clash in the Final of the Canada Super60.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e84f9de4b0ade454638dcf-1760055303585?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251014145000 +1100" stop="20251014235000 +1100" channel="4k.kayo.501">
     <title lang="en">Test Matches: India vs West Indies</title>
@@ -304,5 +343,17 @@
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Game 2: The series moves to Christchurch as New Zealand and Harry Brook’s England squad clash in a crucial game 2.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d5d7a3e4b0022d1b16d29f-1758845012049?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251023140000 +1100" stop="20251023232500 +1100" channel="4k.kayo.501">
+    <title lang="en">One-Day Internationals: Australia vs India</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">Game 2: Action moves to Adelaide Oval, a ground known for being Virat Kohli's stronghold, where he holds the most centuries as a visiting player.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d363b2e4b0edecb7946da9-1759967917977?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251023164500 +1100" stop="20251023221000 +1100" channel="4k.kayo.505">
+    <title lang="en">Twenty20 Internationals: New Zealand vs England</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">Game 3: The T20 leg of the series reaches its end at Eden Park, serving as New Zealand's last major litmus test before next year's T20 World Cup.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d5d7b0e4b0edecb7946ea5-1758844988722?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
 </tv>
