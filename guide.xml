@@ -28,46 +28,6 @@
     <display-name>FOX 507</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/FOX%20Sports%20More.png" />
   </channel>
-  <programme start="20251018171500 +1100" stop="20251018210000 +1100" channel="501.FS1">
-    <title lang="en">Live: Cricket: T20: NZL v ENG Game 1</title>
-    <sub-title lang="en">NZL v ENG Game 1</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251018210000 +1100" stop="20251018212000 +1100" channel="501.FS1">
-    <title lang="en">Sheffield Shield Mini: SA v QLD Day 4</title>
-    <sub-title lang="en">SA v QLD Day 4</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251018212000 +1100" stop="20251018214000 +1100" channel="501.FS1">
-    <title lang="en">T20 Mini NZL v ENG: Game 1</title>
-    <sub-title lang="en">Game 1</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251018214000 +1100" stop="20251018220000 +1100" channel="501.FS1">
-    <title lang="en">Sheffield Shield Mini: SA v QLD Day 4</title>
-    <sub-title lang="en">SA v QLD Day 4</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251018220000 +1100" stop="20251018223000 +1100" channel="501.FS1">
-    <title lang="en">Fox Cricket Summer Preview</title>
-    <sub-title lang="en">Fox Cricket Summer Preview</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251018223000 +1100" stop="20251018225000 +1100" channel="501.FS1">
-    <title lang="en">Sheffield Shield Mini: SA v QLD Day 4</title>
-    <sub-title lang="en">SA v QLD Day 4</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251018225000 +1100" stop="20251018231000 +1100" channel="501.FS1">
-    <title lang="en">T20 Mini NZL v ENG: Game 1</title>
-    <sub-title lang="en">Game 1</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251018231000 +1100" stop="20251018233000 +1100" channel="501.FS1">
-    <title lang="en">Sheffield Shield Mini: SA v QLD Day 4</title>
-    <sub-title lang="en">SA v QLD Day 4</sub-title>
-    <desc lang="en" />
-  </programme>
   <programme start="20251018233000 +1100" stop="20251019000000 +1100" channel="501.FS1">
     <title lang="en">Fox Cricket Summer Preview</title>
     <sub-title lang="en">Fox Cricket Summer Preview</sub-title>
@@ -1921,31 +1881,6 @@
   <programme start="20251101230000 +1100" stop="20251102000000 +1100" channel="501.FS1">
     <title lang="en">Australia ODI</title>
     <sub-title lang="en">NZL v ENG Game 3</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251018205000 +1100" stop="20251018211000 +1100" channel="502.SP2">
-    <title lang="en">Pacific C'ships: Fiji v Cook Islands</title>
-    <sub-title lang="en">Fiji v Cook Islands</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251018211000 +1100" stop="20251018220800 +1100" channel="502.SP2">
-    <title lang="en">Pacific C'ships: 2024 Final AUS v TON</title>
-    <sub-title lang="en">2024 Final AUS v TON</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251018220800 +1100" stop="20251018222800 +1100" channel="502.SP2">
-    <title lang="en">Pacific C'ships: Fiji v Cook Islands</title>
-    <sub-title lang="en">Fiji v Cook Islands</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251018222800 +1100" stop="20251018224800 +1100" channel="502.SP2">
-    <title lang="en">Pacific C'ships: PNG v Cook Islands W</title>
-    <sub-title lang="en">PNG v Cook Islands W</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251018224800 +1100" stop="20251018230800 +1100" channel="502.SP2">
-    <title lang="en">Pacific C'ships: Fiji v Cook Islands</title>
-    <sub-title lang="en">Fiji v Cook Islands</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251018230800 +1100" stop="20251019000600 +1100" channel="502.SP2">
@@ -4000,16 +3935,6 @@
     <sub-title lang="en">Game 1</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251018190000 +1100" stop="20251018223000 +1100" channel="503.FS3">
-    <title lang="en">Live: Darts: PDC ANZ Premier League</title>
-    <sub-title lang="en">Week 3</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251018223000 +1100" stop="20251018230000 +1100" channel="503.FS3">
-    <title lang="en">Live: Motorsport: British Superbikes</title>
-    <sub-title lang="en">Rnd 11 Brands Hatch Qualifying</sub-title>
-    <desc lang="en" />
-  </programme>
   <programme start="20251018230000 +1100" stop="20251019014500 +1100" channel="503.FS3">
     <title lang="en">Live: Motorsport: British Superbikes</title>
     <sub-title lang="en">Rnd 11 Brands Hatch Supports</sub-title>
@@ -5080,41 +5005,6 @@
   <programme start="20251101230000 +1100" stop="20251102003000 +1100" channel="503.FS3">
     <title lang="en">Golf: USLPGA: Maybank Championship R3</title>
     <sub-title lang="en">Maybank Championship R3</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251018191500 +1100" stop="20251018210000 +1100" channel="504.FAF">
-    <title lang="en">Live: AFLW: Carlton v St Kilda</title>
-    <sub-title lang="en">Carlton v St Kilda</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251018210000 +1100" stop="20251018211500 +1100" channel="504.FAF">
-    <title lang="en">Live: AFLW Post Game</title>
-    <sub-title lang="en">Round 10</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251018211500 +1100" stop="20251018224500 +1100" channel="504.FAF">
-    <title lang="en">AFLW: NM v ADE</title>
-    <sub-title lang="en">NM v ADE</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251018224500 +1100" stop="20251018230000 +1100" channel="504.FAF">
-    <title lang="en">AFLW Mini: Round 10 MEL v SYD</title>
-    <sub-title lang="en">Round 10 MEL v SYD</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251018230000 +1100" stop="20251018231500 +1100" channel="504.FAF">
-    <title lang="en">AFLW Mini: Round 10 NMT v ADE</title>
-    <sub-title lang="en">Round 10 NMT v ADE</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251018231500 +1100" stop="20251018233000 +1100" channel="504.FAF">
-    <title lang="en">AFLW Mini: Round 10 GWS v FRE</title>
-    <sub-title lang="en">Round 10 GWS v FRE</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251018233000 +1100" stop="20251018234500 +1100" channel="504.FAF">
-    <title lang="en">AFLW Mini: Round 10 CAR v STK</title>
-    <sub-title lang="en">Round 10 CAR v STK</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251018234500 +1100" stop="20251019000000 +1100" channel="504.FAF">
@@ -7177,11 +7067,6 @@
     <title lang="en">AFLW</title>
     <desc lang="en" />
   </programme>
-  <programme start="20251018180000 +1100" stop="20251018223000 +1100" channel="505.FSP">
-    <title lang="en">Live: Golf: India Championship Round 3</title>
-    <sub-title lang="en">India Championship Round 3</sub-title>
-    <desc lang="en" />
-  </programme>
   <programme start="20251018223000 +1100" stop="20251019023000 +1100" channel="505.FSP">
     <title lang="en">Live: Pool: Reyes Cup: Day 3</title>
     <sub-title lang="en">Day 3</sub-title>
@@ -8455,16 +8340,6 @@
   </programme>
   <programme start="20251101220000 +1100" stop="20251102030000 +1100" channel="505.FSP">
     <title lang="en">Live: Golf: Sport Special</title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251018204000 +1100" stop="20251018213500 +1100" channel="506.SPS">
-    <title lang="en">Live: Motorsport: FIM WorldWCR C'ship</title>
-    <sub-title lang="en">Rnd 6 Spain Race 1</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251018213500 +1100" stop="20251018223500 +1100" channel="506.SPS">
-    <title lang="en">Live: Motorsport: World Supersport 300</title>
-    <sub-title lang="en">Spain Race 1</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251018223500 +1100" stop="20251019000300 +1100" channel="506.SPS">
@@ -9965,11 +9840,6 @@
   </programme>
   <programme start="20251101233000 +1100" stop="20251102000000 +1100" channel="506.SPS">
     <title lang="en">Sport Special</title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251018171500 +1100" stop="20251018210000 +1100" channel="507.FSS">
-    <title lang="en">Live: Cricket: T20: NZL v ENG Game 1</title>
-    <sub-title lang="en">NZL v ENG Game 1</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251018210000 +1100" stop="20251019020000 +1100" channel="507.FSS">
