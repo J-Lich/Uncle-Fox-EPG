@@ -78,7 +78,7 @@ def fetch_epg_data():
         start_ms = int(start_dt.timestamp() * 1000)
         end_ms = int(end_dt.timestamp() * 1000)
 
-        grid_url = f'{grid_base_url}?startDate={start_ms}&endDate={end_ms}&regionId=20480'
+        grid_url = f'{grid_base_url}?startDate={start_ms}&endDate={end_ms}' #&regionId=20480'
 
         print(f"\nFetching grid chunk {n + 1}/{num_iterations}...")
 
