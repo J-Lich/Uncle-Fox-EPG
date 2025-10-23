@@ -29,54 +29,6 @@
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
     <url>http://www.epgshare01.online</url>
   </channel>
-  <programme start="20251020010000 +0800" stop="20251020050000 +0800" channel="FoxCricket.au">
-    <title lang="en">Sport Special</title>
-    <sub-title lang="en">Sport Special</sub-title>
-    <desc lang="en">(Sport. Undefined).</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Undefined</category>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
-  </programme>
-  <programme start="20251020050000 +0800" stop="20251020090000 +0800" channel="FoxCricket.au">
-    <title lang="en">Sport Special</title>
-    <sub-title lang="en">Sport Special</sub-title>
-    <desc lang="en">(Sport. Undefined).</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Undefined</category>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
-  </programme>
-  <programme start="20251020090000 +0800" stop="20251020130000 +0800" channel="FoxCricket.au">
-    <title lang="en">Sport Special</title>
-    <sub-title lang="en">Sport Special</sub-title>
-    <desc lang="en">(Sport. Undefined).</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Undefined</category>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
-  </programme>
-  <programme start="20251020130000 +0800" stop="20251020170000 +0800" channel="FoxCricket.au">
-    <title lang="en">Sport Special</title>
-    <sub-title lang="en">Sport Special</sub-title>
-    <desc lang="en">(Sport. Undefined).</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Undefined</category>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
-  </programme>
-  <programme start="20251020170000 +0800" stop="20251020210000 +0800" channel="FoxCricket.au">
-    <title lang="en">Sport Special</title>
-    <sub-title lang="en">Sport Special</sub-title>
-    <desc lang="en">(Sport. Undefined).</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Undefined</category>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
-  </programme>
-  <programme start="20251020210000 +0800" stop="20251021010000 +0800" channel="FoxCricket.au">
-    <title lang="en">Sport Special</title>
-    <sub-title lang="en">Sport Special</sub-title>
-    <desc lang="en">(Sport. Undefined).</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Undefined</category>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
-  </programme>
   <programme start="20251021010000 +0800" stop="20251021050000 +0800" channel="FoxCricket.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
@@ -427,7 +379,7 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020010000 +0800" stop="20251020050000 +0800" channel="FoxLeague.au">
+  <programme start="20251026010000 +0800" stop="20251026050000 +0800" channel="FoxCricket.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -435,7 +387,7 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020050000 +0800" stop="20251020090000 +0800" channel="FoxLeague.au">
+  <programme start="20251026050000 +0800" stop="20251026090000 +0800" channel="FoxCricket.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -443,7 +395,7 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020090000 +0800" stop="20251020130000 +0800" channel="FoxLeague.au">
+  <programme start="20251026090000 +0800" stop="20251026103500 +0800" channel="FoxCricket.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -451,7 +403,15 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020130000 +0800" stop="20251020170000 +0800" channel="FoxLeague.au">
+  <programme start="20251026103500 +0800" stop="20251026110000 +0800" channel="FoxCricket.au">
+    <title lang="en">LIVE: MotoGP</title>
+    <sub-title lang="en">Malaysia Warm Up</sub-title>
+    <desc lang="en">The riders get one final look around the circuit before all the races begin. (Sport. Racing).</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
+  </programme>
+  <programme start="20251026110000 +0800" stop="20251026114500 +0800" channel="FoxCricket.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -459,7 +419,38 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020170000 +0800" stop="20251020210000 +0800" channel="FoxLeague.au">
+  <programme start="20251026114500 +0800" stop="20251026130000 +0800" channel="FoxCricket.au">
+    <title lang="en">LIVE: Moto3</title>
+    <sub-title lang="en">Grand Prix of Malaysia</sub-title>
+    <desc lang="en">(Sport. Racing).</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
+  </programme>
+  <programme start="20251026130000 +0800" stop="20251026141500 +0800" channel="FoxCricket.au">
+    <title lang="en">LIVE: Moto2</title>
+    <sub-title lang="en">Grand Prix of Malaysia</sub-title>
+    <desc lang="en">(Sport. Racing).</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
+  </programme>
+  <programme start="20251026141500 +0800" stop="20251026145800 +0800" channel="FoxCricket.au">
+    <title lang="en">LIVE: MotoGP The Grid</title>
+    <sub-title lang="en">Malaysia</sub-title>
+    <desc lang="en">All the latest news and interviews from the MotoGP Grid. (Sport. Racing).</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
+  </programme>
+  <programme start="20251026145800 +0800" stop="20251026162000 +0800" channel="FoxCricket.au">
+    <title lang="en">LIVE: MOTOGP 2025 RACES</title>
+    <sub-title lang="en">Malaysia Race</sub-title>
+    <desc lang="en">(Sport. Sport).</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
+  </programme>
+  <programme start="20251026162000 +0800" stop="20251026170000 +0800" channel="FoxCricket.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -467,7 +458,7 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020210000 +0800" stop="20251021010000 +0800" channel="FoxLeague.au">
+  <programme start="20251026170000 +0800" stop="20251026210000 +0800" channel="FoxCricket.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -715,7 +706,7 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020010000 +0800" stop="20251020050000 +0800" channel="FoxFooty.au">
+  <programme start="20251026010000 +0800" stop="20251026050000 +0800" channel="FoxLeague.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -723,7 +714,7 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020050000 +0800" stop="20251020090000 +0800" channel="FoxFooty.au">
+  <programme start="20251026050000 +0800" stop="20251026090000 +0800" channel="FoxLeague.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -731,7 +722,7 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020090000 +0800" stop="20251020130000 +0800" channel="FoxFooty.au">
+  <programme start="20251026090000 +0800" stop="20251026130000 +0800" channel="FoxLeague.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -739,7 +730,7 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020130000 +0800" stop="20251020170000 +0800" channel="FoxFooty.au">
+  <programme start="20251026130000 +0800" stop="20251026170000 +0800" channel="FoxLeague.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -747,7 +738,7 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020170000 +0800" stop="20251020210000 +0800" channel="FoxFooty.au">
+  <programme start="20251026170000 +0800" stop="20251026210000 +0800" channel="FoxLeague.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -755,7 +746,7 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020210000 +0800" stop="20251021010000 +0800" channel="FoxFooty.au">
+  <programme start="20251026210000 +0800" stop="20251027010000 +0800" channel="FoxLeague.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -819,154 +810,6 @@
     <display-name lang="en">Hub Premier 4</display-name>
     <url>http://www.singteltv.com.sg</url>
   </channel>
-  <programme start="20251021000000 +0800" stop="20251021010000 +0800" channel="Hub.Premier.1.sg">
-    <title lang="en">GENERATION xG - MON 20 OCT (Live)</title>
-    <desc lang="en">A deep dive into the tactical trends and statistical insights of modern football with input from players, managers and data experts from the 'fanalyst' community.</desc>
-  </programme>
-  <programme start="20251021010000 +0800" stop="20251021013000 +0800" channel="Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 25/26 MW08 Liverpool v Manchester United</title>
-    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme start="20251021013000 +0800" stop="20251021020000 +0800" channel="Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 25/26 MW08 Tottenham Hotspur v Aston Villa</title>
-    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme start="20251021020000 +0800" stop="20251021023000 +0800" channel="Hub.Premier.1.sg">
-    <title lang="en">PL REWIND</title>
-    <desc lang="en">Jarrod Bowen has become an icon at West Ham, scoring the goal that brought European glory in 2023. The club captain recalls some key moments in the Hammers' 2024/25 campaign, alongside James Ward-Prowse and former Head Coach Graham Potter.</desc>
-  </programme>
-  <programme start="20251021023000 +0800" stop="20251021025000 +0800" channel="Hub.Premier.1.sg">
-    <title lang="en">PREMIER LEAGUE LIVE (Live)</title>
-    <desc lang="en">Live match action from the latest match round of the Premier League, with insight, analysis, and reaction from our expert panel of studio guests.</desc>
-  </programme>
-  <programme start="20251021025000 +0800" stop="20251021050000 +0800" channel="Hub.Premier.1.sg">
-    <title lang="en">West Ham United v Brentford (MW08) (Live)</title>
-    <desc lang="en">Live match action from the latest match round of the Premier League, with insight, analysis, and reaction from our expert panel of studio guests.</desc>
-  </programme>
-  <programme start="20251021050000 +0800" stop="20251021053000 +0800" channel="Hub.Premier.1.sg">
-    <title lang="en">PREMIER LEAGUE LIVE (Live)</title>
-    <desc lang="en">Highlight match action from the Premier League's 2025/26 season.</desc>
-  </programme>
-  <programme start="20251021053000 +0800" stop="20251021060000 +0800" channel="Hub.Premier.1.sg">
-    <title lang="en">THE FINAL WORD - MON 20 OCT (Live)</title>
-    <desc lang="en">Linked to Monday night fixtures, Michael Owen and special guests will join Steve Bower to give the definitive verdict on the weekend's action.</desc>
-  </programme>
-  <programme start="20251021060000 +0800" stop="20251021063000 +0800" channel="Hub.Premier.1.sg">
-    <title lang="en">EXTRA TIME - MON 20 OCT (Live)</title>
-    <desc lang="en">A look at a Premier League season through the eyes of a player who excelled that particular year. The highs and lows and everything in between, that made it a memorable and at times defining nine months for both the player and his club.</desc>
-  </programme>
-  <programme start="20251021063000 +0800" stop="20251021070000 +0800" channel="Hub.Premier.1.sg">
-    <title lang="en">THE BIG INTERVIEW</title>
-    <desc lang="en">With 97 Premier League goals for some of the biggest clubs in English football, Emmanuel Adebayor was one of Africa's finest footballers to play on these shores. Now, through his SEA Foundation, Adebayor is making a significant impact off the pitch, providing inspiration and opportunity for people in Togo and across the continent.</desc>
-  </programme>
-  <programme start="20251021070000 +0800" stop="20251021073000 +0800" channel="Hub.Premier.1.sg">
-    <title lang="en">PL STORIES</title>
-    <desc lang="en">We sit down with Duncan Ferguson to discuss the fierce, passionate, and often unpredictable career of one of Everton's most legendary figures. From his early days in Scotland to his turbulent arrival in English football, PL Stories focuses on Ferguson's deep bond with the blue half of Merseyside; a connection built on loyalty, grit, and unforgettable moments.</desc>
-  </programme>
-  <programme start="20251021073000 +0800" stop="20251021083000 +0800" channel="Hub.Premier.1.sg">
-    <title lang="en">REVIEW - MON 20 OCT</title>
-    <desc lang="en">Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
-  </programme>
-  <programme start="20251021083000 +0800" stop="20251021090000 +0800" channel="Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 25/26 MW08 West Ham United v Brentford</title>
-    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme start="20251021090000 +0800" stop="20251021093000 +0800" channel="Hub.Premier.1.sg">
-    <title lang="en">NETBUSTERS</title>
-    <desc lang="en">Fast-paced with music, ISO angles, and commentary, Netbusters offers an alternative review of every goal and key moment from the latest round of Premier League fixtures.</desc>
-  </programme>
-  <programme start="20251021093000 +0800" stop="20251021103000 +0800" channel="Hub.Premier.1.sg">
-    <title lang="en">GENERATION xG - MON 20 OCT</title>
-    <desc lang="en">A deep dive into the tactical trends and statistical insights of modern football with input from players, managers and data experts from the 'fanalyst' community.</desc>
-  </programme>
-  <programme start="20251021103000 +0800" stop="20251021110000 +0800" channel="Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 25/26 MW08 Manchester City v Everton</title>
-    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme start="20251021110000 +0800" stop="20251021113000 +0800" channel="Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 25/26 MW08 Fulham v Arsenal</title>
-    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme start="20251021113000 +0800" stop="20251021123000 +0800" channel="Hub.Premier.1.sg">
-    <title lang="en">REVIEW - MON 20 OCT</title>
-    <desc lang="en">Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
-  </programme>
-  <programme start="20251021123000 +0800" stop="20251021130000 +0800" channel="Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 25/26 MW08 West Ham United v Brentford</title>
-    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme start="20251021130000 +0800" stop="20251021133000 +0800" channel="Hub.Premier.1.sg">
-    <title lang="en">THE FINAL WORD - MON 20 OCT</title>
-    <desc lang="en">Linked to Monday night fixtures, Michael Owen and special guests will join Steve Bower to give the definitive verdict on the weekend's action.</desc>
-  </programme>
-  <programme start="20251021133000 +0800" stop="20251021140000 +0800" channel="Hub.Premier.1.sg">
-    <title lang="en">EXTRA TIME - MON 20 OCT</title>
-    <desc lang="en">A look at a Premier League season through the eyes of a player who excelled that particular year. The highs and lows and everything in between, that made it a memorable and at times defining nine months for both the player and his club.</desc>
-  </programme>
-  <programme start="20251021140000 +0800" stop="20251021143000 +0800" channel="Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 25/26 MW08 Brighton and Hove Albion v Newcastle United</title>
-    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme start="20251021143000 +0800" stop="20251021153000 +0800" channel="Hub.Premier.1.sg">
-    <title lang="en">GENERATION xG - MON 20 OCT</title>
-    <desc lang="en">A deep dive into the tactical trends and statistical insights of modern football with input from players, managers and data experts from the 'fanalyst' community.</desc>
-  </programme>
-  <programme start="20251021153000 +0800" stop="20251021160000 +0800" channel="Hub.Premier.1.sg">
-    <title lang="en">NETBUSTERS</title>
-    <desc lang="en">Fast-paced with music, ISO angles, and commentary, Netbusters offers an alternative review of every goal and key moment from the latest round of Premier League fixtures.</desc>
-  </programme>
-  <programme start="20251021160000 +0800" stop="20251021170000 +0800" channel="Hub.Premier.1.sg">
-    <title lang="en">PL MOMENTS</title>
-    <desc lang="en">PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</desc>
-  </programme>
-  <programme start="20251021170000 +0800" stop="20251021173000 +0800" channel="Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 25/26 MW08 West Ham United v Brentford</title>
-    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme start="20251021173000 +0800" stop="20251021180000 +0800" channel="Hub.Premier.1.sg">
-    <title lang="en">THE FINAL WORD - MON 20 OCT</title>
-    <desc lang="en">Linked to Monday night fixtures, Michael Owen and special guests will join Steve Bower to give the definitive verdict on the weekend's action.</desc>
-  </programme>
-  <programme start="20251021180000 +0800" stop="20251021183000 +0800" channel="Hub.Premier.1.sg">
-    <title lang="en">EXTRA TIME - MON 20 OCT</title>
-    <desc lang="en">A look at a Premier League season through the eyes of a player who excelled that particular year. The highs and lows and everything in between, that made it a memorable and at times defining nine months for both the player and his club.</desc>
-  </programme>
-  <programme start="20251021183000 +0800" stop="20251021190000 +0800" channel="Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 25/26 MW08 Liverpool v Manchester United</title>
-    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme start="20251021190000 +0800" stop="20251021200000 +0800" channel="Hub.Premier.1.sg">
-    <title lang="en">REVIEW - MON 20 OCT</title>
-    <desc lang="en">Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
-  </programme>
-  <programme start="20251021200000 +0800" stop="20251021210000 +0800" channel="Hub.Premier.1.sg">
-    <title lang="en">PL MOMENTS</title>
-    <desc lang="en">PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</desc>
-  </programme>
-  <programme start="20251021210000 +0800" stop="20251021213000 +0800" channel="Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 25/26 MW08 West Ham United v Brentford</title>
-    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme start="20251021213000 +0800" stop="20251021220000 +0800" channel="Hub.Premier.1.sg">
-    <title lang="en">THE FINAL WORD - MON 20 OCT</title>
-    <desc lang="en">Linked to Monday night fixtures, Michael Owen and special guests will join Steve Bower to give the definitive verdict on the weekend's action.</desc>
-  </programme>
-  <programme start="20251021220000 +0800" stop="20251021223000 +0800" channel="Hub.Premier.1.sg">
-    <title lang="en">EXTRA TIME - MON 20 OCT</title>
-    <desc lang="en">A look at a Premier League season through the eyes of a player who excelled that particular year. The highs and lows and everything in between, that made it a memorable and at times defining nine months for both the player and his club.</desc>
-  </programme>
-  <programme start="20251021223000 +0800" stop="20251021230000 +0800" channel="Hub.Premier.1.sg">
-    <title lang="en">PL REWIND</title>
-    <desc lang="en">Tim Howard spent a decade as Everton's first choice goalkeeper, the club that defined his Premier League career. The American recalls his journey from New Jersey, via Old Trafford, to Goodison Park, and his most memorable moments between the posts.</desc>
-  </programme>
-  <programme start="20251021230000 +0800" stop="20251021233000 +0800" channel="Hub.Premier.1.sg">
-    <title lang="en">PL REWIND</title>
-    <desc lang="en">Marcelo Bielsa brought Premier League football back to Leeds in 2020, following a 16 year exile from the top flight. Amidst the backdrop of a global pandemic, Bielsa's full-throttle tactics made Leeds the story of the season. Stuart Dallas recalls the highlights.</desc>
-  </programme>
-  <programme start="20251021233000 +0800" stop="20251022000000 +0800" channel="Hub.Premier.1.sg">
-    <title lang="en">NETBUSTERS</title>
-    <desc lang="en">Fast-paced with music, ISO angles, and commentary, Netbusters offers an alternative review of every goal and key moment from the latest round of Premier League fixtures.</desc>
-  </programme>
   <programme start="20251022000000 +0800" stop="20251022010000 +0800" channel="Hub.Premier.1.sg">
     <title lang="en">THE WEEKEND WRAP - SUN 19 OCT</title>
     <desc lang="en">The Weekend Wrap features comprehensive match highlights, the best post-match reaction and expert analysis from a high-class team of pundits.</desc>
@@ -1359,21 +1202,141 @@
     <title lang="en">FANZONE - FRI 24 OCT (Live)</title>
     <desc lang="en">This is the show that puts international fans at the heart of the Premier League conversation. We connect with fans from around the world as they share their views on their teams and favourite players.</desc>
   </programme>
-  <programme start="20251021000000 +0800" stop="20251021060000 +0800" channel="Hub.Premier.2.sg">
-    <title lang="en">End of Transmission</title>
-    <desc lang="en">End of Transmission.</desc>
+  <programme start="20251024233000 +0800" stop="20251025000000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PREVIEW - FRI 24 OCT</title>
+    <desc lang="en">A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
   </programme>
-  <programme start="20251021060000 +0800" stop="20251021120000 +0800" channel="Hub.Premier.2.sg">
-    <title lang="en">End of Transmission</title>
-    <desc lang="en">End of Transmission.</desc>
+  <programme start="20251025000000 +0800" stop="20251025010000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">WELCOME TO THE WEEKEND - FRI 24 OCT</title>
+    <desc lang="en">Light-hearted, inclusive and entertaining, Welcome to the Weekend is the show that kicks off the Premier League weekend. We will focus on the football but also on the lifestyle topics that footballers and fans love - food, fashion, music, movies and much, much more.</desc>
   </programme>
-  <programme start="20251021120000 +0800" stop="20251021180000 +0800" channel="Hub.Premier.2.sg">
-    <title lang="en">End of Transmission</title>
-    <desc lang="en">End of Transmission.</desc>
+  <programme start="20251025010000 +0800" stop="20251025013000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">FANTASY SHOW</title>
+    <desc lang="en">Haaland or Salah? Saka or Palmer? Isak or Cunha? Picking your Fantasy team is never easy, but the Fantasy Show is on hand to help FPL Managers with those big decisions.</desc>
   </programme>
-  <programme start="20251021180000 +0800" stop="20251022000000 +0800" channel="Hub.Premier.2.sg">
-    <title lang="en">End of Transmission</title>
-    <desc lang="en">End of Transmission.</desc>
+  <programme start="20251025013000 +0800" stop="20251025020000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">THE BIG INTERVIEW</title>
+    <desc lang="en">Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+  </programme>
+  <programme start="20251025020000 +0800" stop="20251025023000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL REWIND</title>
+    <desc lang="en">Marcelo Bielsa brought Premier League football back to Leeds in 2020, following a 16 year exile from the top flight. Amidst the backdrop of a global pandemic, Bielsa's full-throttle tactics made Leeds the story of the season. Stuart Dallas recalls the highlights.</desc>
+  </programme>
+  <programme start="20251025023000 +0800" stop="20251025025000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PREMIER LEAGUE LIVE (Live)</title>
+    <desc lang="en">Live match action from the latest match round of the Premier League, with insight, analysis, and reaction from our expert panel of studio guests.</desc>
+  </programme>
+  <programme start="20251025025000 +0800" stop="20251025050000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">Leeds United v West Ham United (MW09) (Live)</title>
+    <desc lang="en">Live match action from the latest match round of the Premier League, with insight, analysis, and reaction from our expert panel of studio guests.</desc>
+  </programme>
+  <programme start="20251025050000 +0800" stop="20251025053000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PREMIER LEAGUE LIVE (Live)</title>
+    <desc lang="en">Highlight match action from the Premier League's 2025/26 season.</desc>
+  </programme>
+  <programme start="20251025053000 +0800" stop="20251025063000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">TEAM TALKS - FRI 24 OCT (Live)</title>
+    <desc lang="en">Punditry, pressers and predictions ahead of the PL weekend. Our studio team tackle all the major talking points and we hear from the headline acts as the players and the managers have their say ahead of the action.</desc>
+  </programme>
+  <programme start="20251025063000 +0800" stop="20251025070000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">THE BIG INTERVIEW</title>
+    <desc lang="en">Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+  </programme>
+  <programme start="20251025070000 +0800" stop="20251025073000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PREVIEW - FRI 24 OCT (UPDATED)</title>
+    <desc lang="en">A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
+  </programme>
+  <programme start="20251025073000 +0800" stop="20251025080000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 25/26 MW09 Leeds United v West Ham United</title>
+    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20251025080000 +0800" stop="20251025083000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">Classic Match</title>
+    <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2018/2019 season.</desc>
+  </programme>
+  <programme start="20251025083000 +0800" stop="20251025090000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We sit down with Duncan Ferguson to discuss the fierce, passionate, and often unpredictable career of one of Everton's most legendary figures. From his early days in Scotland to his turbulent arrival in English football, PL Stories focuses on Ferguson's deep bond with the blue half of Merseyside; a connection built on loyalty, grit, and unforgettable moments.</desc>
+  </programme>
+  <programme start="20251025090000 +0800" stop="20251025100000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">TEAM TALKS - FRI 24 OCT</title>
+    <desc lang="en">Punditry, pressers and predictions ahead of the PL weekend. Our studio team tackle all the major talking points and we hear from the headline acts as the players and the managers have their say ahead of the action.</desc>
+  </programme>
+  <programme start="20251025100000 +0800" stop="20251025110000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL MOMENTS</title>
+    <desc lang="en">PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</desc>
+  </programme>
+  <programme start="20251025110000 +0800" stop="20251025113000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PREVIEW - FRI 24 OCT (UPDATED)</title>
+    <desc lang="en">A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
+  </programme>
+  <programme start="20251025113000 +0800" stop="20251025120000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 25/26 MW09 Leeds United v West Ham United</title>
+    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20251025120000 +0800" stop="20251025123000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We follow the rise of one of Italy's most gifted midfielders and his journey to Premier League stardom at Newcastle United, Sandro Tonali. From his early days at Brescia, where his talent drew comparisons to Italian greats, to his development at AC Milan and eventual move to St. James' Park, we trace Tonali's evolution on and off the pitch.</desc>
+  </programme>
+  <programme start="20251025123000 +0800" stop="20251025130000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">THE BIG INTERVIEW</title>
+    <desc lang="en">Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+  </programme>
+  <programme start="20251025130000 +0800" stop="20251025140000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">TEAM TALKS - FRI 24 OCT</title>
+    <desc lang="en">Punditry, pressers and predictions ahead of the PL weekend. Our studio team tackle all the major talking points and we hear from the headline acts as the players and the managers have their say ahead of the action.</desc>
+  </programme>
+  <programme start="20251025140000 +0800" stop="20251025143000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">Classic Match</title>
+    <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2014/2015 season.</desc>
+  </programme>
+  <programme start="20251025143000 +0800" stop="20251025150000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We join Thiago Silva in his native Brazil to reflect on his remarkable footballing journey; from overcoming life-threatening illness early in his career to becoming one of the world's most respected defenders. We explore his late-career success in the Premier League, his influence on and off the pitch and life at current club Fluminese.</desc>
+  </programme>
+  <programme start="20251025150000 +0800" stop="20251025153000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PREVIEW - FRI 24 OCT (UPDATED)</title>
+    <desc lang="en">A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
+  </programme>
+  <programme start="20251025153000 +0800" stop="20251025160000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 25/26 MW09 Leeds United v West Ham United</title>
+    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20251025160000 +0800" stop="20251025163000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">Classic Match</title>
+    <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2004/2005 season.</desc>
+  </programme>
+  <programme start="20251025163000 +0800" stop="20251025170000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We follow the rise of one of Italy's most gifted midfielders and his journey to Premier League stardom at Newcastle United, Sandro Tonali. From his early days at Brescia, where his talent drew comparisons to Italian greats, to his development at AC Milan and eventual move to St. James' Park, we trace Tonali's evolution on and off the pitch.</desc>
+  </programme>
+  <programme start="20251025170000 +0800" stop="20251025180000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PL MOMENTS</title>
+    <desc lang="en">PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</desc>
+  </programme>
+  <programme start="20251025180000 +0800" stop="20251025190000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">TEAM TALKS - FRI 24 OCT</title>
+    <desc lang="en">Punditry, pressers and predictions ahead of the PL weekend. Our studio team tackle all the major talking points and we hear from the headline acts as the players and the managers have their say ahead of the action.</desc>
+  </programme>
+  <programme start="20251025190000 +0800" stop="20251025193000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">THE BIG INTERVIEW</title>
+    <desc lang="en">Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+  </programme>
+  <programme start="20251025193000 +0800" stop="20251025200000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">Classic Match</title>
+    <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2014/2015 season.</desc>
+  </programme>
+  <programme start="20251025200000 +0800" stop="20251025203000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 25/26 MW09 Leeds United v West Ham United</title>
+    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20251025203000 +0800" stop="20251025210000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PREVIEW - FRI 24 OCT (UPDATED)</title>
+    <desc lang="en">A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
+  </programme>
+  <programme start="20251025210000 +0800" stop="20251025215000 +0800" channel="Hub.Premier.1.sg">
+    <title lang="en">PREMIER LEAGUE LIVE (Live)</title>
+    <desc lang="en">Live match action from the latest match round of the Premier League, with insight, analysis, and reaction from our expert panel of studio guests.</desc>
   </programme>
   <programme start="20251022000000 +0800" stop="20251022060000 +0800" channel="Hub.Premier.2.sg">
     <title lang="en">End of Transmission</title>
@@ -1419,21 +1382,61 @@
     <title lang="en">End of Transmission</title>
     <desc lang="en">End of Transmission.</desc>
   </programme>
-  <programme start="20251021000000 +0800" stop="20251021060000 +0800" channel="Hub.Premier.3.sg">
+  <programme start="20251024180000 +0800" stop="20251025000000 +0800" channel="Hub.Premier.2.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">End of Transmission.</desc>
   </programme>
-  <programme start="20251021060000 +0800" stop="20251021120000 +0800" channel="Hub.Premier.3.sg">
+  <programme start="20251025000000 +0800" stop="20251025060000 +0800" channel="Hub.Premier.2.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">End of Transmission.</desc>
   </programme>
-  <programme start="20251021120000 +0800" stop="20251021180000 +0800" channel="Hub.Premier.3.sg">
+  <programme start="20251025060000 +0800" stop="20251025120000 +0800" channel="Hub.Premier.2.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">End of Transmission.</desc>
   </programme>
-  <programme start="20251021180000 +0800" stop="20251022000000 +0800" channel="Hub.Premier.3.sg">
-    <title lang="en">End of Transmission</title>
-    <desc lang="en">End of Transmission.</desc>
+  <programme start="20251025120000 +0800" stop="20251025123000 +0800" channel="Hub.Premier.2.sg">
+    <title lang="en">Netbusters 2025/26</title>
+    <desc lang="en">Relive the best action from the Premier League with this fast-paced ISO angle highlights show, featuring every game and every goal from each matchround.</desc>
+  </programme>
+  <programme start="20251025123000 +0800" stop="20251025130000 +0800" channel="Hub.Premier.2.sg">
+    <title lang="en">PL Preview 2025/26 (Updated)</title>
+    <desc lang="en">A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
+  </programme>
+  <programme start="20251025130000 +0800" stop="20251025145500 +0800" channel="Hub.Premier.2.sg">
+    <title lang="en">West Ham United vs Brentford (MW08)</title>
+    <desc lang="en">The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+  </programme>
+  <programme start="20251025145500 +0800" stop="20251025155000 +0800" channel="Hub.Premier.2.sg">
+    <title lang="en">PL Moments 2025/26</title>
+    <desc lang="en">PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</desc>
+  </programme>
+  <programme start="20251025155000 +0800" stop="20251025162000 +0800" channel="Hub.Premier.2.sg">
+    <title lang="en">PL Stories 2025/26</title>
+    <desc lang="en">We follow the rise of one of Italy's most gifted midfielders and his journey to Premier League stardom at Newcastle United, Sandro Tonali. From his early days at Brescia, where his talent drew comparisons to Italian greats, to his development at AC Milan and eventual move to St. James' Park, we trace Tonali's evolution on and off the pitch.</desc>
+  </programme>
+  <programme start="20251025162000 +0800" stop="20251025165000 +0800" channel="Hub.Premier.2.sg">
+    <title lang="en">The Big Interview 2025/26</title>
+    <desc lang="en">Extended sit-downs and more informal ‘out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+  </programme>
+  <programme start="20251025165000 +0800" stop="20251025172000 +0800" channel="Hub.Premier.2.sg">
+    <title lang="en">PL Preview 2025/26 (Updated)</title>
+    <desc lang="en">A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
+  </programme>
+  <programme start="20251025172000 +0800" stop="20251025192000 +0800" channel="Hub.Premier.2.sg">
+    <title lang="en">West Ham United vs Brentford (MW08)</title>
+    <desc lang="en">The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+  </programme>
+  <programme start="20251025192000 +0800" stop="20251025212000 +0800" channel="Hub.Premier.2.sg">
+    <title lang="en">Leeds United vs West Ham United (MW09)</title>
+    <desc lang="en">The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+  </programme>
+  <programme start="20251025212000 +0800" stop="20251025215000 +0800" channel="Hub.Premier.2.sg">
+    <title lang="en">PL Stories 2025/26</title>
+    <desc lang="en">We follow the rise of one of Italy's most gifted midfielders and his journey to Premier League stardom at Newcastle United, Sandro Tonali. From his early days at Brescia, where his talent drew comparisons to Italian greats, to his development at AC Milan and eventual move to St. James' Park, we trace Tonali's evolution on and off the pitch.</desc>
+  </programme>
+  <programme start="20251025215000 +0800" stop="20251025235000 +0800" channel="Hub.Premier.2.sg">
+    <title lang="en">Newcastle United vs Fulham (MW09) (Live)</title>
+    <desc lang="en">The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
   </programme>
   <programme start="20251022000000 +0800" stop="20251022060000 +0800" channel="Hub.Premier.3.sg">
     <title lang="en">End of Transmission</title>
@@ -1479,19 +1482,23 @@
     <title lang="en">End of Transmission</title>
     <desc lang="en">End of Transmission.</desc>
   </programme>
-  <programme start="20251021000000 +0800" stop="20251021060000 +0800" channel="Hub.Premier.4.sg">
+  <programme start="20251024180000 +0800" stop="20251025000000 +0800" channel="Hub.Premier.3.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">End of Transmission.</desc>
   </programme>
-  <programme start="20251021060000 +0800" stop="20251021120000 +0800" channel="Hub.Premier.4.sg">
+  <programme start="20251025000000 +0800" stop="20251025060000 +0800" channel="Hub.Premier.3.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">End of Transmission.</desc>
   </programme>
-  <programme start="20251021120000 +0800" stop="20251021180000 +0800" channel="Hub.Premier.4.sg">
+  <programme start="20251025060000 +0800" stop="20251025120000 +0800" channel="Hub.Premier.3.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">End of Transmission.</desc>
   </programme>
-  <programme start="20251021180000 +0800" stop="20251022000000 +0800" channel="Hub.Premier.4.sg">
+  <programme start="20251025120000 +0800" stop="20251025180000 +0800" channel="Hub.Premier.3.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20251025180000 +0800" stop="20251025215000 +0800" channel="Hub.Premier.3.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">End of Transmission.</desc>
   </programme>
@@ -1536,6 +1543,22 @@
     <desc lang="en">End of Transmission.</desc>
   </programme>
   <programme start="20251024120000 +0800" stop="20251024180000 +0800" channel="Hub.Premier.4.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20251024180000 +0800" stop="20251025000000 +0800" channel="Hub.Premier.4.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20251025000000 +0800" stop="20251025060000 +0800" channel="Hub.Premier.4.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20251025060000 +0800" stop="20251025120000 +0800" channel="Hub.Premier.4.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20251025120000 +0800" stop="20251025180000 +0800" channel="Hub.Premier.4.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">End of Transmission.</desc>
   </programme>
@@ -13487,54 +13510,6 @@
     <url>http://www.tvguide.co.uk</url>
     <display-name lang="en">TNT Sports 2 HD</display-name>
   </channel>
-  <programme start="20251020010000 +0800" stop="20251020050000 +0800" channel="z1.FoxCricket.au">
-    <title lang="en">Sport Special</title>
-    <sub-title lang="en">Sport Special</sub-title>
-    <desc lang="en">(Sport. Undefined).</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Undefined</category>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
-  </programme>
-  <programme start="20251020050000 +0800" stop="20251020090000 +0800" channel="z1.FoxCricket.au">
-    <title lang="en">Sport Special</title>
-    <sub-title lang="en">Sport Special</sub-title>
-    <desc lang="en">(Sport. Undefined).</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Undefined</category>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
-  </programme>
-  <programme start="20251020090000 +0800" stop="20251020130000 +0800" channel="z1.FoxCricket.au">
-    <title lang="en">Sport Special</title>
-    <sub-title lang="en">Sport Special</sub-title>
-    <desc lang="en">(Sport. Undefined).</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Undefined</category>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
-  </programme>
-  <programme start="20251020130000 +0800" stop="20251020170000 +0800" channel="z1.FoxCricket.au">
-    <title lang="en">Sport Special</title>
-    <sub-title lang="en">Sport Special</sub-title>
-    <desc lang="en">(Sport. Undefined).</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Undefined</category>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
-  </programme>
-  <programme start="20251020170000 +0800" stop="20251020210000 +0800" channel="z1.FoxCricket.au">
-    <title lang="en">Sport Special</title>
-    <sub-title lang="en">Sport Special</sub-title>
-    <desc lang="en">(Sport. Undefined).</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Undefined</category>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
-  </programme>
-  <programme start="20251020210000 +0800" stop="20251021010000 +0800" channel="z1.FoxCricket.au">
-    <title lang="en">Sport Special</title>
-    <sub-title lang="en">Sport Special</sub-title>
-    <desc lang="en">(Sport. Undefined).</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Undefined</category>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
-  </programme>
   <programme start="20251021010000 +0800" stop="20251021050000 +0800" channel="z1.FoxCricket.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
@@ -13885,7 +13860,7 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020010000 +0800" stop="20251020050000 +0800" channel="z1.FoxLeague.au">
+  <programme start="20251026010000 +0800" stop="20251026050000 +0800" channel="z1.FoxCricket.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -13893,7 +13868,7 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020050000 +0800" stop="20251020090000 +0800" channel="z1.FoxLeague.au">
+  <programme start="20251026050000 +0800" stop="20251026090000 +0800" channel="z1.FoxCricket.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -13901,7 +13876,7 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020090000 +0800" stop="20251020130000 +0800" channel="z1.FoxLeague.au">
+  <programme start="20251026090000 +0800" stop="20251026103500 +0800" channel="z1.FoxCricket.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -13909,7 +13884,15 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020130000 +0800" stop="20251020170000 +0800" channel="z1.FoxLeague.au">
+  <programme start="20251026103500 +0800" stop="20251026110000 +0800" channel="z1.FoxCricket.au">
+    <title lang="en">LIVE: MotoGP</title>
+    <sub-title lang="en">Malaysia Warm Up</sub-title>
+    <desc lang="en">The riders get one final look around the circuit before all the races begin. (Sport. Racing).</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
+  </programme>
+  <programme start="20251026110000 +0800" stop="20251026114500 +0800" channel="z1.FoxCricket.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -13917,7 +13900,38 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020170000 +0800" stop="20251020210000 +0800" channel="z1.FoxLeague.au">
+  <programme start="20251026114500 +0800" stop="20251026130000 +0800" channel="z1.FoxCricket.au">
+    <title lang="en">LIVE: Moto3</title>
+    <sub-title lang="en">Grand Prix of Malaysia</sub-title>
+    <desc lang="en">(Sport. Racing).</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
+  </programme>
+  <programme start="20251026130000 +0800" stop="20251026141500 +0800" channel="z1.FoxCricket.au">
+    <title lang="en">LIVE: Moto2</title>
+    <sub-title lang="en">Grand Prix of Malaysia</sub-title>
+    <desc lang="en">(Sport. Racing).</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
+  </programme>
+  <programme start="20251026141500 +0800" stop="20251026145800 +0800" channel="z1.FoxCricket.au">
+    <title lang="en">LIVE: MotoGP The Grid</title>
+    <sub-title lang="en">Malaysia</sub-title>
+    <desc lang="en">All the latest news and interviews from the MotoGP Grid. (Sport. Racing).</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
+  </programme>
+  <programme start="20251026145800 +0800" stop="20251026162000 +0800" channel="z1.FoxCricket.au">
+    <title lang="en">LIVE: MOTOGP 2025 RACES</title>
+    <sub-title lang="en">Malaysia Race</sub-title>
+    <desc lang="en">(Sport. Sport).</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
+  </programme>
+  <programme start="20251026162000 +0800" stop="20251026170000 +0800" channel="z1.FoxCricket.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -13925,7 +13939,7 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020210000 +0800" stop="20251021010000 +0800" channel="z1.FoxLeague.au">
+  <programme start="20251026170000 +0800" stop="20251026210000 +0800" channel="z1.FoxCricket.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -14173,7 +14187,7 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020010000 +0800" stop="20251020050000 +0800" channel="z1.FoxFooty.au">
+  <programme start="20251026010000 +0800" stop="20251026050000 +0800" channel="z1.FoxLeague.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -14181,7 +14195,7 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020050000 +0800" stop="20251020090000 +0800" channel="z1.FoxFooty.au">
+  <programme start="20251026050000 +0800" stop="20251026090000 +0800" channel="z1.FoxLeague.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -14189,7 +14203,7 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020090000 +0800" stop="20251020130000 +0800" channel="z1.FoxFooty.au">
+  <programme start="20251026090000 +0800" stop="20251026130000 +0800" channel="z1.FoxLeague.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -14197,7 +14211,7 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020130000 +0800" stop="20251020170000 +0800" channel="z1.FoxFooty.au">
+  <programme start="20251026130000 +0800" stop="20251026170000 +0800" channel="z1.FoxLeague.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -14205,7 +14219,7 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020170000 +0800" stop="20251020210000 +0800" channel="z1.FoxFooty.au">
+  <programme start="20251026170000 +0800" stop="20251026210000 +0800" channel="z1.FoxLeague.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -14213,7 +14227,7 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020210000 +0800" stop="20251021010000 +0800" channel="z1.FoxFooty.au">
+  <programme start="20251026210000 +0800" stop="20251027010000 +0800" channel="z1.FoxLeague.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -14260,154 +14274,6 @@
     <category lang="en">Sport</category>
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
-  </programme>
-  <programme start="20251021000000 +0800" stop="20251021010000 +0800" channel="z1.Hub.Premier.1.sg">
-    <title lang="en">GENERATION xG - MON 20 OCT (Live)</title>
-    <desc lang="en">A deep dive into the tactical trends and statistical insights of modern football with input from players, managers and data experts from the 'fanalyst' community.</desc>
-  </programme>
-  <programme start="20251021010000 +0800" stop="20251021013000 +0800" channel="z1.Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 25/26 MW08 Liverpool v Manchester United</title>
-    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme start="20251021013000 +0800" stop="20251021020000 +0800" channel="z1.Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 25/26 MW08 Tottenham Hotspur v Aston Villa</title>
-    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme start="20251021020000 +0800" stop="20251021023000 +0800" channel="z1.Hub.Premier.1.sg">
-    <title lang="en">PL REWIND</title>
-    <desc lang="en">Jarrod Bowen has become an icon at West Ham, scoring the goal that brought European glory in 2023. The club captain recalls some key moments in the Hammers' 2024/25 campaign, alongside James Ward-Prowse and former Head Coach Graham Potter.</desc>
-  </programme>
-  <programme start="20251021023000 +0800" stop="20251021025000 +0800" channel="z1.Hub.Premier.1.sg">
-    <title lang="en">PREMIER LEAGUE LIVE (Live)</title>
-    <desc lang="en">Live match action from the latest match round of the Premier League, with insight, analysis, and reaction from our expert panel of studio guests.</desc>
-  </programme>
-  <programme start="20251021025000 +0800" stop="20251021050000 +0800" channel="z1.Hub.Premier.1.sg">
-    <title lang="en">West Ham United v Brentford (MW08) (Live)</title>
-    <desc lang="en">Live match action from the latest match round of the Premier League, with insight, analysis, and reaction from our expert panel of studio guests.</desc>
-  </programme>
-  <programme start="20251021050000 +0800" stop="20251021053000 +0800" channel="z1.Hub.Premier.1.sg">
-    <title lang="en">PREMIER LEAGUE LIVE (Live)</title>
-    <desc lang="en">Highlight match action from the Premier League's 2025/26 season.</desc>
-  </programme>
-  <programme start="20251021053000 +0800" stop="20251021060000 +0800" channel="z1.Hub.Premier.1.sg">
-    <title lang="en">THE FINAL WORD - MON 20 OCT (Live)</title>
-    <desc lang="en">Linked to Monday night fixtures, Michael Owen and special guests will join Steve Bower to give the definitive verdict on the weekend's action.</desc>
-  </programme>
-  <programme start="20251021060000 +0800" stop="20251021063000 +0800" channel="z1.Hub.Premier.1.sg">
-    <title lang="en">EXTRA TIME - MON 20 OCT (Live)</title>
-    <desc lang="en">A look at a Premier League season through the eyes of a player who excelled that particular year. The highs and lows and everything in between, that made it a memorable and at times defining nine months for both the player and his club.</desc>
-  </programme>
-  <programme start="20251021063000 +0800" stop="20251021070000 +0800" channel="z1.Hub.Premier.1.sg">
-    <title lang="en">THE BIG INTERVIEW</title>
-    <desc lang="en">With 97 Premier League goals for some of the biggest clubs in English football, Emmanuel Adebayor was one of Africa's finest footballers to play on these shores. Now, through his SEA Foundation, Adebayor is making a significant impact off the pitch, providing inspiration and opportunity for people in Togo and across the continent.</desc>
-  </programme>
-  <programme start="20251021070000 +0800" stop="20251021073000 +0800" channel="z1.Hub.Premier.1.sg">
-    <title lang="en">PL STORIES</title>
-    <desc lang="en">We sit down with Duncan Ferguson to discuss the fierce, passionate, and often unpredictable career of one of Everton's most legendary figures. From his early days in Scotland to his turbulent arrival in English football, PL Stories focuses on Ferguson's deep bond with the blue half of Merseyside; a connection built on loyalty, grit, and unforgettable moments.</desc>
-  </programme>
-  <programme start="20251021073000 +0800" stop="20251021083000 +0800" channel="z1.Hub.Premier.1.sg">
-    <title lang="en">REVIEW - MON 20 OCT</title>
-    <desc lang="en">Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
-  </programme>
-  <programme start="20251021083000 +0800" stop="20251021090000 +0800" channel="z1.Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 25/26 MW08 West Ham United v Brentford</title>
-    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme start="20251021090000 +0800" stop="20251021093000 +0800" channel="z1.Hub.Premier.1.sg">
-    <title lang="en">NETBUSTERS</title>
-    <desc lang="en">Fast-paced with music, ISO angles, and commentary, Netbusters offers an alternative review of every goal and key moment from the latest round of Premier League fixtures.</desc>
-  </programme>
-  <programme start="20251021093000 +0800" stop="20251021103000 +0800" channel="z1.Hub.Premier.1.sg">
-    <title lang="en">GENERATION xG - MON 20 OCT</title>
-    <desc lang="en">A deep dive into the tactical trends and statistical insights of modern football with input from players, managers and data experts from the 'fanalyst' community.</desc>
-  </programme>
-  <programme start="20251021103000 +0800" stop="20251021110000 +0800" channel="z1.Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 25/26 MW08 Manchester City v Everton</title>
-    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme start="20251021110000 +0800" stop="20251021113000 +0800" channel="z1.Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 25/26 MW08 Fulham v Arsenal</title>
-    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme start="20251021113000 +0800" stop="20251021123000 +0800" channel="z1.Hub.Premier.1.sg">
-    <title lang="en">REVIEW - MON 20 OCT</title>
-    <desc lang="en">Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
-  </programme>
-  <programme start="20251021123000 +0800" stop="20251021130000 +0800" channel="z1.Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 25/26 MW08 West Ham United v Brentford</title>
-    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme start="20251021130000 +0800" stop="20251021133000 +0800" channel="z1.Hub.Premier.1.sg">
-    <title lang="en">THE FINAL WORD - MON 20 OCT</title>
-    <desc lang="en">Linked to Monday night fixtures, Michael Owen and special guests will join Steve Bower to give the definitive verdict on the weekend's action.</desc>
-  </programme>
-  <programme start="20251021133000 +0800" stop="20251021140000 +0800" channel="z1.Hub.Premier.1.sg">
-    <title lang="en">EXTRA TIME - MON 20 OCT</title>
-    <desc lang="en">A look at a Premier League season through the eyes of a player who excelled that particular year. The highs and lows and everything in between, that made it a memorable and at times defining nine months for both the player and his club.</desc>
-  </programme>
-  <programme start="20251021140000 +0800" stop="20251021143000 +0800" channel="z1.Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 25/26 MW08 Brighton and Hove Albion v Newcastle United</title>
-    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme start="20251021143000 +0800" stop="20251021153000 +0800" channel="z1.Hub.Premier.1.sg">
-    <title lang="en">GENERATION xG - MON 20 OCT</title>
-    <desc lang="en">A deep dive into the tactical trends and statistical insights of modern football with input from players, managers and data experts from the 'fanalyst' community.</desc>
-  </programme>
-  <programme start="20251021153000 +0800" stop="20251021160000 +0800" channel="z1.Hub.Premier.1.sg">
-    <title lang="en">NETBUSTERS</title>
-    <desc lang="en">Fast-paced with music, ISO angles, and commentary, Netbusters offers an alternative review of every goal and key moment from the latest round of Premier League fixtures.</desc>
-  </programme>
-  <programme start="20251021160000 +0800" stop="20251021170000 +0800" channel="z1.Hub.Premier.1.sg">
-    <title lang="en">PL MOMENTS</title>
-    <desc lang="en">PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</desc>
-  </programme>
-  <programme start="20251021170000 +0800" stop="20251021173000 +0800" channel="z1.Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 25/26 MW08 West Ham United v Brentford</title>
-    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme start="20251021173000 +0800" stop="20251021180000 +0800" channel="z1.Hub.Premier.1.sg">
-    <title lang="en">THE FINAL WORD - MON 20 OCT</title>
-    <desc lang="en">Linked to Monday night fixtures, Michael Owen and special guests will join Steve Bower to give the definitive verdict on the weekend's action.</desc>
-  </programme>
-  <programme start="20251021180000 +0800" stop="20251021183000 +0800" channel="z1.Hub.Premier.1.sg">
-    <title lang="en">EXTRA TIME - MON 20 OCT</title>
-    <desc lang="en">A look at a Premier League season through the eyes of a player who excelled that particular year. The highs and lows and everything in between, that made it a memorable and at times defining nine months for both the player and his club.</desc>
-  </programme>
-  <programme start="20251021183000 +0800" stop="20251021190000 +0800" channel="z1.Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 25/26 MW08 Liverpool v Manchester United</title>
-    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme start="20251021190000 +0800" stop="20251021200000 +0800" channel="z1.Hub.Premier.1.sg">
-    <title lang="en">REVIEW - MON 20 OCT</title>
-    <desc lang="en">Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
-  </programme>
-  <programme start="20251021200000 +0800" stop="20251021210000 +0800" channel="z1.Hub.Premier.1.sg">
-    <title lang="en">PL MOMENTS</title>
-    <desc lang="en">PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</desc>
-  </programme>
-  <programme start="20251021210000 +0800" stop="20251021213000 +0800" channel="z1.Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 25/26 MW08 West Ham United v Brentford</title>
-    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme start="20251021213000 +0800" stop="20251021220000 +0800" channel="z1.Hub.Premier.1.sg">
-    <title lang="en">THE FINAL WORD - MON 20 OCT</title>
-    <desc lang="en">Linked to Monday night fixtures, Michael Owen and special guests will join Steve Bower to give the definitive verdict on the weekend's action.</desc>
-  </programme>
-  <programme start="20251021220000 +0800" stop="20251021223000 +0800" channel="z1.Hub.Premier.1.sg">
-    <title lang="en">EXTRA TIME - MON 20 OCT</title>
-    <desc lang="en">A look at a Premier League season through the eyes of a player who excelled that particular year. The highs and lows and everything in between, that made it a memorable and at times defining nine months for both the player and his club.</desc>
-  </programme>
-  <programme start="20251021223000 +0800" stop="20251021230000 +0800" channel="z1.Hub.Premier.1.sg">
-    <title lang="en">PL REWIND</title>
-    <desc lang="en">Tim Howard spent a decade as Everton's first choice goalkeeper, the club that defined his Premier League career. The American recalls his journey from New Jersey, via Old Trafford, to Goodison Park, and his most memorable moments between the posts.</desc>
-  </programme>
-  <programme start="20251021230000 +0800" stop="20251021233000 +0800" channel="z1.Hub.Premier.1.sg">
-    <title lang="en">PL REWIND</title>
-    <desc lang="en">Marcelo Bielsa brought Premier League football back to Leeds in 2020, following a 16 year exile from the top flight. Amidst the backdrop of a global pandemic, Bielsa's full-throttle tactics made Leeds the story of the season. Stuart Dallas recalls the highlights.</desc>
-  </programme>
-  <programme start="20251021233000 +0800" stop="20251022000000 +0800" channel="z1.Hub.Premier.1.sg">
-    <title lang="en">NETBUSTERS</title>
-    <desc lang="en">Fast-paced with music, ISO angles, and commentary, Netbusters offers an alternative review of every goal and key moment from the latest round of Premier League fixtures.</desc>
   </programme>
   <programme start="20251022000000 +0800" stop="20251022010000 +0800" channel="z1.Hub.Premier.1.sg">
     <title lang="en">THE WEEKEND WRAP - SUN 19 OCT</title>
@@ -14801,21 +14667,141 @@
     <title lang="en">FANZONE - FRI 24 OCT (Live)</title>
     <desc lang="en">This is the show that puts international fans at the heart of the Premier League conversation. We connect with fans from around the world as they share their views on their teams and favourite players.</desc>
   </programme>
-  <programme start="20251021000000 +0800" stop="20251021060000 +0800" channel="z1.Hub.Premier.2.sg">
-    <title lang="en">End of Transmission</title>
-    <desc lang="en">End of Transmission.</desc>
+  <programme start="20251024233000 +0800" stop="20251025000000 +0800" channel="z1.Hub.Premier.1.sg">
+    <title lang="en">PREVIEW - FRI 24 OCT</title>
+    <desc lang="en">A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
   </programme>
-  <programme start="20251021060000 +0800" stop="20251021120000 +0800" channel="z1.Hub.Premier.2.sg">
-    <title lang="en">End of Transmission</title>
-    <desc lang="en">End of Transmission.</desc>
+  <programme start="20251025000000 +0800" stop="20251025010000 +0800" channel="z1.Hub.Premier.1.sg">
+    <title lang="en">WELCOME TO THE WEEKEND - FRI 24 OCT</title>
+    <desc lang="en">Light-hearted, inclusive and entertaining, Welcome to the Weekend is the show that kicks off the Premier League weekend. We will focus on the football but also on the lifestyle topics that footballers and fans love - food, fashion, music, movies and much, much more.</desc>
   </programme>
-  <programme start="20251021120000 +0800" stop="20251021180000 +0800" channel="z1.Hub.Premier.2.sg">
-    <title lang="en">End of Transmission</title>
-    <desc lang="en">End of Transmission.</desc>
+  <programme start="20251025010000 +0800" stop="20251025013000 +0800" channel="z1.Hub.Premier.1.sg">
+    <title lang="en">FANTASY SHOW</title>
+    <desc lang="en">Haaland or Salah? Saka or Palmer? Isak or Cunha? Picking your Fantasy team is never easy, but the Fantasy Show is on hand to help FPL Managers with those big decisions.</desc>
   </programme>
-  <programme start="20251021180000 +0800" stop="20251022000000 +0800" channel="z1.Hub.Premier.2.sg">
-    <title lang="en">End of Transmission</title>
-    <desc lang="en">End of Transmission.</desc>
+  <programme start="20251025013000 +0800" stop="20251025020000 +0800" channel="z1.Hub.Premier.1.sg">
+    <title lang="en">THE BIG INTERVIEW</title>
+    <desc lang="en">Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+  </programme>
+  <programme start="20251025020000 +0800" stop="20251025023000 +0800" channel="z1.Hub.Premier.1.sg">
+    <title lang="en">PL REWIND</title>
+    <desc lang="en">Marcelo Bielsa brought Premier League football back to Leeds in 2020, following a 16 year exile from the top flight. Amidst the backdrop of a global pandemic, Bielsa's full-throttle tactics made Leeds the story of the season. Stuart Dallas recalls the highlights.</desc>
+  </programme>
+  <programme start="20251025023000 +0800" stop="20251025025000 +0800" channel="z1.Hub.Premier.1.sg">
+    <title lang="en">PREMIER LEAGUE LIVE (Live)</title>
+    <desc lang="en">Live match action from the latest match round of the Premier League, with insight, analysis, and reaction from our expert panel of studio guests.</desc>
+  </programme>
+  <programme start="20251025025000 +0800" stop="20251025050000 +0800" channel="z1.Hub.Premier.1.sg">
+    <title lang="en">Leeds United v West Ham United (MW09) (Live)</title>
+    <desc lang="en">Live match action from the latest match round of the Premier League, with insight, analysis, and reaction from our expert panel of studio guests.</desc>
+  </programme>
+  <programme start="20251025050000 +0800" stop="20251025053000 +0800" channel="z1.Hub.Premier.1.sg">
+    <title lang="en">PREMIER LEAGUE LIVE (Live)</title>
+    <desc lang="en">Highlight match action from the Premier League's 2025/26 season.</desc>
+  </programme>
+  <programme start="20251025053000 +0800" stop="20251025063000 +0800" channel="z1.Hub.Premier.1.sg">
+    <title lang="en">TEAM TALKS - FRI 24 OCT (Live)</title>
+    <desc lang="en">Punditry, pressers and predictions ahead of the PL weekend. Our studio team tackle all the major talking points and we hear from the headline acts as the players and the managers have their say ahead of the action.</desc>
+  </programme>
+  <programme start="20251025063000 +0800" stop="20251025070000 +0800" channel="z1.Hub.Premier.1.sg">
+    <title lang="en">THE BIG INTERVIEW</title>
+    <desc lang="en">Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+  </programme>
+  <programme start="20251025070000 +0800" stop="20251025073000 +0800" channel="z1.Hub.Premier.1.sg">
+    <title lang="en">PREVIEW - FRI 24 OCT (UPDATED)</title>
+    <desc lang="en">A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
+  </programme>
+  <programme start="20251025073000 +0800" stop="20251025080000 +0800" channel="z1.Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 25/26 MW09 Leeds United v West Ham United</title>
+    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20251025080000 +0800" stop="20251025083000 +0800" channel="z1.Hub.Premier.1.sg">
+    <title lang="en">Classic Match</title>
+    <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2018/2019 season.</desc>
+  </programme>
+  <programme start="20251025083000 +0800" stop="20251025090000 +0800" channel="z1.Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We sit down with Duncan Ferguson to discuss the fierce, passionate, and often unpredictable career of one of Everton's most legendary figures. From his early days in Scotland to his turbulent arrival in English football, PL Stories focuses on Ferguson's deep bond with the blue half of Merseyside; a connection built on loyalty, grit, and unforgettable moments.</desc>
+  </programme>
+  <programme start="20251025090000 +0800" stop="20251025100000 +0800" channel="z1.Hub.Premier.1.sg">
+    <title lang="en">TEAM TALKS - FRI 24 OCT</title>
+    <desc lang="en">Punditry, pressers and predictions ahead of the PL weekend. Our studio team tackle all the major talking points and we hear from the headline acts as the players and the managers have their say ahead of the action.</desc>
+  </programme>
+  <programme start="20251025100000 +0800" stop="20251025110000 +0800" channel="z1.Hub.Premier.1.sg">
+    <title lang="en">PL MOMENTS</title>
+    <desc lang="en">PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</desc>
+  </programme>
+  <programme start="20251025110000 +0800" stop="20251025113000 +0800" channel="z1.Hub.Premier.1.sg">
+    <title lang="en">PREVIEW - FRI 24 OCT (UPDATED)</title>
+    <desc lang="en">A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
+  </programme>
+  <programme start="20251025113000 +0800" stop="20251025120000 +0800" channel="z1.Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 25/26 MW09 Leeds United v West Ham United</title>
+    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20251025120000 +0800" stop="20251025123000 +0800" channel="z1.Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We follow the rise of one of Italy's most gifted midfielders and his journey to Premier League stardom at Newcastle United, Sandro Tonali. From his early days at Brescia, where his talent drew comparisons to Italian greats, to his development at AC Milan and eventual move to St. James' Park, we trace Tonali's evolution on and off the pitch.</desc>
+  </programme>
+  <programme start="20251025123000 +0800" stop="20251025130000 +0800" channel="z1.Hub.Premier.1.sg">
+    <title lang="en">THE BIG INTERVIEW</title>
+    <desc lang="en">Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+  </programme>
+  <programme start="20251025130000 +0800" stop="20251025140000 +0800" channel="z1.Hub.Premier.1.sg">
+    <title lang="en">TEAM TALKS - FRI 24 OCT</title>
+    <desc lang="en">Punditry, pressers and predictions ahead of the PL weekend. Our studio team tackle all the major talking points and we hear from the headline acts as the players and the managers have their say ahead of the action.</desc>
+  </programme>
+  <programme start="20251025140000 +0800" stop="20251025143000 +0800" channel="z1.Hub.Premier.1.sg">
+    <title lang="en">Classic Match</title>
+    <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2014/2015 season.</desc>
+  </programme>
+  <programme start="20251025143000 +0800" stop="20251025150000 +0800" channel="z1.Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We join Thiago Silva in his native Brazil to reflect on his remarkable footballing journey; from overcoming life-threatening illness early in his career to becoming one of the world's most respected defenders. We explore his late-career success in the Premier League, his influence on and off the pitch and life at current club Fluminese.</desc>
+  </programme>
+  <programme start="20251025150000 +0800" stop="20251025153000 +0800" channel="z1.Hub.Premier.1.sg">
+    <title lang="en">PREVIEW - FRI 24 OCT (UPDATED)</title>
+    <desc lang="en">A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
+  </programme>
+  <programme start="20251025153000 +0800" stop="20251025160000 +0800" channel="z1.Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 25/26 MW09 Leeds United v West Ham United</title>
+    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20251025160000 +0800" stop="20251025163000 +0800" channel="z1.Hub.Premier.1.sg">
+    <title lang="en">Classic Match</title>
+    <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2004/2005 season.</desc>
+  </programme>
+  <programme start="20251025163000 +0800" stop="20251025170000 +0800" channel="z1.Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We follow the rise of one of Italy's most gifted midfielders and his journey to Premier League stardom at Newcastle United, Sandro Tonali. From his early days at Brescia, where his talent drew comparisons to Italian greats, to his development at AC Milan and eventual move to St. James' Park, we trace Tonali's evolution on and off the pitch.</desc>
+  </programme>
+  <programme start="20251025170000 +0800" stop="20251025180000 +0800" channel="z1.Hub.Premier.1.sg">
+    <title lang="en">PL MOMENTS</title>
+    <desc lang="en">PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</desc>
+  </programme>
+  <programme start="20251025180000 +0800" stop="20251025190000 +0800" channel="z1.Hub.Premier.1.sg">
+    <title lang="en">TEAM TALKS - FRI 24 OCT</title>
+    <desc lang="en">Punditry, pressers and predictions ahead of the PL weekend. Our studio team tackle all the major talking points and we hear from the headline acts as the players and the managers have their say ahead of the action.</desc>
+  </programme>
+  <programme start="20251025190000 +0800" stop="20251025193000 +0800" channel="z1.Hub.Premier.1.sg">
+    <title lang="en">THE BIG INTERVIEW</title>
+    <desc lang="en">Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+  </programme>
+  <programme start="20251025193000 +0800" stop="20251025200000 +0800" channel="z1.Hub.Premier.1.sg">
+    <title lang="en">Classic Match</title>
+    <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2014/2015 season.</desc>
+  </programme>
+  <programme start="20251025200000 +0800" stop="20251025203000 +0800" channel="z1.Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 25/26 MW09 Leeds United v West Ham United</title>
+    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20251025203000 +0800" stop="20251025210000 +0800" channel="z1.Hub.Premier.1.sg">
+    <title lang="en">PREVIEW - FRI 24 OCT (UPDATED)</title>
+    <desc lang="en">A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
+  </programme>
+  <programme start="20251025210000 +0800" stop="20251025215000 +0800" channel="z1.Hub.Premier.1.sg">
+    <title lang="en">PREMIER LEAGUE LIVE (Live)</title>
+    <desc lang="en">Live match action from the latest match round of the Premier League, with insight, analysis, and reaction from our expert panel of studio guests.</desc>
   </programme>
   <programme start="20251022000000 +0800" stop="20251022060000 +0800" channel="z1.Hub.Premier.2.sg">
     <title lang="en">End of Transmission</title>
@@ -14861,21 +14847,61 @@
     <title lang="en">End of Transmission</title>
     <desc lang="en">End of Transmission.</desc>
   </programme>
-  <programme start="20251021000000 +0800" stop="20251021060000 +0800" channel="z1.Hub.Premier.3.sg">
+  <programme start="20251024180000 +0800" stop="20251025000000 +0800" channel="z1.Hub.Premier.2.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">End of Transmission.</desc>
   </programme>
-  <programme start="20251021060000 +0800" stop="20251021120000 +0800" channel="z1.Hub.Premier.3.sg">
+  <programme start="20251025000000 +0800" stop="20251025060000 +0800" channel="z1.Hub.Premier.2.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">End of Transmission.</desc>
   </programme>
-  <programme start="20251021120000 +0800" stop="20251021180000 +0800" channel="z1.Hub.Premier.3.sg">
+  <programme start="20251025060000 +0800" stop="20251025120000 +0800" channel="z1.Hub.Premier.2.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">End of Transmission.</desc>
   </programme>
-  <programme start="20251021180000 +0800" stop="20251022000000 +0800" channel="z1.Hub.Premier.3.sg">
-    <title lang="en">End of Transmission</title>
-    <desc lang="en">End of Transmission.</desc>
+  <programme start="20251025120000 +0800" stop="20251025123000 +0800" channel="z1.Hub.Premier.2.sg">
+    <title lang="en">Netbusters 2025/26</title>
+    <desc lang="en">Relive the best action from the Premier League with this fast-paced ISO angle highlights show, featuring every game and every goal from each matchround.</desc>
+  </programme>
+  <programme start="20251025123000 +0800" stop="20251025130000 +0800" channel="z1.Hub.Premier.2.sg">
+    <title lang="en">PL Preview 2025/26 (Updated)</title>
+    <desc lang="en">A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
+  </programme>
+  <programme start="20251025130000 +0800" stop="20251025145500 +0800" channel="z1.Hub.Premier.2.sg">
+    <title lang="en">West Ham United vs Brentford (MW08)</title>
+    <desc lang="en">The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+  </programme>
+  <programme start="20251025145500 +0800" stop="20251025155000 +0800" channel="z1.Hub.Premier.2.sg">
+    <title lang="en">PL Moments 2025/26</title>
+    <desc lang="en">PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</desc>
+  </programme>
+  <programme start="20251025155000 +0800" stop="20251025162000 +0800" channel="z1.Hub.Premier.2.sg">
+    <title lang="en">PL Stories 2025/26</title>
+    <desc lang="en">We follow the rise of one of Italy's most gifted midfielders and his journey to Premier League stardom at Newcastle United, Sandro Tonali. From his early days at Brescia, where his talent drew comparisons to Italian greats, to his development at AC Milan and eventual move to St. James' Park, we trace Tonali's evolution on and off the pitch.</desc>
+  </programme>
+  <programme start="20251025162000 +0800" stop="20251025165000 +0800" channel="z1.Hub.Premier.2.sg">
+    <title lang="en">The Big Interview 2025/26</title>
+    <desc lang="en">Extended sit-downs and more informal ‘out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+  </programme>
+  <programme start="20251025165000 +0800" stop="20251025172000 +0800" channel="z1.Hub.Premier.2.sg">
+    <title lang="en">PL Preview 2025/26 (Updated)</title>
+    <desc lang="en">A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
+  </programme>
+  <programme start="20251025172000 +0800" stop="20251025192000 +0800" channel="z1.Hub.Premier.2.sg">
+    <title lang="en">West Ham United vs Brentford (MW08)</title>
+    <desc lang="en">The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+  </programme>
+  <programme start="20251025192000 +0800" stop="20251025212000 +0800" channel="z1.Hub.Premier.2.sg">
+    <title lang="en">Leeds United vs West Ham United (MW09)</title>
+    <desc lang="en">The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+  </programme>
+  <programme start="20251025212000 +0800" stop="20251025215000 +0800" channel="z1.Hub.Premier.2.sg">
+    <title lang="en">PL Stories 2025/26</title>
+    <desc lang="en">We follow the rise of one of Italy's most gifted midfielders and his journey to Premier League stardom at Newcastle United, Sandro Tonali. From his early days at Brescia, where his talent drew comparisons to Italian greats, to his development at AC Milan and eventual move to St. James' Park, we trace Tonali's evolution on and off the pitch.</desc>
+  </programme>
+  <programme start="20251025215000 +0800" stop="20251025235000 +0800" channel="z1.Hub.Premier.2.sg">
+    <title lang="en">Newcastle United vs Fulham (MW09) (Live)</title>
+    <desc lang="en">The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
   </programme>
   <programme start="20251022000000 +0800" stop="20251022060000 +0800" channel="z1.Hub.Premier.3.sg">
     <title lang="en">End of Transmission</title>
@@ -14921,19 +14947,23 @@
     <title lang="en">End of Transmission</title>
     <desc lang="en">End of Transmission.</desc>
   </programme>
-  <programme start="20251021000000 +0800" stop="20251021060000 +0800" channel="z1.Hub.Premier.4.sg">
+  <programme start="20251024180000 +0800" stop="20251025000000 +0800" channel="z1.Hub.Premier.3.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">End of Transmission.</desc>
   </programme>
-  <programme start="20251021060000 +0800" stop="20251021120000 +0800" channel="z1.Hub.Premier.4.sg">
+  <programme start="20251025000000 +0800" stop="20251025060000 +0800" channel="z1.Hub.Premier.3.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">End of Transmission.</desc>
   </programme>
-  <programme start="20251021120000 +0800" stop="20251021180000 +0800" channel="z1.Hub.Premier.4.sg">
+  <programme start="20251025060000 +0800" stop="20251025120000 +0800" channel="z1.Hub.Premier.3.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">End of Transmission.</desc>
   </programme>
-  <programme start="20251021180000 +0800" stop="20251022000000 +0800" channel="z1.Hub.Premier.4.sg">
+  <programme start="20251025120000 +0800" stop="20251025180000 +0800" channel="z1.Hub.Premier.3.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20251025180000 +0800" stop="20251025215000 +0800" channel="z1.Hub.Premier.3.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">End of Transmission.</desc>
   </programme>
@@ -14978,6 +15008,22 @@
     <desc lang="en">End of Transmission.</desc>
   </programme>
   <programme start="20251024120000 +0800" stop="20251024180000 +0800" channel="z1.Hub.Premier.4.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20251024180000 +0800" stop="20251025000000 +0800" channel="z1.Hub.Premier.4.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20251025000000 +0800" stop="20251025060000 +0800" channel="z1.Hub.Premier.4.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20251025060000 +0800" stop="20251025120000 +0800" channel="z1.Hub.Premier.4.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20251025120000 +0800" stop="20251025180000 +0800" channel="z1.Hub.Premier.4.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">End of Transmission.</desc>
   </programme>
@@ -26858,54 +26904,6 @@
     <url>http://www.tvguide.co.uk</url>
     <display-name lang="en">TNT Sports 2 HD</display-name>
   </channel>
-  <programme start="20251020010000 +0800" stop="20251020050000 +0800" channel="z2.FoxCricket.au">
-    <title lang="en">Sport Special</title>
-    <sub-title lang="en">Sport Special</sub-title>
-    <desc lang="en">(Sport. Undefined).</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Undefined</category>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
-  </programme>
-  <programme start="20251020050000 +0800" stop="20251020090000 +0800" channel="z2.FoxCricket.au">
-    <title lang="en">Sport Special</title>
-    <sub-title lang="en">Sport Special</sub-title>
-    <desc lang="en">(Sport. Undefined).</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Undefined</category>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
-  </programme>
-  <programme start="20251020090000 +0800" stop="20251020130000 +0800" channel="z2.FoxCricket.au">
-    <title lang="en">Sport Special</title>
-    <sub-title lang="en">Sport Special</sub-title>
-    <desc lang="en">(Sport. Undefined).</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Undefined</category>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
-  </programme>
-  <programme start="20251020130000 +0800" stop="20251020170000 +0800" channel="z2.FoxCricket.au">
-    <title lang="en">Sport Special</title>
-    <sub-title lang="en">Sport Special</sub-title>
-    <desc lang="en">(Sport. Undefined).</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Undefined</category>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
-  </programme>
-  <programme start="20251020170000 +0800" stop="20251020210000 +0800" channel="z2.FoxCricket.au">
-    <title lang="en">Sport Special</title>
-    <sub-title lang="en">Sport Special</sub-title>
-    <desc lang="en">(Sport. Undefined).</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Undefined</category>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
-  </programme>
-  <programme start="20251020210000 +0800" stop="20251021010000 +0800" channel="z2.FoxCricket.au">
-    <title lang="en">Sport Special</title>
-    <sub-title lang="en">Sport Special</sub-title>
-    <desc lang="en">(Sport. Undefined).</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Undefined</category>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
-  </programme>
   <programme start="20251021010000 +0800" stop="20251021050000 +0800" channel="z2.FoxCricket.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
@@ -27256,7 +27254,7 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020010000 +0800" stop="20251020050000 +0800" channel="z2.FoxLeague.au">
+  <programme start="20251026010000 +0800" stop="20251026050000 +0800" channel="z2.FoxCricket.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -27264,7 +27262,7 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020050000 +0800" stop="20251020090000 +0800" channel="z2.FoxLeague.au">
+  <programme start="20251026050000 +0800" stop="20251026090000 +0800" channel="z2.FoxCricket.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -27272,7 +27270,7 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020090000 +0800" stop="20251020130000 +0800" channel="z2.FoxLeague.au">
+  <programme start="20251026090000 +0800" stop="20251026103500 +0800" channel="z2.FoxCricket.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -27280,7 +27278,15 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020130000 +0800" stop="20251020170000 +0800" channel="z2.FoxLeague.au">
+  <programme start="20251026103500 +0800" stop="20251026110000 +0800" channel="z2.FoxCricket.au">
+    <title lang="en">LIVE: MotoGP</title>
+    <sub-title lang="en">Malaysia Warm Up</sub-title>
+    <desc lang="en">The riders get one final look around the circuit before all the races begin. (Sport. Racing).</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
+  </programme>
+  <programme start="20251026110000 +0800" stop="20251026114500 +0800" channel="z2.FoxCricket.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -27288,7 +27294,38 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020170000 +0800" stop="20251020210000 +0800" channel="z2.FoxLeague.au">
+  <programme start="20251026114500 +0800" stop="20251026130000 +0800" channel="z2.FoxCricket.au">
+    <title lang="en">LIVE: Moto3</title>
+    <sub-title lang="en">Grand Prix of Malaysia</sub-title>
+    <desc lang="en">(Sport. Racing).</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
+  </programme>
+  <programme start="20251026130000 +0800" stop="20251026141500 +0800" channel="z2.FoxCricket.au">
+    <title lang="en">LIVE: Moto2</title>
+    <sub-title lang="en">Grand Prix of Malaysia</sub-title>
+    <desc lang="en">(Sport. Racing).</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
+  </programme>
+  <programme start="20251026141500 +0800" stop="20251026145800 +0800" channel="z2.FoxCricket.au">
+    <title lang="en">LIVE: MotoGP The Grid</title>
+    <sub-title lang="en">Malaysia</sub-title>
+    <desc lang="en">All the latest news and interviews from the MotoGP Grid. (Sport. Racing).</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
+  </programme>
+  <programme start="20251026145800 +0800" stop="20251026162000 +0800" channel="z2.FoxCricket.au">
+    <title lang="en">LIVE: MOTOGP 2025 RACES</title>
+    <sub-title lang="en">Malaysia Race</sub-title>
+    <desc lang="en">(Sport. Sport).</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
+  </programme>
+  <programme start="20251026162000 +0800" stop="20251026170000 +0800" channel="z2.FoxCricket.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -27296,7 +27333,7 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020210000 +0800" stop="20251021010000 +0800" channel="z2.FoxLeague.au">
+  <programme start="20251026170000 +0800" stop="20251026210000 +0800" channel="z2.FoxCricket.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -27544,7 +27581,7 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020010000 +0800" stop="20251020050000 +0800" channel="z2.FoxFooty.au">
+  <programme start="20251026010000 +0800" stop="20251026050000 +0800" channel="z2.FoxLeague.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -27552,7 +27589,7 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020050000 +0800" stop="20251020090000 +0800" channel="z2.FoxFooty.au">
+  <programme start="20251026050000 +0800" stop="20251026090000 +0800" channel="z2.FoxLeague.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -27560,7 +27597,7 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020090000 +0800" stop="20251020130000 +0800" channel="z2.FoxFooty.au">
+  <programme start="20251026090000 +0800" stop="20251026130000 +0800" channel="z2.FoxLeague.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -27568,7 +27605,7 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020130000 +0800" stop="20251020170000 +0800" channel="z2.FoxFooty.au">
+  <programme start="20251026130000 +0800" stop="20251026170000 +0800" channel="z2.FoxLeague.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -27576,7 +27613,7 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020170000 +0800" stop="20251020210000 +0800" channel="z2.FoxFooty.au">
+  <programme start="20251026170000 +0800" stop="20251026210000 +0800" channel="z2.FoxLeague.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -27584,7 +27621,7 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020210000 +0800" stop="20251021010000 +0800" channel="z2.FoxFooty.au">
+  <programme start="20251026210000 +0800" stop="20251027010000 +0800" channel="z2.FoxLeague.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -27631,154 +27668,6 @@
     <category lang="en">Sport</category>
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
-  </programme>
-  <programme start="20251021000000 +0800" stop="20251021010000 +0800" channel="z2.Hub.Premier.1.sg">
-    <title lang="en">GENERATION xG - MON 20 OCT (Live)</title>
-    <desc lang="en">A deep dive into the tactical trends and statistical insights of modern football with input from players, managers and data experts from the 'fanalyst' community.</desc>
-  </programme>
-  <programme start="20251021010000 +0800" stop="20251021013000 +0800" channel="z2.Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 25/26 MW08 Liverpool v Manchester United</title>
-    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme start="20251021013000 +0800" stop="20251021020000 +0800" channel="z2.Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 25/26 MW08 Tottenham Hotspur v Aston Villa</title>
-    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme start="20251021020000 +0800" stop="20251021023000 +0800" channel="z2.Hub.Premier.1.sg">
-    <title lang="en">PL REWIND</title>
-    <desc lang="en">Jarrod Bowen has become an icon at West Ham, scoring the goal that brought European glory in 2023. The club captain recalls some key moments in the Hammers' 2024/25 campaign, alongside James Ward-Prowse and former Head Coach Graham Potter.</desc>
-  </programme>
-  <programme start="20251021023000 +0800" stop="20251021025000 +0800" channel="z2.Hub.Premier.1.sg">
-    <title lang="en">PREMIER LEAGUE LIVE (Live)</title>
-    <desc lang="en">Live match action from the latest match round of the Premier League, with insight, analysis, and reaction from our expert panel of studio guests.</desc>
-  </programme>
-  <programme start="20251021025000 +0800" stop="20251021050000 +0800" channel="z2.Hub.Premier.1.sg">
-    <title lang="en">West Ham United v Brentford (MW08) (Live)</title>
-    <desc lang="en">Live match action from the latest match round of the Premier League, with insight, analysis, and reaction from our expert panel of studio guests.</desc>
-  </programme>
-  <programme start="20251021050000 +0800" stop="20251021053000 +0800" channel="z2.Hub.Premier.1.sg">
-    <title lang="en">PREMIER LEAGUE LIVE (Live)</title>
-    <desc lang="en">Highlight match action from the Premier League's 2025/26 season.</desc>
-  </programme>
-  <programme start="20251021053000 +0800" stop="20251021060000 +0800" channel="z2.Hub.Premier.1.sg">
-    <title lang="en">THE FINAL WORD - MON 20 OCT (Live)</title>
-    <desc lang="en">Linked to Monday night fixtures, Michael Owen and special guests will join Steve Bower to give the definitive verdict on the weekend's action.</desc>
-  </programme>
-  <programme start="20251021060000 +0800" stop="20251021063000 +0800" channel="z2.Hub.Premier.1.sg">
-    <title lang="en">EXTRA TIME - MON 20 OCT (Live)</title>
-    <desc lang="en">A look at a Premier League season through the eyes of a player who excelled that particular year. The highs and lows and everything in between, that made it a memorable and at times defining nine months for both the player and his club.</desc>
-  </programme>
-  <programme start="20251021063000 +0800" stop="20251021070000 +0800" channel="z2.Hub.Premier.1.sg">
-    <title lang="en">THE BIG INTERVIEW</title>
-    <desc lang="en">With 97 Premier League goals for some of the biggest clubs in English football, Emmanuel Adebayor was one of Africa's finest footballers to play on these shores. Now, through his SEA Foundation, Adebayor is making a significant impact off the pitch, providing inspiration and opportunity for people in Togo and across the continent.</desc>
-  </programme>
-  <programme start="20251021070000 +0800" stop="20251021073000 +0800" channel="z2.Hub.Premier.1.sg">
-    <title lang="en">PL STORIES</title>
-    <desc lang="en">We sit down with Duncan Ferguson to discuss the fierce, passionate, and often unpredictable career of one of Everton's most legendary figures. From his early days in Scotland to his turbulent arrival in English football, PL Stories focuses on Ferguson's deep bond with the blue half of Merseyside; a connection built on loyalty, grit, and unforgettable moments.</desc>
-  </programme>
-  <programme start="20251021073000 +0800" stop="20251021083000 +0800" channel="z2.Hub.Premier.1.sg">
-    <title lang="en">REVIEW - MON 20 OCT</title>
-    <desc lang="en">Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
-  </programme>
-  <programme start="20251021083000 +0800" stop="20251021090000 +0800" channel="z2.Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 25/26 MW08 West Ham United v Brentford</title>
-    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme start="20251021090000 +0800" stop="20251021093000 +0800" channel="z2.Hub.Premier.1.sg">
-    <title lang="en">NETBUSTERS</title>
-    <desc lang="en">Fast-paced with music, ISO angles, and commentary, Netbusters offers an alternative review of every goal and key moment from the latest round of Premier League fixtures.</desc>
-  </programme>
-  <programme start="20251021093000 +0800" stop="20251021103000 +0800" channel="z2.Hub.Premier.1.sg">
-    <title lang="en">GENERATION xG - MON 20 OCT</title>
-    <desc lang="en">A deep dive into the tactical trends and statistical insights of modern football with input from players, managers and data experts from the 'fanalyst' community.</desc>
-  </programme>
-  <programme start="20251021103000 +0800" stop="20251021110000 +0800" channel="z2.Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 25/26 MW08 Manchester City v Everton</title>
-    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme start="20251021110000 +0800" stop="20251021113000 +0800" channel="z2.Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 25/26 MW08 Fulham v Arsenal</title>
-    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme start="20251021113000 +0800" stop="20251021123000 +0800" channel="z2.Hub.Premier.1.sg">
-    <title lang="en">REVIEW - MON 20 OCT</title>
-    <desc lang="en">Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
-  </programme>
-  <programme start="20251021123000 +0800" stop="20251021130000 +0800" channel="z2.Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 25/26 MW08 West Ham United v Brentford</title>
-    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme start="20251021130000 +0800" stop="20251021133000 +0800" channel="z2.Hub.Premier.1.sg">
-    <title lang="en">THE FINAL WORD - MON 20 OCT</title>
-    <desc lang="en">Linked to Monday night fixtures, Michael Owen and special guests will join Steve Bower to give the definitive verdict on the weekend's action.</desc>
-  </programme>
-  <programme start="20251021133000 +0800" stop="20251021140000 +0800" channel="z2.Hub.Premier.1.sg">
-    <title lang="en">EXTRA TIME - MON 20 OCT</title>
-    <desc lang="en">A look at a Premier League season through the eyes of a player who excelled that particular year. The highs and lows and everything in between, that made it a memorable and at times defining nine months for both the player and his club.</desc>
-  </programme>
-  <programme start="20251021140000 +0800" stop="20251021143000 +0800" channel="z2.Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 25/26 MW08 Brighton and Hove Albion v Newcastle United</title>
-    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme start="20251021143000 +0800" stop="20251021153000 +0800" channel="z2.Hub.Premier.1.sg">
-    <title lang="en">GENERATION xG - MON 20 OCT</title>
-    <desc lang="en">A deep dive into the tactical trends and statistical insights of modern football with input from players, managers and data experts from the 'fanalyst' community.</desc>
-  </programme>
-  <programme start="20251021153000 +0800" stop="20251021160000 +0800" channel="z2.Hub.Premier.1.sg">
-    <title lang="en">NETBUSTERS</title>
-    <desc lang="en">Fast-paced with music, ISO angles, and commentary, Netbusters offers an alternative review of every goal and key moment from the latest round of Premier League fixtures.</desc>
-  </programme>
-  <programme start="20251021160000 +0800" stop="20251021170000 +0800" channel="z2.Hub.Premier.1.sg">
-    <title lang="en">PL MOMENTS</title>
-    <desc lang="en">PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</desc>
-  </programme>
-  <programme start="20251021170000 +0800" stop="20251021173000 +0800" channel="z2.Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 25/26 MW08 West Ham United v Brentford</title>
-    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme start="20251021173000 +0800" stop="20251021180000 +0800" channel="z2.Hub.Premier.1.sg">
-    <title lang="en">THE FINAL WORD - MON 20 OCT</title>
-    <desc lang="en">Linked to Monday night fixtures, Michael Owen and special guests will join Steve Bower to give the definitive verdict on the weekend's action.</desc>
-  </programme>
-  <programme start="20251021180000 +0800" stop="20251021183000 +0800" channel="z2.Hub.Premier.1.sg">
-    <title lang="en">EXTRA TIME - MON 20 OCT</title>
-    <desc lang="en">A look at a Premier League season through the eyes of a player who excelled that particular year. The highs and lows and everything in between, that made it a memorable and at times defining nine months for both the player and his club.</desc>
-  </programme>
-  <programme start="20251021183000 +0800" stop="20251021190000 +0800" channel="z2.Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 25/26 MW08 Liverpool v Manchester United</title>
-    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme start="20251021190000 +0800" stop="20251021200000 +0800" channel="z2.Hub.Premier.1.sg">
-    <title lang="en">REVIEW - MON 20 OCT</title>
-    <desc lang="en">Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
-  </programme>
-  <programme start="20251021200000 +0800" stop="20251021210000 +0800" channel="z2.Hub.Premier.1.sg">
-    <title lang="en">PL MOMENTS</title>
-    <desc lang="en">PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</desc>
-  </programme>
-  <programme start="20251021210000 +0800" stop="20251021213000 +0800" channel="z2.Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 25/26 MW08 West Ham United v Brentford</title>
-    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme start="20251021213000 +0800" stop="20251021220000 +0800" channel="z2.Hub.Premier.1.sg">
-    <title lang="en">THE FINAL WORD - MON 20 OCT</title>
-    <desc lang="en">Linked to Monday night fixtures, Michael Owen and special guests will join Steve Bower to give the definitive verdict on the weekend's action.</desc>
-  </programme>
-  <programme start="20251021220000 +0800" stop="20251021223000 +0800" channel="z2.Hub.Premier.1.sg">
-    <title lang="en">EXTRA TIME - MON 20 OCT</title>
-    <desc lang="en">A look at a Premier League season through the eyes of a player who excelled that particular year. The highs and lows and everything in between, that made it a memorable and at times defining nine months for both the player and his club.</desc>
-  </programme>
-  <programme start="20251021223000 +0800" stop="20251021230000 +0800" channel="z2.Hub.Premier.1.sg">
-    <title lang="en">PL REWIND</title>
-    <desc lang="en">Tim Howard spent a decade as Everton's first choice goalkeeper, the club that defined his Premier League career. The American recalls his journey from New Jersey, via Old Trafford, to Goodison Park, and his most memorable moments between the posts.</desc>
-  </programme>
-  <programme start="20251021230000 +0800" stop="20251021233000 +0800" channel="z2.Hub.Premier.1.sg">
-    <title lang="en">PL REWIND</title>
-    <desc lang="en">Marcelo Bielsa brought Premier League football back to Leeds in 2020, following a 16 year exile from the top flight. Amidst the backdrop of a global pandemic, Bielsa's full-throttle tactics made Leeds the story of the season. Stuart Dallas recalls the highlights.</desc>
-  </programme>
-  <programme start="20251021233000 +0800" stop="20251022000000 +0800" channel="z2.Hub.Premier.1.sg">
-    <title lang="en">NETBUSTERS</title>
-    <desc lang="en">Fast-paced with music, ISO angles, and commentary, Netbusters offers an alternative review of every goal and key moment from the latest round of Premier League fixtures.</desc>
   </programme>
   <programme start="20251022000000 +0800" stop="20251022010000 +0800" channel="z2.Hub.Premier.1.sg">
     <title lang="en">THE WEEKEND WRAP - SUN 19 OCT</title>
@@ -28172,21 +28061,141 @@
     <title lang="en">FANZONE - FRI 24 OCT (Live)</title>
     <desc lang="en">This is the show that puts international fans at the heart of the Premier League conversation. We connect with fans from around the world as they share their views on their teams and favourite players.</desc>
   </programme>
-  <programme start="20251021000000 +0800" stop="20251021060000 +0800" channel="z2.Hub.Premier.2.sg">
-    <title lang="en">End of Transmission</title>
-    <desc lang="en">End of Transmission.</desc>
+  <programme start="20251024233000 +0800" stop="20251025000000 +0800" channel="z2.Hub.Premier.1.sg">
+    <title lang="en">PREVIEW - FRI 24 OCT</title>
+    <desc lang="en">A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
   </programme>
-  <programme start="20251021060000 +0800" stop="20251021120000 +0800" channel="z2.Hub.Premier.2.sg">
-    <title lang="en">End of Transmission</title>
-    <desc lang="en">End of Transmission.</desc>
+  <programme start="20251025000000 +0800" stop="20251025010000 +0800" channel="z2.Hub.Premier.1.sg">
+    <title lang="en">WELCOME TO THE WEEKEND - FRI 24 OCT</title>
+    <desc lang="en">Light-hearted, inclusive and entertaining, Welcome to the Weekend is the show that kicks off the Premier League weekend. We will focus on the football but also on the lifestyle topics that footballers and fans love - food, fashion, music, movies and much, much more.</desc>
   </programme>
-  <programme start="20251021120000 +0800" stop="20251021180000 +0800" channel="z2.Hub.Premier.2.sg">
-    <title lang="en">End of Transmission</title>
-    <desc lang="en">End of Transmission.</desc>
+  <programme start="20251025010000 +0800" stop="20251025013000 +0800" channel="z2.Hub.Premier.1.sg">
+    <title lang="en">FANTASY SHOW</title>
+    <desc lang="en">Haaland or Salah? Saka or Palmer? Isak or Cunha? Picking your Fantasy team is never easy, but the Fantasy Show is on hand to help FPL Managers with those big decisions.</desc>
   </programme>
-  <programme start="20251021180000 +0800" stop="20251022000000 +0800" channel="z2.Hub.Premier.2.sg">
-    <title lang="en">End of Transmission</title>
-    <desc lang="en">End of Transmission.</desc>
+  <programme start="20251025013000 +0800" stop="20251025020000 +0800" channel="z2.Hub.Premier.1.sg">
+    <title lang="en">THE BIG INTERVIEW</title>
+    <desc lang="en">Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+  </programme>
+  <programme start="20251025020000 +0800" stop="20251025023000 +0800" channel="z2.Hub.Premier.1.sg">
+    <title lang="en">PL REWIND</title>
+    <desc lang="en">Marcelo Bielsa brought Premier League football back to Leeds in 2020, following a 16 year exile from the top flight. Amidst the backdrop of a global pandemic, Bielsa's full-throttle tactics made Leeds the story of the season. Stuart Dallas recalls the highlights.</desc>
+  </programme>
+  <programme start="20251025023000 +0800" stop="20251025025000 +0800" channel="z2.Hub.Premier.1.sg">
+    <title lang="en">PREMIER LEAGUE LIVE (Live)</title>
+    <desc lang="en">Live match action from the latest match round of the Premier League, with insight, analysis, and reaction from our expert panel of studio guests.</desc>
+  </programme>
+  <programme start="20251025025000 +0800" stop="20251025050000 +0800" channel="z2.Hub.Premier.1.sg">
+    <title lang="en">Leeds United v West Ham United (MW09) (Live)</title>
+    <desc lang="en">Live match action from the latest match round of the Premier League, with insight, analysis, and reaction from our expert panel of studio guests.</desc>
+  </programme>
+  <programme start="20251025050000 +0800" stop="20251025053000 +0800" channel="z2.Hub.Premier.1.sg">
+    <title lang="en">PREMIER LEAGUE LIVE (Live)</title>
+    <desc lang="en">Highlight match action from the Premier League's 2025/26 season.</desc>
+  </programme>
+  <programme start="20251025053000 +0800" stop="20251025063000 +0800" channel="z2.Hub.Premier.1.sg">
+    <title lang="en">TEAM TALKS - FRI 24 OCT (Live)</title>
+    <desc lang="en">Punditry, pressers and predictions ahead of the PL weekend. Our studio team tackle all the major talking points and we hear from the headline acts as the players and the managers have their say ahead of the action.</desc>
+  </programme>
+  <programme start="20251025063000 +0800" stop="20251025070000 +0800" channel="z2.Hub.Premier.1.sg">
+    <title lang="en">THE BIG INTERVIEW</title>
+    <desc lang="en">Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+  </programme>
+  <programme start="20251025070000 +0800" stop="20251025073000 +0800" channel="z2.Hub.Premier.1.sg">
+    <title lang="en">PREVIEW - FRI 24 OCT (UPDATED)</title>
+    <desc lang="en">A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
+  </programme>
+  <programme start="20251025073000 +0800" stop="20251025080000 +0800" channel="z2.Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 25/26 MW09 Leeds United v West Ham United</title>
+    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20251025080000 +0800" stop="20251025083000 +0800" channel="z2.Hub.Premier.1.sg">
+    <title lang="en">Classic Match</title>
+    <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2018/2019 season.</desc>
+  </programme>
+  <programme start="20251025083000 +0800" stop="20251025090000 +0800" channel="z2.Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We sit down with Duncan Ferguson to discuss the fierce, passionate, and often unpredictable career of one of Everton's most legendary figures. From his early days in Scotland to his turbulent arrival in English football, PL Stories focuses on Ferguson's deep bond with the blue half of Merseyside; a connection built on loyalty, grit, and unforgettable moments.</desc>
+  </programme>
+  <programme start="20251025090000 +0800" stop="20251025100000 +0800" channel="z2.Hub.Premier.1.sg">
+    <title lang="en">TEAM TALKS - FRI 24 OCT</title>
+    <desc lang="en">Punditry, pressers and predictions ahead of the PL weekend. Our studio team tackle all the major talking points and we hear from the headline acts as the players and the managers have their say ahead of the action.</desc>
+  </programme>
+  <programme start="20251025100000 +0800" stop="20251025110000 +0800" channel="z2.Hub.Premier.1.sg">
+    <title lang="en">PL MOMENTS</title>
+    <desc lang="en">PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</desc>
+  </programme>
+  <programme start="20251025110000 +0800" stop="20251025113000 +0800" channel="z2.Hub.Premier.1.sg">
+    <title lang="en">PREVIEW - FRI 24 OCT (UPDATED)</title>
+    <desc lang="en">A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
+  </programme>
+  <programme start="20251025113000 +0800" stop="20251025120000 +0800" channel="z2.Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 25/26 MW09 Leeds United v West Ham United</title>
+    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20251025120000 +0800" stop="20251025123000 +0800" channel="z2.Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We follow the rise of one of Italy's most gifted midfielders and his journey to Premier League stardom at Newcastle United, Sandro Tonali. From his early days at Brescia, where his talent drew comparisons to Italian greats, to his development at AC Milan and eventual move to St. James' Park, we trace Tonali's evolution on and off the pitch.</desc>
+  </programme>
+  <programme start="20251025123000 +0800" stop="20251025130000 +0800" channel="z2.Hub.Premier.1.sg">
+    <title lang="en">THE BIG INTERVIEW</title>
+    <desc lang="en">Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+  </programme>
+  <programme start="20251025130000 +0800" stop="20251025140000 +0800" channel="z2.Hub.Premier.1.sg">
+    <title lang="en">TEAM TALKS - FRI 24 OCT</title>
+    <desc lang="en">Punditry, pressers and predictions ahead of the PL weekend. Our studio team tackle all the major talking points and we hear from the headline acts as the players and the managers have their say ahead of the action.</desc>
+  </programme>
+  <programme start="20251025140000 +0800" stop="20251025143000 +0800" channel="z2.Hub.Premier.1.sg">
+    <title lang="en">Classic Match</title>
+    <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2014/2015 season.</desc>
+  </programme>
+  <programme start="20251025143000 +0800" stop="20251025150000 +0800" channel="z2.Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We join Thiago Silva in his native Brazil to reflect on his remarkable footballing journey; from overcoming life-threatening illness early in his career to becoming one of the world's most respected defenders. We explore his late-career success in the Premier League, his influence on and off the pitch and life at current club Fluminese.</desc>
+  </programme>
+  <programme start="20251025150000 +0800" stop="20251025153000 +0800" channel="z2.Hub.Premier.1.sg">
+    <title lang="en">PREVIEW - FRI 24 OCT (UPDATED)</title>
+    <desc lang="en">A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
+  </programme>
+  <programme start="20251025153000 +0800" stop="20251025160000 +0800" channel="z2.Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 25/26 MW09 Leeds United v West Ham United</title>
+    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20251025160000 +0800" stop="20251025163000 +0800" channel="z2.Hub.Premier.1.sg">
+    <title lang="en">Classic Match</title>
+    <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2004/2005 season.</desc>
+  </programme>
+  <programme start="20251025163000 +0800" stop="20251025170000 +0800" channel="z2.Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We follow the rise of one of Italy's most gifted midfielders and his journey to Premier League stardom at Newcastle United, Sandro Tonali. From his early days at Brescia, where his talent drew comparisons to Italian greats, to his development at AC Milan and eventual move to St. James' Park, we trace Tonali's evolution on and off the pitch.</desc>
+  </programme>
+  <programme start="20251025170000 +0800" stop="20251025180000 +0800" channel="z2.Hub.Premier.1.sg">
+    <title lang="en">PL MOMENTS</title>
+    <desc lang="en">PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</desc>
+  </programme>
+  <programme start="20251025180000 +0800" stop="20251025190000 +0800" channel="z2.Hub.Premier.1.sg">
+    <title lang="en">TEAM TALKS - FRI 24 OCT</title>
+    <desc lang="en">Punditry, pressers and predictions ahead of the PL weekend. Our studio team tackle all the major talking points and we hear from the headline acts as the players and the managers have their say ahead of the action.</desc>
+  </programme>
+  <programme start="20251025190000 +0800" stop="20251025193000 +0800" channel="z2.Hub.Premier.1.sg">
+    <title lang="en">THE BIG INTERVIEW</title>
+    <desc lang="en">Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+  </programme>
+  <programme start="20251025193000 +0800" stop="20251025200000 +0800" channel="z2.Hub.Premier.1.sg">
+    <title lang="en">Classic Match</title>
+    <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2014/2015 season.</desc>
+  </programme>
+  <programme start="20251025200000 +0800" stop="20251025203000 +0800" channel="z2.Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 25/26 MW09 Leeds United v West Ham United</title>
+    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20251025203000 +0800" stop="20251025210000 +0800" channel="z2.Hub.Premier.1.sg">
+    <title lang="en">PREVIEW - FRI 24 OCT (UPDATED)</title>
+    <desc lang="en">A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
+  </programme>
+  <programme start="20251025210000 +0800" stop="20251025215000 +0800" channel="z2.Hub.Premier.1.sg">
+    <title lang="en">PREMIER LEAGUE LIVE (Live)</title>
+    <desc lang="en">Live match action from the latest match round of the Premier League, with insight, analysis, and reaction from our expert panel of studio guests.</desc>
   </programme>
   <programme start="20251022000000 +0800" stop="20251022060000 +0800" channel="z2.Hub.Premier.2.sg">
     <title lang="en">End of Transmission</title>
@@ -28232,21 +28241,61 @@
     <title lang="en">End of Transmission</title>
     <desc lang="en">End of Transmission.</desc>
   </programme>
-  <programme start="20251021000000 +0800" stop="20251021060000 +0800" channel="z2.Hub.Premier.3.sg">
+  <programme start="20251024180000 +0800" stop="20251025000000 +0800" channel="z2.Hub.Premier.2.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">End of Transmission.</desc>
   </programme>
-  <programme start="20251021060000 +0800" stop="20251021120000 +0800" channel="z2.Hub.Premier.3.sg">
+  <programme start="20251025000000 +0800" stop="20251025060000 +0800" channel="z2.Hub.Premier.2.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">End of Transmission.</desc>
   </programme>
-  <programme start="20251021120000 +0800" stop="20251021180000 +0800" channel="z2.Hub.Premier.3.sg">
+  <programme start="20251025060000 +0800" stop="20251025120000 +0800" channel="z2.Hub.Premier.2.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">End of Transmission.</desc>
   </programme>
-  <programme start="20251021180000 +0800" stop="20251022000000 +0800" channel="z2.Hub.Premier.3.sg">
-    <title lang="en">End of Transmission</title>
-    <desc lang="en">End of Transmission.</desc>
+  <programme start="20251025120000 +0800" stop="20251025123000 +0800" channel="z2.Hub.Premier.2.sg">
+    <title lang="en">Netbusters 2025/26</title>
+    <desc lang="en">Relive the best action from the Premier League with this fast-paced ISO angle highlights show, featuring every game and every goal from each matchround.</desc>
+  </programme>
+  <programme start="20251025123000 +0800" stop="20251025130000 +0800" channel="z2.Hub.Premier.2.sg">
+    <title lang="en">PL Preview 2025/26 (Updated)</title>
+    <desc lang="en">A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
+  </programme>
+  <programme start="20251025130000 +0800" stop="20251025145500 +0800" channel="z2.Hub.Premier.2.sg">
+    <title lang="en">West Ham United vs Brentford (MW08)</title>
+    <desc lang="en">The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+  </programme>
+  <programme start="20251025145500 +0800" stop="20251025155000 +0800" channel="z2.Hub.Premier.2.sg">
+    <title lang="en">PL Moments 2025/26</title>
+    <desc lang="en">PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</desc>
+  </programme>
+  <programme start="20251025155000 +0800" stop="20251025162000 +0800" channel="z2.Hub.Premier.2.sg">
+    <title lang="en">PL Stories 2025/26</title>
+    <desc lang="en">We follow the rise of one of Italy's most gifted midfielders and his journey to Premier League stardom at Newcastle United, Sandro Tonali. From his early days at Brescia, where his talent drew comparisons to Italian greats, to his development at AC Milan and eventual move to St. James' Park, we trace Tonali's evolution on and off the pitch.</desc>
+  </programme>
+  <programme start="20251025162000 +0800" stop="20251025165000 +0800" channel="z2.Hub.Premier.2.sg">
+    <title lang="en">The Big Interview 2025/26</title>
+    <desc lang="en">Extended sit-downs and more informal ‘out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+  </programme>
+  <programme start="20251025165000 +0800" stop="20251025172000 +0800" channel="z2.Hub.Premier.2.sg">
+    <title lang="en">PL Preview 2025/26 (Updated)</title>
+    <desc lang="en">A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
+  </programme>
+  <programme start="20251025172000 +0800" stop="20251025192000 +0800" channel="z2.Hub.Premier.2.sg">
+    <title lang="en">West Ham United vs Brentford (MW08)</title>
+    <desc lang="en">The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+  </programme>
+  <programme start="20251025192000 +0800" stop="20251025212000 +0800" channel="z2.Hub.Premier.2.sg">
+    <title lang="en">Leeds United vs West Ham United (MW09)</title>
+    <desc lang="en">The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+  </programme>
+  <programme start="20251025212000 +0800" stop="20251025215000 +0800" channel="z2.Hub.Premier.2.sg">
+    <title lang="en">PL Stories 2025/26</title>
+    <desc lang="en">We follow the rise of one of Italy's most gifted midfielders and his journey to Premier League stardom at Newcastle United, Sandro Tonali. From his early days at Brescia, where his talent drew comparisons to Italian greats, to his development at AC Milan and eventual move to St. James' Park, we trace Tonali's evolution on and off the pitch.</desc>
+  </programme>
+  <programme start="20251025215000 +0800" stop="20251025235000 +0800" channel="z2.Hub.Premier.2.sg">
+    <title lang="en">Newcastle United vs Fulham (MW09) (Live)</title>
+    <desc lang="en">The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
   </programme>
   <programme start="20251022000000 +0800" stop="20251022060000 +0800" channel="z2.Hub.Premier.3.sg">
     <title lang="en">End of Transmission</title>
@@ -28292,19 +28341,23 @@
     <title lang="en">End of Transmission</title>
     <desc lang="en">End of Transmission.</desc>
   </programme>
-  <programme start="20251021000000 +0800" stop="20251021060000 +0800" channel="z2.Hub.Premier.4.sg">
+  <programme start="20251024180000 +0800" stop="20251025000000 +0800" channel="z2.Hub.Premier.3.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">End of Transmission.</desc>
   </programme>
-  <programme start="20251021060000 +0800" stop="20251021120000 +0800" channel="z2.Hub.Premier.4.sg">
+  <programme start="20251025000000 +0800" stop="20251025060000 +0800" channel="z2.Hub.Premier.3.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">End of Transmission.</desc>
   </programme>
-  <programme start="20251021120000 +0800" stop="20251021180000 +0800" channel="z2.Hub.Premier.4.sg">
+  <programme start="20251025060000 +0800" stop="20251025120000 +0800" channel="z2.Hub.Premier.3.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">End of Transmission.</desc>
   </programme>
-  <programme start="20251021180000 +0800" stop="20251022000000 +0800" channel="z2.Hub.Premier.4.sg">
+  <programme start="20251025120000 +0800" stop="20251025180000 +0800" channel="z2.Hub.Premier.3.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20251025180000 +0800" stop="20251025215000 +0800" channel="z2.Hub.Premier.3.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">End of Transmission.</desc>
   </programme>
@@ -28349,6 +28402,22 @@
     <desc lang="en">End of Transmission.</desc>
   </programme>
   <programme start="20251024120000 +0800" stop="20251024180000 +0800" channel="z2.Hub.Premier.4.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20251024180000 +0800" stop="20251025000000 +0800" channel="z2.Hub.Premier.4.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20251025000000 +0800" stop="20251025060000 +0800" channel="z2.Hub.Premier.4.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20251025060000 +0800" stop="20251025120000 +0800" channel="z2.Hub.Premier.4.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20251025120000 +0800" stop="20251025180000 +0800" channel="z2.Hub.Premier.4.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">End of Transmission.</desc>
   </programme>
@@ -40229,54 +40298,6 @@
     <url>http://www.tvguide.co.uk</url>
     <display-name lang="en">TNT Sports 2 HD</display-name>
   </channel>
-  <programme start="20251020010000 +0800" stop="20251020050000 +0800" channel="z3.FoxCricket.au">
-    <title lang="en">Sport Special</title>
-    <sub-title lang="en">Sport Special</sub-title>
-    <desc lang="en">(Sport. Undefined).</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Undefined</category>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
-  </programme>
-  <programme start="20251020050000 +0800" stop="20251020090000 +0800" channel="z3.FoxCricket.au">
-    <title lang="en">Sport Special</title>
-    <sub-title lang="en">Sport Special</sub-title>
-    <desc lang="en">(Sport. Undefined).</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Undefined</category>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
-  </programme>
-  <programme start="20251020090000 +0800" stop="20251020130000 +0800" channel="z3.FoxCricket.au">
-    <title lang="en">Sport Special</title>
-    <sub-title lang="en">Sport Special</sub-title>
-    <desc lang="en">(Sport. Undefined).</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Undefined</category>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
-  </programme>
-  <programme start="20251020130000 +0800" stop="20251020170000 +0800" channel="z3.FoxCricket.au">
-    <title lang="en">Sport Special</title>
-    <sub-title lang="en">Sport Special</sub-title>
-    <desc lang="en">(Sport. Undefined).</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Undefined</category>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
-  </programme>
-  <programme start="20251020170000 +0800" stop="20251020210000 +0800" channel="z3.FoxCricket.au">
-    <title lang="en">Sport Special</title>
-    <sub-title lang="en">Sport Special</sub-title>
-    <desc lang="en">(Sport. Undefined).</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Undefined</category>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
-  </programme>
-  <programme start="20251020210000 +0800" stop="20251021010000 +0800" channel="z3.FoxCricket.au">
-    <title lang="en">Sport Special</title>
-    <sub-title lang="en">Sport Special</sub-title>
-    <desc lang="en">(Sport. Undefined).</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Undefined</category>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
-  </programme>
   <programme start="20251021010000 +0800" stop="20251021050000 +0800" channel="z3.FoxCricket.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
@@ -40627,7 +40648,7 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020010000 +0800" stop="20251020050000 +0800" channel="z3.FoxLeague.au">
+  <programme start="20251026010000 +0800" stop="20251026050000 +0800" channel="z3.FoxCricket.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -40635,7 +40656,7 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020050000 +0800" stop="20251020090000 +0800" channel="z3.FoxLeague.au">
+  <programme start="20251026050000 +0800" stop="20251026090000 +0800" channel="z3.FoxCricket.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -40643,7 +40664,7 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020090000 +0800" stop="20251020130000 +0800" channel="z3.FoxLeague.au">
+  <programme start="20251026090000 +0800" stop="20251026103500 +0800" channel="z3.FoxCricket.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -40651,7 +40672,15 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020130000 +0800" stop="20251020170000 +0800" channel="z3.FoxLeague.au">
+  <programme start="20251026103500 +0800" stop="20251026110000 +0800" channel="z3.FoxCricket.au">
+    <title lang="en">LIVE: MotoGP</title>
+    <sub-title lang="en">Malaysia Warm Up</sub-title>
+    <desc lang="en">The riders get one final look around the circuit before all the races begin. (Sport. Racing).</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
+  </programme>
+  <programme start="20251026110000 +0800" stop="20251026114500 +0800" channel="z3.FoxCricket.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -40659,7 +40688,38 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020170000 +0800" stop="20251020210000 +0800" channel="z3.FoxLeague.au">
+  <programme start="20251026114500 +0800" stop="20251026130000 +0800" channel="z3.FoxCricket.au">
+    <title lang="en">LIVE: Moto3</title>
+    <sub-title lang="en">Grand Prix of Malaysia</sub-title>
+    <desc lang="en">(Sport. Racing).</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
+  </programme>
+  <programme start="20251026130000 +0800" stop="20251026141500 +0800" channel="z3.FoxCricket.au">
+    <title lang="en">LIVE: Moto2</title>
+    <sub-title lang="en">Grand Prix of Malaysia</sub-title>
+    <desc lang="en">(Sport. Racing).</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
+  </programme>
+  <programme start="20251026141500 +0800" stop="20251026145800 +0800" channel="z3.FoxCricket.au">
+    <title lang="en">LIVE: MotoGP The Grid</title>
+    <sub-title lang="en">Malaysia</sub-title>
+    <desc lang="en">All the latest news and interviews from the MotoGP Grid. (Sport. Racing).</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
+  </programme>
+  <programme start="20251026145800 +0800" stop="20251026162000 +0800" channel="z3.FoxCricket.au">
+    <title lang="en">LIVE: MOTOGP 2025 RACES</title>
+    <sub-title lang="en">Malaysia Race</sub-title>
+    <desc lang="en">(Sport. Sport).</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
+  </programme>
+  <programme start="20251026162000 +0800" stop="20251026170000 +0800" channel="z3.FoxCricket.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -40667,7 +40727,7 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020210000 +0800" stop="20251021010000 +0800" channel="z3.FoxLeague.au">
+  <programme start="20251026170000 +0800" stop="20251026210000 +0800" channel="z3.FoxCricket.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -40915,7 +40975,7 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020010000 +0800" stop="20251020050000 +0800" channel="z3.FoxFooty.au">
+  <programme start="20251026010000 +0800" stop="20251026050000 +0800" channel="z3.FoxLeague.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -40923,7 +40983,7 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020050000 +0800" stop="20251020090000 +0800" channel="z3.FoxFooty.au">
+  <programme start="20251026050000 +0800" stop="20251026090000 +0800" channel="z3.FoxLeague.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -40931,7 +40991,7 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020090000 +0800" stop="20251020130000 +0800" channel="z3.FoxFooty.au">
+  <programme start="20251026090000 +0800" stop="20251026130000 +0800" channel="z3.FoxLeague.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -40939,7 +40999,7 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020130000 +0800" stop="20251020170000 +0800" channel="z3.FoxFooty.au">
+  <programme start="20251026130000 +0800" stop="20251026170000 +0800" channel="z3.FoxLeague.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -40947,7 +41007,7 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020170000 +0800" stop="20251020210000 +0800" channel="z3.FoxFooty.au">
+  <programme start="20251026170000 +0800" stop="20251026210000 +0800" channel="z3.FoxLeague.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -40955,7 +41015,7 @@
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
   </programme>
-  <programme start="20251020210000 +0800" stop="20251021010000 +0800" channel="z3.FoxFooty.au">
+  <programme start="20251026210000 +0800" stop="20251027010000 +0800" channel="z3.FoxLeague.au">
     <title lang="en">Sport Special</title>
     <sub-title lang="en">Sport Special</sub-title>
     <desc lang="en">(Sport. Undefined).</desc>
@@ -41002,154 +41062,6 @@
     <category lang="en">Sport</category>
     <category lang="en">Undefined</category>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/330px-Fox_Sports_logo1.svg.png" />
-  </programme>
-  <programme start="20251021000000 +0800" stop="20251021010000 +0800" channel="z3.Hub.Premier.1.sg">
-    <title lang="en">GENERATION xG - MON 20 OCT (Live)</title>
-    <desc lang="en">A deep dive into the tactical trends and statistical insights of modern football with input from players, managers and data experts from the 'fanalyst' community.</desc>
-  </programme>
-  <programme start="20251021010000 +0800" stop="20251021013000 +0800" channel="z3.Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 25/26 MW08 Liverpool v Manchester United</title>
-    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme start="20251021013000 +0800" stop="20251021020000 +0800" channel="z3.Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 25/26 MW08 Tottenham Hotspur v Aston Villa</title>
-    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme start="20251021020000 +0800" stop="20251021023000 +0800" channel="z3.Hub.Premier.1.sg">
-    <title lang="en">PL REWIND</title>
-    <desc lang="en">Jarrod Bowen has become an icon at West Ham, scoring the goal that brought European glory in 2023. The club captain recalls some key moments in the Hammers' 2024/25 campaign, alongside James Ward-Prowse and former Head Coach Graham Potter.</desc>
-  </programme>
-  <programme start="20251021023000 +0800" stop="20251021025000 +0800" channel="z3.Hub.Premier.1.sg">
-    <title lang="en">PREMIER LEAGUE LIVE (Live)</title>
-    <desc lang="en">Live match action from the latest match round of the Premier League, with insight, analysis, and reaction from our expert panel of studio guests.</desc>
-  </programme>
-  <programme start="20251021025000 +0800" stop="20251021050000 +0800" channel="z3.Hub.Premier.1.sg">
-    <title lang="en">West Ham United v Brentford (MW08) (Live)</title>
-    <desc lang="en">Live match action from the latest match round of the Premier League, with insight, analysis, and reaction from our expert panel of studio guests.</desc>
-  </programme>
-  <programme start="20251021050000 +0800" stop="20251021053000 +0800" channel="z3.Hub.Premier.1.sg">
-    <title lang="en">PREMIER LEAGUE LIVE (Live)</title>
-    <desc lang="en">Highlight match action from the Premier League's 2025/26 season.</desc>
-  </programme>
-  <programme start="20251021053000 +0800" stop="20251021060000 +0800" channel="z3.Hub.Premier.1.sg">
-    <title lang="en">THE FINAL WORD - MON 20 OCT (Live)</title>
-    <desc lang="en">Linked to Monday night fixtures, Michael Owen and special guests will join Steve Bower to give the definitive verdict on the weekend's action.</desc>
-  </programme>
-  <programme start="20251021060000 +0800" stop="20251021063000 +0800" channel="z3.Hub.Premier.1.sg">
-    <title lang="en">EXTRA TIME - MON 20 OCT (Live)</title>
-    <desc lang="en">A look at a Premier League season through the eyes of a player who excelled that particular year. The highs and lows and everything in between, that made it a memorable and at times defining nine months for both the player and his club.</desc>
-  </programme>
-  <programme start="20251021063000 +0800" stop="20251021070000 +0800" channel="z3.Hub.Premier.1.sg">
-    <title lang="en">THE BIG INTERVIEW</title>
-    <desc lang="en">With 97 Premier League goals for some of the biggest clubs in English football, Emmanuel Adebayor was one of Africa's finest footballers to play on these shores. Now, through his SEA Foundation, Adebayor is making a significant impact off the pitch, providing inspiration and opportunity for people in Togo and across the continent.</desc>
-  </programme>
-  <programme start="20251021070000 +0800" stop="20251021073000 +0800" channel="z3.Hub.Premier.1.sg">
-    <title lang="en">PL STORIES</title>
-    <desc lang="en">We sit down with Duncan Ferguson to discuss the fierce, passionate, and often unpredictable career of one of Everton's most legendary figures. From his early days in Scotland to his turbulent arrival in English football, PL Stories focuses on Ferguson's deep bond with the blue half of Merseyside; a connection built on loyalty, grit, and unforgettable moments.</desc>
-  </programme>
-  <programme start="20251021073000 +0800" stop="20251021083000 +0800" channel="z3.Hub.Premier.1.sg">
-    <title lang="en">REVIEW - MON 20 OCT</title>
-    <desc lang="en">Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
-  </programme>
-  <programme start="20251021083000 +0800" stop="20251021090000 +0800" channel="z3.Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 25/26 MW08 West Ham United v Brentford</title>
-    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme start="20251021090000 +0800" stop="20251021093000 +0800" channel="z3.Hub.Premier.1.sg">
-    <title lang="en">NETBUSTERS</title>
-    <desc lang="en">Fast-paced with music, ISO angles, and commentary, Netbusters offers an alternative review of every goal and key moment from the latest round of Premier League fixtures.</desc>
-  </programme>
-  <programme start="20251021093000 +0800" stop="20251021103000 +0800" channel="z3.Hub.Premier.1.sg">
-    <title lang="en">GENERATION xG - MON 20 OCT</title>
-    <desc lang="en">A deep dive into the tactical trends and statistical insights of modern football with input from players, managers and data experts from the 'fanalyst' community.</desc>
-  </programme>
-  <programme start="20251021103000 +0800" stop="20251021110000 +0800" channel="z3.Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 25/26 MW08 Manchester City v Everton</title>
-    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme start="20251021110000 +0800" stop="20251021113000 +0800" channel="z3.Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 25/26 MW08 Fulham v Arsenal</title>
-    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme start="20251021113000 +0800" stop="20251021123000 +0800" channel="z3.Hub.Premier.1.sg">
-    <title lang="en">REVIEW - MON 20 OCT</title>
-    <desc lang="en">Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
-  </programme>
-  <programme start="20251021123000 +0800" stop="20251021130000 +0800" channel="z3.Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 25/26 MW08 West Ham United v Brentford</title>
-    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme start="20251021130000 +0800" stop="20251021133000 +0800" channel="z3.Hub.Premier.1.sg">
-    <title lang="en">THE FINAL WORD - MON 20 OCT</title>
-    <desc lang="en">Linked to Monday night fixtures, Michael Owen and special guests will join Steve Bower to give the definitive verdict on the weekend's action.</desc>
-  </programme>
-  <programme start="20251021133000 +0800" stop="20251021140000 +0800" channel="z3.Hub.Premier.1.sg">
-    <title lang="en">EXTRA TIME - MON 20 OCT</title>
-    <desc lang="en">A look at a Premier League season through the eyes of a player who excelled that particular year. The highs and lows and everything in between, that made it a memorable and at times defining nine months for both the player and his club.</desc>
-  </programme>
-  <programme start="20251021140000 +0800" stop="20251021143000 +0800" channel="z3.Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 25/26 MW08 Brighton and Hove Albion v Newcastle United</title>
-    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme start="20251021143000 +0800" stop="20251021153000 +0800" channel="z3.Hub.Premier.1.sg">
-    <title lang="en">GENERATION xG - MON 20 OCT</title>
-    <desc lang="en">A deep dive into the tactical trends and statistical insights of modern football with input from players, managers and data experts from the 'fanalyst' community.</desc>
-  </programme>
-  <programme start="20251021153000 +0800" stop="20251021160000 +0800" channel="z3.Hub.Premier.1.sg">
-    <title lang="en">NETBUSTERS</title>
-    <desc lang="en">Fast-paced with music, ISO angles, and commentary, Netbusters offers an alternative review of every goal and key moment from the latest round of Premier League fixtures.</desc>
-  </programme>
-  <programme start="20251021160000 +0800" stop="20251021170000 +0800" channel="z3.Hub.Premier.1.sg">
-    <title lang="en">PL MOMENTS</title>
-    <desc lang="en">PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</desc>
-  </programme>
-  <programme start="20251021170000 +0800" stop="20251021173000 +0800" channel="z3.Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 25/26 MW08 West Ham United v Brentford</title>
-    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme start="20251021173000 +0800" stop="20251021180000 +0800" channel="z3.Hub.Premier.1.sg">
-    <title lang="en">THE FINAL WORD - MON 20 OCT</title>
-    <desc lang="en">Linked to Monday night fixtures, Michael Owen and special guests will join Steve Bower to give the definitive verdict on the weekend's action.</desc>
-  </programme>
-  <programme start="20251021180000 +0800" stop="20251021183000 +0800" channel="z3.Hub.Premier.1.sg">
-    <title lang="en">EXTRA TIME - MON 20 OCT</title>
-    <desc lang="en">A look at a Premier League season through the eyes of a player who excelled that particular year. The highs and lows and everything in between, that made it a memorable and at times defining nine months for both the player and his club.</desc>
-  </programme>
-  <programme start="20251021183000 +0800" stop="20251021190000 +0800" channel="z3.Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 25/26 MW08 Liverpool v Manchester United</title>
-    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme start="20251021190000 +0800" stop="20251021200000 +0800" channel="z3.Hub.Premier.1.sg">
-    <title lang="en">REVIEW - MON 20 OCT</title>
-    <desc lang="en">Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
-  </programme>
-  <programme start="20251021200000 +0800" stop="20251021210000 +0800" channel="z3.Hub.Premier.1.sg">
-    <title lang="en">PL MOMENTS</title>
-    <desc lang="en">PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</desc>
-  </programme>
-  <programme start="20251021210000 +0800" stop="20251021213000 +0800" channel="z3.Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 25/26 MW08 West Ham United v Brentford</title>
-    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-  </programme>
-  <programme start="20251021213000 +0800" stop="20251021220000 +0800" channel="z3.Hub.Premier.1.sg">
-    <title lang="en">THE FINAL WORD - MON 20 OCT</title>
-    <desc lang="en">Linked to Monday night fixtures, Michael Owen and special guests will join Steve Bower to give the definitive verdict on the weekend's action.</desc>
-  </programme>
-  <programme start="20251021220000 +0800" stop="20251021223000 +0800" channel="z3.Hub.Premier.1.sg">
-    <title lang="en">EXTRA TIME - MON 20 OCT</title>
-    <desc lang="en">A look at a Premier League season through the eyes of a player who excelled that particular year. The highs and lows and everything in between, that made it a memorable and at times defining nine months for both the player and his club.</desc>
-  </programme>
-  <programme start="20251021223000 +0800" stop="20251021230000 +0800" channel="z3.Hub.Premier.1.sg">
-    <title lang="en">PL REWIND</title>
-    <desc lang="en">Tim Howard spent a decade as Everton's first choice goalkeeper, the club that defined his Premier League career. The American recalls his journey from New Jersey, via Old Trafford, to Goodison Park, and his most memorable moments between the posts.</desc>
-  </programme>
-  <programme start="20251021230000 +0800" stop="20251021233000 +0800" channel="z3.Hub.Premier.1.sg">
-    <title lang="en">PL REWIND</title>
-    <desc lang="en">Marcelo Bielsa brought Premier League football back to Leeds in 2020, following a 16 year exile from the top flight. Amidst the backdrop of a global pandemic, Bielsa's full-throttle tactics made Leeds the story of the season. Stuart Dallas recalls the highlights.</desc>
-  </programme>
-  <programme start="20251021233000 +0800" stop="20251022000000 +0800" channel="z3.Hub.Premier.1.sg">
-    <title lang="en">NETBUSTERS</title>
-    <desc lang="en">Fast-paced with music, ISO angles, and commentary, Netbusters offers an alternative review of every goal and key moment from the latest round of Premier League fixtures.</desc>
   </programme>
   <programme start="20251022000000 +0800" stop="20251022010000 +0800" channel="z3.Hub.Premier.1.sg">
     <title lang="en">THE WEEKEND WRAP - SUN 19 OCT</title>
@@ -41543,21 +41455,141 @@
     <title lang="en">FANZONE - FRI 24 OCT (Live)</title>
     <desc lang="en">This is the show that puts international fans at the heart of the Premier League conversation. We connect with fans from around the world as they share their views on their teams and favourite players.</desc>
   </programme>
-  <programme start="20251021000000 +0800" stop="20251021060000 +0800" channel="z3.Hub.Premier.2.sg">
-    <title lang="en">End of Transmission</title>
-    <desc lang="en">End of Transmission.</desc>
+  <programme start="20251024233000 +0800" stop="20251025000000 +0800" channel="z3.Hub.Premier.1.sg">
+    <title lang="en">PREVIEW - FRI 24 OCT</title>
+    <desc lang="en">A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
   </programme>
-  <programme start="20251021060000 +0800" stop="20251021120000 +0800" channel="z3.Hub.Premier.2.sg">
-    <title lang="en">End of Transmission</title>
-    <desc lang="en">End of Transmission.</desc>
+  <programme start="20251025000000 +0800" stop="20251025010000 +0800" channel="z3.Hub.Premier.1.sg">
+    <title lang="en">WELCOME TO THE WEEKEND - FRI 24 OCT</title>
+    <desc lang="en">Light-hearted, inclusive and entertaining, Welcome to the Weekend is the show that kicks off the Premier League weekend. We will focus on the football but also on the lifestyle topics that footballers and fans love - food, fashion, music, movies and much, much more.</desc>
   </programme>
-  <programme start="20251021120000 +0800" stop="20251021180000 +0800" channel="z3.Hub.Premier.2.sg">
-    <title lang="en">End of Transmission</title>
-    <desc lang="en">End of Transmission.</desc>
+  <programme start="20251025010000 +0800" stop="20251025013000 +0800" channel="z3.Hub.Premier.1.sg">
+    <title lang="en">FANTASY SHOW</title>
+    <desc lang="en">Haaland or Salah? Saka or Palmer? Isak or Cunha? Picking your Fantasy team is never easy, but the Fantasy Show is on hand to help FPL Managers with those big decisions.</desc>
   </programme>
-  <programme start="20251021180000 +0800" stop="20251022000000 +0800" channel="z3.Hub.Premier.2.sg">
-    <title lang="en">End of Transmission</title>
-    <desc lang="en">End of Transmission.</desc>
+  <programme start="20251025013000 +0800" stop="20251025020000 +0800" channel="z3.Hub.Premier.1.sg">
+    <title lang="en">THE BIG INTERVIEW</title>
+    <desc lang="en">Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+  </programme>
+  <programme start="20251025020000 +0800" stop="20251025023000 +0800" channel="z3.Hub.Premier.1.sg">
+    <title lang="en">PL REWIND</title>
+    <desc lang="en">Marcelo Bielsa brought Premier League football back to Leeds in 2020, following a 16 year exile from the top flight. Amidst the backdrop of a global pandemic, Bielsa's full-throttle tactics made Leeds the story of the season. Stuart Dallas recalls the highlights.</desc>
+  </programme>
+  <programme start="20251025023000 +0800" stop="20251025025000 +0800" channel="z3.Hub.Premier.1.sg">
+    <title lang="en">PREMIER LEAGUE LIVE (Live)</title>
+    <desc lang="en">Live match action from the latest match round of the Premier League, with insight, analysis, and reaction from our expert panel of studio guests.</desc>
+  </programme>
+  <programme start="20251025025000 +0800" stop="20251025050000 +0800" channel="z3.Hub.Premier.1.sg">
+    <title lang="en">Leeds United v West Ham United (MW09) (Live)</title>
+    <desc lang="en">Live match action from the latest match round of the Premier League, with insight, analysis, and reaction from our expert panel of studio guests.</desc>
+  </programme>
+  <programme start="20251025050000 +0800" stop="20251025053000 +0800" channel="z3.Hub.Premier.1.sg">
+    <title lang="en">PREMIER LEAGUE LIVE (Live)</title>
+    <desc lang="en">Highlight match action from the Premier League's 2025/26 season.</desc>
+  </programme>
+  <programme start="20251025053000 +0800" stop="20251025063000 +0800" channel="z3.Hub.Premier.1.sg">
+    <title lang="en">TEAM TALKS - FRI 24 OCT (Live)</title>
+    <desc lang="en">Punditry, pressers and predictions ahead of the PL weekend. Our studio team tackle all the major talking points and we hear from the headline acts as the players and the managers have their say ahead of the action.</desc>
+  </programme>
+  <programme start="20251025063000 +0800" stop="20251025070000 +0800" channel="z3.Hub.Premier.1.sg">
+    <title lang="en">THE BIG INTERVIEW</title>
+    <desc lang="en">Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+  </programme>
+  <programme start="20251025070000 +0800" stop="20251025073000 +0800" channel="z3.Hub.Premier.1.sg">
+    <title lang="en">PREVIEW - FRI 24 OCT (UPDATED)</title>
+    <desc lang="en">A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
+  </programme>
+  <programme start="20251025073000 +0800" stop="20251025080000 +0800" channel="z3.Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 25/26 MW09 Leeds United v West Ham United</title>
+    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20251025080000 +0800" stop="20251025083000 +0800" channel="z3.Hub.Premier.1.sg">
+    <title lang="en">Classic Match</title>
+    <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2018/2019 season.</desc>
+  </programme>
+  <programme start="20251025083000 +0800" stop="20251025090000 +0800" channel="z3.Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We sit down with Duncan Ferguson to discuss the fierce, passionate, and often unpredictable career of one of Everton's most legendary figures. From his early days in Scotland to his turbulent arrival in English football, PL Stories focuses on Ferguson's deep bond with the blue half of Merseyside; a connection built on loyalty, grit, and unforgettable moments.</desc>
+  </programme>
+  <programme start="20251025090000 +0800" stop="20251025100000 +0800" channel="z3.Hub.Premier.1.sg">
+    <title lang="en">TEAM TALKS - FRI 24 OCT</title>
+    <desc lang="en">Punditry, pressers and predictions ahead of the PL weekend. Our studio team tackle all the major talking points and we hear from the headline acts as the players and the managers have their say ahead of the action.</desc>
+  </programme>
+  <programme start="20251025100000 +0800" stop="20251025110000 +0800" channel="z3.Hub.Premier.1.sg">
+    <title lang="en">PL MOMENTS</title>
+    <desc lang="en">PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</desc>
+  </programme>
+  <programme start="20251025110000 +0800" stop="20251025113000 +0800" channel="z3.Hub.Premier.1.sg">
+    <title lang="en">PREVIEW - FRI 24 OCT (UPDATED)</title>
+    <desc lang="en">A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
+  </programme>
+  <programme start="20251025113000 +0800" stop="20251025120000 +0800" channel="z3.Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 25/26 MW09 Leeds United v West Ham United</title>
+    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20251025120000 +0800" stop="20251025123000 +0800" channel="z3.Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We follow the rise of one of Italy's most gifted midfielders and his journey to Premier League stardom at Newcastle United, Sandro Tonali. From his early days at Brescia, where his talent drew comparisons to Italian greats, to his development at AC Milan and eventual move to St. James' Park, we trace Tonali's evolution on and off the pitch.</desc>
+  </programme>
+  <programme start="20251025123000 +0800" stop="20251025130000 +0800" channel="z3.Hub.Premier.1.sg">
+    <title lang="en">THE BIG INTERVIEW</title>
+    <desc lang="en">Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+  </programme>
+  <programme start="20251025130000 +0800" stop="20251025140000 +0800" channel="z3.Hub.Premier.1.sg">
+    <title lang="en">TEAM TALKS - FRI 24 OCT</title>
+    <desc lang="en">Punditry, pressers and predictions ahead of the PL weekend. Our studio team tackle all the major talking points and we hear from the headline acts as the players and the managers have their say ahead of the action.</desc>
+  </programme>
+  <programme start="20251025140000 +0800" stop="20251025143000 +0800" channel="z3.Hub.Premier.1.sg">
+    <title lang="en">Classic Match</title>
+    <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2014/2015 season.</desc>
+  </programme>
+  <programme start="20251025143000 +0800" stop="20251025150000 +0800" channel="z3.Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We join Thiago Silva in his native Brazil to reflect on his remarkable footballing journey; from overcoming life-threatening illness early in his career to becoming one of the world's most respected defenders. We explore his late-career success in the Premier League, his influence on and off the pitch and life at current club Fluminese.</desc>
+  </programme>
+  <programme start="20251025150000 +0800" stop="20251025153000 +0800" channel="z3.Hub.Premier.1.sg">
+    <title lang="en">PREVIEW - FRI 24 OCT (UPDATED)</title>
+    <desc lang="en">A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
+  </programme>
+  <programme start="20251025153000 +0800" stop="20251025160000 +0800" channel="z3.Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 25/26 MW09 Leeds United v West Ham United</title>
+    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20251025160000 +0800" stop="20251025163000 +0800" channel="z3.Hub.Premier.1.sg">
+    <title lang="en">Classic Match</title>
+    <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2004/2005 season.</desc>
+  </programme>
+  <programme start="20251025163000 +0800" stop="20251025170000 +0800" channel="z3.Hub.Premier.1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We follow the rise of one of Italy's most gifted midfielders and his journey to Premier League stardom at Newcastle United, Sandro Tonali. From his early days at Brescia, where his talent drew comparisons to Italian greats, to his development at AC Milan and eventual move to St. James' Park, we trace Tonali's evolution on and off the pitch.</desc>
+  </programme>
+  <programme start="20251025170000 +0800" stop="20251025180000 +0800" channel="z3.Hub.Premier.1.sg">
+    <title lang="en">PL MOMENTS</title>
+    <desc lang="en">PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</desc>
+  </programme>
+  <programme start="20251025180000 +0800" stop="20251025190000 +0800" channel="z3.Hub.Premier.1.sg">
+    <title lang="en">TEAM TALKS - FRI 24 OCT</title>
+    <desc lang="en">Punditry, pressers and predictions ahead of the PL weekend. Our studio team tackle all the major talking points and we hear from the headline acts as the players and the managers have their say ahead of the action.</desc>
+  </programme>
+  <programme start="20251025190000 +0800" stop="20251025193000 +0800" channel="z3.Hub.Premier.1.sg">
+    <title lang="en">THE BIG INTERVIEW</title>
+    <desc lang="en">Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+  </programme>
+  <programme start="20251025193000 +0800" stop="20251025200000 +0800" channel="z3.Hub.Premier.1.sg">
+    <title lang="en">Classic Match</title>
+    <desc lang="en">We delve into the Premier League archive to bring you a Classic Match from the 2014/2015 season.</desc>
+  </programme>
+  <programme start="20251025200000 +0800" stop="20251025203000 +0800" channel="z3.Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 25/26 MW09 Leeds United v West Ham United</title>
+    <desc lang="en">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+  </programme>
+  <programme start="20251025203000 +0800" stop="20251025210000 +0800" channel="z3.Hub.Premier.1.sg">
+    <title lang="en">PREVIEW - FRI 24 OCT (UPDATED)</title>
+    <desc lang="en">A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
+  </programme>
+  <programme start="20251025210000 +0800" stop="20251025215000 +0800" channel="z3.Hub.Premier.1.sg">
+    <title lang="en">PREMIER LEAGUE LIVE (Live)</title>
+    <desc lang="en">Live match action from the latest match round of the Premier League, with insight, analysis, and reaction from our expert panel of studio guests.</desc>
   </programme>
   <programme start="20251022000000 +0800" stop="20251022060000 +0800" channel="z3.Hub.Premier.2.sg">
     <title lang="en">End of Transmission</title>
@@ -41603,21 +41635,61 @@
     <title lang="en">End of Transmission</title>
     <desc lang="en">End of Transmission.</desc>
   </programme>
-  <programme start="20251021000000 +0800" stop="20251021060000 +0800" channel="z3.Hub.Premier.3.sg">
+  <programme start="20251024180000 +0800" stop="20251025000000 +0800" channel="z3.Hub.Premier.2.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">End of Transmission.</desc>
   </programme>
-  <programme start="20251021060000 +0800" stop="20251021120000 +0800" channel="z3.Hub.Premier.3.sg">
+  <programme start="20251025000000 +0800" stop="20251025060000 +0800" channel="z3.Hub.Premier.2.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">End of Transmission.</desc>
   </programme>
-  <programme start="20251021120000 +0800" stop="20251021180000 +0800" channel="z3.Hub.Premier.3.sg">
+  <programme start="20251025060000 +0800" stop="20251025120000 +0800" channel="z3.Hub.Premier.2.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">End of Transmission.</desc>
   </programme>
-  <programme start="20251021180000 +0800" stop="20251022000000 +0800" channel="z3.Hub.Premier.3.sg">
-    <title lang="en">End of Transmission</title>
-    <desc lang="en">End of Transmission.</desc>
+  <programme start="20251025120000 +0800" stop="20251025123000 +0800" channel="z3.Hub.Premier.2.sg">
+    <title lang="en">Netbusters 2025/26</title>
+    <desc lang="en">Relive the best action from the Premier League with this fast-paced ISO angle highlights show, featuring every game and every goal from each matchround.</desc>
+  </programme>
+  <programme start="20251025123000 +0800" stop="20251025130000 +0800" channel="z3.Hub.Premier.2.sg">
+    <title lang="en">PL Preview 2025/26 (Updated)</title>
+    <desc lang="en">A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
+  </programme>
+  <programme start="20251025130000 +0800" stop="20251025145500 +0800" channel="z3.Hub.Premier.2.sg">
+    <title lang="en">West Ham United vs Brentford (MW08)</title>
+    <desc lang="en">The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+  </programme>
+  <programme start="20251025145500 +0800" stop="20251025155000 +0800" channel="z3.Hub.Premier.2.sg">
+    <title lang="en">PL Moments 2025/26</title>
+    <desc lang="en">PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</desc>
+  </programme>
+  <programme start="20251025155000 +0800" stop="20251025162000 +0800" channel="z3.Hub.Premier.2.sg">
+    <title lang="en">PL Stories 2025/26</title>
+    <desc lang="en">We follow the rise of one of Italy's most gifted midfielders and his journey to Premier League stardom at Newcastle United, Sandro Tonali. From his early days at Brescia, where his talent drew comparisons to Italian greats, to his development at AC Milan and eventual move to St. James' Park, we trace Tonali's evolution on and off the pitch.</desc>
+  </programme>
+  <programme start="20251025162000 +0800" stop="20251025165000 +0800" channel="z3.Hub.Premier.2.sg">
+    <title lang="en">The Big Interview 2025/26</title>
+    <desc lang="en">Extended sit-downs and more informal ‘out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+  </programme>
+  <programme start="20251025165000 +0800" stop="20251025172000 +0800" channel="z3.Hub.Premier.2.sg">
+    <title lang="en">PL Preview 2025/26 (Updated)</title>
+    <desc lang="en">A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
+  </programme>
+  <programme start="20251025172000 +0800" stop="20251025192000 +0800" channel="z3.Hub.Premier.2.sg">
+    <title lang="en">West Ham United vs Brentford (MW08)</title>
+    <desc lang="en">The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+  </programme>
+  <programme start="20251025192000 +0800" stop="20251025212000 +0800" channel="z3.Hub.Premier.2.sg">
+    <title lang="en">Leeds United vs West Ham United (MW09)</title>
+    <desc lang="en">The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+  </programme>
+  <programme start="20251025212000 +0800" stop="20251025215000 +0800" channel="z3.Hub.Premier.2.sg">
+    <title lang="en">PL Stories 2025/26</title>
+    <desc lang="en">We follow the rise of one of Italy's most gifted midfielders and his journey to Premier League stardom at Newcastle United, Sandro Tonali. From his early days at Brescia, where his talent drew comparisons to Italian greats, to his development at AC Milan and eventual move to St. James' Park, we trace Tonali's evolution on and off the pitch.</desc>
+  </programme>
+  <programme start="20251025215000 +0800" stop="20251025235000 +0800" channel="z3.Hub.Premier.2.sg">
+    <title lang="en">Newcastle United vs Fulham (MW09) (Live)</title>
+    <desc lang="en">The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
   </programme>
   <programme start="20251022000000 +0800" stop="20251022060000 +0800" channel="z3.Hub.Premier.3.sg">
     <title lang="en">End of Transmission</title>
@@ -41663,19 +41735,23 @@
     <title lang="en">End of Transmission</title>
     <desc lang="en">End of Transmission.</desc>
   </programme>
-  <programme start="20251021000000 +0800" stop="20251021060000 +0800" channel="z3.Hub.Premier.4.sg">
+  <programme start="20251024180000 +0800" stop="20251025000000 +0800" channel="z3.Hub.Premier.3.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">End of Transmission.</desc>
   </programme>
-  <programme start="20251021060000 +0800" stop="20251021120000 +0800" channel="z3.Hub.Premier.4.sg">
+  <programme start="20251025000000 +0800" stop="20251025060000 +0800" channel="z3.Hub.Premier.3.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">End of Transmission.</desc>
   </programme>
-  <programme start="20251021120000 +0800" stop="20251021180000 +0800" channel="z3.Hub.Premier.4.sg">
+  <programme start="20251025060000 +0800" stop="20251025120000 +0800" channel="z3.Hub.Premier.3.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">End of Transmission.</desc>
   </programme>
-  <programme start="20251021180000 +0800" stop="20251022000000 +0800" channel="z3.Hub.Premier.4.sg">
+  <programme start="20251025120000 +0800" stop="20251025180000 +0800" channel="z3.Hub.Premier.3.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20251025180000 +0800" stop="20251025215000 +0800" channel="z3.Hub.Premier.3.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">End of Transmission.</desc>
   </programme>
@@ -41720,6 +41796,22 @@
     <desc lang="en">End of Transmission.</desc>
   </programme>
   <programme start="20251024120000 +0800" stop="20251024180000 +0800" channel="z3.Hub.Premier.4.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20251024180000 +0800" stop="20251025000000 +0800" channel="z3.Hub.Premier.4.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20251025000000 +0800" stop="20251025060000 +0800" channel="z3.Hub.Premier.4.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20251025060000 +0800" stop="20251025120000 +0800" channel="z3.Hub.Premier.4.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">End of Transmission.</desc>
+  </programme>
+  <programme start="20251025120000 +0800" stop="20251025180000 +0800" channel="z3.Hub.Premier.4.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">End of Transmission.</desc>
   </programme>
