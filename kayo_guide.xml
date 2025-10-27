@@ -24,110 +24,11 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20251026113010 +1100" stop="20251026205510 +1100" channel="4k.kayo.501">
-    <title lang="en">One-Day Internationals: New Zealand vs England</title>
-    <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Ashes Captains Joe Root and Harry Brook get an early warm-up while Kane Williamson returns for New Zealand.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d0ca7ee4b053c70854f8cc-1761173848131?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251026133006 +1100" stop="20251026165506 +1100" channel="4k.kayo.502">
-    <title lang="en">Pacific Championships Women: Australia Women vs Samoa Women</title>
-    <sub-title lang="en">2025</sub-title>
-    <desc lang="en">After a bye, the Jillaroos open a double header against Samoa. The visitors led at halftime, but were overpowered by the Kiwi Ferns in Week 1.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68f85c16e4b057f436c58cab-1761109054860?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251026154635 +1100" stop="20251026204635 +1100" channel="4k.kayo.502">
-    <title lang="en">Pacific Championships: Tonga vs Samoa</title>
-    <sub-title lang="en">2025</sub-title>
-    <desc lang="en">Samoa lost a physical game against the Kiwis in Week 1. Tonga were Pacific Championships runners-up in 2024 &amp; are fresh for this heavyweight clash.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68f85d0fe4b05f4a7f958d84-1761108983580?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251026120351 +1100" stop="20251026154451 +1100" channel="4k.kayo.506">
-    <title lang="en">: Gold Coast</title>
-    <desc lang="en">T10 Shootout: The Supercars drivers get one final, crucial lap in the ultimate test of speed and precision to set the grid for Race 29.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68f84de5e4b0c3216ff5c60c-1761104423932?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251026133511 +1100" stop="20251026152011 +1100" channel="4k.kayo.505">
-    <title lang="en">: Malaysia: Warm Up</title>
-    <desc lang="en">The riders get one final look around the Sepang International Circuit before all the races begin.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68f83f90e4b081438e180d36-1761100013647?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251026141500 +1100" stop="20251026192500 +1100" channel="4k.kayo.506">
-    <title lang="en">: Gold Coast</title>
-    <desc lang="en">Race 29: The last 250-kilometre race on the demanding street circuit determines the final automatic qualifiers for the next Finals round.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68f84dece4b01c15a5a6707a-1761104523364?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251026144500 +1100" stop="20251026171000 +1100" channel="4k.kayo.505">
-    <title lang="en">: Malaysia: Race</title>
-    <desc lang="en">2025 Moto3 Champion José Antonio Rueda races for pride. The runner-up battle intensifies as Ángel Piqueras defends his slim points lead over Máximo Quiles.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68f84154e4b01d614c3301cc-1761100296997?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251026173002 +1100" stop="20251026210902 +1100" channel="4k.kayo.505">
-    <title lang="en">: Malaysia: Race</title>
-    <desc lang="en">Alex Marquez defends the championship runner-up spot against a surging Marco Bezzecchi, who hasn’t been able to take victory since Silverstone back in May.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68f8551ae4b0c3216ff5c61a-1761105558358?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251026191604 +1100" stop="20251027004104 +1100" channel="4k.kayo.505">
-    <title lang="en">: Malaysia: Race</title>
-    <desc lang="en">The championship battle is fiercely close with only two points separating leader Manuel González and his challenger Diogo Moreira.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68f8540be4b09d53c022412a-1761105090938?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251027053000 +1100" stop="20251027111000 +1100" channel="4k.kayo.506">
-    <title lang="en">Formula One World Championship: Mexico City Grand Prix</title>
-    <sub-title lang="en">2025</sub-title>
-    <desc lang="en">Max Verstappen is rapidly closing on championship leader Oscar Piastri and teammate Lando Norris in a tense three-way title decider with five races remaining.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68f6b1e5e4b0c3216ff5c52d-1761007053842?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251026130000 +1100" stop="20251026161000 +1100" channel="4k.kayo.503">
-    <title lang="en">AFL Women's: Western Bulldogs Women vs Geelong Cats Women</title>
-    <sub-title lang="en">2025</sub-title>
-    <desc lang="en">It's season over for one of these teams as the Bulldogs host Geelong on Sunday in Ballarat.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68f6f96ae4b0e7dafe2cf21a-1761017026522?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251026130003 +1100" stop="20251026161003 +1100" channel="4k.kayo.504">
-    <title lang="en">AFL Women's: North Melbourne Kangaroos Women vs St Kilda Saints Women</title>
-    <sub-title lang="en">2025</sub-title>
-    <desc lang="en">The undefeated North Melbourne battles an injury-hit St Kilda in a top eight clash in Hobart on Sunday.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68f6f98fe4b081438e180cd5-1761016336168?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251026150032 +1100" stop="20251026184032 +1100" channel="4k.kayo.503">
-    <title lang="en">AFL Women's: Carlton Blues Women vs Greater Western Sydney Giants Women</title>
-    <sub-title lang="en">2025</sub-title>
-    <desc lang="en">Carlton will look to cement its place in the AFLW top eight when it hosts the Giants at Ikon Park.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68f6f9d3e4b0bfdcc3b5a26f-1761016344094?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251026160000 +1100" stop="20251026194000 +1100" channel="4k.kayo.504">
-    <title lang="en">AFL Women's: Gold Coast Suns Women vs Collingwood Magpies Women</title>
-    <sub-title lang="en">2025</sub-title>
-    <desc lang="en">A chance for Gold Coast or Collingwood to nab a late season victory and avoid the AFLW wooden spoon.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68f6fa2de4b0c3216ff5c590-1761016581462?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251026224336 +1100" stop="20251027041036 +1100" channel="4k.kayo.503">
-    <title lang="en">: European Championship</title>
-    <desc lang="en">Final Day Day Session: Nathan Aspinall is the number one seed but will still need to get past the two Luke's in Dortmund.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68f853fde4b057f436c58c9d-1761105014162?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251027050000 +1100" stop="20251027101000 +1100" channel="4k.kayo.505">
-    <title lang="en">: European Championship</title>
-    <desc lang="en">Final Day Night Session: Nathan Aspinall is the number one seed but will still need to get past the two Luke's in Dortmund.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68f864e7e4b09d53c0224143-1761179735930?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251026200005 +1100" stop="20251027000505 +1100" channel="4k.kayo.505">
-    <title lang="en">: Asia Pacific Amateur</title>
-    <desc lang="en">Final Round: The 2025 Asia-Pacific Amateur Championship concludes from The Emirates Golf Club, Dubai.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68f9bd09e4b0c3216ff5c6a9-1761197359871?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251027073000 +1100" stop="20251027114000 +1100" channel="4k.kayo.503">
-    <title lang="en">Black_Desert_Championship: Bank of Utah Championship</title>
-    <sub-title lang="en">2025</sub-title>
-    <desc lang="en">Michael Brennan leads heading into Final Round action of the Utah Championship.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68f821f2e4b0b848e01b8f8b-1761101377713?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
   <programme start="20251028102500 +1100" stop="20251028191000 +1100" channel="4k.kayo.501">
     <title lang="en">Sheffield Shield: Victoria vs Tasmania</title>
     <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Day 1: Tasmania will be high after their 3-run victory, but now face an undefeated Victoria with Ashes hopefuls Scott Boland and Peter Handscomb.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68f58c34e4b0bebec3c828cb-1760922746484?location=hero-portrait-m2&amp;imwidth=720" />
+    <desc lang="en">Day 1: Tasmania will be high after their 3-run victory, but now face an undefeated Victoria with Ashes hopefuls Peter Handscomb &amp; Marcus Harris.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68f58c34e4b0bebec3c828cb-1761541684872?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251028050000 +1100" stop="20251028094000 +1100" channel="4k.kayo.505">
     <title lang="en">: Pairs Cup</title>
@@ -145,7 +46,7 @@
     <desc lang="en">Day 1: The world of bowls returns Club Pine Rivers. The Gold Coast Hawks bring back their title-winning lineup from BPL21.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68faf355e4b08a6141e949b3-1761276861839?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251029113000 +1100" stop="20251029205500 +1100" channel="4k.kayo.503">
+  <programme start="20251029113000 +1100" stop="20251029211000 +1100" channel="4k.kayo.503">
     <title lang="en">One-Day Internationals: New Zealand vs England</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Daryl Mitchell proved a steady hand in Game 1, but Harry Brook is making runs and looks ready for The Ashes.</desc>
@@ -161,7 +62,13 @@
     <title lang="en">Sheffield Shield: Victoria vs Tasmania</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Undefeated takes on undefeated as Tasmania travels to Victoria’s Junction Oval, Day 3 begins.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68f5a1e0e4b0c3216ff5c4c8-1760928311749?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68f5a1e0e4b0c3216ff5c4c8-1761541988782?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251029170000 +1100" stop="20251029190000 +1100" channel="4k.kayo.505">
+    <title lang="en">Netball Tests: New Zealand vs Australia</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">It all comes down to Game 4, the Diamonds can regain the trophy with a win while a Silver Ferns victory will see Series Decider extra time.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68fedaf9e4b0f3822de32a57-1761532787532?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251029154500 +1100" stop="20251029231000 +1100" channel="4k.kayo.506">
     <title lang="en">: Bowls Premier League</title>
@@ -174,11 +81,31 @@
     <desc lang="en">Undefeated takes on undefeated as Tasmania travels to Victoria’s Junction Oval, Day 4 begins.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68f5a128e4b081438e180c42-1760928177963?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20251030153000 +1100" stop="20251030204500 +1100" channel="4k.kayo.505">
+    <title lang="en">: Hong Kong: RD1</title>
+    <desc lang="en">First round action of the Hong Kong Open from Hong Kong Golf Club.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68feded6e4b09d53c0224313-1761533799773?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251030220000 +1100" stop="20251031041000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Grand Final: RD1</title>
+    <desc lang="en">The final event for players to gain European Tour card slots kicks off in Mallorca, Spain.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68fefb16e4b033b448e166b8-1761541112528?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251030170000 +1100" stop="20251031001000 +1100" channel="4k.kayo.506">
+    <title lang="en">: Bowls Premier League</title>
+    <desc lang="en">Day 3: Matches include Saints v Suns, Lions v Ospreys, Extreme v Pulse, Jets v Hawks and Pirates v Steamers.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68faf996e4b09d53c02241ee-1761278408271?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20251031184500 +1100" stop="20251101001000 +1100" channel="4k.kayo.501">
     <title lang="en">Twenty20 Internationals: Australia vs India</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Game 2: Australia and India bring their intense rivalry to the legendary Melbourne Cricket Ground for the crucial second T20.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df2977e4b0254e6773646a-1759967967511?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251031170000 +1100" stop="20251101001000 +1100" channel="4k.kayo.506">
+    <title lang="en">: Bowls Premier League</title>
+    <desc lang="en">Final Day: The top five teams will battle through an elimination format to be crowned BPL22 champion.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68fafa1ee4b057f436c58d50-1761278561134?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251101113000 +1100" stop="20251101211000 +1100" channel="4k.kayo.501">
     <title lang="en">One-Day Internationals: New Zealand vs England</title>
@@ -209,5 +136,23 @@
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Game 5: The series wraps up at the Gabba for one final T20.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df29f9e4b0df15d746a3a2-1759968004602?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251109130000 +1100" stop="20251109171000 +1100" channel="4k.kayo.501">
+    <title lang="en">Women's Big Bash League: Brisbane Heat Women vs Melbourne Renegades Women</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">WBBL returns as The Brisbane Heat open their campaign at home against the Renegades in a Grand Final rematch.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df41d1e4b01d0e5da7d036-1759462004889?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251109170000 +1100" stop="20251109203000 +1100" channel="4k.kayo.501">
+    <title lang="en">Women's Big Bash League: Sydney Thunder Women vs Hobart Hurricanes Women</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">Phoebe Litchfield leads the Sydney Thunder against the Hobart Hurricanes, who are looking to avenge their 2024 Knockout final loss.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df41e5e4b0254e67736485-1759462014085?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251109202000 +1100" stop="20251110005500 +1100" channel="4k.kayo.501">
+    <title lang="en">Women's Big Bash League: Perth Scorchers Women vs Sydney Sixers Women</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">A blockbuster at the WACA to end the opening day as Beth Mooney’s Scorchers host Ellyse Perry’s Sixers.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df41f6e4b0254e67736486-1759462027345?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
 </tv>
