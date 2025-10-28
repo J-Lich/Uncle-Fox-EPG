@@ -24,24 +24,18 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20251028102500 +1100" stop="20251028191000 +1100" channel="4k.kayo.501">
-    <title lang="en">Sheffield Shield: Victoria vs Tasmania</title>
-    <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Day 1: Tasmania will be high after their 3-run victory, but now face an undefeated Victoria with Ashes hopefuls Peter Handscomb &amp; Marcus Harris.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68f58c34e4b0bebec3c828cb-1761541684872?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251028050000 +1100" stop="20251028094000 +1100" channel="4k.kayo.505">
-    <title lang="en">: Pairs Cup</title>
-    <desc lang="en">Final: The Pairs Cup continues with a new generation of players challenging established professionals.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68f984eee4b057f436c58cd3-1761183049244?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
   <programme start="20251029102500 +1100" stop="20251029191000 +1100" channel="4k.kayo.501">
     <title lang="en">Sheffield Shield: Victoria vs Tasmania</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Undefeated takes on undefeated as Tasmania travels to Victoria’s Junction Oval, Day 2 begins.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68f5a11ce4b0bebec3c828d4-1760928170758?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251028170000 +1100" stop="20251029001000 +1100" channel="4k.kayo.506">
+  <programme start="20251028170002 +1100" stop="20251028190002 +1100" channel="4k.kayo.506">
+    <title lang="en">: International Crown</title>
+    <desc lang="en">Final Round - Part 1: The Australian team of Minjee Lee, Hannah Green, Stephanie Kyriacou and Grace Kim look to claim the country's maiden International Crown win.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68f9b538e4b0c3216ff5c699-1761633156437?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251028170002 +1100" stop="20251029000002 +1100" channel="4k.kayo.506">
     <title lang="en">: Bowls Premier League</title>
     <desc lang="en">Day 1: The world of bowls returns Club Pine Rivers. The Gold Coast Hawks bring back their title-winning lineup from BPL21.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68faf355e4b08a6141e949b3-1761276861839?location=hero-portrait-m2&amp;imwidth=720" />
@@ -64,16 +58,21 @@
     <desc lang="en">Undefeated takes on undefeated as Tasmania travels to Victoria’s Junction Oval, Day 3 begins.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68f5a1e0e4b0c3216ff5c4c8-1761541988782?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251029170000 +1100" stop="20251029190000 +1100" channel="4k.kayo.505">
+  <programme start="20251029170000 +1100" stop="20251029205000 +1100" channel="4k.kayo.505">
     <title lang="en">Netball Tests: New Zealand vs Australia</title>
     <sub-title lang="en">2025</sub-title>
     <desc lang="en">It all comes down to Game 4, the Diamonds can regain the trophy with a win while a Silver Ferns victory will see Series Decider extra time.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68fedaf9e4b0f3822de32a57-1761532787532?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251029154500 +1100" stop="20251029231000 +1100" channel="4k.kayo.506">
+  <programme start="20251029123000 +1100" stop="20251029141000 +1100" channel="4k.kayo.505">
+    <title lang="en">: Major Announcement</title>
+    <desc lang="en">Tune in to all the latest details of No Limit Boxing's next big event.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ffe733e4b09d534f34cff5-1761601391415?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251029154500 +1100" stop="20251030001000 +1100" channel="4k.kayo.506">
     <title lang="en">: Bowls Premier League</title>
     <desc lang="en">Day 2: The Geelong Jets, runners up in BPL21, will be hungry to go one better this time round.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68faf719e4b0a27be0d77d61-1761277783102?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68faf719e4b0a27be0d77d61-1761646224810?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251031102500 +1100" stop="20251031191000 +1100" channel="4k.kayo.501">
     <title lang="en">Sheffield Shield: Victoria vs Tasmania</title>
@@ -94,24 +93,50 @@
   <programme start="20251030170000 +1100" stop="20251031001000 +1100" channel="4k.kayo.506">
     <title lang="en">: Bowls Premier League</title>
     <desc lang="en">Day 3: Matches include Saints v Suns, Lions v Ospreys, Extreme v Pulse, Jets v Hawks and Pirates v Steamers.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68faf996e4b09d53c02241ee-1761278408271?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68faf996e4b09d53c02241ee-1761622211398?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251031184500 +1100" stop="20251101001000 +1100" channel="4k.kayo.501">
     <title lang="en">Twenty20 Internationals: Australia vs India</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Game 2: Australia and India bring their intense rivalry to the legendary Melbourne Cricket Ground for the crucial second T20.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df2977e4b0254e6773646a-1759967967511?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df2977e4b0254e6773646a-1761646893589?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251031153000 +1100" stop="20251031204500 +1100" channel="4k.kayo.505">
+    <title lang="en">: Hong Kong: RD2</title>
+    <desc lang="en">Second round action of the Hong Kong Open from Hong Kong Golf Club.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69002cbfe4b09d534f34d05e-1761619262787?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251031140000 +1100" stop="20251031164000 +1100" channel="4k.kayo.506">
+    <title lang="en">: BPL: Cup Final</title>
+    <desc lang="en">The BPL Cup final gets underway as only two teams remain in the battle for the title.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68fff99fe4b09d534f34d041-1761606165343?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251031170000 +1100" stop="20251101001000 +1100" channel="4k.kayo.506">
     <title lang="en">: Bowls Premier League</title>
     <desc lang="en">Final Day: The top five teams will battle through an elimination format to be crowned BPL22 champion.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68fafa1ee4b057f436c58d50-1761278561134?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68fafa1ee4b057f436c58d50-1761646537096?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251101113000 +1100" stop="20251101211000 +1100" channel="4k.kayo.501">
     <title lang="en">One-Day Internationals: New Zealand vs England</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Game 3: The tour comes to a close as England and New Zealand head to Wellington for the final one-dayer.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68d0cbd9e4b053c70854f8cf-1761173637724?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251102012000 +1100" stop="20251102044000 +1100" channel="4k.kayo.502">
+    <title lang="en">Test Matches: England vs Australia</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Second Test: A Reece Walsh masterclass saw the Kangaroos dominate in game one, England need to regroup for this crucial second test.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68ffec50e4b033b448e16784-1761602679158?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251101190000 +1100" stop="20251102001000 +1100" channel="4k.kayo.503">
+    <title lang="en">: ANZ Premier League</title>
+    <desc lang="en">Week 5: The inaugural ANZ Premier League continues with week five action from Adelaide Entertainment Centre.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69003daee4b033b448e167b0-1761625062827?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251101153000 +1100" stop="20251101204500 +1100" channel="4k.kayo.505">
+    <title lang="en">: Hong Kong: RD3</title>
+    <desc lang="en">Third round action of the Hong Kong Open from Hong Kong Golf Club.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/690036a0e4b07b5eeb852b18-1761621768918?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251102184500 +1100" stop="20251103001000 +1100" channel="4k.kayo.501">
     <title lang="en">Twenty20 Internationals: Australia vs India</title>
@@ -154,5 +179,11 @@
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">A blockbuster at the WACA to end the opening day as Beth Mooney’s Scorchers host Ellyse Perry’s Sixers.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df41f6e4b0254e67736486-1759462027345?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251110150700 +1100" stop="20251110193000 +1100" channel="4k.kayo.501">
+    <title lang="en">Women's Big Bash League: Melbourne Stars Women vs Adelaide Strikers Women</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">The Melbourne Stars, with Meg Lanning and Amy Jones, seek an important home win against an Adelaide Strikers team bolstered by Tahlia McGrath.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e83fe5e4b0ade454638dbf-1760051798963?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
 </tv>
