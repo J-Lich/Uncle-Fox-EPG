@@ -24,11 +24,6 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20251104050000 +1100" stop="20251104094000 +1100" channel="4k.kayo.505">
-    <title lang="en">: Mixed Pairs: Week 1</title>
-    <desc lang="en">The world's top duos open the Mixed Pairs Cup chasing early group wins.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69081f06e4b076b6dcceb894-1762139986838?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
   <programme start="20251105170000 +1100" stop="20251105215500 +1100" channel="4k.kayo.501">
     <title lang="en">Twenty20 Internationals: New Zealand vs West Indies</title>
     <sub-title lang="en">2025-26</sub-title>
@@ -44,18 +39,50 @@
   <programme start="20251106184500 +1100" stop="20251107001000 +1100" channel="4k.kayo.501">
     <title lang="en">Twenty20 Internationals: Australia vs India</title>
     <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Game Four: With the series tied 1-1, for both teams this game is a must-win on the Gold Coast.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df29d9e4b01119a86e4612-1761779997861?location=hero-portrait-m2&amp;imwidth=720" />
+    <desc lang="en">Game Four: It is a must-win game for both teams on the Gold Coast, with the series tied at 1-1.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df29d9e4b01119a86e4612-1762221238541?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251106191000 +1100" stop="20251107001500 +1100" channel="4k.kayo.501">
     <title lang="en">: Hindi: Australia v India</title>
     <desc lang="en">Fox Cricket presents Hindi language coverage of this fourth T20 between Australia and India.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6907eeeae4b0c31c5f4385ce-1762143463000?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6907eeeae4b0c31c5f4385ce-1762221132002?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251106130000 +1100" stop="20251106181000 +1100" channel="4k.kayo.506">
     <title lang="en">: Japan Classic</title>
     <desc lang="en">First round coverage of the Japan Classic begins from the Seta Golf Course, Japan.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69083eebe4b0aa254bd98809-1762148143515?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251106163000 +1100" stop="20251106214000 +1100" channel="4k.kayo.506">
+    <title lang="en">: Singapore Open</title>
+    <desc lang="en">First round action of the Singapore Open from the Singapore Island Country Club.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69098298e4b0dfe0c36c08ba-1762231033841?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251107195500 +1100" stop="20251107215500 +1100" channel="4k.kayo.506">
+    <title lang="en">: Portugal: Practice 1</title>
+    <desc lang="en">Portugal is the next stop on the MotoGP calendar, with the first practice session starting the weekend.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/690830c7e4b02447b73465af-1762145164515?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251108000500 +1100" stop="20251108042000 +1100" channel="4k.kayo.505">
+    <title lang="en">: Portugal: Practice 2</title>
+    <desc lang="en">The MotoGP riders are back out on the Algarve International Circuit for the second practice session.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/690832f8e4b0d71f5c83f7f6-1762145130067?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251108010000 +1100" stop="20251108041000 +1100" channel="4k.kayo.506">
+    <title lang="en">Formula One World Championship: Brazilian Grand Prix</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Drivers head out on to the Interlagos Circuit for the only practice session of this Sprint Race weekend.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/690812c4e4b0fcbd044cccc5-1762136828819?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251108050000 +1100" stop="20251108081000 +1100" channel="4k.kayo.506">
+    <title lang="en">Formula One World Championship: Brazilian Grand Prix</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">The Brazil Sprint Race starting grid will be decided in this Sprint Shootout at the Interlagos Circuit.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6908130ee4b0aa254bd987d8-1762137040903?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251108060000 +1100" stop="20251108080000 +1100" channel="4k.kayo.505">
+    <title lang="en">: Miami: Qualifying Races</title>
+    <desc lang="en">Teams battle for key positions in the Miami qualifying races.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69094cfae4b0dfe0c36c0872-1762217367503?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251107130000 +1100" stop="20251107181000 +1100" channel="4k.kayo.506">
     <title lang="en">: Japan Classic</title>
@@ -66,12 +93,47 @@
     <title lang="en">Twenty20 Internationals: Australia vs India</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Game 5: The series wraps up at the Gabba for one final T20.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df29f9e4b0df15d746a3a2-1761779988417?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df29f9e4b0df15d746a3a2-1762221390469?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251108191000 +1100" stop="20251109001500 +1100" channel="4k.kayo.501">
     <title lang="en">: Hindi: Australia v India</title>
     <desc lang="en">Fox Cricket presents Hindi language coverage of this fifth and final T20 between Australia and India.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69083234e4b02b529eca13ca-1762144917958?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69083234e4b02b529eca13ca-1762221402619?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251108193500 +1100" stop="20251108225500 +1100" channel="4k.kayo.506">
+    <title lang="en">: Portugal: Practice 3</title>
+    <desc lang="en">Qualifying is just around the corner, as the day's MotoGP action starts with the third practice session.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6908344ae4b0c31c5f43861c-1762145513941?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251109012000 +1100" stop="20251109041500 +1100" channel="4k.kayo.503">
+    <title lang="en">: Miami: Group Races</title>
+    <desc lang="en">Group racing begins in Miami as teams fight to advance to the race-off.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69094e94e4b081a119a54e92-1762217917726?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251109034000 +1100" stop="20251109052000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Miami: Race-Off</title>
+    <desc lang="en">Teams compete for the last spot in the Miami title race.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69094ffae4b081a119a54e97-1762218076182?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251109050000 +1100" stop="20251109074000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Miami: Final</title>
+    <desc lang="en">The Miami round concludes as teams race for the event win.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/690950b4e4b0dfe0c36c087e-1762218272596?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251108170000 +1100" stop="20251108221000 +1100" channel="4k.kayo.505">
+    <title lang="en">: ANZ Premier League</title>
+    <desc lang="en">Week 6: The inaugural ANZ Premier League continues with week six action from TSB Arena, Wellington.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69097a2fe4b0d69ac1fb6c6b-1762228876644?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251108140000 +1100" stop="20251108191000 +1100" channel="4k.kayo.506">
+    <title lang="en">: Singapore Open</title>
+    <desc lang="en">Third round action of the Singapore Open from the Singapore Island Country Club.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69098770e4b0d69ac1fb6c6f-1762232289720?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251108150000 +1100" stop="20251108191000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Senior Championship</title>
+    <desc lang="en">Third round action of the Senior Championship begins from Richmond Golf Club.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69098a40e4b0aa254bd988d1-1762232920083?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251109110000 +1100" stop="20251109161000 +1100" channel="4k.kayo.505">
     <title lang="en">Twenty20 Internationals: New Zealand vs West Indies</title>
@@ -83,83 +145,100 @@
     <title lang="en">Women's Big Bash League: Brisbane Heat Women vs Melbourne Renegades Women</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">WBBL returns as The Brisbane Heat open their campaign at home against the Renegades in a Grand Final rematch.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df41d1e4b01d0e5da7d036-1759462004889?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df41d1e4b01d0e5da7d036-1762215466724?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251109165000 +1100" stop="20251109212500 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Big Bash League: Sydney Thunder Women vs Hobart Hurricanes Women</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Phoebe Litchfield leads the Sydney Thunder against the Hobart Hurricanes, who are looking to avenge their 2024 Knockout final loss.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df41e5e4b0254e67736485-1759462014085?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df41e5e4b0254e67736485-1762215485257?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251109201500 +1100" stop="20251110005500 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Big Bash League: Perth Scorchers Women vs Sydney Sixers Women</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">A blockbuster at the WACA to end the opening day as Beth Mooney’s Scorchers host Ellyse Perry’s Sixers.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df41f6e4b0254e67736486-1759462027345?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df41f6e4b0254e67736486-1762212717380?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251109131500 +1100" stop="20251109162500 +1100" channel="4k.kayo.502">
+    <title lang="en">Pacific Championships Women: Australia Women vs New Zealand Women</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">The Jillaroos took out the final last year with the Kiwi Ferns winning in 2023. Who takes the win in 2025.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6909673de4b0704e6c8f626f-1762225396203?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251109151500 +1100" stop="20251109194000 +1100" channel="4k.kayo.502">
+    <title lang="en">Pacific Championships: New Zealand vs Samoa</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">New Zealand are back in the Cup final after missing out last year, while Samoa are making their first final appearance.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6909371ae4b0fcbd044ccd3d-1762223768939?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251109130000 +1100" stop="20251109181000 +1100" channel="4k.kayo.506">
     <title lang="en">: Japan Classic</title>
     <desc lang="en">Final round coverage of the Japan Classic begins from the Seta Golf Course, Japan.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6375a55ee4b0aa0beaeb0672-16686544316261?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/690924b5e4b0d71f5c83f82f-1762206985453?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251109130000 +1100" stop="20251109191000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Senior Championship</title>
+    <desc lang="en">Final round action of the Senior Championship begins from Richmond Golf Club.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69098ab1e4b0fcbd044ccdbe-1762233041501?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251110150700 +1100" stop="20251110193000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Big Bash League: Melbourne Stars Women vs Adelaide Strikers Women</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">The Melbourne Stars, with Meg Lanning and Amy Jones, seek an important home win against an Adelaide Strikers team bolstered by Tahlia McGrath.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e83fe5e4b0ade454638dbf-1760051798963?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e83fe5e4b0ade454638dbf-1762213209055?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251111150700 +1100" stop="20251111193000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Big Bash League: Melbourne Renegades Women vs Sydney Thunder Women</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Phoebe Litchfield’s Thunder meet Sophie Molineux’s Renegades in an afternoon clash at Drummoyne Oval.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e84025e4b032e5d1e1b464-1760051813168?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e84025e4b032e5d1e1b464-1762215546773?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251112183000 +1100" stop="20251112233000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Big Bash League: Brisbane Heat Women vs Perth Scorchers Women</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Beth Mooney meets her former team as Grace Harris takes on Alana King in a power-packed contest at Allan Border Field.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e8405ee4b0a699d676b943-1760051828683?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e8405ee4b0a699d676b943-1762215555257?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251113183000 +1100" stop="20251113233000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Big Bash League: Sydney Sixers Women vs Hobart Hurricanes Women</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Alyssa Healy and Ashleigh Gardner look to maintain form as Elyse Villani drives Hobart’s reply at North Sydney Oval.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e84507e4b0a699d676b945-1760052631772?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e84507e4b0a699d676b945-1762215506471?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251114153700 +1100" stop="20251114202000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Big Bash League: Perth Scorchers Women vs Melbourne Stars Women</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Beth Mooney and Meg Lanning meet in a marquee battle between Australia’s elite batters.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e8452de4b0ade454638dc3-1760052640836?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e8452de4b0ade454638dc3-1762215608512?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251114190700 +1100" stop="20251114233000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Big Bash League: Adelaide Strikers Women vs Melbourne Renegades Women</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Tahlia McGrath's Strikers face the champion Renegades, led by Sophie Molineux and Georgia Wareham.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68f9e868e4b09d53c02241bd-1761208467064?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68f9e868e4b09d53c02241bd-1762215587842?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251115150000 +1100" stop="20251115200500 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Big Bash League: Hobart Hurricanes Women vs Brisbane Heat Women</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Elyse Villani’s Hurricanes look to contain the aggressive pairing of Beth Mooney and Grace Harris.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68f9e9f8e4b01c15a5a670f7-1761208978263?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68f9e9f8e4b01c15a5a670f7-1762214908530?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251115185500 +1100" stop="20251115233000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Big Bash League: Sydney Thunder Women vs Sydney Sixers Women</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">First in the Sydney showdown of the season as Phoebe Litchfield's Thunder faces off with Ellyse Perry and Alyssa Healy's Sixers.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68f9ea39e4b057f436c58d13-1761208985974?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68f9ea39e4b057f436c58d13-1762215434219?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251116100700 +1100" stop="20251116145000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Big Bash League: Adelaide Strikers Women vs Perth Scorchers Women</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Tahlia McGrath's Strikers face the Scorchers' star pair, Beth Mooney and Sophie Devine, in an important morning fixture.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68fb1f95e4b057f436c58d8f-1761288143738?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68fb1f95e4b057f436c58d8f-1762216224610?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251116133700 +1100" stop="20251116181000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Big Bash League: Melbourne Stars Women vs Melbourne Renegades Women</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">The first Melbourne Derby of the year gets underway as Meg Lanning’s Stars meet Sophie Molineux’s Renegades.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68fb2010e4b05c7465913706-1761288253588?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68fb2010e4b05c7465913706-1762216286865?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
 </tv>
