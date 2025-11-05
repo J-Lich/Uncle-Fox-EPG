@@ -24,13 +24,18 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20251105170000 +1100" stop="20251105215500 +1100" channel="4k.kayo.501">
+  <programme start="20251105120000 +1100" stop="20251105122200 +1100" channel="4k.kayo.501">
+    <title lang="en">: Ashes Squad Announcement</title>
+    <desc lang="en">The Australian squad for the first Ashes Test against England is announced.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/690ac715e4b05355205709a0-1762320356980?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251105170017 +1100" stop="20251105215517 +1100" channel="4k.kayo.501">
     <title lang="en">Twenty20 Internationals: New Zealand vs West Indies</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Game One: Captain Shai Hope's West Indies takes on New Zealand in a massive five-game T20 series.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6907ed28e4b076b6dcceb870-1762138545243?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251106170000 +1100" stop="20251106224000 +1100" channel="4k.kayo.505">
+  <programme start="20251106170000 +1100" stop="20251106215500 +1100" channel="4k.kayo.505">
     <title lang="en">Twenty20 Internationals: New Zealand vs West Indies</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Game Two: New Zealand looks to upset the West Indies in their preferred format.</desc>
@@ -39,8 +44,8 @@
   <programme start="20251106184500 +1100" stop="20251107001000 +1100" channel="4k.kayo.501">
     <title lang="en">Twenty20 Internationals: Australia vs India</title>
     <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Game Four: It is a must-win game for both teams on the Gold Coast, with the series tied at 1-1.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df29d9e4b01119a86e4612-1762221238541?location=hero-portrait-m2&amp;imwidth=720" />
+    <desc lang="en">Game Four: With the series tied at 1-1, Glenn Maxwell returns for a must-win game.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df29d9e4b01119a86e4612-1762296703573?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251106191000 +1100" stop="20251107001500 +1100" channel="4k.kayo.501">
     <title lang="en">: Hindi: Australia v India</title>
@@ -52,10 +57,32 @@
     <desc lang="en">First round coverage of the Japan Classic begins from the Seta Golf Course, Japan.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69083eebe4b0aa254bd98809-1762148143515?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20251106150000 +1100" stop="20251106191000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Abu Dhabi Championship</title>
+    <desc lang="en">Featured Coverage: Tommy Fleetwood/Shane Lowry/Rasmus Hojgaard &amp; Tyrrell Hatton/Marco Penge/Rory McIlroy</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/690ac267e4b0db4e611fca6b-1762326506252?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20251106163000 +1100" stop="20251106214000 +1100" channel="4k.kayo.506">
     <title lang="en">: Singapore Open</title>
     <desc lang="en">First round action of the Singapore Open from the Singapore Island Country Club.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69098298e4b0dfe0c36c08ba-1762231033841?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251106180000 +1100" stop="20251107011000 +1100" channel="4k.kayo.503">
+    <title lang="en">Abu Dhabi HSBC Championship: Abu Dhabi HSBC Championship</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Rory McIlroy leads the charge as stars battle for points to secure their place at the Finale.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/690acb42e4b0db4e611fca75-1762326520701?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251107070000 +1100" stop="20251107111000 +1100" channel="4k.kayo.503">
+    <title lang="en">Mayakoba Golf Classic: World Wide Technology Championship</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">J.J. Spaun and Wyndham Clark headline the field as contenders chase key FedExCup points in the fall season race.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/690ad209e4b013d4ddda770c-1762316873406?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251107110000 +1100" stop="20251107214000 +1100" channel="4k.kayo.501">
+    <title lang="en">: Hong Kong Cricket Sixes</title>
+    <desc lang="en">Day One: Catch all the action from the six-a-side, six-over competition from Hong Kong.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/690a9cdde4b0d8f5092438ed-1762303293057?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251107195500 +1100" stop="20251107215500 +1100" channel="4k.kayo.506">
     <title lang="en">: Portugal: Practice 1</title>
@@ -89,16 +116,49 @@
     <desc lang="en">Second round coverage of the Japan Classic begins from the Seta Golf Course, Japan.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69083f83e4b031024d73a788-1762148254031?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20251107150000 +1100" stop="20251107191000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Abu Dhabi Championship</title>
+    <desc lang="en">Featured Coverage: Ludvig Aberg/Matt Fitzpatrick/Adrien Saddier &amp; Robert MacIntyre/Alex Noren/Kristoffer Reitan</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/690ac392e4b096f4383b28af-1762327257314?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251107163000 +1100" stop="20251107214000 +1100" channel="4k.kayo.505">
+    <title lang="en">: Singapore Open</title>
+    <desc lang="en">Second round action of the Singapore Open from the Singapore Island Country Club.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/690a9b8ce4b0ddab00f45f8b-1762302926396?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251107180000 +1100" stop="20251108011000 +1100" channel="4k.kayo.503">
+    <title lang="en">Abu Dhabi HSBC Championship: Abu Dhabi HSBC Championship</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Rory McIlroy leads the charge as stars battle for points to secure their place at the Finale.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/690acc2de4b0ddab00f45fc8-1762315474981?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251108070000 +1100" stop="20251108111000 +1100" channel="4k.kayo.503">
+    <title lang="en">Mayakoba Golf Classic: World Wide Technology Championship</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">J.J. Spaun and Wyndham Clark headline the field as contenders chase key FedExCup points in the fall season race.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/690ad2a3e4b05a244a964e2d-1762318051101?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251108110000 +1100" stop="20251108130000 +1100" channel="4k.kayo.501">
+    <title lang="en">: Hong Kong Cricket Sixes</title>
+    <desc lang="en">Day Two: Catch all the action from the six-a-side, six-over competition from Hong Kong.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/690a9ce1e4b0aa254bd98908-1762303298622?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20251108184500 +1100" stop="20251109001000 +1100" channel="4k.kayo.501">
     <title lang="en">Twenty20 Internationals: Australia vs India</title>
     <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Game 5: The series wraps up at the Gabba for one final T20.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df29f9e4b0df15d746a3a2-1762221390469?location=hero-portrait-m2&amp;imwidth=720" />
+    <desc lang="en">Game Five: The series wraps up at the Gabba for one final T20.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df29f9e4b0df15d746a3a2-1762296709883?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251108191000 +1100" stop="20251109001500 +1100" channel="4k.kayo.501">
     <title lang="en">: Hindi: Australia v India</title>
     <desc lang="en">Fox Cricket presents Hindi language coverage of this fifth and final T20 between Australia and India.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69083234e4b02b529eca13ca-1762221402619?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251109012000 +1100" stop="20251109051000 +1100" channel="4k.kayo.502">
+    <title lang="en">Test Matches: England vs Australia</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Third Test: Can England rally and get a win on the board or will Australia complete a clean sweep.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/690a8cb8e4b0fcbd044ccde6-1762299509582?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251108193500 +1100" stop="20251108225500 +1100" channel="4k.kayo.506">
     <title lang="en">: Portugal: Practice 3</title>
@@ -135,6 +195,18 @@
     <desc lang="en">Third round action of the Senior Championship begins from Richmond Golf Club.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69098a40e4b0aa254bd988d1-1762232920083?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20251108180000 +1100" stop="20251109011000 +1100" channel="4k.kayo.503">
+    <title lang="en">Abu Dhabi HSBC Championship: Abu Dhabi HSBC Championship</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Third round action of the Abu Dhabi Championship begins from Yas Links Golf Club.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/690acdc7e4b07bfb2c0e50c7-1762316048952?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251109070000 +1100" stop="20251109111000 +1100" channel="4k.kayo.503">
+    <title lang="en">Mayakoba Golf Classic: World Wide Technology Championship</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Third round action of the WWT Championship begins from El Cardonal Golf Course, Mexico.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/690ad736e4b044af0530871a-1762318203402?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20251109110000 +1100" stop="20251109161000 +1100" channel="4k.kayo.505">
     <title lang="en">Twenty20 Internationals: New Zealand vs West Indies</title>
     <sub-title lang="en">2025-26</sub-title>
@@ -150,14 +222,19 @@
   <programme start="20251109165000 +1100" stop="20251109212500 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Big Bash League: Sydney Thunder Women vs Hobart Hurricanes Women</title>
     <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Phoebe Litchfield leads the Sydney Thunder against the Hobart Hurricanes, who are looking to avenge their 2024 Knockout final loss.</desc>
+    <desc lang="en">Phoebe Litchfield leads the Thunder against the Hurricanes, who are looking to avenge their 2024 Knockout final loss.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df41e5e4b0254e67736485-1762215485257?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251109201500 +1100" stop="20251110005500 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Big Bash League: Perth Scorchers Women vs Sydney Sixers Women</title>
     <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">A blockbuster at the WACA to end the opening day as Beth Mooney’s Scorchers host Ellyse Perry’s Sixers.</desc>
+    <desc lang="en">A blockbuster at the WACA to end the opening day as Beth Mooney’s Scorchers host Alyssa Healy's Sixers.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68df41f6e4b0254e67736486-1762212717380?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251109112000 +1100" stop="20251109142500 +1100" channel="4k.kayo.502">
+    <title lang="en">: Cook Islands v South Africa</title>
+    <desc lang="en">The winner of this match from Commbank Stadium Sydney will become the 10th qualifier for the 2026 Rugby League World Cup.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/690ad128e4b096f4383b28b7-1762317819284?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251109131500 +1100" stop="20251109162500 +1100" channel="4k.kayo.502">
     <title lang="en">Pacific Championships Women: Australia Women vs New Zealand Women</title>
@@ -180,6 +257,17 @@
     <title lang="en">: Senior Championship</title>
     <desc lang="en">Final round action of the Senior Championship begins from Richmond Golf Club.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69098ab1e4b0fcbd044ccdbe-1762233041501?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251110070000 +1100" stop="20251110111000 +1100" channel="4k.kayo.503">
+    <title lang="en">Mayakoba Golf Classic: World Wide Technology Championship</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Final round action of the WWT Championship begins from El Cardonal Golf Course, Mexico.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/690ad824e4b0c309f0d95267-1762318458881?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251110030000 +1100" stop="20251110061000 +1100" channel="4k.kayo.503">
+    <title lang="en">: WTT Frankfurt</title>
+    <desc lang="en">Finals: Champions are decided in Frankfurt as the WTT season reaches its thrilling conclusion.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69093f2ce4b0fcbd044ccd47-1762213765154?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251110150700 +1100" stop="20251110193000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Big Bash League: Melbourne Stars Women vs Adelaide Strikers Women</title>
@@ -232,7 +320,7 @@
   <programme start="20251116100700 +1100" stop="20251116145000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Big Bash League: Adelaide Strikers Women vs Perth Scorchers Women</title>
     <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Tahlia McGrath's Strikers face the Scorchers' star pair, Beth Mooney and Sophie Devine, in an important morning fixture.</desc>
+    <desc lang="en">Tahlia McGrath's Strikers face the Scorchers' star pair, Beth Mooney and Sophie Devine. </desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68fb1f95e4b057f436c58d8f-1762216224610?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251116133700 +1100" stop="20251116181000 +1100" channel="4k.kayo.501">
@@ -240,5 +328,11 @@
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">The first Melbourne Derby of the year gets underway as Meg Lanning’s Stars meet Sophie Molineux’s Renegades.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68fb2010e4b05c7465913706-1762216286865?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251118190700 +1100" stop="20251118233000 +1100" channel="4k.kayo.501">
+    <title lang="en">Women's Big Bash League: Hobart Hurricanes Women vs Adelaide Strikers Women</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">Elyse Villani’s Hurricanes look to contain Tahlia McGrath’s Strikers.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68fb2069e4b0a27be0d77db7-1762216341089?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
 </tv>
