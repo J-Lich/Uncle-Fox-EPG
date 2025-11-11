@@ -24,67 +24,34 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20251110110018 +1100" stop="20251110161018 +1100" channel="4k.kayo.501">
-    <title lang="en">Twenty20 Internationals: New Zealand vs West Indies</title>
-    <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Game Four. The West Indies must win to stay in the series.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/690d2d98e4b067fe59c5721c-1762471422223?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251110150733 +1100" stop="20251110193033 +1100" channel="4k.kayo.501">
-    <title lang="en">Women's Big Bash League: Melbourne Stars Women vs Adelaide Strikers Women</title>
-    <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Meg Lanning seeks an important home win to start the season against the Adelaide Strikers.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e83fe5e4b0ade454638dbf-1762213209055?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251111102500 +1100" stop="20251111191000 +1100" channel="4k.kayo.503">
-    <title lang="en">Sheffield Shield: New South Wales vs Victoria</title>
-    <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Day Two. Josh Hazlewood and Mitchell Starc return to NSW for one final Ashes tune-up.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/690d48f1e4b0072cbe0bb24b-1762478537390?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251111060000 +1100" stop="20251111111000 +1100" channel="4k.kayo.505">
-    <title lang="en">: Grand Slam</title>
-    <desc lang="en">Day 3: Luke Littler attempts to defend his 2024 title as the players converge on Wolverhampton.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/690c157fe4b0ddab00f46014-1762399683771?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251110234349 +1100" stop="20251111055349 +1100" channel="4k.kayo.505">
-    <title lang="en">: Champion of Champions</title>
-    <desc lang="en">Day One Day Session: Mark Williams will look to defend his title as the players battle at Leicester Arena.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/690c19c3e4b067fe2040861c-1762400984563?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251111050000 +1100" stop="20251111094000 +1100" channel="4k.kayo.506">
-    <title lang="en">: Mixed Pairs: Week 2</title>
-    <desc lang="en">The 2025 Ultimate Pool Mixed Pairs Cup continues with Week Two action.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/690c29c1e4b096f4aa2d71e2-1762404905723?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251111150700 +1100" stop="20251111193000 +1100" channel="4k.kayo.501">
+  <programme start="20251111150735 +1100" stop="20251111193035 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Big Bash League: Melbourne Renegades Women vs Sydney Thunder Women</title>
     <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">The Renegades who picked up a win in their first game clash with Phoebe Litchfield’s Thunder.</desc>
+    <desc lang="en">After picking up a win in their first game, the Renegades clash with Phoebe Litchfield’s Thunder.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e84025e4b032e5d1e1b464-1762730489306?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251112102500 +1100" stop="20251112191000 +1100" channel="4k.kayo.501">
     <title lang="en">Sheffield Shield: New South Wales vs Victoria</title>
     <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Day Three: Josh Hazlewood and Mitchell Starc return to NSW for one final Ashes tune-up.</desc>
+    <desc lang="en">Josh Hazlewood and Mitchell Starc return to NSW for one final Ashes tune-up.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/690d4923e4b0072cbe0bb24c-1762478549205?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251111115500 +1100" stop="20251111135500 +1100" channel="4k.kayo.504">
+  <programme start="20251111115741 +1100" stop="20251111154241 +1100" channel="4k.kayo.504">
     <title lang="en">: Clontarf Interstate Challenge</title>
     <desc lang="en">Some of the best young Indigenous footballers in Australia face off in this state-based tournament.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/690c2817e4b0db4ed6917c8a-1762724306636?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251111130000 +1100" stop="20251111144000 +1100" channel="4k.kayo.505">
+  <programme start="20251111130001 +1100" stop="20251111144001 +1100" channel="4k.kayo.505">
     <title lang="en">: Location Announcement</title>
     <desc lang="en">Tune in for more details of the Nikita Tszyu v Michael Zerafa blockbuster grudge match.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6911124de4b0d31a11ac9a3f-1762726632216?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251112060000 +1100" stop="20251112111000 +1100" channel="4k.kayo.505">
     <title lang="en">: Grand Slam</title>
-    <desc lang="en">Day 4: Luke Littler attempts to defend his 2024 title as the players converge on Wolverhampton.</desc>
+    <desc lang="en">Day Four. Luke Littler attempts to defend his 2024 title as the players converge on Wolverhampton.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6911607fe4b0a8382957df53-1762746652341?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251111234500 +1100" stop="20251112055500 +1100" channel="4k.kayo.505">
+  <programme start="20251111234338 +1100" stop="20251112055338 +1100" channel="4k.kayo.505">
     <title lang="en">: Champion of Champions</title>
     <desc lang="en">Day Two Day Session: Mark Williams will look to defend his title as the players battle at Leicester Arena.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/690c239fe4b067fe59c571c0-1762403349875?location=hero-portrait-m2&amp;imwidth=720" />
@@ -103,7 +70,7 @@
   </programme>
   <programme start="20251113060000 +1100" stop="20251113111000 +1100" channel="4k.kayo.505">
     <title lang="en">: Grand Slam</title>
-    <desc lang="en">Day 5: Luke Littler attempts to defend his 2024 title as the players converge on Wolverhampton.</desc>
+    <desc lang="en">Day Five. Luke Littler attempts to defend his 2024 title as the players converge on Wolverhampton.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6911652ce4b0a3010dbf6a58-1762747797642?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251112234500 +1100" stop="20251113055500 +1100" channel="4k.kayo.505">
@@ -114,14 +81,47 @@
   <programme start="20251113110000 +1100" stop="20251113161000 +1100" channel="4k.kayo.503">
     <title lang="en">Twenty20 Internationals: New Zealand vs West Indies</title>
     <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Game Five. New Zealand is up 2-1 and will be looking to shut the West Indies out of a series draw. </desc>
+    <desc lang="en">New Zealand is up 2-1 and will be looking to shut the West Indies out of a series draw in game five.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/690d2ac4e4b0ddabb5b6786a-1762470705021?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251113183000 +1100" stop="20251113235000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Big Bash League: Sydney Sixers Women vs Hobart Hurricanes Women</title>
     <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Ellyse Perry leads the sixers against a tough Hurricanes squad at North Sydney Oval.</desc>
+    <desc lang="en">Ellyse Perry looks to maintain her early form against a tough Hurricanes at North Sydney Oval.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68e84507e4b0a699d676b945-1762215506471?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251114060000 +1100" stop="20251114111000 +1100" channel="4k.kayo.505">
+    <title lang="en">: Grand Slam</title>
+    <desc lang="en">Day Six. Luke Littler attempts to defend his 2024 title as the players converge on Wolverhampton.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6912a60be4b094ddb32b8d36-1762829954825?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251113180000 +1100" stop="20251114011000 +1100" channel="4k.kayo.503">
+    <title lang="en">DP World Tour Championship: DP World Tour Championship</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">The season-final field features McIlroy, Fleetwood, Hatton and Rose as the Race to Dubai title battle begins.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6912659fe4b0a8382957df84-1762813428439?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251114020000 +1100" stop="20251114061000 +1100" channel="4k.kayo.503">
+    <title lang="en">: The Annika</title>
+    <desc lang="en">First round coverage of the The Annika begins from the Pelican Golf Club, Florida.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6912c44ce4b0a8382957dfd9-1762837653808?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251114050000 +1100" stop="20251114091000 +1100" channel="4k.kayo.503">
+    <title lang="en">Butterfield_Bermuda_Championship: Butterfield Bermuda Championship</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Play begins from Bermuda where the fall series continues and rising stars battle for PGA Tour status.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691266c1e4b0a8382957df8a-1762813818296?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251113234500 +1100" stop="20251114055500 +1100" channel="4k.kayo.505">
+    <title lang="en">: Champion of Champions</title>
+    <desc lang="en">Day 4 Day Session: Mark Williams will look to defend his title as the players battle at Leicester Arena.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69129d8ee4b0a8382957df9e-1762827856362?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251114145000 +1100" stop="20251114234000 +1100" channel="4k.kayo.505">
+    <title lang="en">Test Matches: India vs South Africa</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">Day One: The World Test Champs will be in for a challenge as they travel to the subcontinent to take on India.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/690d8fb7e4b096f4aa2d72af-1762496754995?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251114153700 +1100" stop="20251114202000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Big Bash League: Perth Scorchers Women vs Melbourne Stars Women</title>
@@ -132,19 +132,36 @@
   <programme start="20251114190700 +1100" stop="20251114233000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Big Bash League: Adelaide Strikers Women vs Melbourne Renegades Women</title>
     <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Tahlia McGrath's Strikers face the champion Renegades, led by Sophie Molineux and Georgia Wareham.</desc>
+    <desc lang="en">The Strikers hope to get their campaign off the ground against last year's champions the Renegades.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68f9e868e4b09d53c02241bd-1762215587842?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251114180000 +1100" stop="20251115011000 +1100" channel="4k.kayo.503">
+    <title lang="en">DP World Tour Championship: DP World Tour Championship</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">The season-final field features McIlroy, Fleetwood, Hatton and Rose as the Race to Dubai title battle continues.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691265a5e4b0b81e66f61a38-1762813511320?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251115020000 +1100" stop="20251115061000 +1100" channel="4k.kayo.503">
+    <title lang="en">: The Annika</title>
+    <desc lang="en">Second round coverage of the The Annika begins from the Pelican Golf Club, Florida.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6912c522e4b0b200b28e43ca-1762837961376?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251115050000 +1100" stop="20251115091000 +1100" channel="4k.kayo.503">
+    <title lang="en">Butterfield_Bermuda_Championship: Butterfield Bermuda Championship</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Play continues from Bermuda where the fall series continues and rising stars battle for PGA Tour status.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691266eae4b0a3010dbf6abc-1762813914582?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251115150000 +1100" stop="20251115200500 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Big Bash League: Hobart Hurricanes Women vs Brisbane Heat Women</title>
     <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Elyse Villani’s Hurricanes look to contain the aggressive pairing of Beth Mooney and Grace Harris.</desc>
+    <desc lang="en">Elyse Villani’s Hurricanes look to contain the aggressive batting power of the Heats Grace Harris.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68f9e9f8e4b01c15a5a670f7-1762214908530?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251115185500 +1100" stop="20251115233000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Big Bash League: Sydney Thunder Women vs Sydney Sixers Women</title>
     <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">First in the Sydney showdown of the season as Phoebe Litchfield's Thunder faces off with Ellyse Perry and Alyssa Healy's Sixers.</desc>
+    <desc lang="en">Phoebe Litchfield's Thunder faces off with Ellyse Perry Sixers in the first Sydney showdown.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68f9ea39e4b057f436c58d13-1762215434219?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251116100700 +1100" stop="20251116145000 +1100" channel="4k.kayo.501">
@@ -153,11 +170,57 @@
     <desc lang="en">Tahlia McGrath's Strikers face the Scorchers' star pair, Beth Mooney and Sophie Devine. </desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68fb1f95e4b057f436c58d8f-1762216224610?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20251115130000 +1100" stop="20251115161000 +1100" channel="4k.kayo.504">
+    <title lang="en">AFL Women's: Melbourne Demons Women vs Adelaide Crows Women</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">A long-standing AFLW rivalry renews as Melbourne hosts Adelaide at Ikon Park with a place in the Preliminary Final on the line.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691269fee4b0dfb6e2d5c75c-1762814531149?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251115190000 +1100" stop="20251115224000 +1100" channel="4k.kayo.504">
+    <title lang="en">AFL Women's: Hawthorn Hawks Women vs Carlton Blues Women</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">It's do-or-die for the Hawks and Blues as they battle it out in a Semi Final showdown under lights at Ikon Park.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69126a1ae4b07f906f1221f8-1762814576627?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251115180000 +1100" stop="20251116011000 +1100" channel="4k.kayo.503">
+    <title lang="en">DP World Tour Championship: DP World Tour Championship</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Third round action of the Tour Championship begins from Jumeirah Golf Estates, Dubai.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691265abe4b0dfb6e2d5c73f-1762813526104?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251116033000 +1100" stop="20251116074000 +1100" channel="4k.kayo.503">
+    <title lang="en">Butterfield_Bermuda_Championship: Butterfield Bermuda Championship</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Third round action of the Bermuda Championship begins from Port Royal Golf Course.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691266efe4b0b81e66f61a3f-1762814201814?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251116053000 +1100" stop="20251116094000 +1100" channel="4k.kayo.506">
+    <title lang="en">: The Annika</title>
+    <desc lang="en">Third round coverage of the The Annika begins from the Pelican Golf Club, Florida.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6912c611e4b0b200b28e43cc-1762838320161?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20251116133700 +1100" stop="20251116181000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Big Bash League: Melbourne Stars Women vs Melbourne Renegades Women</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">The first Melbourne Derby of the year gets underway as Meg Lanning’s Stars meet Sophie Molineux’s Renegades.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68fb2010e4b05c7465913706-1762216286865?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251116173000 +1100" stop="20251117004000 +1100" channel="4k.kayo.503">
+    <title lang="en">DP World Tour Championship: DP World Tour Championship</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Final round action of the Tour Championship begins from Jumeirah Golf Estates, Dubai.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691265afe4b0a3010dbf6ab7-1762813551818?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251117030000 +1100" stop="20251117071000 +1100" channel="4k.kayo.503">
+    <title lang="en">Butterfield_Bermuda_Championship: Butterfield Bermuda Championship</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Final round action of the Bermuda Championship begins from Port Royal Golf Course.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691266f5e4b070912a21ac2c-1762813920682?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251117050000 +1100" stop="20251117091000 +1100" channel="4k.kayo.506">
+    <title lang="en">: The Annika</title>
+    <desc lang="en">Final round coverage of the The Annika begins from the Pelican Golf Club, Florida.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6912c7a1e4b0dfb6e2d5c7ad-1762838477170?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251118190700 +1100" stop="20251118233000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Big Bash League: Hobart Hurricanes Women vs Adelaide Strikers Women</title>
@@ -224,5 +287,11 @@
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Cricket’s greatest rivalry returns with Perth hosting the first of five Ashes Tests, begins at 12:00 p.m. AEDT on November 21</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69082e95e4b0aa254bd987f6-1762144149050?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251124122000 +1100" stop="20251124221000 +1100" channel="4k.kayo.501">
+    <title lang="en">Test Matches: Australia vs England</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">Cricket’s greatest rivalry returns with Perth hosting the first of five Ashes Tests, begins at 12:00 p.m. AEDT on November 21</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69082e98e4b0c31c5f438609-1762144155060?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
 </tv>
