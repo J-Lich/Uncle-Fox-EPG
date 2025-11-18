@@ -24,26 +24,26 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20251118050000 +1100" stop="20251118094000 +1100" channel="4k.kayo.505">
-    <title lang="en">: Mixed Pairs: Week 3</title>
-    <desc lang="en">The 2025 Ultimate Pool Mixed Pairs Cup continues with Week Three action.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69155c83e4b047b3cef41b0c-1763007732296?location=hero-portrait-m2&amp;imwidth=720" />
+  <programme start="20251119004727 +1100" stop="20251119061227 +1100" channel="4k.kayo.501">
+    <title lang="en">: Abu Dhabi T10</title>
+    <desc lang="en">The 10-over format gets underway in UAE with Marcus Stonis, Tim David and more competing for this year’s title.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691bca9ce4b05c3cf4963dc6-1763429119247?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251118190700 +1100" stop="20251118233000 +1100" channel="4k.kayo.501">
+  <programme start="20251118190736 +1100" stop="20251118233036 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Big Bash League: Hobart Hurricanes Women vs Adelaide Strikers Women</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Top of the table Hurricanes look to contain Tahlia McGrath’s Strikers.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68fb2069e4b0a27be0d77db7-1762908995412?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251118195000 +1100" stop="20251119002500 +1100" channel="4k.kayo.506">
-    <title lang="en">: 2026 Testing</title>
-    <desc lang="en">Following the end of the 2025 MotoGP season, the first test for the 2026 season starts in Valencia.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69155762e4b0a301716e89a3-1763006473424?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251119002000 +1100" stop="20251119043000 +1100" channel="4k.kayo.506">
+  <programme start="20251119002020 +1100" stop="20251119043020 +1100" channel="4k.kayo.506">
     <title lang="en">: 2026 Testing</title>
     <desc lang="en">Following the end of the 2025 MotoGP season, the first test for the 2026 season comes to a close in Valencia.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69155863e4b0dfb6e2d5c87a-1763006633393?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251118195048 +1100" stop="20251119002548 +1100" channel="4k.kayo.506">
+    <title lang="en">: 2026 Testing</title>
+    <desc lang="en">Following the end of the 2025 MotoGP season, the first test for the 2026 season starts in Valencia.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69155762e4b0a301716e89a3-1763006473424?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251119113000 +1100" stop="20251119211000 +1100" channel="4k.kayo.505">
     <title lang="en">One-Day Internationals: New Zealand vs West Indies</title>
@@ -67,6 +67,11 @@
     <desc lang="en">Tim Tszyu's next opponent is announced, as the "Phoenix" looks to rise from the ashes.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/691aa4f4e4b03c547ec7dd5e-1763353907750?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20251119193000 +1100" stop="20251120014000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Saudi International</title>
+    <desc lang="en">First round action of the Saudi International from the Riyadh Golf Club.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691bb020e4b087365cc1d077-1763422470750?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20251120153700 +1100" stop="20251120202000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Big Bash League: Melbourne Renegades Women vs Hobart Hurricanes Women</title>
     <sub-title lang="en">2025-26</sub-title>
@@ -78,6 +83,16 @@
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Ellyse Perry and Meg Lanning headline a East Coast clash as both sides push for momentum.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68fb2329e4b0a27be0d77dba-1762910909860?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251120190000 +1100" stop="20251120231000 +1100" channel="4k.kayo.504">
+    <title lang="en">: 2025 AFL Draft: Day 2</title>
+    <desc lang="en">Join the Fox Footy team for rounds 2-7 of the 2025 AFL Draft.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691657a9e4b020a565534155-1763334098080?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251120193000 +1100" stop="20251121014000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Saudi International</title>
+    <desc lang="en">Second round action of the Saudi International from the Riyadh Golf Club.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691bb14fe4b0b29a232b2f0e-1763422706207?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251121120000 +1100" stop="20251121221000 +1100" channel="4k.kayo.501">
     <title lang="en">Test Matches: Australia vs England</title>
@@ -97,6 +112,33 @@
     <desc lang="en">Natalie Sciver-Brunt’s power faces Ellyse Perry’s precision in a battle of world-class all-rounders.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68fb2735e4b01c15a5a67164-1762909148083?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20251121110000 +1100" stop="20251121140500 +1100" channel="4k.kayo.506">
+    <title lang="en">Formula One World Championship: Las Vegas Grand Prix</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Formula 1 returns to the streets of Sin City as drivers head out for the opening practice session.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6913ee03e4b0dfb6e2d5c80e-1762913940549?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251121130000 +1100" stop="20251121145500 +1100" channel="4k.kayo.506">
+    <title lang="en">: Las Vegas: Practice</title>
+    <desc lang="en">The final round of the 2025 F1 Academy season begins with practice on the streets of Las Vegas.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691bde32e4b0b29a232b2f2f-1763434570992?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251121144500 +1100" stop="20251121173500 +1100" channel="4k.kayo.506">
+    <title lang="en">Formula One World Championship: Las Vegas Grand Prix</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Championship rivals Lando Norris and Oscar Piastri seek optimal pace in Las Vegas as the second practice session begins.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6913ee07e4b0a301716e8903-1762914038318?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251121162800 +1100" stop="20251121181500 +1100" channel="4k.kayo.506">
+    <title lang="en">: Las Vegas: Qualifying</title>
+    <desc lang="en">Title rivals Doriane Pin and Maya Weug battle for pole, seeking a crucial advantage in the championship finale.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691be1bfe4b06258c92dbb32-1763435458802?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251121193000 +1100" stop="20251122011000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Saudi International</title>
+    <desc lang="en">Third round action of the Saudi International from the Riyadh Golf Club.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691bb249e4b0b29a232b2f11-1763422892256?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20251122122000 +1100" stop="20251122221000 +1100" channel="4k.kayo.501">
     <title lang="en">Test Matches: Australia vs England</title>
     <sub-title lang="en">2025-26</sub-title>
@@ -109,11 +151,56 @@
     <desc lang="en">The Thunder's Phoebe Litchfield will need a big score to overcome the Renegades' strong bowling unit</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68fb27e5e4b0af2456ea431e-1762909610263?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20251122111500 +1100" stop="20251122142000 +1100" channel="4k.kayo.506">
+    <title lang="en">Formula One World Championship: Las Vegas Grand Prix</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">It’s the last chance for the drivers to get their handle on the rapid Las Vegas Strip Circuit ahead of qualifying.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6913ee0ae4b094ddb32b8e05-1762914176844?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251122131000 +1100" stop="20251122151000 +1100" channel="4k.kayo.506">
+    <title lang="en">: Las Vegas: Race 1</title>
+    <desc lang="en">Doriane Pin and Maya Weug battle for crucial championship points in this reverse-grid race.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691be6cbe4b03c547ec7ddbf-1763436395546?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251122140000 +1100" stop="20251122184000 +1100" channel="4k.kayo.506">
+    <title lang="en">Formula One World Championship: Las Vegas Grand Prix</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Pole position is up for grabs as Oscar Piastri fights for a much-needed advantage over title leader Lando Norris.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6913ee0de4b0a8382957e074-1762920756799?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251122180000 +1100" stop="20251122200000 +1100" channel="4k.kayo.506">
+    <title lang="en">: Round 4: Melbourne</title>
+    <desc lang="en">Championship leader Dean Wilson faces an intense challenge from world-class Australian riders Jett &amp; Hunter Lawrence.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691bfdc1e4b0b29a232b2f3d-1763443056409?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251122143000 +1100" stop="20251122184000 +1100" channel="4k.kayo.504">
+    <title lang="en">AFL Women's: North Melbourne Kangaroos Women vs Melbourne Demons Women</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Defending AFLW premier North Melbourne hosts rivals Melbourne at Ikon Park for a place in the 2025 Grand Final.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691bfa32e4b05c3cf4963de9-1763441374100?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251122190000 +1100" stop="20251122224000 +1100" channel="4k.kayo.504">
+    <title lang="en">AFL Women's: Brisbane Lions Women vs Carlton Blues Women</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">A blockbuster Preliminary Final as Brisbane and Carlton battle it out for a place in the 2025 decider under lights in Springfield.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691bfa3be4b05c3cf4963dea-1763441459131?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20251123122000 +1100" stop="20251123221000 +1100" channel="4k.kayo.501">
     <title lang="en">Test Matches: Australia vs England</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Cricket’s greatest rivalry returns with Perth hosting the first of five Ashes Tests, begins at 12:00 p.m. AEDT on November 21</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69082e95e4b0aa254bd987f6-1762144149050?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251123111500 +1100" stop="20251123131500 +1100" channel="4k.kayo.506">
+    <title lang="en">: Las Vegas: Race 2</title>
+    <desc lang="en">The season's final race guarantees high-stakes as Doriane Pin &amp; Maya Weug conclude their season-long fight for the title.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691be7c5e4b06258c92dbb36-1763436737110?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251123133000 +1100" stop="20251123194000 +1100" channel="4k.kayo.506">
+    <title lang="en">Formula One World Championship: Las Vegas Grand Prix</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Oscar Piastri must close the points gap to Lando Norris, while Max Verstappen needs a victory to keep his title hopes alive.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6913ee10e4b0dfb6e2d5c80f-1762920778593?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251124122000 +1100" stop="20251124221000 +1100" channel="4k.kayo.501">
     <title lang="en">Test Matches: Australia vs England</title>
