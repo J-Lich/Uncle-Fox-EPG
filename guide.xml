@@ -28,355 +28,188 @@
     <display-name>FOX 507</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/FOX%20Sports%20More.png" />
   </channel>
-  <programme start="20251123234000 +1100" stop="20251124000000 +1100" channel="501.FS1">
-    <title lang="en">WBBL Mini: SCO v STR</title>
-    <sub-title lang="en">SCO v STR</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124000000 +1100" stop="20251124010000 +1100" channel="501.FS1">
-    <title lang="en">Test Day: The Ashes T1 D2</title>
-    <sub-title lang="en">The Ashes T1 D2</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124010000 +1100" stop="20251124012000 +1100" channel="501.FS1">
-    <title lang="en">WBBL Mini: HUR v SIX</title>
-    <sub-title lang="en">HUR v SIX</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124012000 +1100" stop="20251124014000 +1100" channel="501.FS1">
-    <title lang="en">WBBL Mini: SCO v STR</title>
-    <sub-title lang="en">SCO v STR</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124014000 +1100" stop="20251124024000 +1100" channel="501.FS1">
-    <title lang="en">Test Day: The Ashes T1 D2</title>
-    <sub-title lang="en">The Ashes T1 D2</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124024000 +1100" stop="20251124030000 +1100" channel="501.FS1">
-    <title lang="en">TRAVBALL</title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124030000 +1100" stop="20251124032000 +1100" channel="501.FS1">
-    <title lang="en">WBBL Mini: SCO v STR</title>
-    <sub-title lang="en">SCO v STR</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124032000 +1100" stop="20251124034000 +1100" channel="501.FS1">
-    <title lang="en">The Ashes Mini: 1st Test Day 1</title>
-    <sub-title lang="en">1st Test Day 1</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124034000 +1100" stop="20251124045000 +1100" channel="501.FS1">
-    <title lang="en">Test Day: The Ashes T1 D2</title>
-    <sub-title lang="en">The Ashes T1 D2</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124045000 +1100" stop="20251124051000 +1100" channel="501.FS1">
-    <title lang="en">TRAVBALL</title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124051000 +1100" stop="20251124053000 +1100" channel="501.FS1">
-    <title lang="en">WBBL Mini: THU v REN</title>
-    <sub-title lang="en">THU v REN</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124053000 +1100" stop="20251124055000 +1100" channel="501.FS1">
-    <title lang="en">The Ashes Mini: 1st Test Day 1</title>
-    <sub-title lang="en">1st Test Day 1</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124055000 +1100" stop="20251124065000 +1100" channel="501.FS1">
-    <title lang="en">Test Day: The Ashes T1 D2</title>
-    <sub-title lang="en">The Ashes T1 D2</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124065000 +1100" stop="20251124071000 +1100" channel="501.FS1">
-    <title lang="en">WBBL Mini: THU v REN</title>
-    <sub-title lang="en">THU v REN</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124071000 +1100" stop="20251124073000 +1100" channel="501.FS1">
-    <title lang="en">WBBL Mini: SCO v STR</title>
-    <sub-title lang="en">SCO v STR</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124073000 +1100" stop="20251124075000 +1100" channel="501.FS1">
-    <title lang="en">WBBL Mini: THU v REN</title>
-    <sub-title lang="en">THU v REN</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124075000 +1100" stop="20251124081000 +1100" channel="501.FS1">
-    <title lang="en">TRAVBALL</title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124081000 +1100" stop="20251124083000 +1100" channel="501.FS1">
-    <title lang="en">Test Mini IND v SA: 2nd Test D2</title>
-    <sub-title lang="en">2nd Test D2</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124083000 +1100" stop="20251124085000 +1100" channel="501.FS1">
-    <title lang="en">The Ashes Mini: 1st Test Day 1</title>
-    <sub-title lang="en">1st Test Day 1</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124085000 +1100" stop="20251124095000 +1100" channel="501.FS1">
-    <title lang="en">Test Day: The Ashes T1 D2</title>
-    <sub-title lang="en">The Ashes T1 D2</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124095000 +1100" stop="20251124101000 +1100" channel="501.FS1">
-    <title lang="en">Test Mini IND v SA: 2nd Test D2</title>
-    <sub-title lang="en">2nd Test D2</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124101000 +1100" stop="20251124103000 +1100" channel="501.FS1">
-    <title lang="en">WBBL Mini: HEA v STA</title>
-    <sub-title lang="en">HEA v STA</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124103000 +1100" stop="20251124105000 +1100" channel="501.FS1">
-    <title lang="en">TRAVBALL</title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124105000 +1100" stop="20251124120000 +1100" channel="501.FS1">
-    <title lang="en">Test Day: The Ashes T1 D2</title>
-    <sub-title lang="en">The Ashes T1 D2</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124120000 +1100" stop="20251124130000 +1100" channel="501.FS1">
-    <title lang="en">ODI: NZL v WI Game 3</title>
-    <sub-title lang="en">NZL v WI Game 3</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124130000 +1100" stop="20251124140000 +1100" channel="501.FS1">
-    <title lang="en">Test Day: The Ashes T1 D2</title>
-    <sub-title lang="en">The Ashes T1 D2</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124140000 +1100" stop="20251124142000 +1100" channel="501.FS1">
-    <title lang="en">Test Mini IND v SA: 2nd Test D2</title>
-    <sub-title lang="en">2nd Test D2</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124142000 +1100" stop="20251124162500 +1100" channel="501.FS1">
-    <title lang="en">Live: Test: IND v SA 2nd Test Day 3 S1</title>
-    <sub-title lang="en">IND v SA 2nd Test Day 3 S1</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124162500 +1100" stop="20251124165000 +1100" channel="501.FS1">
-    <title lang="en">Live: Tea Break: IND v SA</title>
-    <sub-title lang="en">IND v SA</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124165000 +1100" stop="20251124185500 +1100" channel="501.FS1">
-    <title lang="en">Live: Test: IND v SA 2nd Test Day 3 S2</title>
-    <sub-title lang="en">IND v SA 2nd Test Day 3 S2</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124185500 +1100" stop="20251124192500 +1100" channel="501.FS1">
-    <title lang="en">Mitchell Starc Strikes</title>
-    <sub-title lang="en">Mitchell Starc Strikes</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124192500 +1100" stop="20251124220000 +1100" channel="501.FS1">
-    <title lang="en">Live: Test: IND v SA 2nd Test Day 3 S3</title>
-    <sub-title lang="en">IND v SA 2nd Test Day 3 S3</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124220000 +1100" stop="20251124230000 +1100" channel="501.FS1">
-    <title lang="en">Test Day: The Ashes T1 D1</title>
-    <sub-title lang="en">The Ashes T1 D1</sub-title>
-    <desc lang="en" />
-  </programme>
   <programme start="20251124230000 +1100" stop="20251125000000 +1100" channel="501.FS1">
     <title lang="en">Test Day: The Ashes T1 D2</title>
     <sub-title lang="en">The Ashes T1 D2</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251125000000 +1100" stop="20251125010000 +1100" channel="501.FS1">
-    <title lang="en">Test Day: The Ashes First Test Day 4</title>
-    <sub-title lang="en">The Ashes First Test Day 4</sub-title>
+    <title lang="en">Test Day: The Ashes T1 D1</title>
+    <sub-title lang="en">The Ashes T1 D1</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125010000 +1100" stop="20251125012000 +1100" channel="501.FS1">
-    <title lang="en">WBBL Mini: THU v REN</title>
-    <sub-title lang="en">THU v REN</sub-title>
+  <programme start="20251125010000 +1100" stop="20251125020000 +1100" channel="501.FS1">
+    <title lang="en">Test Day: The Ashes T1 D2</title>
+    <sub-title lang="en">The Ashes T1 D2</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125012000 +1100" stop="20251125014000 +1100" channel="501.FS1">
-    <title lang="en">WBBL Mini: HEA v STA</title>
-    <sub-title lang="en">HEA v STA</sub-title>
+  <programme start="20251125020000 +1100" stop="20251125030000 +1100" channel="501.FS1">
+    <title lang="en">Test Day: The Ashes T1 D1</title>
+    <sub-title lang="en">The Ashes T1 D1</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125014000 +1100" stop="20251125024000 +1100" channel="501.FS1">
-    <title lang="en">Test Day: The Ashes First Test Day 4</title>
-    <sub-title lang="en">The Ashes First Test Day 4</sub-title>
+  <programme start="20251125030000 +1100" stop="20251125040000 +1100" channel="501.FS1">
+    <title lang="en">Test Day: The Ashes T1 D2</title>
+    <sub-title lang="en">The Ashes T1 D2</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125024000 +1100" stop="20251125034000 +1100" channel="501.FS1">
-    <title lang="en">Ashes: 2002/03 5th Test</title>
-    <sub-title lang="en">2002/03 5th Test</sub-title>
+  <programme start="20251125040000 +1100" stop="20251125050000 +1100" channel="501.FS1">
+    <title lang="en">Test Day: The Ashes T1 D1</title>
+    <sub-title lang="en">The Ashes T1 D1</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125034000 +1100" stop="20251125045000 +1100" channel="501.FS1">
-    <title lang="en">Test Day: The Ashes First Test Day 4</title>
-    <sub-title lang="en">The Ashes First Test Day 4</sub-title>
+  <programme start="20251125050000 +1100" stop="20251125060000 +1100" channel="501.FS1">
+    <title lang="en">Test Day: The Ashes T1 D2</title>
+    <sub-title lang="en">The Ashes T1 D2</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125045000 +1100" stop="20251125055000 +1100" channel="501.FS1">
-    <title lang="en">Ashes: 2010/11 5th Test</title>
-    <sub-title lang="en">2010/11 5th Test</sub-title>
+  <programme start="20251125060000 +1100" stop="20251125070000 +1100" channel="501.FS1">
+    <title lang="en">Ashes: 2006/07 3rd Test</title>
+    <sub-title lang="en">2006/07 3rd Test</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125055000 +1100" stop="20251125065000 +1100" channel="501.FS1">
-    <title lang="en">Test Day: The Ashes First Test Day 4</title>
-    <sub-title lang="en">The Ashes First Test Day 4</sub-title>
+  <programme start="20251125070000 +1100" stop="20251125072000 +1100" channel="501.FS1">
+    <title lang="en">Test Mini IND v SA: 2nd Test Day 3</title>
+    <sub-title lang="en">2nd Test Day 3</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125065000 +1100" stop="20251125075000 +1100" channel="501.FS1">
-    <title lang="en">Ashes: 2017/18 3rd Test</title>
-    <sub-title lang="en">2017/18 3rd Test</sub-title>
+  <programme start="20251125072000 +1100" stop="20251125074000 +1100" channel="501.FS1">
+    <title lang="en">TRAVBALL</title>
+    <sub-title lang="en">TRAVBALL</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125075000 +1100" stop="20251125081000 +1100" channel="501.FS1">
-    <title lang="en">The Ashes Mini: 1st Test Day 4</title>
-    <sub-title lang="en">1st Test Day 4</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251125081000 +1100" stop="20251125083000 +1100" channel="501.FS1">
+  <programme start="20251125074000 +1100" stop="20251125080000 +1100" channel="501.FS1">
     <title lang="en">Test Mini IND v SA: 2nd Test D3</title>
     <sub-title lang="en">2nd Test D3</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125083000 +1100" stop="20251125085000 +1100" channel="501.FS1">
-    <title lang="en">The Ashes Mini: 1st Test Day 4</title>
-    <sub-title lang="en">1st Test Day 4</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251125085000 +1100" stop="20251125095000 +1100" channel="501.FS1">
-    <title lang="en">Test Day: The Ashes First Test Day 4</title>
-    <sub-title lang="en">The Ashes First Test Day 4</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251125095000 +1100" stop="20251125101000 +1100" channel="501.FS1">
-    <title lang="en">The Ashes Mini: 1st Test Day 4</title>
-    <sub-title lang="en">1st Test Day 4</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251125101000 +1100" stop="20251125103000 +1100" channel="501.FS1">
-    <title lang="en">Test Mini IND v SA: 2nd Test D3</title>
-    <sub-title lang="en">2nd Test D3</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251125103000 +1100" stop="20251125105000 +1100" channel="501.FS1">
-    <title lang="en">The Ashes Mini: 1st Test Day 4</title>
-    <sub-title lang="en">1st Test Day 4</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251125105000 +1100" stop="20251125115000 +1100" channel="501.FS1">
-    <title lang="en">Test Day: The Ashes First Test Day 4</title>
-    <sub-title lang="en">The Ashes First Test Day 4</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251125115000 +1100" stop="20251125122000 +1100" channel="501.FS1">
-    <title lang="en">Live: Ashes Daily</title>
-    <sub-title lang="en">Episode 5</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251125122000 +1100" stop="20251125132000 +1100" channel="501.FS1">
-    <title lang="en">Live: Pre Game: The Ashes</title>
-    <sub-title lang="en">The Ashes</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251125132000 +1100" stop="20251125152000 +1100" channel="501.FS1">
-    <title lang="en">Live: The Ashes First Test Day 5 S1</title>
-    <sub-title lang="en">First Test Day 5 S1</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251125152000 +1100" stop="20251125160000 +1100" channel="501.FS1">
-    <title lang="en">Live: The Big Break: The Ashes</title>
-    <sub-title lang="en">The Ashes</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251125160000 +1100" stop="20251125180000 +1100" channel="501.FS1">
-    <title lang="en">Live: The Ashes First Test Day 5 S2</title>
-    <sub-title lang="en">First Test Day 5 S2</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251125180000 +1100" stop="20251125182000 +1100" channel="501.FS1">
-    <title lang="en">Live: Tea Break: The Ashes</title>
-    <sub-title lang="en">The Ashes</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251125182000 +1100" stop="20251125205000 +1100" channel="501.FS1">
-    <title lang="en">Live: The Ashes First Test Day 5 S3</title>
-    <sub-title lang="en">First Test Day 5 S3</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251125205000 +1100" stop="20251125210000 +1100" channel="501.FS1">
-    <title lang="en">Live: Post Game: The Ashes</title>
-    <sub-title lang="en">The Ashes</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251125210000 +1100" stop="20251125220000 +1100" channel="501.FS1">
-    <title lang="en">Test Day: The Ashes First Test Day 4</title>
-    <sub-title lang="en">The Ashes First Test Day 4</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251125220000 +1100" stop="20251125230000 +1100" channel="501.FS1">
-    <title lang="en">Test Day: The Ashes First Test Day 5</title>
-    <sub-title lang="en">The Ashes First Test Day 5</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251125230000 +1100" stop="20251125232000 +1100" channel="501.FS1">
-    <title lang="en">The Ashes Mini: 1st Test Day 5</title>
-    <sub-title lang="en">1st Test Day 5</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251125232000 +1100" stop="20251125234000 +1100" channel="501.FS1">
-    <title lang="en">WBBL Mini: HEA v STA</title>
-    <sub-title lang="en">HEA v STA</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251125234000 +1100" stop="20251126000000 +1100" channel="501.FS1">
-    <title lang="en">The Ashes Mini: 1st Test Day 5</title>
-    <sub-title lang="en">1st Test Day 5</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251126000000 +1100" stop="20251126010000 +1100" channel="501.FS1">
-    <title lang="en">Test Day: The Ashes First Test Day 5</title>
-    <sub-title lang="en">The Ashes First Test Day 5</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251126010000 +1100" stop="20251126012000 +1100" channel="501.FS1">
-    <title lang="en">WBBL Mini: HEA v THU</title>
-    <sub-title lang="en">HEA v THU</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251126012000 +1100" stop="20251126014000 +1100" channel="501.FS1">
-    <title lang="en">WBBL Mini: HUR v SIX</title>
-    <sub-title lang="en">HUR v SIX</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251126014000 +1100" stop="20251126020500 +1100" channel="501.FS1">
+  <programme start="20251125080000 +1100" stop="20251125082000 +1100" channel="501.FS1">
     <title lang="en">WBBL Mini: SCO v STR</title>
     <sub-title lang="en">SCO v STR</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251126020500 +1100" stop="20251126030500 +1100" channel="501.FS1">
-    <title lang="en">Test Day: The Ashes First Test Day 5</title>
-    <sub-title lang="en">The Ashes First Test Day 5</sub-title>
+  <programme start="20251125082000 +1100" stop="20251125084000 +1100" channel="501.FS1">
+    <title lang="en">WBBL Mini: THU v REN</title>
+    <sub-title lang="en">THU v REN</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251126030500 +1100" stop="20251126040500 +1100" channel="501.FS1">
-    <title lang="en">Ashes: 1994/95 1st Test</title>
-    <sub-title lang="en">1994/95 1st Test</sub-title>
+  <programme start="20251125084000 +1100" stop="20251125090000 +1100" channel="501.FS1">
+    <title lang="en">WBBL Mini: HEA v STA</title>
+    <sub-title lang="en">HEA v STA</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251126040500 +1100" stop="20251126050500 +1100" channel="501.FS1">
-    <title lang="en">Test Day: The Ashes First Test Day 5</title>
-    <sub-title lang="en">The Ashes First Test Day 5</sub-title>
+  <programme start="20251125090000 +1100" stop="20251125092000 +1100" channel="501.FS1">
+    <title lang="en">Test Mini IND v SA: 2nd Test Day 3</title>
+    <sub-title lang="en">2nd Test Day 3</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251125092000 +1100" stop="20251125094000 +1100" channel="501.FS1">
+    <title lang="en">TRAVBALL</title>
+    <sub-title lang="en">TRAVBALL</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251125094000 +1100" stop="20251125100000 +1100" channel="501.FS1">
+    <title lang="en">Test Mini IND v SA: 2nd Test D3</title>
+    <sub-title lang="en">2nd Test D3</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251125100000 +1100" stop="20251125110000 +1100" channel="501.FS1">
+    <title lang="en">Test Day: The Ashes T1 D1</title>
+    <sub-title lang="en">The Ashes T1 D1</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251125110000 +1100" stop="20251125120000 +1100" channel="501.FS1">
+    <title lang="en">Test Day: The Ashes T1 D2</title>
+    <sub-title lang="en">The Ashes T1 D2</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251125120000 +1100" stop="20251125130000 +1100" channel="501.FS1">
+    <title lang="en">Ashes: 2006/07 3rd Test</title>
+    <sub-title lang="en">2006/07 3rd Test</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251125130000 +1100" stop="20251125140000 +1100" channel="501.FS1">
+    <title lang="en">The Ashes First Test</title>
+    <sub-title lang="en">First Test</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251125140000 +1100" stop="20251125142000 +1100" channel="501.FS1">
+    <title lang="en">Test Mini IND v SA: 2nd Test Day 3</title>
+    <sub-title lang="en">2nd Test Day 3</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251125142000 +1100" stop="20251125162500 +1100" channel="501.FS1">
+    <title lang="en">Live: Test: IND v SA 2nd Test Day 4 S1</title>
+    <sub-title lang="en">IND v SA 2nd Test Day 4 S1</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251125162500 +1100" stop="20251125165000 +1100" channel="501.FS1">
+    <title lang="en">Live: Tea Break: IND v SA</title>
+    <sub-title lang="en">IND v SA</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251125165000 +1100" stop="20251125183000 +1100" channel="501.FS1">
+    <title lang="en">Live: Test: IND v SA 2nd Test Day 4 S2</title>
+    <sub-title lang="en">IND v SA 2nd Test Day 4 S2</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251125183000 +1100" stop="20251125191000 +1100" channel="501.FS1">
+    <title lang="en">Live: B4 The Bash</title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251125191000 +1100" stop="20251125204000 +1100" channel="501.FS1">
+    <title lang="en">Live: WBBL: Strikers v Heat IN1</title>
+    <sub-title lang="en">Strikers v Heat IN1</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251125204000 +1100" stop="20251125205500 +1100" channel="501.FS1">
+    <title lang="en">Live: WBBL Innings Break</title>
+    <sub-title lang="en">Strikers v Heat</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251125205500 +1100" stop="20251125222500 +1100" channel="501.FS1">
+    <title lang="en">Live: WBBL: Strikers v Heat IN2</title>
+    <sub-title lang="en">Strikers v Heat IN2</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251125222500 +1100" stop="20251125230000 +1100" channel="501.FS1">
+    <title lang="en">Live: WBBL The Blast: Episode 2</title>
+    <sub-title lang="en">Episode 2</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251125230000 +1100" stop="20251125232000 +1100" channel="501.FS1">
+    <title lang="en">The Fox Box: First Ashes Test</title>
+    <sub-title lang="en">First Ashes Test</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251125232000 +1100" stop="20251125234000 +1100" channel="501.FS1">
+    <title lang="en">WBBL Mini: STR v HEA</title>
+    <sub-title lang="en">STR v HEA</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251125234000 +1100" stop="20251126000000 +1100" channel="501.FS1">
+    <title lang="en">The Fox Box: First Ashes Test</title>
+    <sub-title lang="en">First Ashes Test</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251126000000 +1100" stop="20251126002000 +1100" channel="501.FS1">
+    <title lang="en">The Ashes Mini: 1st Test Day 1</title>
+    <sub-title lang="en">1st Test Day 1</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251126002000 +1100" stop="20251126004000 +1100" channel="501.FS1">
+    <title lang="en">The Ashes Mini: 1st Test Day 2</title>
+    <sub-title lang="en">1st Test Day 2</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251126004000 +1100" stop="20251126025500 +1100" channel="501.FS1">
+    <title lang="en">Live: Abu Dhabi T10: Day 8</title>
+    <sub-title lang="en">Day 8</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251126025500 +1100" stop="20251126050500 +1100" channel="501.FS1">
+    <title lang="en">Live: Abu Dhabi T10: Day 8</title>
+    <sub-title lang="en">Day 8</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251126050500 +1100" stop="20251126060500 +1100" channel="501.FS1">
@@ -385,8 +218,8 @@
     <desc lang="en" />
   </programme>
   <programme start="20251126060500 +1100" stop="20251126070500 +1100" channel="501.FS1">
-    <title lang="en">Test Day: The Ashes First Test Day 5</title>
-    <sub-title lang="en">The Ashes First Test Day 5</sub-title>
+    <title lang="en">The Ashes First Test</title>
+    <sub-title lang="en">First Test</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251126070500 +1100" stop="20251126080500 +1100" channel="501.FS1">
@@ -395,43 +228,58 @@
     <desc lang="en" />
   </programme>
   <programme start="20251126080500 +1100" stop="20251126082500 +1100" channel="501.FS1">
-    <title lang="en">The Ashes Mini: 1st Test Day 5</title>
-    <sub-title lang="en">1st Test Day 5</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251126082500 +1100" stop="20251126084500 +1100" channel="501.FS1">
     <title lang="en">WBBL Mini: STR v HEA</title>
     <sub-title lang="en">STR v HEA</sub-title>
     <desc lang="en" />
   </programme>
+  <programme start="20251126082500 +1100" stop="20251126084500 +1100" channel="501.FS1">
+    <title lang="en">WBBL Mini: HEA v STA</title>
+    <sub-title lang="en">HEA v STA</sub-title>
+    <desc lang="en" />
+  </programme>
   <programme start="20251126084500 +1100" stop="20251126090500 +1100" channel="501.FS1">
-    <title lang="en">The Ashes Mini: 1st Test Day 5</title>
-    <sub-title lang="en">1st Test Day 5</sub-title>
+    <title lang="en">WBBL Mini: STR v HEA</title>
+    <sub-title lang="en">STR v HEA</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251126090500 +1100" stop="20251126100500 +1100" channel="501.FS1">
-    <title lang="en">Test Day: The Ashes First Test Day 5</title>
-    <sub-title lang="en">The Ashes First Test Day 5</sub-title>
+  <programme start="20251126090500 +1100" stop="20251126093500 +1100" channel="501.FS1">
+    <title lang="en">WBBL The Blast: Episode 2</title>
+    <sub-title lang="en">Episode 2</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251126100500 +1100" stop="20251126102500 +1100" channel="501.FS1">
-    <title lang="en">The Ashes Mini: 1st Test Day 5</title>
-    <sub-title lang="en">1st Test Day 5</sub-title>
+  <programme start="20251126093500 +1100" stop="20251126095500 +1100" channel="501.FS1">
+    <title lang="en">Test Mini IND v SA: 2nd Test Day 4</title>
+    <sub-title lang="en">2nd Test Day 4</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251126102500 +1100" stop="20251126104500 +1100" channel="501.FS1">
+  <programme start="20251126095500 +1100" stop="20251126101500 +1100" channel="501.FS1">
+    <title lang="en">TRAVBALL</title>
+    <sub-title lang="en">TRAVBALL</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251126101500 +1100" stop="20251126103500 +1100" channel="501.FS1">
     <title lang="en">Test Mini IND v SA: 2nd Test D4</title>
     <sub-title lang="en">2nd Test D4</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251126104500 +1100" stop="20251126110500 +1100" channel="501.FS1">
-    <title lang="en">The Ashes Mini: 1st Test Day 5</title>
-    <sub-title lang="en">1st Test Day 5</sub-title>
+  <programme start="20251126103500 +1100" stop="20251126110500 +1100" channel="501.FS1">
+    <title lang="en">WBBL The Blast: Episode 2</title>
+    <sub-title lang="en">Episode 2</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251126110500 +1100" stop="20251126120500 +1100" channel="501.FS1">
-    <title lang="en">Test Day: The Ashes First Test Day 5</title>
-    <sub-title lang="en">The Ashes First Test Day 5</sub-title>
+  <programme start="20251126110500 +1100" stop="20251126112500 +1100" channel="501.FS1">
+    <title lang="en">WBBL Mini: STR v HEA</title>
+    <sub-title lang="en">STR v HEA</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251126112500 +1100" stop="20251126114500 +1100" channel="501.FS1">
+    <title lang="en">WBBL Mini: HEA v STA</title>
+    <sub-title lang="en">HEA v STA</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251126114500 +1100" stop="20251126120500 +1100" channel="501.FS1">
+    <title lang="en">WBBL Mini: STR v HEA</title>
+    <sub-title lang="en">STR v HEA</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251126120500 +1100" stop="20251126130500 +1100" channel="501.FS1">
@@ -484,63 +332,48 @@
     <desc lang="en" />
   </programme>
   <programme start="20251126200000 +1100" stop="20251126210000 +1100" channel="501.FS1">
-    <title lang="en">Test Day: The Ashes First Test Day 1</title>
-    <sub-title lang="en">The Ashes First Test Day 1</sub-title>
+    <title lang="en">Test Day: The Ashes T1 D1</title>
+    <sub-title lang="en">The Ashes T1 D1</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251126210000 +1100" stop="20251126220000 +1100" channel="501.FS1">
-    <title lang="en">Test Day: The Ashes First Test Day 2</title>
-    <sub-title lang="en">The Ashes First Test Day 2</sub-title>
+    <title lang="en">Test Day: The Ashes T1 D2</title>
+    <sub-title lang="en">The Ashes T1 D2</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251126220000 +1100" stop="20251126230000 +1100" channel="501.FS1">
-    <title lang="en">Test Day: The Ashes First Test Day 3</title>
-    <sub-title lang="en">The Ashes First Test Day 3</sub-title>
+  <programme start="20251126220000 +1100" stop="20251126222500 +1100" channel="501.FS1">
+    <title lang="en">WBBL Mini: STR v HEA</title>
+    <sub-title lang="en">STR v HEA</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251126230000 +1100" stop="20251127000000 +1100" channel="501.FS1">
-    <title lang="en">Test Day: The Ashes First Test Day 4</title>
-    <sub-title lang="en">The Ashes First Test Day 4</sub-title>
+  <programme start="20251126222500 +1100" stop="20251127004500 +1100" channel="501.FS1">
+    <title lang="en">Live: Abu Dhabi T10: Day 9</title>
+    <sub-title lang="en">Day 9</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251127000000 +1100" stop="20251127010000 +1100" channel="501.FS1">
-    <title lang="en">Test Day: The Ashes First Test Day 5</title>
-    <sub-title lang="en">The Ashes First Test Day 5</sub-title>
+  <programme start="20251127004500 +1100" stop="20251127025500 +1100" channel="501.FS1">
+    <title lang="en">Live: Abu Dhabi T10: Day 9</title>
+    <sub-title lang="en">Day 9</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251127010000 +1100" stop="20251127020500 +1100" channel="501.FS1">
-    <title lang="en">Test: IND v SA 2nd Test</title>
-    <sub-title lang="en">IND v SA 2nd Test</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251127020500 +1100" stop="20251127030500 +1100" channel="501.FS1">
-    <title lang="en">The Ashes First Test</title>
-    <sub-title lang="en">First Test</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251127030500 +1100" stop="20251127040500 +1100" channel="501.FS1">
-    <title lang="en">Test Day: The Ashes First Test Day 1</title>
-    <sub-title lang="en">The Ashes First Test Day 1</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251127040500 +1100" stop="20251127050500 +1100" channel="501.FS1">
-    <title lang="en">Test Day: The Ashes First Test Day 2</title>
-    <sub-title lang="en">The Ashes First Test Day 2</sub-title>
+  <programme start="20251127025500 +1100" stop="20251127050500 +1100" channel="501.FS1">
+    <title lang="en">Live: Abu Dhabi T10: Day 9</title>
+    <sub-title lang="en">Day 9</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251127050500 +1100" stop="20251127060500 +1100" channel="501.FS1">
-    <title lang="en">Test Day: The Ashes First Test Day 3</title>
-    <sub-title lang="en">The Ashes First Test Day 3</sub-title>
+    <title lang="en">The Overlap: Stick to Cricket</title>
+    <sub-title lang="en">First Test</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251127060500 +1100" stop="20251127070500 +1100" channel="501.FS1">
-    <title lang="en">Test Day: The Ashes First Test Day 4</title>
-    <sub-title lang="en">The Ashes First Test Day 4</sub-title>
+    <title lang="en">Test Day: The Ashes T1 D1</title>
+    <sub-title lang="en">The Ashes T1 D1</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251127070500 +1100" stop="20251127080500 +1100" channel="501.FS1">
-    <title lang="en">Test Day: The Ashes First Test Day 5</title>
-    <sub-title lang="en">The Ashes First Test Day 5</sub-title>
+    <title lang="en">Test Day: The Ashes T1 D2</title>
+    <sub-title lang="en">The Ashes T1 D2</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251127080500 +1100" stop="20251127082500 +1100" channel="501.FS1">
@@ -647,38 +480,34 @@
     <sub-title lang="en">IND v SA 2nd Test</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251127210000 +1100" stop="20251128000000 +1100" channel="501.FS1">
-    <title lang="en">WBBL: Renegades v Scorchers</title>
-    <sub-title lang="en">Renegades v Scorchers</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251128000000 +1100" stop="20251128010000 +1100" channel="501.FS1">
-    <title lang="en">The Ashes First Test</title>
+  <programme start="20251127210000 +1100" stop="20251127220000 +1100" channel="501.FS1">
+    <title lang="en">The Overlap: Stick to Cricket</title>
     <sub-title lang="en">First Test</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251128010000 +1100" stop="20251128040000 +1100" channel="501.FS1">
-    <title lang="en">WBBL: Renegades v Scorchers</title>
-    <sub-title lang="en">Renegades v Scorchers</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251128040000 +1100" stop="20251128042000 +1100" channel="501.FS1">
-    <title lang="en">WBBL Mini: STR v HEA</title>
-    <sub-title lang="en">STR v HEA</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251128042000 +1100" stop="20251128044000 +1100" channel="501.FS1">
-    <title lang="en">WBBL Mini: STA v HUR</title>
-    <sub-title lang="en">STA v HUR</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251128044000 +1100" stop="20251128050000 +1100" channel="501.FS1">
+  <programme start="20251127220000 +1100" stop="20251127222500 +1100" channel="501.FS1">
     <title lang="en">WBBL Mini: REN v SCO</title>
     <sub-title lang="en">REN v SCO</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251128050000 +1100" stop="20251128053000 +1100" channel="501.FS1">
-    <title lang="en">Ashes</title>
+  <programme start="20251127222500 +1100" stop="20251128004500 +1100" channel="501.FS1">
+    <title lang="en">Live: Abu Dhabi T10: Day 10</title>
+    <sub-title lang="en">Day 10</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251128004500 +1100" stop="20251128025500 +1100" channel="501.FS1">
+    <title lang="en">Live: Abu Dhabi T10: Day 10</title>
+    <sub-title lang="en">Day 10</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251128025500 +1100" stop="20251128050500 +1100" channel="501.FS1">
+    <title lang="en">Live: Abu Dhabi T10: Day 10</title>
+    <sub-title lang="en">Day 10</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251128050500 +1100" stop="20251128053000 +1100" channel="501.FS1">
+    <title lang="en">TRAVBALL</title>
+    <sub-title lang="en">TRAVBALL</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251128053000 +1100" stop="20251128063000 +1100" channel="501.FS1">
@@ -712,28 +541,38 @@
     <desc lang="en" />
   </programme>
   <programme start="20251128093000 +1100" stop="20251128103000 +1100" channel="501.FS1">
-    <title lang="en">Test Day: The Ashes First Test Day 1</title>
-    <sub-title lang="en">The Ashes First Test Day 1</sub-title>
+    <title lang="en">The Ashes First Test</title>
+    <sub-title lang="en">First Test</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251128103000 +1100" stop="20251128113000 +1100" channel="501.FS1">
-    <title lang="en">Test Day: The Ashes First Test Day 2</title>
-    <sub-title lang="en">The Ashes First Test Day 2</sub-title>
+  <programme start="20251128103000 +1100" stop="20251128105000 +1100" channel="501.FS1">
+    <title lang="en">WBBL Mini: REN v SCO</title>
+    <sub-title lang="en">REN v SCO</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251128105000 +1100" stop="20251128111000 +1100" channel="501.FS1">
+    <title lang="en">WBBL Mini: STA v HUR</title>
+    <sub-title lang="en">STA v HUR</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251128111000 +1100" stop="20251128113000 +1100" channel="501.FS1">
+    <title lang="en">WBBL Mini: REN v SCO</title>
+    <sub-title lang="en">REN v SCO</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251128113000 +1100" stop="20251128123000 +1100" channel="501.FS1">
-    <title lang="en">Test Day: The Ashes First Test Day 3</title>
-    <sub-title lang="en">The Ashes First Test Day 3</sub-title>
+    <title lang="en">The Ashes First Test</title>
+    <sub-title lang="en">First Test</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251128123000 +1100" stop="20251128133000 +1100" channel="501.FS1">
-    <title lang="en">Test Day: The Ashes First Test Day 4</title>
-    <sub-title lang="en">The Ashes First Test Day 4</sub-title>
+  <programme start="20251128123000 +1100" stop="20251128133200 +1100" channel="501.FS1">
+    <title lang="en">Test: IND v SA 2nd Test</title>
+    <sub-title lang="en">IND v SA 2nd Test</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251128133000 +1100" stop="20251128143700 +1100" channel="501.FS1">
-    <title lang="en">Test Day: The Ashes First Test Day 5</title>
-    <sub-title lang="en">The Ashes First Test Day 5</sub-title>
+  <programme start="20251128133200 +1100" stop="20251128143700 +1100" channel="501.FS1">
+    <title lang="en">The Ashes First Test</title>
+    <sub-title lang="en">First Test</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251128143700 +1100" stop="20251128145700 +1100" channel="501.FS1">
@@ -786,23 +625,13 @@
     <sub-title lang="en">Strikers v Thunder IN2</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251128221500 +1100" stop="20251128222000 +1100" channel="501.FS1">
+  <programme start="20251128221500 +1100" stop="20251128222500 +1100" channel="501.FS1">
     <title lang="en">Live: WBBL Post Game</title>
     <desc lang="en" />
   </programme>
-  <programme start="20251128222000 +1100" stop="20251128224000 +1100" channel="501.FS1">
-    <title lang="en">WBBL Mini: STA v HUR</title>
-    <sub-title lang="en">STA v HUR</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251128224000 +1100" stop="20251128230000 +1100" channel="501.FS1">
-    <title lang="en">WBBL Mini: REN v SCO</title>
-    <sub-title lang="en">REN v SCO</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251128230000 +1100" stop="20251129000000 +1100" channel="501.FS1">
-    <title lang="en">The Ashes First Test</title>
-    <sub-title lang="en">First Test</sub-title>
+  <programme start="20251128222500 +1100" stop="20251129004500 +1100" channel="501.FS1">
+    <title lang="en">Live: Abu Dhabi T10: Day 11</title>
+    <sub-title lang="en">Day 11</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251129000000 +1100" stop="20251129010000 +1100" channel="501.FS1">
@@ -2149,154 +1978,174 @@
     <sub-title lang="en">2nd Test Day 4</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251123233000 +1100" stop="20251124000000 +1100" channel="502.SP2">
-    <title lang="en">Greatest Halfbacks of the 90s: Jones</title>
-    <sub-title lang="en">1999 R16 Warriors v Bulldogs</sub-title>
+  <programme start="20251208000000 +1100" stop="20251208010000 +1100" channel="501.FS1">
+    <title lang="en">Test Day: The Ashes Second Test Day 4</title>
+    <sub-title lang="en">The Ashes Second Test Day 4</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124000000 +1100" stop="20251124010000 +1100" channel="502.SP2">
-    <title lang="en">NRL: Sharks v Warriors</title>
-    <sub-title lang="en">Sharks v Warriors</sub-title>
+  <programme start="20251208010000 +1100" stop="20251208012000 +1100" channel="501.FS1">
+    <title lang="en">ODI Mini IND v SA</title>
+    <sub-title lang="en">Game 3</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124010000 +1100" stop="20251124020000 +1100" channel="502.SP2">
-    <title lang="en">NRL: Broncos v Titans</title>
-    <sub-title lang="en">Broncos v Titans</sub-title>
+  <programme start="20251208012000 +1100" stop="20251208014000 +1100" channel="501.FS1">
+    <title lang="en">The Ashes Mini: 2nd Test Day 4</title>
+    <sub-title lang="en">2nd Test Day 4</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124020000 +1100" stop="20251124030000 +1100" channel="502.SP2">
-    <title lang="en">NRL: Raiders v Rabbitohs</title>
-    <sub-title lang="en">Raiders v Rabbitohs</sub-title>
+  <programme start="20251208014000 +1100" stop="20251208020000 +1100" channel="501.FS1">
+    <title lang="en">WBBL Mini: STR v HUR</title>
+    <sub-title lang="en">STR v HUR</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124030000 +1100" stop="20251124040000 +1100" channel="502.SP2">
-    <title lang="en">NRL: Wests Tigers v Panthers</title>
-    <sub-title lang="en">Wests Tigers v Panthers</sub-title>
+  <programme start="20251208020000 +1100" stop="20251208030000 +1100" channel="501.FS1">
+    <title lang="en">Ashes: 1994/95 5th Test</title>
+    <sub-title lang="en">1994/95 5th Test</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124040000 +1100" stop="20251124050000 +1100" channel="502.SP2">
-    <title lang="en">NRL: Bulldogs v Eels</title>
-    <sub-title lang="en">Bulldogs v Eels</sub-title>
+  <programme start="20251208030000 +1100" stop="20251208040000 +1100" channel="501.FS1">
+    <title lang="en">Test Day: The Ashes Second Test Day 4</title>
+    <sub-title lang="en">The Ashes Second Test Day 4</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124050000 +1100" stop="20251124060000 +1100" channel="502.SP2">
-    <title lang="en">NRL: Sharks v Dragons</title>
-    <sub-title lang="en">Sharks v Dragons</sub-title>
+  <programme start="20251208040000 +1100" stop="20251208042000 +1100" channel="501.FS1">
+    <title lang="en">ODI Mini IND v SA</title>
+    <sub-title lang="en">Game 3</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124060000 +1100" stop="20251124070000 +1100" channel="502.SP2">
-    <title lang="en">NRL: Titans v Sea Eagles</title>
-    <sub-title lang="en">Titans v Sea Eagles</sub-title>
+  <programme start="20251208042000 +1100" stop="20251208044000 +1100" channel="501.FS1">
+    <title lang="en">The Ashes Mini: 2nd Test Day 4</title>
+    <sub-title lang="en">2nd Test Day 4</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124070000 +1100" stop="20251124080000 +1100" channel="502.SP2">
-    <title lang="en">NRL: Knights v Roosters</title>
-    <sub-title lang="en">Knights v Roosters</sub-title>
+  <programme start="20251208044000 +1100" stop="20251208050000 +1100" channel="501.FS1">
+    <title lang="en">WBBL Mini: SCO v HEA</title>
+    <sub-title lang="en">SCO v HEA</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124080000 +1100" stop="20251124090000 +1100" channel="502.SP2">
-    <title lang="en">NRL: Cowboys v Dolphins</title>
-    <sub-title lang="en">Cowboys v Dolphins</sub-title>
+  <programme start="20251208050000 +1100" stop="20251208060000 +1100" channel="501.FS1">
+    <title lang="en">Test Day: The Ashes Second Test Day 4</title>
+    <sub-title lang="en">The Ashes Second Test Day 4</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124090000 +1100" stop="20251124100000 +1100" channel="502.SP2">
-    <title lang="en">NRL: Rabbitohs v Bulldogs</title>
-    <sub-title lang="en">Rabbitohs v Bulldogs</sub-title>
+  <programme start="20251208060000 +1100" stop="20251208062000 +1100" channel="501.FS1">
+    <title lang="en">ODI Mini IND v SA</title>
+    <sub-title lang="en">Game 3</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124100000 +1100" stop="20251124110000 +1100" channel="502.SP2">
-    <title lang="en">NRL: Wests Tigers v Raiders</title>
-    <sub-title lang="en">Wests Tigers v Raiders</sub-title>
+  <programme start="20251208062000 +1100" stop="20251208064000 +1100" channel="501.FS1">
+    <title lang="en">The Ashes Mini: 2nd Test Day 4</title>
+    <sub-title lang="en">2nd Test Day 4</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124110000 +1100" stop="20251124112000 +1100" channel="502.SP2">
-    <title lang="en">NRLW Mini: GLD V SYD</title>
-    <sub-title lang="en">GLD V SYD</sub-title>
+  <programme start="20251208064000 +1100" stop="20251208070000 +1100" channel="501.FS1">
+    <title lang="en">WBBL Mini: STA v THU</title>
+    <sub-title lang="en">STA v THU</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124112000 +1100" stop="20251124114000 +1100" channel="502.SP2">
-    <title lang="en">NRLW Mini: CAN V BRI</title>
-    <sub-title lang="en">CAN V BRI</sub-title>
+  <programme start="20251208070000 +1100" stop="20251208080000 +1100" channel="501.FS1">
+    <title lang="en">Test Day: The Ashes Second Test Day 4</title>
+    <sub-title lang="en">The Ashes Second Test Day 4</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124114000 +1100" stop="20251124120000 +1100" channel="502.SP2">
-    <title lang="en">NRLW Mini: PAR V NQL</title>
-    <sub-title lang="en">PAR V NQL</sub-title>
+  <programme start="20251208080000 +1100" stop="20251208083000 +1100" channel="501.FS1">
+    <title lang="en">Ashes: 2010/11 1st Test</title>
+    <sub-title lang="en">2010/11 1st Test</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124120000 +1100" stop="20251124130000 +1100" channel="502.SP2">
-    <title lang="en">90's Simply The Best: 1993 R10 MAN v CAN</title>
-    <sub-title lang="en">1993 R10 MAN v CAN</sub-title>
+  <programme start="20251208083000 +1100" stop="20251208093000 +1100" channel="501.FS1">
+    <title lang="en">Test Day: The Ashes Second Test Day 4</title>
+    <sub-title lang="en">The Ashes Second Test Day 4</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124130000 +1100" stop="20251124140000 +1100" channel="502.SP2">
-    <title lang="en">Greatest Games: 2003 R23 CAN v NQL</title>
-    <sub-title lang="en">2003 R23 CAN v NQL</sub-title>
+  <programme start="20251208093000 +1100" stop="20251208095000 +1100" channel="501.FS1">
+    <title lang="en">ODI Mini IND v SA</title>
+    <sub-title lang="en">Game 3</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124140000 +1100" stop="20251124143000 +1100" channel="502.SP2">
-    <title lang="en">Foran: The Fall and Resurrection</title>
-    <sub-title lang="en">The Fall and Resurrection</sub-title>
+  <programme start="20251208095000 +1100" stop="20251208101000 +1100" channel="501.FS1">
+    <title lang="en">The Ashes Mini: 2nd Test Day 4</title>
+    <sub-title lang="en">2nd Test Day 4</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124143000 +1100" stop="20251124150000 +1100" channel="502.SP2">
-    <title lang="en">Face-To-Face on Fox: Glenn Lazarus</title>
-    <sub-title lang="en">Glenn Lazarus</sub-title>
+  <programme start="20251208101000 +1100" stop="20251208103000 +1100" channel="501.FS1">
+    <title lang="en">WBBL Mini: SIX v STR</title>
+    <sub-title lang="en">SIX v STR</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124150000 +1100" stop="20251124160000 +1100" channel="502.SP2">
-    <title lang="en">Greatest Tests: 2007 AUS v NZL</title>
-    <sub-title lang="en">2007 AUS v NZL</sub-title>
+  <programme start="20251208103000 +1100" stop="20251208113000 +1100" channel="501.FS1">
+    <title lang="en">Test Day: The Ashes Second Test Day 4</title>
+    <sub-title lang="en">The Ashes Second Test Day 4</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124160000 +1100" stop="20251124170000 +1100" channel="502.SP2">
-    <title lang="en">Golden Point Thrillers: 08 R2 NEW v MAN</title>
-    <sub-title lang="en">08 R2 NEW v MAN</sub-title>
+  <programme start="20251208113000 +1100" stop="20251208115000 +1100" channel="501.FS1">
+    <title lang="en">WBBL Mini: SCO v HEA</title>
+    <sub-title lang="en">SCO v HEA</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124170000 +1100" stop="20251124173000 +1100" channel="502.SP2">
-    <title lang="en">Foran: The Fall and Resurrection</title>
-    <sub-title lang="en">The Fall and Resurrection</sub-title>
+  <programme start="20251208115000 +1100" stop="20251208121000 +1100" channel="501.FS1">
+    <title lang="en">The Ashes Mini: 2nd Test Day 4</title>
+    <sub-title lang="en">2nd Test Day 4</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124173000 +1100" stop="20251124180000 +1100" channel="502.SP2">
-    <title lang="en">State of Origin Classics</title>
-    <sub-title lang="en">2015 Game 3</sub-title>
+  <programme start="20251208121000 +1100" stop="20251208123000 +1100" channel="501.FS1">
+    <title lang="en">WBBL Mini: SIX v STR</title>
+    <sub-title lang="en">SIX v STR</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124180000 +1100" stop="20251124190000 +1100" channel="502.SP2">
-    <title lang="en">Superstars: Brad Fittler</title>
-    <sub-title lang="en">2001 R23 Roosters v Storm</sub-title>
+  <programme start="20251208123000 +1100" stop="20251208133000 +1100" channel="501.FS1">
+    <title lang="en">Test Day: The Ashes Second Test Day 4</title>
+    <sub-title lang="en">The Ashes Second Test Day 4</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124190000 +1100" stop="20251124200000 +1100" channel="502.SP2">
-    <title lang="en">90's Simply The Best: 1993 R10 MAN v CAN</title>
-    <sub-title lang="en">1993 R10 MAN v CAN</sub-title>
+  <programme start="20251208133000 +1100" stop="20251208140000 +1100" channel="501.FS1">
+    <title lang="en">Live: Ashes Daily</title>
+    <sub-title lang="en">Episode 7</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124200000 +1100" stop="20251124210000 +1100" channel="502.SP2">
-    <title lang="en">Greatest Games: 2003 R23 CAN v NQL</title>
-    <sub-title lang="en">2003 R23 CAN v NQL</sub-title>
+  <programme start="20251208140000 +1100" stop="20251208150000 +1100" channel="501.FS1">
+    <title lang="en">Live: Pre Game: The Ashes</title>
+    <sub-title lang="en">The Ashes</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124210000 +1100" stop="20251124220000 +1100" channel="502.SP2">
-    <title lang="en">Golden Point Thrillers: 08 R2 NEW v MAN</title>
-    <sub-title lang="en">08 R2 NEW v MAN</sub-title>
+  <programme start="20251208150000 +1100" stop="20251208170000 +1100" channel="501.FS1">
+    <title lang="en">Live: The Ashes Second Test Day 5 S1</title>
+    <sub-title lang="en">Second Test Day 5 S1</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124220000 +1100" stop="20251124223000 +1100" channel="502.SP2">
-    <title lang="en">The Fan</title>
-    <sub-title lang="en">Episode 10</sub-title>
+  <programme start="20251208170000 +1100" stop="20251208174000 +1100" channel="501.FS1">
+    <title lang="en">Live: The Big Break: AUS v ENG</title>
+    <sub-title lang="en">AUS v ENG</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124223000 +1100" stop="20251124230000 +1100" channel="502.SP2">
-    <title lang="en">Foran: The Fall and Resurrection</title>
-    <sub-title lang="en">The Fall and Resurrection</sub-title>
+  <programme start="20251208174000 +1100" stop="20251208194000 +1100" channel="501.FS1">
+    <title lang="en">Live: The Ashes Second Test Day 5 S2</title>
+    <sub-title lang="en">Second Test Day 5 S2</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124230000 +1100" stop="20251124233000 +1100" channel="502.SP2">
-    <title lang="en">Face-To-Face on Fox: Glenn Lazarus</title>
-    <sub-title lang="en">Glenn Lazarus</sub-title>
+  <programme start="20251208194000 +1100" stop="20251208200000 +1100" channel="501.FS1">
+    <title lang="en">Live: Tea Break: The Ashes</title>
+    <sub-title lang="en">The Ashes</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208200000 +1100" stop="20251208223000 +1100" channel="501.FS1">
+    <title lang="en">Live: The Ashes Second Test Day 5 S3</title>
+    <sub-title lang="en">Second Test Day 5 S3</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208223000 +1100" stop="20251208223500 +1100" channel="501.FS1">
+    <title lang="en">Live: Post Game: The Ashes</title>
+    <sub-title lang="en">The Ashes</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208223500 +1100" stop="20251208233500 +1100" channel="501.FS1">
+    <title lang="en">Test Day: The Ashes Second Test Day 5</title>
+    <sub-title lang="en">The Ashes Second Test Day 5</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208233500 +1100" stop="20251209000000 +1100" channel="501.FS1">
+    <title lang="en">The Ashes Mini: 2nd Test Day 5</title>
+    <sub-title lang="en">2nd Test Day 5</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251124233000 +1100" stop="20251125000000 +1100" channel="502.SP2">
@@ -4374,74 +4223,154 @@
     <sub-title lang="en">1982 Kangaroo Tour Game 3</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251123223000 +1100" stop="20251124000000 +1100" channel="503.FS3">
-    <title lang="en">USPGA: The RSM Classic Round 3</title>
-    <sub-title lang="en">The RSM Classic Round 3</sub-title>
+  <programme start="20251208000000 +1100" stop="20251208010000 +1100" channel="502.SP2">
+    <title lang="en">NRL: Rabbitohs v Cowboys</title>
+    <sub-title lang="en">Rabbitohs v Cowboys</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124000000 +1100" stop="20251124010000 +1100" channel="503.FS3">
-    <title lang="en">Golf: Australian PGA: QLD PGA FR</title>
-    <sub-title lang="en">QLD PGA FR</sub-title>
+  <programme start="20251208010000 +1100" stop="20251208020000 +1100" channel="502.SP2">
+    <title lang="en">NRL: Eels v Raiders</title>
+    <sub-title lang="en">Eels v Raiders</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124010000 +1100" stop="20251124020000 +1100" channel="503.FS3">
-    <title lang="en">Golf: NSW Open: Final Round</title>
-    <sub-title lang="en">Final Round</sub-title>
+  <programme start="20251208020000 +1100" stop="20251208030000 +1100" channel="502.SP2">
+    <title lang="en">NRL: Storm v Warriors</title>
+    <sub-title lang="en">Storm v Warriors</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124020000 +1100" stop="20251124023000 +1100" channel="503.FS3">
-    <title lang="en">Golf: Getting a Round In: Ant Middleton</title>
-    <sub-title lang="en">Ant Middleton</sub-title>
+  <programme start="20251208030000 +1100" stop="20251208040000 +1100" channel="502.SP2">
+    <title lang="en">NRL: Knights v Wests Tigers</title>
+    <sub-title lang="en">Knights v Wests Tigers</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124023000 +1100" stop="20251124033000 +1100" channel="503.FS3">
-    <title lang="en">Golf: Australian PGA: QLD PGA FR</title>
-    <sub-title lang="en">QLD PGA FR</sub-title>
+  <programme start="20251208040000 +1100" stop="20251208050000 +1100" channel="502.SP2">
+    <title lang="en">NRL: Sea Eagles v Dragons</title>
+    <sub-title lang="en">Sea Eagles v Dragons</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124033000 +1100" stop="20251124050000 +1100" channel="503.FS3">
-    <title lang="en">USPGA: The RSM Classic Round 3</title>
-    <sub-title lang="en">The RSM Classic Round 3</sub-title>
+  <programme start="20251208050000 +1100" stop="20251208060000 +1100" channel="502.SP2">
+    <title lang="en">NRL: Bulldogs v Rabbitohs</title>
+    <sub-title lang="en">Bulldogs v Rabbitohs</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124050000 +1100" stop="20251124080000 +1100" channel="503.FS3">
-    <title lang="en">Live: USPGA: The RSM Classic Final Round</title>
-    <sub-title lang="en">The RSM Classic Final Round</sub-title>
+  <programme start="20251208060000 +1100" stop="20251208070000 +1100" channel="502.SP2">
+    <title lang="en">NRL: Dolphins v Storm</title>
+    <sub-title lang="en">Dolphins v Storm</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124080000 +1100" stop="20251124100000 +1100" channel="503.FS3">
-    <title lang="en">2002: Australia PGA Championship</title>
-    <sub-title lang="en">2002: Australia PGA Championship</sub-title>
+  <programme start="20251208070000 +1100" stop="20251208080000 +1100" channel="502.SP2">
+    <title lang="en">NRL: Warriors v Broncos</title>
+    <sub-title lang="en">Warriors v Broncos</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124100000 +1100" stop="20251124120000 +1100" channel="503.FS3">
-    <title lang="en">2003: PGA Championship</title>
-    <sub-title lang="en">2003: PGA Championship</sub-title>
+  <programme start="20251208080000 +1100" stop="20251208090000 +1100" channel="502.SP2">
+    <title lang="en">NRL: Roosters v Panthers</title>
+    <sub-title lang="en">Roosters v Panthers</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124120000 +1100" stop="20251124140000 +1100" channel="503.FS3">
-    <title lang="en">2004: Australia PGA Championship</title>
-    <sub-title lang="en">2004: Australia PGA Championship</sub-title>
+  <programme start="20251208090000 +1100" stop="20251208100000 +1100" channel="502.SP2">
+    <title lang="en">NRL: Titans v Raiders</title>
+    <sub-title lang="en">Titans v Raiders</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124140000 +1100" stop="20251124160000 +1100" channel="503.FS3">
-    <title lang="en">2005: Australia PGA Championship</title>
-    <sub-title lang="en">2005: Australia PGA Championship</sub-title>
+  <programme start="20251208100000 +1100" stop="20251208110000 +1100" channel="502.SP2">
+    <title lang="en">NRL: Knights v Sharks</title>
+    <sub-title lang="en">Knights v Sharks</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124160000 +1100" stop="20251124180000 +1100" channel="503.FS3">
-    <title lang="en">2006: PGA Championship</title>
-    <sub-title lang="en">2006: PGA Championship</sub-title>
+  <programme start="20251208110000 +1100" stop="20251208112000 +1100" channel="502.SP2">
+    <title lang="en">NRLW Mini: NQL V GLD</title>
+    <sub-title lang="en">NQL V GLD</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124180000 +1100" stop="20251124200000 +1100" channel="503.FS3">
-    <title lang="en">2014: Australian PGA Championship Men's</title>
-    <sub-title lang="en">2014: Australian PGA Championship Men's</sub-title>
+  <programme start="20251208112000 +1100" stop="20251208114000 +1100" channel="502.SP2">
+    <title lang="en">NRLW Mini: SYD V WAR</title>
+    <sub-title lang="en">SYD V WAR</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124200000 +1100" stop="20251124220000 +1100" channel="503.FS3">
-    <title lang="en">2017: Australian PGA Championship Men's</title>
-    <sub-title lang="en">2017: Australian PGA Championship Men's</sub-title>
+  <programme start="20251208114000 +1100" stop="20251208120000 +1100" channel="502.SP2">
+    <title lang="en">NRLW Mini: WST V CBY</title>
+    <sub-title lang="en">WST V CBY</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208120000 +1100" stop="20251208130000 +1100" channel="502.SP2">
+    <title lang="en">90's Simply The Best: 1994 R20 Steelers</title>
+    <sub-title lang="en">1994 R20 Steelers v Raiders</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208130000 +1100" stop="20251208140000 +1100" channel="502.SP2">
+    <title lang="en">Greatest Games: 2006 R2 Roosters v Storm</title>
+    <sub-title lang="en">2006 R2 Roosters v Storm</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208140000 +1100" stop="20251208143000 +1100" channel="502.SP2">
+    <title lang="en">Top Tries: 1991</title>
+    <sub-title lang="en">1991</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208143000 +1100" stop="20251208160000 +1100" channel="502.SP2">
+    <title lang="en">Greatest Tests: 2016 Australia v New Zea</title>
+    <sub-title lang="en">2016 Australia v New Zealand 2nd Test</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208160000 +1100" stop="20251208170000 +1100" channel="502.SP2">
+    <title lang="en">Golden Point Thrillers: 2006 R12 Storm v</title>
+    <sub-title lang="en">2006 R12 Storm v Panthers</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208170000 +1100" stop="20251208173000 +1100" channel="502.SP2">
+    <title lang="en">Grand Final Classics: 2011 GF Sea Eagles</title>
+    <sub-title lang="en">2011 GF Sea Eagles v Warriors</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208173000 +1100" stop="20251208180000 +1100" channel="502.SP2">
+    <title lang="en">State of Origin Classics</title>
+    <sub-title lang="en">1984 Game 2</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208180000 +1100" stop="20251208190000 +1100" channel="502.SP2">
+    <title lang="en">Superstars: Steve Roach</title>
+    <sub-title lang="en">1988 R21 Tigers v Panthers</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208190000 +1100" stop="20251208193000 +1100" channel="502.SP2">
+    <title lang="en">Vossy's Awesome 80s</title>
+    <sub-title lang="en">Episode 6</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208193000 +1100" stop="20251208200000 +1100" channel="502.SP2">
+    <title lang="en">Rugby League: Vossy's 2000s</title>
+    <sub-title lang="en">Episode 6</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208200000 +1100" stop="20251208210000 +1100" channel="502.SP2">
+    <title lang="en">90's Simply The Best: 1994 R20 Steelers</title>
+    <sub-title lang="en">1994 R20 Steelers v Raiders</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208210000 +1100" stop="20251208220000 +1100" channel="502.SP2">
+    <title lang="en">Golden Point Thrillers: 2006 R12 Storm v</title>
+    <sub-title lang="en">2006 R12 Storm v Panthers</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208220000 +1100" stop="20251208223000 +1100" channel="502.SP2">
+    <title lang="en">The Fan</title>
+    <sub-title lang="en">Episode 21</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208223000 +1100" stop="20251208230000 +1100" channel="502.SP2">
+    <title lang="en">Face-To-Face on Fox: Laurie Daley Part 1</title>
+    <sub-title lang="en">Laurie Daley Part 1</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208230000 +1100" stop="20251208233000 +1100" channel="502.SP2">
+    <title lang="en">Grand Final Classics: 2011 GF Sea Eagles</title>
+    <sub-title lang="en">2011 GF Sea Eagles v Warriors</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208233000 +1100" stop="20251209000000 +1100" channel="502.SP2">
+    <title lang="en">Rugby League: Vossy's 2000s</title>
+    <sub-title lang="en">Episode 6</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251124220000 +1100" stop="20251125000000 +1100" channel="503.FS3">
@@ -5464,127 +5393,30 @@
     <sub-title lang="en">Final Round</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251123210000 +1100" stop="20251124000000 +1100" channel="504.FAF">
-    <title lang="en">AFL Draft: Day 1</title>
-    <sub-title lang="en">Day 1</sub-title>
+  <programme start="20251208013000 +1100" stop="20251208033000 +1100" channel="503.FS3">
+    <title lang="en">Sport Special</title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124000000 +1100" stop="20251124013000 +1100" channel="504.FAF">
-    <title lang="en">AFLW: PF NMT v MEL</title>
-    <sub-title lang="en">PF NMT v MEL</sub-title>
+  <programme start="20251208033000 +1100" stop="20251208083000 +1100" channel="503.FS3">
+    <title lang="en">Live: USPGA: Hero World Challenge Final</title>
+    <sub-title lang="en">Hero World Challenge Final Round</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124013000 +1100" stop="20251124014500 +1100" channel="504.FAF">
-    <title lang="en">AFLW Mini: Preliminary Final NMT v MEL</title>
-    <sub-title lang="en">Preliminary Final NMT v MEL</sub-title>
+  <programme start="20251208083000 +1100" stop="20251208123000 +1100" channel="503.FS3">
+    <title lang="en">Sport Special</title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124014500 +1100" stop="20251124020000 +1100" channel="504.FAF">
-    <title lang="en">AFLW Mini: Preliminary Final BRI v CAR</title>
-    <sub-title lang="en">Preliminary Final BRI v CAR</sub-title>
+  <programme start="20251208123000 +1100" stop="20251208163000 +1100" channel="503.FS3">
+    <title lang="en">Sport Special</title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124020000 +1100" stop="20251124021500 +1100" channel="504.FAF">
-    <title lang="en">AFLW Mini: Preliminary Final NMT v MEL</title>
-    <sub-title lang="en">Preliminary Final NMT v MEL</sub-title>
+  <programme start="20251208163000 +1100" stop="20251208200000 +1100" channel="503.FS3">
+    <title lang="en">Sport Special</title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124021500 +1100" stop="20251124034500 +1100" channel="504.FAF">
-    <title lang="en">AFLW: PF Brisbane v Carlton</title>
-    <sub-title lang="en">PF Brisbane v Carlton</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124034500 +1100" stop="20251124040000 +1100" channel="504.FAF">
-    <title lang="en">AFLW Mini: Preliminary Final NMT v MEL</title>
-    <sub-title lang="en">Preliminary Final NMT v MEL</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124040000 +1100" stop="20251124041500 +1100" channel="504.FAF">
-    <title lang="en">AFLW Mini: Preliminary Final BRI v CAR</title>
-    <sub-title lang="en">Preliminary Final BRI v CAR</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124041500 +1100" stop="20251124043000 +1100" channel="504.FAF">
-    <title lang="en">AFLW Mini: Preliminary Final NMT v MEL</title>
-    <sub-title lang="en">Preliminary Final NMT v MEL</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124043000 +1100" stop="20251124070000 +1100" channel="504.FAF">
-    <title lang="en">AFL: Richmond v Gold Coast</title>
-    <sub-title lang="en">Richmond v Gold Coast</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124070000 +1100" stop="20251124083000 +1100" channel="504.FAF">
-    <title lang="en">AFLW: PF NMT v MEL</title>
-    <sub-title lang="en">PF NMT v MEL</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124083000 +1100" stop="20251124100000 +1100" channel="504.FAF">
-    <title lang="en">AFLW: PF Brisbane v Carlton</title>
-    <sub-title lang="en">PF Brisbane v Carlton</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124100000 +1100" stop="20251124120000 +1100" channel="504.FAF">
-    <title lang="en">Best Games Ever: 1999 R16 WC v FRE</title>
-    <sub-title lang="en">1999 R16 WC v FRE</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124120000 +1100" stop="20251124140000 +1100" channel="504.FAF">
-    <title lang="en">Fox Footy Legends: Judd</title>
-    <sub-title lang="en">2006 R5 Brisbane v West Coast</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124140000 +1100" stop="20251124160000 +1100" channel="504.FAF">
-    <title lang="en">Best Games Ever: 2005 SF SYD v GEE</title>
-    <sub-title lang="en">2005 SF SYD v GEE</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124160000 +1100" stop="20251124163000 +1100" channel="504.FAF">
-    <title lang="en">AFLW Grand Final Glory: 2018 GF WB v BRI</title>
-    <sub-title lang="en">2018 GF WB v BRI</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124163000 +1100" stop="20251124170000 +1100" channel="504.FAF">
-    <title lang="en">AFLW Grand Final Glory: 19 GF ADE v CAR</title>
-    <sub-title lang="en">19 GF ADE v CAR</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124170000 +1100" stop="20251124173000 +1100" channel="504.FAF">
-    <title lang="en">AFLW Grand Final Glory: 21 GF ADE v BRI</title>
-    <sub-title lang="en">21 GF ADE v BRI</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124173000 +1100" stop="20251124180000 +1100" channel="504.FAF">
-    <title lang="en">AFLW Grand Final Glory: 22 GF ADE v BRI</title>
-    <sub-title lang="en">22 GF ADE v BRI</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124180000 +1100" stop="20251124183000 +1100" channel="504.FAF">
-    <title lang="en">AFLW Grand Final Glory: 2023 GF NM v BRI</title>
-    <sub-title lang="en">2023 GF NM v BRI</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124183000 +1100" stop="20251124190000 +1100" channel="504.FAF">
-    <title lang="en">AFLW Grand Final Glory: 2024 GF NM v BRI</title>
-    <sub-title lang="en">2024 GF NM v BRI</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124190000 +1100" stop="20251124191500 +1100" channel="504.FAF">
-    <title lang="en">AFLW Mini: Preliminary Final NMT v MEL</title>
-    <sub-title lang="en">Preliminary Final NMT v MEL</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124191500 +1100" stop="20251124193000 +1100" channel="504.FAF">
-    <title lang="en">AFLW Mini: Preliminary Final BRI v CAR</title>
-    <sub-title lang="en">Preliminary Final BRI v CAR</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124193000 +1100" stop="20251124213000 +1100" channel="504.FAF">
-    <title lang="en">Live: The W Awards</title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124213000 +1100" stop="20251124233000 +1100" channel="504.FAF">
-    <title lang="en">The W Awards</title>
+  <programme start="20251208200000 +1100" stop="20251209013000 +1100" channel="503.FS3">
+    <title lang="en">Live: Golf: Nedbank Golf Challenge Final</title>
+    <sub-title lang="en">Nedbank Golf Challenge Final Round</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251124233000 +1100" stop="20251125013000 +1100" channel="504.FAF">
@@ -5652,6 +5484,11 @@
     <title lang="en">The W Awards</title>
     <desc lang="en" />
   </programme>
+  <programme start="20251125220000 +1100" stop="20251125223000 +1100" channel="504.FAF">
+    <title lang="en">AFLW Grand Final Glory: 2023 GF NM v BRI</title>
+    <sub-title lang="en">2023 GF NM v BRI</sub-title>
+    <desc lang="en" />
+  </programme>
   <programme start="20251125223000 +1100" stop="20251125230000 +1100" channel="504.FAF">
     <title lang="en">AFLW Grand Final Glory: 2024 GF NM v BRI</title>
     <sub-title lang="en">2024 GF NM v BRI</sub-title>
@@ -5659,11 +5496,6 @@
   </programme>
   <programme start="20251125230000 +1100" stop="20251126010000 +1100" channel="504.FAF">
     <title lang="en">The W Awards</title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251126003000 +1100" stop="20251126010000 +1100" channel="504.FAF">
-    <title lang="en">AFLW Grand Final Glory: 2023 GF NM v BRI</title>
-    <sub-title lang="en">2023 GF NM v BRI</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251126010000 +1100" stop="20251126013000 +1100" channel="504.FAF">
@@ -5726,13 +5558,8 @@
     <sub-title lang="en">2005 SF SYD v GEE</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251126180000 +1100" stop="20251126193000 +1100" channel="504.FAF">
+  <programme start="20251126180000 +1100" stop="20251126200000 +1100" channel="504.FAF">
     <title lang="en">The W Awards</title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251126193000 +1100" stop="20251126200000 +1100" channel="504.FAF">
-    <title lang="en">AFLW Grand Final Glory: 21 GF ADE v BRI</title>
-    <sub-title lang="en">21 GF ADE v BRI</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251126200000 +1100" stop="20251126203000 +1100" channel="504.FAF">
@@ -5791,63 +5618,65 @@
     <desc lang="en" />
   </programme>
   <programme start="20251127100000 +1100" stop="20251127120000 +1100" channel="504.FAF">
-    <title lang="en">Best Games Ever: 1999 R16 WC v FRE</title>
-    <sub-title lang="en">1999 R16 WC v FRE</sub-title>
+    <title lang="en">Best Games Ever: 1997 R4 ADE v PA</title>
+    <sub-title lang="en">1997 R4 ADE v PA</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251127120000 +1100" stop="20251127123000 +1100" channel="504.FAF">
+    <title lang="en">AFLW Grand Final Glory: 19 GF ADE v CAR</title>
+    <sub-title lang="en">19 GF ADE v CAR</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251127123000 +1100" stop="20251127130000 +1100" channel="504.FAF">
+    <title lang="en">AFLW Grand Final Glory: '21 GF ADE v BRI</title>
+    <sub-title lang="en">'21 GF ADE v BRI</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251127130000 +1100" stop="20251127150000 +1100" channel="504.FAF">
+    <title lang="en">Fox Footy Legends: Koutoufides</title>
+    <sub-title lang="en">2001 EF Carlton v Adelaide</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251127150000 +1100" stop="20251127153000 +1100" channel="504.FAF">
     <title lang="en">AFLW Grand Final Glory: 22 GF ADE v BRI</title>
     <sub-title lang="en">22 GF ADE v BRI</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251127123000 +1100" stop="20251127130000 +1100" channel="504.FAF">
+  <programme start="20251127153000 +1100" stop="20251127160000 +1100" channel="504.FAF">
     <title lang="en">AFLW Grand Final Glory: 2023 GF NM v BRI</title>
     <sub-title lang="en">2023 GF NM v BRI</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251127130000 +1100" stop="20251127150000 +1100" channel="504.FAF">
-    <title lang="en">Fox Footy Legends: Judd</title>
-    <sub-title lang="en">2006 R5 Brisbane v West Coast</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251127150000 +1100" stop="20251127151500 +1100" channel="504.FAF">
-    <title lang="en">AFL: Footy Shorts</title>
-    <sub-title lang="en">Episode 17</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251127151500 +1100" stop="20251127154500 +1100" channel="504.FAF">
-    <title lang="en">AFLW Grand Final Glory: 2024 GF</title>
-    <sub-title lang="en">2024 GF</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251127154500 +1100" stop="20251127160000 +1100" channel="504.FAF">
-    <title lang="en">AFL: Footy Shorts</title>
-    <sub-title lang="en">Episode 17</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251127160000 +1100" stop="20251127180000 +1100" channel="504.FAF">
-    <title lang="en">Best Games Ever: 2005 SF SYD v GEE</title>
-    <sub-title lang="en">2005 SF SYD v GEE</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251127180000 +1100" stop="20251127210000 +1100" channel="504.FAF">
+  <programme start="20251127160000 +1100" stop="20251127190000 +1100" channel="504.FAF">
     <title lang="en">AFL Draft: Day 2</title>
     <sub-title lang="en">Day 2</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251127210000 +1100" stop="20251127213000 +1100" channel="504.FAF">
-    <title lang="en">AFLW Grand Final Glory: 2023 GF NM v BRI</title>
-    <sub-title lang="en">2023 GF NM v BRI</sub-title>
+  <programme start="20251127190000 +1100" stop="20251127193000 +1100" channel="504.FAF">
+    <title lang="en">AFLW Grand Final Glory: 2024 GF NM v BRI</title>
+    <sub-title lang="en">2024 GF NM v BRI</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251127213000 +1100" stop="20251127233000 +1100" channel="504.FAF">
-    <title lang="en">Best Games Ever: 2004 R11 ESS v HAW</title>
-    <sub-title lang="en">2004 R11 ESS v HAW</sub-title>
+  <programme start="20251127193000 +1100" stop="20251127195000 +1100" channel="504.FAF">
+    <title lang="en">Undefeated</title>
     <desc lang="en" />
   </programme>
-  <programme start="20251127233000 +1100" stop="20251128000000 +1100" channel="504.FAF">
-    <title lang="en">AFLW Grand Final Glory: 2023 GF NM v BRI</title>
-    <sub-title lang="en">2023 GF NM v BRI</sub-title>
+  <programme start="20251127195000 +1100" stop="20251127212000 +1100" channel="504.FAF">
+    <title lang="en">AFLW: PF NMT v MEL</title>
+    <sub-title lang="en">PF NMT v MEL</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251127212000 +1100" stop="20251127214000 +1100" channel="504.FAF">
+    <title lang="en">Undefeated</title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251127214000 +1100" stop="20251127234000 +1100" channel="504.FAF">
+    <title lang="en">Best Games Ever: 1977 GF NM v COL</title>
+    <sub-title lang="en">1977 GF NM v COL</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251127234000 +1100" stop="20251128000000 +1100" channel="504.FAF">
+    <title lang="en">Undefeated</title>
     <desc lang="en" />
   </programme>
   <programme start="20251128000000 +1100" stop="20251128013000 +1100" channel="504.FAF">
@@ -5881,8 +5710,8 @@
     <desc lang="en" />
   </programme>
   <programme start="20251128100000 +1100" stop="20251128120000 +1100" channel="504.FAF">
-    <title lang="en">Best Games Ever: 1999 R16 WC v FRE</title>
-    <sub-title lang="en">1999 R16 WC v FRE</sub-title>
+    <title lang="en">Best Games Ever: 1994 R6 MEL v COL</title>
+    <sub-title lang="en">1994 R6 MEL v COL</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251128120000 +1100" stop="20251128123000 +1100" channel="504.FAF">
@@ -5896,8 +5725,8 @@
     <desc lang="en" />
   </programme>
   <programme start="20251128130000 +1100" stop="20251128150000 +1100" channel="504.FAF">
-    <title lang="en">Fox Footy Legends: Judd</title>
-    <sub-title lang="en">2006 R5 Brisbane v West Coast</sub-title>
+    <title lang="en">Fox Footy Legends: Koutoufides</title>
+    <sub-title lang="en">2001 EF Carlton v Adelaide</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251128150000 +1100" stop="20251128153000 +1100" channel="504.FAF">
@@ -5906,8 +5735,8 @@
     <desc lang="en" />
   </programme>
   <programme start="20251128153000 +1100" stop="20251128160000 +1100" channel="504.FAF">
-    <title lang="en">AFLW Grand Final Glory: 2024 GF</title>
-    <sub-title lang="en">2024 GF</sub-title>
+    <title lang="en">AFLW Grand Final Glory: '24 GF NM v BRI</title>
+    <sub-title lang="en">'24 GF NM v BRI</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251128160000 +1100" stop="20251128180000 +1100" channel="504.FAF">
@@ -5915,33 +5744,35 @@
     <sub-title lang="en">2005 SF SYD v GEE</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251128180000 +1100" stop="20251128203000 +1100" channel="504.FAF">
+  <programme start="20251128180000 +1100" stop="20251128182000 +1100" channel="504.FAF">
+    <title lang="en">Undefeated</title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251128182000 +1100" stop="20251128202000 +1100" channel="504.FAF">
     <title lang="en">The W Awards</title>
     <desc lang="en" />
   </programme>
-  <programme start="20251128203000 +1100" stop="20251128204500 +1100" channel="504.FAF">
-    <title lang="en">AFL: Footy Shorts</title>
-    <sub-title lang="en">Episode 17</sub-title>
+  <programme start="20251128202000 +1100" stop="20251128204000 +1100" channel="504.FAF">
+    <title lang="en">Undefeated</title>
     <desc lang="en" />
   </programme>
-  <programme start="20251128204500 +1100" stop="20251128211500 +1100" channel="504.FAF">
-    <title lang="en">AFLW Grand Final Glory: 2024 GF</title>
-    <sub-title lang="en">2024 GF</sub-title>
+  <programme start="20251128204000 +1100" stop="20251128211000 +1100" channel="504.FAF">
+    <title lang="en">AFLW Grand Final Glory: '24 GF NM v BRI</title>
+    <sub-title lang="en">'24 GF NM v BRI</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251128211500 +1100" stop="20251128213000 +1100" channel="504.FAF">
-    <title lang="en">AFL: Footy Shorts</title>
-    <sub-title lang="en">Episode 17</sub-title>
+  <programme start="20251128211000 +1100" stop="20251128213000 +1100" channel="504.FAF">
+    <title lang="en">Undefeated</title>
     <desc lang="en" />
   </programme>
   <programme start="20251128213000 +1100" stop="20251128233000 +1100" channel="504.FAF">
-    <title lang="en">Best Games Ever: 2004 R11 ESS v HAW</title>
-    <sub-title lang="en">2004 R11 ESS v HAW</sub-title>
+    <title lang="en">Best Games Ever: 1998 R22 NM v WB</title>
+    <sub-title lang="en">1998 R22 NM v WB</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251128233000 +1100" stop="20251129000000 +1100" channel="504.FAF">
-    <title lang="en">AFLW Grand Final Glory: 2024 GF</title>
-    <sub-title lang="en">2024 GF</sub-title>
+    <title lang="en">AFLW Grand Final Glory: 2023 GF NM v BRI</title>
+    <sub-title lang="en">2023 GF NM v BRI</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251129000000 +1100" stop="20251129013000 +1100" channel="504.FAF">
@@ -7017,380 +6848,264 @@
     <sub-title lang="en">1967 Grand Final Geelong v Richmond</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251123222500 +1100" stop="20251124004500 +1100" channel="505.FSP">
-    <title lang="en">Live: Abu Dhabi T10: Day 6</title>
-    <sub-title lang="en">Day 6</sub-title>
+  <programme start="20251208000000 +1100" stop="20251208013000 +1100" channel="504.FAF">
+    <title lang="en">AFLW: Carlton v Collingwood</title>
+    <sub-title lang="en">Carlton v Collingwood</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124004500 +1100" stop="20251124025500 +1100" channel="505.FSP">
-    <title lang="en">Live: Abu Dhabi T10: Day 6</title>
-    <sub-title lang="en">Day 6</sub-title>
+  <programme start="20251208013000 +1100" stop="20251208030000 +1100" channel="504.FAF">
+    <title lang="en">AFLW: West Coast v Gold Coast</title>
+    <sub-title lang="en">West Coast v Gold Coast</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124025500 +1100" stop="20251124050000 +1100" channel="505.FSP">
-    <title lang="en">Live: Abu Dhabi T10: Day 6</title>
-    <sub-title lang="en">Day 6</sub-title>
+  <programme start="20251208030000 +1100" stop="20251208043000 +1100" channel="504.FAF">
+    <title lang="en">AFLW: Sydney v Richmond</title>
+    <sub-title lang="en">Sydney v Richmond</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124050000 +1100" stop="20251124060000 +1100" channel="505.FSP">
-    <title lang="en">Ashes: 2002/03 4th Test</title>
-    <sub-title lang="en">2002/03 4th Test</sub-title>
+  <programme start="20251208043000 +1100" stop="20251208060000 +1100" channel="504.FAF">
+    <title lang="en">AFLW: Geelong v North Melbourne Tasmania</title>
+    <sub-title lang="en">Geelong v North Melbourne Tasmania</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124060000 +1100" stop="20251124062000 +1100" channel="505.FSP">
-    <title lang="en">WBBL Mini: SCO v STR</title>
-    <sub-title lang="en">SCO v STR</sub-title>
+  <programme start="20251208060000 +1100" stop="20251208083000 +1100" channel="504.FAF">
+    <title lang="en">AFL: Essendon v North Melbourne</title>
+    <sub-title lang="en">Essendon v North Melbourne</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124062000 +1100" stop="20251124065000 +1100" channel="505.FSP">
-    <title lang="en">WBBL Mini: THU v REN</title>
-    <sub-title lang="en">THU v REN</sub-title>
+  <programme start="20251208083000 +1100" stop="20251208103000 +1100" channel="504.FAF">
+    <title lang="en">Best Games Ever: 2004 R11 ESS v HAW</title>
+    <sub-title lang="en">2004 R11 ESS v HAW</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124065000 +1100" stop="20251124075000 +1100" channel="505.FSP">
-    <title lang="en">Test Day: The Ashes T1 D2</title>
-    <sub-title lang="en">The Ashes T1 D2</sub-title>
+  <programme start="20251208103000 +1100" stop="20251208110000 +1100" channel="504.FAF">
+    <title lang="en">Grand Final Classics: 1995 GF Geelong v</title>
+    <sub-title lang="en">1995 GF Geelong v Carlton</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124075000 +1100" stop="20251124081000 +1100" channel="505.FSP">
-    <title lang="en">Test Mini IND v SA: 2nd Test D2</title>
-    <sub-title lang="en">2nd Test D2</sub-title>
+  <programme start="20251208110000 +1100" stop="20251208113000 +1100" channel="504.FAF">
+    <title lang="en">AFL Thrillers: R19 2012 Adelaide v Essen</title>
+    <sub-title lang="en">R19 2012 Adelaide v Essendon</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124081000 +1100" stop="20251124083000 +1100" channel="505.FSP">
-    <title lang="en">TRAVBALL</title>
+  <programme start="20251208113000 +1100" stop="20251208120000 +1100" channel="504.FAF">
+    <title lang="en">Open Mike Top 30: Jason McCartney</title>
+    <sub-title lang="en">Jason McCartney</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124083000 +1100" stop="20251124085000 +1100" channel="505.FSP">
-    <title lang="en">Test Mini IND v SA: 2nd Test D2</title>
-    <sub-title lang="en">2nd Test D2</sub-title>
+  <programme start="20251208120000 +1100" stop="20251208143000 +1100" channel="504.FAF">
+    <title lang="en">AFL: Grand Final Geelong v Brisbane</title>
+    <sub-title lang="en">Grand Final Geelong v Brisbane</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124085000 +1100" stop="20251124091000 +1100" channel="505.FSP">
-    <title lang="en">WBBL Mini: THU v REN</title>
-    <sub-title lang="en">THU v REN</sub-title>
+  <programme start="20251208143000 +1100" stop="20251208160000 +1100" channel="504.FAF">
+    <title lang="en">AFLW: GWS v Essendon</title>
+    <sub-title lang="en">GWS v Essendon</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124091000 +1100" stop="20251124093000 +1100" channel="505.FSP">
-    <title lang="en">WBBL Mini: SCO v STR</title>
-    <sub-title lang="en">SCO v STR</sub-title>
+  <programme start="20251208160000 +1100" stop="20251208183000 +1100" channel="504.FAF">
+    <title lang="en">AFL: Grand Final Geelong v Brisbane</title>
+    <sub-title lang="en">Grand Final Geelong v Brisbane</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124093000 +1100" stop="20251124095000 +1100" channel="505.FSP">
-    <title lang="en">WBBL Mini: THU v REN</title>
-    <sub-title lang="en">THU v REN</sub-title>
+  <programme start="20251208183000 +1100" stop="20251208200000 +1100" channel="504.FAF">
+    <title lang="en">AFLW: Western Bulldogs v Melbourne</title>
+    <sub-title lang="en">Western Bulldogs v Melbourne</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124095000 +1100" stop="20251124105000 +1100" channel="505.FSP">
-    <title lang="en">ODI: NZL v WI Game 3</title>
-    <sub-title lang="en">NZL v WI Game 3</sub-title>
+  <programme start="20251208200000 +1100" stop="20251208203000 +1100" channel="504.FAF">
+    <title lang="en">Grand Final Classics: 1995 GF Geelong v</title>
+    <sub-title lang="en">1995 GF Geelong v Carlton</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124105000 +1100" stop="20251124111000 +1100" channel="505.FSP">
-    <title lang="en">WBBL Mini: HEA v STA</title>
-    <sub-title lang="en">HEA v STA</sub-title>
+  <programme start="20251208203000 +1100" stop="20251208210000 +1100" channel="504.FAF">
+    <title lang="en">Open Mike Top 30: Jason McCartney</title>
+    <sub-title lang="en">Jason McCartney</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124111000 +1100" stop="20251124113000 +1100" channel="505.FSP">
-    <title lang="en">WBBL Mini: THU v REN</title>
-    <sub-title lang="en">THU v REN</sub-title>
+  <programme start="20251208210000 +1100" stop="20251208213000 +1100" channel="504.FAF">
+    <title lang="en">AFL Thrillers: R19 2012 Adelaide v Essen</title>
+    <sub-title lang="en">R19 2012 Adelaide v Essendon</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124113000 +1100" stop="20251124115000 +1100" channel="505.FSP">
-    <title lang="en">WBBL Mini: HEA v STA</title>
-    <sub-title lang="en">HEA v STA</sub-title>
+  <programme start="20251208213000 +1100" stop="20251208220000 +1100" channel="504.FAF">
+    <title lang="en">AFL Thrillers: R14 2009 St Kilda v Geelo</title>
+    <sub-title lang="en">R14 2009 St Kilda v Geelong</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124115000 +1100" stop="20251124121000 +1100" channel="505.FSP">
-    <title lang="en">Test Mini IND v SA: 2nd Test D2</title>
-    <sub-title lang="en">2nd Test D2</sub-title>
+  <programme start="20251208220000 +1100" stop="20251208223000 +1100" channel="504.FAF">
+    <title lang="en">Game of the Year: 1990 Qualifying Final</title>
+    <sub-title lang="en">1990 Qualifying Final Collingwood v West Coast</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124121000 +1100" stop="20251124123000 +1100" channel="505.FSP">
-    <title lang="en">WBBL Mini: HEA v STA</title>
-    <sub-title lang="en">HEA v STA</sub-title>
+  <programme start="20251208223000 +1100" stop="20251208230000 +1100" channel="504.FAF">
+    <title lang="en">Incredible Comebacks: 2001 Round 16 Esse</title>
+    <sub-title lang="en">2001 Round 16 Essendon v North Melbourne</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124123000 +1100" stop="20251124125000 +1100" channel="505.FSP">
-    <title lang="en">Test Mini IND v SA: 2nd Test D2</title>
-    <sub-title lang="en">2nd Test D2</sub-title>
+  <programme start="20251208230000 +1100" stop="20251208233000 +1100" channel="504.FAF">
+    <title lang="en">Open Mike Top 30: Jason McCartney</title>
+    <sub-title lang="en">Jason McCartney</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124125000 +1100" stop="20251124131000 +1100" channel="505.FSP">
-    <title lang="en">WBBL Mini: HEA v STA</title>
-    <sub-title lang="en">HEA v STA</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124131000 +1100" stop="20251124133000 +1100" channel="505.FSP">
-    <title lang="en">Test Mini IND v SA: 2nd Test D2</title>
-    <sub-title lang="en">2nd Test D2</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124133000 +1100" stop="20251124143000 +1100" channel="505.FSP">
-    <title lang="en">ODI: NZL v WI Game 3</title>
-    <sub-title lang="en">NZL v WI Game 3</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124143000 +1100" stop="20251124145000 +1100" channel="505.FSP">
-    <title lang="en">WBBL Mini: THU v REN</title>
-    <sub-title lang="en">THU v REN</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124145000 +1100" stop="20251124151000 +1100" channel="505.FSP">
-    <title lang="en">WBBL Mini: HEA v STA</title>
-    <sub-title lang="en">HEA v STA</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124151000 +1100" stop="20251124153000 +1100" channel="505.FSP">
-    <title lang="en">TRAVBALL</title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124153000 +1100" stop="20251124163000 +1100" channel="505.FSP">
-    <title lang="en">Test Day: The Ashes T1 D1</title>
-    <sub-title lang="en">The Ashes T1 D1</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124163000 +1100" stop="20251124173000 +1100" channel="505.FSP">
-    <title lang="en">Test Day: The Ashes T1 D2</title>
-    <sub-title lang="en">The Ashes T1 D2</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124173000 +1100" stop="20251124175000 +1100" channel="505.FSP">
-    <title lang="en">TRAVBALL</title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124175000 +1100" stop="20251124181000 +1100" channel="505.FSP">
-    <title lang="en">WBBL Mini: THU v REN</title>
-    <sub-title lang="en">THU v REN</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124181000 +1100" stop="20251124183000 +1100" channel="505.FSP">
-    <title lang="en">WBBL Mini: HEA v STA</title>
-    <sub-title lang="en">HEA v STA</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124183000 +1100" stop="20251124193000 +1100" channel="505.FSP">
-    <title lang="en">ODI: NZL v WI Game 3</title>
-    <sub-title lang="en">NZL v WI Game 3</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124193000 +1100" stop="20251124203000 +1100" channel="505.FSP">
-    <title lang="en">Test Day: The Ashes T1 D1</title>
-    <sub-title lang="en">The Ashes T1 D1</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124203000 +1100" stop="20251124213000 +1100" channel="505.FSP">
-    <title lang="en">Test Day: The Ashes T1 D2</title>
-    <sub-title lang="en">The Ashes T1 D2</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124213000 +1100" stop="20251124220000 +1100" channel="505.FSP">
-    <title lang="en">TRAVBALL</title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124220000 +1100" stop="20251124230000 +1100" channel="505.FSP">
-    <title lang="en">The Grade Cricketer With Mark Waugh</title>
-    <sub-title lang="en">Mark Waugh</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124230000 +1100" stop="20251124232000 +1100" channel="505.FSP">
-    <title lang="en">WBBL Mini: SCO v STR</title>
-    <sub-title lang="en">SCO v STR</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124232000 +1100" stop="20251124234000 +1100" channel="505.FSP">
-    <title lang="en">WBBL Mini: THU v REN</title>
-    <sub-title lang="en">THU v REN</sub-title>
+  <programme start="20251208233000 +1100" stop="20251209000000 +1100" channel="504.FAF">
+    <title lang="en">Dermie Delivers: Father &amp; Son</title>
+    <sub-title lang="en">Father &amp; Son</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251124234000 +1100" stop="20251125000000 +1100" channel="505.FSP">
-    <title lang="en">WBBL Mini: HEA v STA</title>
+    <title lang="en">Cricket: WBBL Mini: HEA v STA</title>
     <sub-title lang="en">HEA v STA</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125000000 +1100" stop="20251125010000 +1100" channel="505.FSP">
-    <title lang="en">Ashes: 2002/03 1st Test</title>
-    <sub-title lang="en">2002/03 1st Test</sub-title>
+  <programme start="20251125000000 +1100" stop="20251125030000 +1100" channel="505.FSP">
+    <title lang="en">WBBL: Thunder v Sixers</title>
+    <sub-title lang="en">Thunder v Sixers</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125010000 +1100" stop="20251125012000 +1100" channel="505.FSP">
-    <title lang="en">The Ashes Mini: 1st Test Day 4</title>
-    <sub-title lang="en">1st Test Day 4</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251125012000 +1100" stop="20251125014000 +1100" channel="505.FSP">
-    <title lang="en">The Ashes Mini: 1st Test Day 4</title>
-    <sub-title lang="en">1st Test Day 4</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251125014000 +1100" stop="20251125020000 +1100" channel="505.FSP">
-    <title lang="en">WBBL Mini: HEA v STA</title>
-    <sub-title lang="en">HEA v STA</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251125020000 +1100" stop="20251125050000 +1100" channel="505.FSP">
+  <programme start="20251125030000 +1100" stop="20251125060000 +1100" channel="505.FSP">
     <title lang="en">WBBL: Thunder v Scorchers</title>
     <sub-title lang="en">Thunder v Scorchers</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125050000 +1100" stop="20251125052000 +1100" channel="505.FSP">
-    <title lang="en">WBBL Mini: THU v REN</title>
-    <sub-title lang="en">THU v REN</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251125052000 +1100" stop="20251125054000 +1100" channel="505.FSP">
-    <title lang="en">WBBL Mini: HEA v STA</title>
-    <sub-title lang="en">HEA v STA</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251125054000 +1100" stop="20251125061000 +1100" channel="505.FSP">
-    <title lang="en">Test Mini IND v SA: 2nd Test D3</title>
+  <programme start="20251125060000 +1100" stop="20251125062000 +1100" channel="505.FSP">
+    <title lang="en">Cricket: Test Mini IND v SA: 2nd Test D3</title>
     <sub-title lang="en">2nd Test D3</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125061000 +1100" stop="20251125063000 +1100" channel="505.FSP">
-    <title lang="en">WBBL Mini: HEA v STA</title>
-    <sub-title lang="en">HEA v STA</sub-title>
+  <programme start="20251125062000 +1100" stop="20251125064000 +1100" channel="505.FSP">
+    <title lang="en">TRAVBALL</title>
+    <sub-title lang="en">TRAVBALL</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125063000 +1100" stop="20251125065000 +1100" channel="505.FSP">
-    <title lang="en">Test Mini IND v SA: 2nd Test D3</title>
+  <programme start="20251125064000 +1100" stop="20251125070000 +1100" channel="505.FSP">
+    <title lang="en">Cricket: Test Mini IND v SA: 2nd Test D3</title>
     <sub-title lang="en">2nd Test D3</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125065000 +1100" stop="20251125075000 +1100" channel="505.FSP">
-    <title lang="en">Test Day: The Ashes T1 D4</title>
-    <sub-title lang="en">The Ashes T1 D4</sub-title>
+  <programme start="20251125070000 +1100" stop="20251125080000 +1100" channel="505.FSP">
+    <title lang="en">Cricket: Ashes: 1994/95 1st Test</title>
+    <sub-title lang="en">1994/95 1st Test</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125075000 +1100" stop="20251125081000 +1100" channel="505.FSP">
-    <title lang="en">Test Mini IND v SA: 2nd Test D3</title>
+  <programme start="20251125080000 +1100" stop="20251125090000 +1100" channel="505.FSP">
+    <title lang="en">Cricket: Ashes: 1994/95 2nd Test</title>
+    <sub-title lang="en">1994/95 2nd Test</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251125090000 +1100" stop="20251125100000 +1100" channel="505.FSP">
+    <title lang="en">Cricket: Ashes: 1994/95 3rd Test</title>
+    <sub-title lang="en">1994/95 3rd Test</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251125100000 +1100" stop="20251125110000 +1100" channel="505.FSP">
+    <title lang="en">Cricket: Ashes: 1994/95 4th Test</title>
+    <sub-title lang="en">1994/95 4th Test</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251125110000 +1100" stop="20251125120000 +1100" channel="505.FSP">
+    <title lang="en">Cricket: Ashes: 1994/95 5th Test</title>
+    <sub-title lang="en">1994/95 5th Test</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251125120000 +1100" stop="20251125130000 +1100" channel="505.FSP">
+    <title lang="en">Cricket: The Ashes First Test</title>
+    <sub-title lang="en">First Test</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251125130000 +1100" stop="20251125132000 +1100" channel="505.FSP">
+    <title lang="en">Cricket: Test Mini IND v SA: 2nd Test D3</title>
     <sub-title lang="en">2nd Test D3</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125081000 +1100" stop="20251125083000 +1100" channel="505.FSP">
-    <title lang="en">The Ashes Mini: 1st Test Day 4</title>
-    <sub-title lang="en">1st Test Day 4</sub-title>
+  <programme start="20251125132000 +1100" stop="20251125134000 +1100" channel="505.FSP">
+    <title lang="en">TRAVBALL</title>
+    <sub-title lang="en">TRAVBALL</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125083000 +1100" stop="20251125085000 +1100" channel="505.FSP">
-    <title lang="en">Test Mini IND v SA: 2nd Test D3</title>
+  <programme start="20251125134000 +1100" stop="20251125140000 +1100" channel="505.FSP">
+    <title lang="en">Cricket: Test Mini IND v SA: 2nd Test D3</title>
     <sub-title lang="en">2nd Test D3</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125085000 +1100" stop="20251125095000 +1100" channel="505.FSP">
-    <title lang="en">Ashes: 2017/18 5th Test</title>
-    <sub-title lang="en">2017/18 5th Test</sub-title>
+  <programme start="20251125140000 +1100" stop="20251125150000 +1100" channel="505.FSP">
+    <title lang="en">Cricket: Test Day: The Ashes T1 D1</title>
+    <sub-title lang="en">The Ashes T1 D1</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125095000 +1100" stop="20251125101000 +1100" channel="505.FSP">
-    <title lang="en">Test Mini IND v SA: 2nd Test D3</title>
-    <sub-title lang="en">2nd Test D3</sub-title>
+  <programme start="20251125150000 +1100" stop="20251125160000 +1100" channel="505.FSP">
+    <title lang="en">Cricket: Test Day: The Ashes T1 D2</title>
+    <sub-title lang="en">The Ashes T1 D2</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125101000 +1100" stop="20251125103000 +1100" channel="505.FSP">
-    <title lang="en">The Ashes Mini: 1st Test Day 4</title>
-    <sub-title lang="en">1st Test Day 4</sub-title>
+  <programme start="20251125160000 +1100" stop="20251125170000 +1100" channel="505.FSP">
+    <title lang="en">Cricket: Ashes: 2006/07 3rd Test</title>
+    <sub-title lang="en">2006/07 3rd Test</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125103000 +1100" stop="20251125105000 +1100" channel="505.FSP">
-    <title lang="en">Test Mini IND v SA: 2nd Test D3</title>
-    <sub-title lang="en">2nd Test D3</sub-title>
+  <programme start="20251125170000 +1100" stop="20251125180000 +1100" channel="505.FSP">
+    <title lang="en">Cricket: The Ashes First Test</title>
+    <sub-title lang="en">First Test</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125105000 +1100" stop="20251125115000 +1100" channel="505.FSP">
-    <title lang="en">Ashes: 2006/07 2nd Test</title>
-    <sub-title lang="en">2006/07 2nd Test</sub-title>
+  <programme start="20251125180000 +1100" stop="20251125182000 +1100" channel="505.FSP">
+    <title lang="en">The Fox Box: First Ashes Test</title>
+    <sub-title lang="en">First Ashes Test</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125115000 +1100" stop="20251125121000 +1100" channel="505.FSP">
-    <title lang="en">Test Mini IND v SA: 2nd Test D3</title>
-    <sub-title lang="en">2nd Test D3</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251125121000 +1100" stop="20251125123000 +1100" channel="505.FSP">
-    <title lang="en">WBBL Mini: HEA v STA</title>
-    <sub-title lang="en">HEA v STA</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251125123000 +1100" stop="20251125125000 +1100" channel="505.FSP">
-    <title lang="en">Test Mini IND v SA: 2nd Test D3</title>
-    <sub-title lang="en">2nd Test D3</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251125125000 +1100" stop="20251125131000 +1100" channel="505.FSP">
-    <title lang="en">WBBL Mini: THU v REN</title>
-    <sub-title lang="en">THU v REN</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251125131000 +1100" stop="20251125133000 +1100" channel="505.FSP">
-    <title lang="en">Test Mini IND v SA: 2nd Test D3</title>
-    <sub-title lang="en">2nd Test D3</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251125133000 +1100" stop="20251125140000 +1100" channel="505.FSP">
-    <title lang="en">Mitchell Starc Strikes</title>
-    <sub-title lang="en">Mitchell Starc Strikes</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251125140000 +1100" stop="20251125142000 +1100" channel="505.FSP">
-    <title lang="en">Test Mini IND v SA: 2nd Test D3</title>
-    <sub-title lang="en">2nd Test D3</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251125142000 +1100" stop="20251125162500 +1100" channel="505.FSP">
-    <title lang="en">Live: Test: IND v SA 2nd Test Day 4 S1</title>
-    <sub-title lang="en">IND v SA 2nd Test Day 4 S1</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251125162500 +1100" stop="20251125165000 +1100" channel="505.FSP">
-    <title lang="en">Live: Tea Break: IND v SA</title>
-    <sub-title lang="en">IND v SA</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251125165000 +1100" stop="20251125185500 +1100" channel="505.FSP">
+  <programme start="20251125182000 +1100" stop="20251125185000 +1100" channel="505.FSP">
     <title lang="en">Live: Test: IND v SA 2nd Test Day 4 S2</title>
     <sub-title lang="en">IND v SA 2nd Test Day 4 S2</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125185500 +1100" stop="20251125192500 +1100" channel="505.FSP">
-    <title lang="en">Ashes: 1998/99 1st Test</title>
-    <sub-title lang="en">1998/99 1st Test</sub-title>
+  <programme start="20251125185000 +1100" stop="20251125192000 +1100" channel="505.FSP">
+    <title lang="en">Cricket: Ashes: 2006/07 3rd Test</title>
+    <sub-title lang="en">2006/07 3rd Test</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125192500 +1100" stop="20251125220000 +1100" channel="505.FSP">
+  <programme start="20251125192000 +1100" stop="20251125220000 +1100" channel="505.FSP">
     <title lang="en">Live: Test: IND v SA 2nd Test Day 4 S3</title>
     <sub-title lang="en">IND v SA 2nd Test Day 4 S3</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125220000 +1100" stop="20251125230000 +1100" channel="505.FSP">
-    <title lang="en">The Grade Cricketer With Ravi Shastri</title>
-    <sub-title lang="en">Ravi Shastri</sub-title>
+  <programme start="20251125220000 +1100" stop="20251125222000 +1100" channel="505.FSP">
+    <title lang="en">Cricket: WBBL Mini: SCO v STR</title>
+    <sub-title lang="en">SCO v STR</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251125222000 +1100" stop="20251125224000 +1100" channel="505.FSP">
+    <title lang="en">Cricket: WBBL Mini: THU v REN</title>
+    <sub-title lang="en">THU v REN</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251125224000 +1100" stop="20251125230000 +1100" channel="505.FSP">
+    <title lang="en">Cricket: WBBL Mini: HEA v STA</title>
+    <sub-title lang="en">HEA v STA</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251125230000 +1100" stop="20251126000000 +1100" channel="505.FSP">
-    <title lang="en">Ashes: 2006/07 2nd Test</title>
+    <title lang="en">Cricket: Ashes: 2006/07 2nd Test</title>
     <sub-title lang="en">2006/07 2nd Test</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251126000000 +1100" stop="20251126002000 +1100" channel="505.FSP">
-    <title lang="en">WBBL Mini: THU v REN</title>
+    <title lang="en">Cricket: WBBL Mini: THU v REN</title>
     <sub-title lang="en">THU v REN</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251126002000 +1100" stop="20251126004000 +1100" channel="505.FSP">
-    <title lang="en">WBBL Mini: HEA v STA</title>
+    <title lang="en">Cricket: WBBL Mini: HEA v STA</title>
     <sub-title lang="en">HEA v STA</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251126004000 +1100" stop="20251126010000 +1100" channel="505.FSP">
-    <title lang="en">WBBL Mini: STR v HEA</title>
+    <title lang="en">Cricket: WBBL Mini: STR v HEA</title>
     <sub-title lang="en">STR v HEA</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251126010000 +1100" stop="20251126020000 +1100" channel="505.FSP">
-    <title lang="en">Test Day: The Ashes T1 D5</title>
-    <sub-title lang="en">The Ashes T1 D5</sub-title>
+    <title lang="en">Cricket: Test Day: The Ashes T1 D2</title>
+    <sub-title lang="en">The Ashes T1 D2</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251126020000 +1100" stop="20251126050000 +1100" channel="505.FSP">
@@ -7399,72 +7114,72 @@
     <desc lang="en" />
   </programme>
   <programme start="20251126050000 +1100" stop="20251126060000 +1100" channel="505.FSP">
-    <title lang="en">Test Day: The Ashes T1 D5</title>
-    <sub-title lang="en">The Ashes T1 D5</sub-title>
+    <title lang="en">Cricket: Test Day: The Ashes T1 D2</title>
+    <sub-title lang="en">The Ashes T1 D2</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251126060000 +1100" stop="20251126070000 +1100" channel="505.FSP">
-    <title lang="en">Ashes: 1994/95 1st Test</title>
+    <title lang="en">Cricket: Ashes: 1994/95 1st Test</title>
     <sub-title lang="en">1994/95 1st Test</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251126070000 +1100" stop="20251126080000 +1100" channel="505.FSP">
-    <title lang="en">Test Day: The Ashes T1 D5</title>
-    <sub-title lang="en">The Ashes T1 D5</sub-title>
+    <title lang="en">Cricket: Test Day: The Ashes T1 D2</title>
+    <sub-title lang="en">The Ashes T1 D2</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251126080000 +1100" stop="20251126082000 +1100" channel="505.FSP">
-    <title lang="en">Test Mini IND v SA: 2nd Test D4</title>
+    <title lang="en">Cricket: Test Mini IND v SA: 2nd Test D4</title>
     <sub-title lang="en">2nd Test D4</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251126082000 +1100" stop="20251126084000 +1100" channel="505.FSP">
-    <title lang="en">The Ashes Mini: 1st Test Day 5</title>
-    <sub-title lang="en">1st Test Day 5</sub-title>
+    <title lang="en">Cricket: The Ashes Mini: 1st Test Day 2</title>
+    <sub-title lang="en">1st Test Day 2</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251126084000 +1100" stop="20251126090000 +1100" channel="505.FSP">
-    <title lang="en">Test Mini IND v SA: 2nd Test D4</title>
+    <title lang="en">Cricket: Test Mini IND v SA: 2nd Test D4</title>
     <sub-title lang="en">2nd Test D4</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251126090000 +1100" stop="20251126100000 +1100" channel="505.FSP">
-    <title lang="en">Ashes: 2006/07 1st Test</title>
+    <title lang="en">Cricket: Ashes: 2006/07 1st Test</title>
     <sub-title lang="en">2006/07 1st Test</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251126100000 +1100" stop="20251126110000 +1100" channel="505.FSP">
-    <title lang="en">Ashes: 2013/14 1st Test</title>
+    <title lang="en">Cricket: Ashes: 2013/14 1st Test</title>
     <sub-title lang="en">2013/14 1st Test</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251126110000 +1100" stop="20251126112000 +1100" channel="505.FSP">
-    <title lang="en">Test Mini IND v SA: 2nd Test D4</title>
+    <title lang="en">Cricket: Test Mini IND v SA: 2nd Test D4</title>
     <sub-title lang="en">2nd Test D4</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251126112000 +1100" stop="20251126114000 +1100" channel="505.FSP">
-    <title lang="en">WBBL Mini: STR v HEA</title>
+    <title lang="en">Cricket: WBBL Mini: STR v HEA</title>
     <sub-title lang="en">STR v HEA</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251126114000 +1100" stop="20251126120000 +1100" channel="505.FSP">
-    <title lang="en">Test Mini IND v SA: 2nd Test D4</title>
+    <title lang="en">Cricket: Test Mini IND v SA: 2nd Test D4</title>
     <sub-title lang="en">2nd Test D4</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251126120000 +1100" stop="20251126130000 +1100" channel="505.FSP">
-    <title lang="en">Ashes: 2013/14 1st Test</title>
+    <title lang="en">Cricket: Ashes: 2013/14 1st Test</title>
     <sub-title lang="en">2013/14 1st Test</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251126130000 +1100" stop="20251126140000 +1100" channel="505.FSP">
-    <title lang="en">Ashes: 2017/18 1st Test</title>
+    <title lang="en">Cricket: Ashes: 2017/18 1st Test</title>
     <sub-title lang="en">2017/18 1st Test</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251126140000 +1100" stop="20251126142000 +1100" channel="505.FSP">
-    <title lang="en">Test Mini IND v SA: 2nd Test D3</title>
+    <title lang="en">Cricket: Test Mini IND v SA: 2nd Test D3</title>
     <sub-title lang="en">2nd Test D3</sub-title>
     <desc lang="en" />
   </programme>
@@ -7474,7 +7189,7 @@
     <desc lang="en" />
   </programme>
   <programme start="20251126162500 +1100" stop="20251126165000 +1100" channel="505.FSP">
-    <title lang="en">Live: Tea Break: IND v SA</title>
+    <title lang="en">Live: Cricket: Tea Break: IND v SA</title>
     <sub-title lang="en">IND v SA</sub-title>
     <desc lang="en" />
   </programme>
@@ -7484,7 +7199,7 @@
     <desc lang="en" />
   </programme>
   <programme start="20251126185500 +1100" stop="20251126192500 +1100" channel="505.FSP">
-    <title lang="en">Ashes: 1998/99 2nd Test</title>
+    <title lang="en">Cricket: Ashes: 1998/99 2nd Test</title>
     <sub-title lang="en">1998/99 2nd Test</sub-title>
     <desc lang="en" />
   </programme>
@@ -7499,27 +7214,27 @@
     <desc lang="en" />
   </programme>
   <programme start="20251126230000 +1100" stop="20251127000000 +1100" channel="505.FSP">
-    <title lang="en">Ashes: 2021/22 1st Test</title>
+    <title lang="en">Cricket: Ashes: 2021/22 1st Test</title>
     <sub-title lang="en">2021/22 1st Test</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251127000000 +1100" stop="20251127010000 +1100" channel="505.FSP">
-    <title lang="en">Test Day: The Ashes 1st Test</title>
-    <sub-title lang="en">The Ashes 1st Test</sub-title>
+    <title lang="en">Cricket: The Ashes First Test</title>
+    <sub-title lang="en">First Test</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251127010000 +1100" stop="20251127012000 +1100" channel="505.FSP">
-    <title lang="en">The Ashes Mini: 1st Test Day 1</title>
+    <title lang="en">Cricket: The Ashes Mini: 1st Test Day 1</title>
     <sub-title lang="en">1st Test Day 1</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251127012000 +1100" stop="20251127014000 +1100" channel="505.FSP">
-    <title lang="en">The Ashes Mini: 1st Test Day 2</title>
+    <title lang="en">Cricket: The Ashes Mini: 1st Test Day 2</title>
     <sub-title lang="en">1st Test Day 2</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251127014000 +1100" stop="20251127020000 +1100" channel="505.FSP">
-    <title lang="en">The Ashes Mini: 1st Test Day 3</title>
+    <title lang="en">Cricket: The Ashes Mini: 1st Test Day 3</title>
     <sub-title lang="en">1st Test Day 3</sub-title>
     <desc lang="en" />
   </programme>
@@ -7529,23 +7244,23 @@
     <desc lang="en" />
   </programme>
   <programme start="20251127050000 +1100" stop="20251127060000 +1100" channel="505.FSP">
-    <title lang="en">Ashes: 2006/07 1st Test</title>
+    <title lang="en">Cricket: Ashes: 2006/07 1st Test</title>
     <sub-title lang="en">2006/07 1st Test</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251127060000 +1100" stop="20251127070000 +1100" channel="505.FSP">
-    <title lang="en">Ashes: 2006/07 2nd Test</title>
+    <title lang="en">Cricket: Ashes: 2006/07 2nd Test</title>
     <sub-title lang="en">2006/07 2nd Test</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251127070000 +1100" stop="20251127080000 +1100" channel="505.FSP">
-    <title lang="en">Ashes: 2006/07 3rd Test</title>
+    <title lang="en">Cricket: Ashes: 2006/07 3rd Test</title>
     <sub-title lang="en">2006/07 3rd Test</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251127080000 +1100" stop="20251127090000 +1100" channel="505.FSP">
-    <title lang="en">Test Day: The Ashes 1st Test</title>
-    <sub-title lang="en">The Ashes 1st Test</sub-title>
+    <title lang="en">Cricket: The Ashes First Test</title>
+    <sub-title lang="en">First Test</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251127090000 +1100" stop="20251127100000 +1100" channel="505.FSP">
@@ -7554,28 +7269,28 @@
     <desc lang="en" />
   </programme>
   <programme start="20251127100000 +1100" stop="20251127110000 +1100" channel="505.FSP">
-    <title lang="en">Test Day: The Ashes 1st Test</title>
-    <sub-title lang="en">The Ashes 1st Test</sub-title>
+    <title lang="en">Cricket: The Ashes First Test</title>
+    <sub-title lang="en">First Test</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251127110000 +1100" stop="20251127112000 +1100" channel="505.FSP">
-    <title lang="en">WBBL Mini: STA v HUR</title>
+    <title lang="en">Cricket: WBBL Mini: STA v HUR</title>
     <sub-title lang="en">STA v HUR</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251127112000 +1100" stop="20251127114000 +1100" channel="505.FSP">
-    <title lang="en">WBBL Mini: STR v HEA</title>
+    <title lang="en">Cricket: WBBL Mini: STR v HEA</title>
     <sub-title lang="en">STR v HEA</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251127114000 +1100" stop="20251127120000 +1100" channel="505.FSP">
-    <title lang="en">WBBL Mini: STA v HUR</title>
+    <title lang="en">Cricket: WBBL Mini: STA v HUR</title>
     <sub-title lang="en">STA v HUR</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251127120000 +1100" stop="20251127130000 +1100" channel="505.FSP">
-    <title lang="en">Test Day: The Ashes 1st Test</title>
-    <sub-title lang="en">The Ashes 1st Test</sub-title>
+    <title lang="en">Cricket: The Ashes First Test</title>
+    <sub-title lang="en">First Test</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251127130000 +1100" stop="20251127140000 +1100" channel="505.FSP">
@@ -7584,13 +7299,13 @@
     <desc lang="en" />
   </programme>
   <programme start="20251127140000 +1100" stop="20251127150000 +1100" channel="505.FSP">
-    <title lang="en">Ashes: 2017/18 2nd Test</title>
+    <title lang="en">Cricket: Ashes: 2017/18 2nd Test</title>
     <sub-title lang="en">2017/18 2nd Test</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251127150000 +1100" stop="20251127160000 +1100" channel="505.FSP">
-    <title lang="en">Test Day: The Ashes 1st Test</title>
-    <sub-title lang="en">The Ashes 1st Test</sub-title>
+    <title lang="en">Cricket: The Ashes First Test</title>
+    <sub-title lang="en">First Test</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251127160000 +1100" stop="20251127170000 +1100" channel="505.FSP">
@@ -7599,12 +7314,12 @@
     <desc lang="en" />
   </programme>
   <programme start="20251127170000 +1100" stop="20251127180000 +1100" channel="505.FSP">
-    <title lang="en">Test Day: The Ashes 1st Test</title>
-    <sub-title lang="en">The Ashes 1st Test</sub-title>
+    <title lang="en">Cricket: The Ashes First Test</title>
+    <sub-title lang="en">First Test</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251127180000 +1100" stop="20251127190000 +1100" channel="505.FSP">
-    <title lang="en">Ashes: 2021/22 3rd Test</title>
+    <title lang="en">Cricket: Ashes: 2021/22 3rd Test</title>
     <sub-title lang="en">2021/22 3rd Test</sub-title>
     <desc lang="en" />
   </programme>
@@ -7614,22 +7329,22 @@
     <desc lang="en" />
   </programme>
   <programme start="20251127200000 +1100" stop="20251127210000 +1100" channel="505.FSP">
-    <title lang="en">Test Day: The Ashes 1st Test</title>
-    <sub-title lang="en">The Ashes 1st Test</sub-title>
+    <title lang="en">Cricket: The Ashes First Test</title>
+    <sub-title lang="en">First Test</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251127210000 +1100" stop="20251127220000 +1100" channel="505.FSP">
-    <title lang="en">Ashes: 2013/14 1st Test</title>
+    <title lang="en">Cricket: Ashes: 2013/14 1st Test</title>
     <sub-title lang="en">2013/14 1st Test</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251127220000 +1100" stop="20251127230000 +1100" channel="505.FSP">
-    <title lang="en">Test Day: The Ashes 1st Test</title>
-    <sub-title lang="en">The Ashes 1st Test</sub-title>
+    <title lang="en">Cricket: The Ashes First Test</title>
+    <sub-title lang="en">First Test</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251127230000 +1100" stop="20251128000000 +1100" channel="505.FSP">
-    <title lang="en">Ashes: 2013/14 2nd Test</title>
+    <title lang="en">Cricket: Ashes: 2013/14 2nd Test</title>
     <sub-title lang="en">2013/14 2nd Test</sub-title>
     <desc lang="en" />
   </programme>
@@ -7639,22 +7354,22 @@
     <desc lang="en" />
   </programme>
   <programme start="20251128010000 +1100" stop="20251128020000 +1100" channel="505.FSP">
-    <title lang="en">Test Day: The Ashes T1 D1</title>
+    <title lang="en">Cricket: Test Day: The Ashes T1 D1</title>
     <sub-title lang="en">The Ashes T1 D1</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251128020000 +1100" stop="20251128030000 +1100" channel="505.FSP">
-    <title lang="en">Test Day: The Ashes T1 D2</title>
+    <title lang="en">Cricket: Test Day: The Ashes T1 D2</title>
     <sub-title lang="en">The Ashes T1 D2</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251128030000 +1100" stop="20251128040000 +1100" channel="505.FSP">
-    <title lang="en">Test Day: The Ashes T1 D3</title>
+    <title lang="en">Cricket: Test Day: The Ashes T1 D3</title>
     <sub-title lang="en">The Ashes T1 D3</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251128040000 +1100" stop="20251128050000 +1100" channel="505.FSP">
-    <title lang="en">Test Day: The Ashes T1 D4</title>
+    <title lang="en">Cricket: Test Day: The Ashes T1 D4</title>
     <sub-title lang="en">The Ashes T1 D4</sub-title>
     <desc lang="en" />
   </programme>
@@ -7669,22 +7384,22 @@
     <desc lang="en" />
   </programme>
   <programme start="20251128090000 +1100" stop="20251128100000 +1100" channel="505.FSP">
-    <title lang="en">Ashes: 1994/95 1st Test</title>
+    <title lang="en">Cricket: Ashes: 1994/95 1st Test</title>
     <sub-title lang="en">1994/95 1st Test</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251128100000 +1100" stop="20251128102000 +1100" channel="505.FSP">
-    <title lang="en">WBBL Mini: REN v SCO</title>
+    <title lang="en">Cricket: WBBL Mini: REN v SCO</title>
     <sub-title lang="en">REN v SCO</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251128102000 +1100" stop="20251128104000 +1100" channel="505.FSP">
-    <title lang="en">WBBL Mini: STA v HUR</title>
+    <title lang="en">Cricket: WBBL Mini: STA v HUR</title>
     <sub-title lang="en">STA v HUR</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251128104000 +1100" stop="20251128110000 +1100" channel="505.FSP">
-    <title lang="en">WBBL Mini: REN v SCO</title>
+    <title lang="en">Cricket: WBBL Mini: REN v SCO</title>
     <sub-title lang="en">REN v SCO</sub-title>
     <desc lang="en" />
   </programme>
@@ -7694,37 +7409,37 @@
     <desc lang="en" />
   </programme>
   <programme start="20251128120000 +1100" stop="20251128130000 +1100" channel="505.FSP">
-    <title lang="en">Ashes: 1998/99 2nd Test</title>
+    <title lang="en">Cricket: Ashes: 1998/99 2nd Test</title>
     <sub-title lang="en">1998/99 2nd Test</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251128130000 +1100" stop="20251128132000 +1100" channel="505.FSP">
-    <title lang="en">WBBL Mini: REN v SCO</title>
+    <title lang="en">Cricket: WBBL Mini: REN v SCO</title>
     <sub-title lang="en">REN v SCO</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251128132000 +1100" stop="20251128134000 +1100" channel="505.FSP">
-    <title lang="en">WBBL Mini: STA v HUR</title>
+    <title lang="en">Cricket: WBBL Mini: STA v HUR</title>
     <sub-title lang="en">STA v HUR</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251128134000 +1100" stop="20251128140000 +1100" channel="505.FSP">
-    <title lang="en">WBBL Mini: REN v SCO</title>
+    <title lang="en">Cricket: WBBL Mini: REN v SCO</title>
     <sub-title lang="en">REN v SCO</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251128140000 +1100" stop="20251128150000 +1100" channel="505.FSP">
-    <title lang="en">Ashes: 2002/03 1st Test</title>
+    <title lang="en">Cricket: Ashes: 2002/03 1st Test</title>
     <sub-title lang="en">2002/03 1st Test</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251128150000 +1100" stop="20251128160000 +1100" channel="505.FSP">
-    <title lang="en">Test Day: The Ashes 1st Test</title>
-    <sub-title lang="en">The Ashes 1st Test</sub-title>
+    <title lang="en">Cricket: The Ashes First Test</title>
+    <sub-title lang="en">First Test</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251128160000 +1100" stop="20251128170000 +1100" channel="505.FSP">
-    <title lang="en">Ashes: 2006/07 4th Test</title>
+    <title lang="en">Cricket: Ashes: 2006/07 4th Test</title>
     <sub-title lang="en">2006/07 4th Test</sub-title>
     <desc lang="en" />
   </programme>
@@ -7734,27 +7449,27 @@
     <desc lang="en" />
   </programme>
   <programme start="20251128180000 +1100" stop="20251128190000 +1100" channel="505.FSP">
-    <title lang="en">Ashes: 2013/14 1st Test</title>
+    <title lang="en">Cricket: Ashes: 2013/14 1st Test</title>
     <sub-title lang="en">2013/14 1st Test</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251128190000 +1100" stop="20251128200000 +1100" channel="505.FSP">
-    <title lang="en">Test Day: The Ashes 1st Test</title>
-    <sub-title lang="en">The Ashes 1st Test</sub-title>
+    <title lang="en">Cricket: The Ashes First Test</title>
+    <sub-title lang="en">First Test</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251128200000 +1100" stop="20251128210000 +1100" channel="505.FSP">
-    <title lang="en">Ashes: 2021/22 2nd Test</title>
+    <title lang="en">Cricket: Ashes: 2021/22 2nd Test</title>
     <sub-title lang="en">2021/22 2nd Test</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251128210000 +1100" stop="20251128220000 +1100" channel="505.FSP">
-    <title lang="en">Test Day: The Ashes 1st Test</title>
-    <sub-title lang="en">The Ashes 1st Test</sub-title>
+    <title lang="en">Cricket: The Ashes First Test</title>
+    <sub-title lang="en">First Test</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251128220000 +1100" stop="20251128230000 +1100" channel="505.FSP">
-    <title lang="en">Ashes: 2021/22 3rd Test</title>
+    <title lang="en">Cricket: Ashes: 2021/22 3rd Test</title>
     <sub-title lang="en">2021/22 3rd Test</sub-title>
     <desc lang="en" />
   </programme>
@@ -8856,104 +8571,153 @@
     <sub-title lang="en">SA v IRE Game 2</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251123233000 +1100" stop="20251124000000 +1100" channel="506.SPS">
-    <title lang="en">F1 Mini: Las Vegas</title>
-    <sub-title lang="en">Las Vegas</sub-title>
+  <programme start="20251208030000 +1100" stop="20251208060000 +1100" channel="505.FSP">
+    <title lang="en">WBBL</title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124000000 +1100" stop="20251124020000 +1100" channel="506.SPS">
-    <title lang="en">F1: Las Vegas Race</title>
-    <sub-title lang="en">Las Vegas Race</sub-title>
+  <programme start="20251208060000 +1100" stop="20251208070000 +1100" channel="505.FSP">
+    <title lang="en">ODI: IND v SA Game 3</title>
+    <sub-title lang="en">IND v SA Game 3</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124020000 +1100" stop="20251124030000 +1100" channel="506.SPS">
-    <title lang="en">F1: Chequered Flag</title>
-    <sub-title lang="en">Las Vegas</sub-title>
+  <programme start="20251208070000 +1100" stop="20251208100000 +1100" channel="505.FSP">
+    <title lang="en">WBBL</title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124030000 +1100" stop="20251124033000 +1100" channel="506.SPS">
-    <title lang="en">F1: Ted's Notebook</title>
-    <sub-title lang="en">Las Vegas</sub-title>
+  <programme start="20251208100000 +1100" stop="20251208102000 +1100" channel="505.FSP">
+    <title lang="en">Test Mini NZL v WI</title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124033000 +1100" stop="20251124040000 +1100" channel="506.SPS">
-    <title lang="en">Supercars: The Formation Lap: Adelaide</title>
-    <sub-title lang="en">Adelaide</sub-title>
+  <programme start="20251208102000 +1100" stop="20251208104000 +1100" channel="505.FSP">
+    <title lang="en">Test Mini NZL v WI</title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124040000 +1100" stop="20251124050000 +1100" channel="506.SPS">
-    <title lang="en">Supercars Drivers Only</title>
-    <sub-title lang="en">Episode 13</sub-title>
+  <programme start="20251208104000 +1100" stop="20251208110000 +1100" channel="505.FSP">
+    <title lang="en">Test Mini NZL v WI</title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124050000 +1100" stop="20251124080000 +1100" channel="506.SPS">
-    <title lang="en">Live: Golf: USLPGA: Tour C'ship FR</title>
-    <sub-title lang="en">Tour C'ship FR</sub-title>
+  <programme start="20251208110000 +1100" stop="20251208120000 +1100" channel="505.FSP">
+    <title lang="en">ODI: IND v SA Game 3</title>
+    <sub-title lang="en">IND v SA Game 3</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124080000 +1100" stop="20251124090000 +1100" channel="506.SPS">
-    <title lang="en">Golf: Australian PGA: QLD PGA FR</title>
-    <sub-title lang="en">QLD PGA FR</sub-title>
+  <programme start="20251208120000 +1100" stop="20251208122000 +1100" channel="505.FSP">
+    <title lang="en">Test Mini NZL v WI</title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124090000 +1100" stop="20251124110000 +1100" channel="506.SPS">
-    <title lang="en">F1: Las Vegas Race</title>
-    <sub-title lang="en">Las Vegas Race</sub-title>
+  <programme start="20251208122000 +1100" stop="20251208124000 +1100" channel="505.FSP">
+    <title lang="en">Test Mini NZL v WI</title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124110000 +1100" stop="20251124120000 +1100" channel="506.SPS">
-    <title lang="en">F1: Chequered Flag</title>
-    <sub-title lang="en">Las Vegas</sub-title>
+  <programme start="20251208124000 +1100" stop="20251208130000 +1100" channel="505.FSP">
+    <title lang="en">Test Mini NZL v WI</title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124120000 +1100" stop="20251124123000 +1100" channel="506.SPS">
-    <title lang="en">F1: Ted's Notebook</title>
-    <sub-title lang="en">Las Vegas</sub-title>
+  <programme start="20251208130000 +1100" stop="20251208132000 +1100" channel="505.FSP">
+    <title lang="en">ODI Mini IND v SA</title>
+    <sub-title lang="en">Game 3</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124123000 +1100" stop="20251124130000 +1100" channel="506.SPS">
-    <title lang="en">Supercars: The Formation Lap: Adelaide</title>
-    <sub-title lang="en">Adelaide</sub-title>
+  <programme start="20251208132000 +1100" stop="20251208134000 +1100" channel="505.FSP">
+    <title lang="en">WBBL Mini</title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124130000 +1100" stop="20251124140000 +1100" channel="506.SPS">
-    <title lang="en">Supercars Drivers Only</title>
-    <sub-title lang="en">Episode 13</sub-title>
+  <programme start="20251208134000 +1100" stop="20251208140000 +1100" channel="505.FSP">
+    <title lang="en">WBBL Mini</title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124140000 +1100" stop="20251124150000 +1100" channel="506.SPS">
-    <title lang="en">F2: Italy Feature Race</title>
-    <sub-title lang="en">Italy Feature Race</sub-title>
+  <programme start="20251208140000 +1100" stop="20251208150000 +1100" channel="505.FSP">
+    <title lang="en">ODI: IND v SA Game 3</title>
+    <sub-title lang="en">IND v SA Game 3</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124150000 +1100" stop="20251124160000 +1100" channel="506.SPS">
-    <title lang="en">F2: Azerbaijan Feature Race</title>
-    <sub-title lang="en">Azerbaijan Feature Race</sub-title>
+  <programme start="20251208150000 +1100" stop="20251208152000 +1100" channel="505.FSP">
+    <title lang="en">ODI Mini IND v SA</title>
+    <sub-title lang="en">Game 3</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124160000 +1100" stop="20251124180000 +1100" channel="506.SPS">
-    <title lang="en">F1: Las Vegas Race</title>
-    <sub-title lang="en">Las Vegas Race</sub-title>
+  <programme start="20251208152000 +1100" stop="20251208154000 +1100" channel="505.FSP">
+    <title lang="en">WBBL Mini</title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124180000 +1100" stop="20251124190000 +1100" channel="506.SPS">
-    <title lang="en">F1: Chequered Flag</title>
-    <sub-title lang="en">Las Vegas</sub-title>
+  <programme start="20251208154000 +1100" stop="20251208160000 +1100" channel="505.FSP">
+    <title lang="en">WBBL Mini</title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124190000 +1100" stop="20251124193000 +1100" channel="506.SPS">
-    <title lang="en">F1: Ted's Notebook</title>
-    <sub-title lang="en">Las Vegas</sub-title>
+  <programme start="20251208160000 +1100" stop="20251208170000 +1100" channel="505.FSP">
+    <title lang="en">ODI: IND v SA Game 3</title>
+    <sub-title lang="en">IND v SA Game 3</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124193000 +1100" stop="20251124203000 +1100" channel="506.SPS">
-    <title lang="en">Golf: USPGA: The RSM Classic</title>
-    <sub-title lang="en">The RSM Classic</sub-title>
+  <programme start="20251208170000 +1100" stop="20251208172000 +1100" channel="505.FSP">
+    <title lang="en">Test Mini NZL v WI</title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124203000 +1100" stop="20251124223000 +1100" channel="506.SPS">
-    <title lang="en">Players Championship Darts</title>
-    <sub-title lang="en">Final Day Night Session</sub-title>
+  <programme start="20251208172000 +1100" stop="20251208174000 +1100" channel="505.FSP">
+    <title lang="en">Test Mini NZL v WI</title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208174000 +1100" stop="20251208180000 +1100" channel="505.FSP">
+    <title lang="en">Test Mini NZL v WI</title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208180000 +1100" stop="20251208182000 +1100" channel="505.FSP">
+    <title lang="en">ODI Mini IND v SA</title>
+    <sub-title lang="en">Game 3</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208182000 +1100" stop="20251208184000 +1100" channel="505.FSP">
+    <title lang="en">WBBL Mini</title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208184000 +1100" stop="20251208190000 +1100" channel="505.FSP">
+    <title lang="en">WBBL Mini</title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208190000 +1100" stop="20251208200000 +1100" channel="505.FSP">
+    <title lang="en">ODI: IND v SA Game 3</title>
+    <sub-title lang="en">IND v SA Game 3</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208200000 +1100" stop="20251208202000 +1100" channel="505.FSP">
+    <title lang="en">Test Mini NZL v WI</title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208202000 +1100" stop="20251208204000 +1100" channel="505.FSP">
+    <title lang="en">Test Mini NZL v WI</title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208204000 +1100" stop="20251208210000 +1100" channel="505.FSP">
+    <title lang="en">Test Mini NZL v WI</title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208210000 +1100" stop="20251208220000 +1100" channel="505.FSP">
+    <title lang="en">ODI: IND v SA Game 3</title>
+    <sub-title lang="en">IND v SA Game 3</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208220000 +1100" stop="20251208222000 +1100" channel="505.FSP">
+    <title lang="en">WBBL Mini</title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208222000 +1100" stop="20251208224000 +1100" channel="505.FSP">
+    <title lang="en">WBBL Mini</title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208224000 +1100" stop="20251208230000 +1100" channel="505.FSP">
+    <title lang="en">WBBL Mini</title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208230000 +1100" stop="20251208232000 +1100" channel="505.FSP">
+    <title lang="en">Test Mini NZL v WI</title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208232000 +1100" stop="20251208234000 +1100" channel="505.FSP">
+    <title lang="en">Test Mini NZL v WI</title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208234000 +1100" stop="20251209000000 +1100" channel="505.FSP">
+    <title lang="en">Test Mini NZL v WI</title>
     <desc lang="en" />
   </programme>
   <programme start="20251124223000 +1100" stop="20251125003000 +1100" channel="506.SPS">
@@ -9001,178 +8765,174 @@
     <sub-title lang="en">The RSM Classic</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125083000 +1100" stop="20251125085000 +1100" channel="506.SPS">
+  <programme start="20251125083000 +1100" stop="20251125093000 +1100" channel="506.SPS">
+    <title lang="en">Supercars Drivers Only</title>
+    <sub-title lang="en">Episode 13</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251125093000 +1100" stop="20251125113000 +1100" channel="506.SPS">
+    <title lang="en">F1: Las Vegas Race</title>
+    <sub-title lang="en">Las Vegas Race</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251125113000 +1100" stop="20251125123000 +1100" channel="506.SPS">
+    <title lang="en">F1: Chequered Flag</title>
+    <sub-title lang="en">Las Vegas</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251125123000 +1100" stop="20251125130000 +1100" channel="506.SPS">
+    <title lang="en">F1: Ted's Notebook</title>
+    <sub-title lang="en">Las Vegas</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251125130000 +1100" stop="20251125132000 +1100" channel="506.SPS">
     <title lang="en">Supercars Mini: Sydney 500 Race 1</title>
     <sub-title lang="en">Sydney 500 Race 1</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125085000 +1100" stop="20251125091000 +1100" channel="506.SPS">
+  <programme start="20251125132000 +1100" stop="20251125134000 +1100" channel="506.SPS">
     <title lang="en">Supercars Mini: Sydney 500 Race 2</title>
     <sub-title lang="en">Sydney 500 Race 2</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125091000 +1100" stop="20251125093000 +1100" channel="506.SPS">
+  <programme start="20251125134000 +1100" stop="20251125140000 +1100" channel="506.SPS">
     <title lang="en">Supercars Mini: Sydney 500 Race 3</title>
     <sub-title lang="en">Sydney 500 Race 3</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125093000 +1100" stop="20251125095000 +1100" channel="506.SPS">
+  <programme start="20251125140000 +1100" stop="20251125142000 +1100" channel="506.SPS">
     <title lang="en">Supercars Mini: Melbourne Race 4</title>
     <sub-title lang="en">Melbourne Race 4</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125095000 +1100" stop="20251125101000 +1100" channel="506.SPS">
+  <programme start="20251125142000 +1100" stop="20251125144000 +1100" channel="506.SPS">
     <title lang="en">Supercars Mini: Melbourne Race 5</title>
     <sub-title lang="en">Melbourne Race 5</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125101000 +1100" stop="20251125103000 +1100" channel="506.SPS">
+  <programme start="20251125144000 +1100" stop="20251125150000 +1100" channel="506.SPS">
     <title lang="en">Supercars Mini: Melbourne Race 6</title>
     <sub-title lang="en">Melbourne Race 6</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125103000 +1100" stop="20251125105000 +1100" channel="506.SPS">
+  <programme start="20251125150000 +1100" stop="20251125152000 +1100" channel="506.SPS">
     <title lang="en">Supercars Mini: Taupo Race 8</title>
     <sub-title lang="en">Taupo Race 8</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125105000 +1100" stop="20251125111000 +1100" channel="506.SPS">
+  <programme start="20251125152000 +1100" stop="20251125154000 +1100" channel="506.SPS">
     <title lang="en">Supercars Mini: Taupo Race 9</title>
     <sub-title lang="en">Taupo Race 9</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125111000 +1100" stop="20251125113000 +1100" channel="506.SPS">
+  <programme start="20251125154000 +1100" stop="20251125160000 +1100" channel="506.SPS">
     <title lang="en">Supercars Mini: Taupo Race 10</title>
     <sub-title lang="en">Taupo Race 10</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125113000 +1100" stop="20251125115000 +1100" channel="506.SPS">
+  <programme start="20251125160000 +1100" stop="20251125162000 +1100" channel="506.SPS">
     <title lang="en">Supercars Mini: Tasmania Race 11</title>
     <sub-title lang="en">Tasmania Race 11</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125115000 +1100" stop="20251125121000 +1100" channel="506.SPS">
+  <programme start="20251125162000 +1100" stop="20251125164000 +1100" channel="506.SPS">
     <title lang="en">Supercars Mini: Tasmania Race 12</title>
     <sub-title lang="en">Tasmania Race 12</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125121000 +1100" stop="20251125123000 +1100" channel="506.SPS">
+  <programme start="20251125164000 +1100" stop="20251125170000 +1100" channel="506.SPS">
     <title lang="en">Supercars Mini: Tasmania Race 13</title>
     <sub-title lang="en">Tasmania Race 13</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125123000 +1100" stop="20251125125000 +1100" channel="506.SPS">
+  <programme start="20251125170000 +1100" stop="20251125172000 +1100" channel="506.SPS">
     <title lang="en">Supercars Mini: Perth Race 14</title>
     <sub-title lang="en">Perth Race 14</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125125000 +1100" stop="20251125131000 +1100" channel="506.SPS">
+  <programme start="20251125172000 +1100" stop="20251125174000 +1100" channel="506.SPS">
     <title lang="en">Supercars Mini: Perth Race 15</title>
     <sub-title lang="en">Perth Race 15</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125131000 +1100" stop="20251125133000 +1100" channel="506.SPS">
+  <programme start="20251125174000 +1100" stop="20251125180000 +1100" channel="506.SPS">
     <title lang="en">Supercars Mini: Perth Race 16</title>
     <sub-title lang="en">Perth Race 16</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125133000 +1100" stop="20251125135000 +1100" channel="506.SPS">
+  <programme start="20251125180000 +1100" stop="20251125182000 +1100" channel="506.SPS">
     <title lang="en">Supercars Mini: Darwin Race 17</title>
     <sub-title lang="en">Darwin Race 17</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125135000 +1100" stop="20251125141000 +1100" channel="506.SPS">
+  <programme start="20251125182000 +1100" stop="20251125184000 +1100" channel="506.SPS">
     <title lang="en">Supercars Mini: Darwin Race 18</title>
     <sub-title lang="en">Darwin Race 18</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125141000 +1100" stop="20251125143000 +1100" channel="506.SPS">
+  <programme start="20251125184000 +1100" stop="20251125190000 +1100" channel="506.SPS">
     <title lang="en">Supercars Mini: Darwin Race 19</title>
     <sub-title lang="en">Darwin Race 19</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125143000 +1100" stop="20251125145000 +1100" channel="506.SPS">
+  <programme start="20251125190000 +1100" stop="20251125192000 +1100" channel="506.SPS">
     <title lang="en">Supercars Mini: Townsville 500 Race 20</title>
     <sub-title lang="en">Townsville 500 Race 20</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125145000 +1100" stop="20251125151000 +1100" channel="506.SPS">
+  <programme start="20251125192000 +1100" stop="20251125194000 +1100" channel="506.SPS">
     <title lang="en">Supercars Mini: Townsville 500 Race 21</title>
     <sub-title lang="en">Townsville 500 Race 21</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125151000 +1100" stop="20251125153000 +1100" channel="506.SPS">
+  <programme start="20251125194000 +1100" stop="20251125200000 +1100" channel="506.SPS">
     <title lang="en">Supercars Mini: Townsville 500 Race 22</title>
     <sub-title lang="en">Townsville 500 Race 22</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125153000 +1100" stop="20251125155000 +1100" channel="506.SPS">
+  <programme start="20251125200000 +1100" stop="20251125202000 +1100" channel="506.SPS">
     <title lang="en">Supercars Mini: Ipswich Race 23</title>
     <sub-title lang="en">Ipswich Race 23</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125155000 +1100" stop="20251125161000 +1100" channel="506.SPS">
+  <programme start="20251125202000 +1100" stop="20251125204000 +1100" channel="506.SPS">
     <title lang="en">Supercars Mini: Ipswich Race 24</title>
     <sub-title lang="en">Ipswich Race 24</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125161000 +1100" stop="20251125163000 +1100" channel="506.SPS">
+  <programme start="20251125204000 +1100" stop="20251125210000 +1100" channel="506.SPS">
     <title lang="en">Supercars Mini: Ipswich Race 25</title>
     <sub-title lang="en">Ipswich Race 25</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125163000 +1100" stop="20251125165000 +1100" channel="506.SPS">
+  <programme start="20251125210000 +1100" stop="20251125212000 +1100" channel="506.SPS">
     <title lang="en">Supercars Mini: The Bend 500</title>
     <sub-title lang="en">The Bend 500</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125165000 +1100" stop="20251125171000 +1100" channel="506.SPS">
+  <programme start="20251125212000 +1100" stop="20251125214000 +1100" channel="506.SPS">
     <title lang="en">Supercars Mini: Bathurst 1000</title>
     <sub-title lang="en">Bathurst 1000</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125171000 +1100" stop="20251125173000 +1100" channel="506.SPS">
+  <programme start="20251125214000 +1100" stop="20251125220000 +1100" channel="506.SPS">
     <title lang="en">Supercars Mini: Gold Coast 500 Race 28</title>
     <sub-title lang="en">Gold Coast 500 Race 28</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125173000 +1100" stop="20251125175000 +1100" channel="506.SPS">
+  <programme start="20251125220000 +1100" stop="20251125222000 +1100" channel="506.SPS">
     <title lang="en">Supercars Mini: Gold Coast 500 Race 29</title>
     <sub-title lang="en">Gold Coast 500 Race 29</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125175000 +1100" stop="20251125181000 +1100" channel="506.SPS">
+  <programme start="20251125222000 +1100" stop="20251125224000 +1100" channel="506.SPS">
     <title lang="en">Supercars Mini: Sandown 500 Race 30</title>
     <sub-title lang="en">Sandown 500 Race 30</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125181000 +1100" stop="20251125183000 +1100" channel="506.SPS">
+  <programme start="20251125224000 +1100" stop="20251125230000 +1100" channel="506.SPS">
     <title lang="en">Supercars Mini: Sandown 500 Race 31</title>
     <sub-title lang="en">Sandown 500 Race 31</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251125183000 +1100" stop="20251125191000 +1100" channel="506.SPS">
-    <title lang="en">Live: B4 The Bash</title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251125191000 +1100" stop="20251125204000 +1100" channel="506.SPS">
-    <title lang="en">Live: WBBL: Strikers v Heat IN1</title>
-    <sub-title lang="en">Strikers v Heat IN1</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251125204000 +1100" stop="20251125205500 +1100" channel="506.SPS">
-    <title lang="en">Live: WBBL Innings Break</title>
-    <sub-title lang="en">Strikers v Heat</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251125205500 +1100" stop="20251125222500 +1100" channel="506.SPS">
-    <title lang="en">Live: WBBL: Strikers v Heat IN2</title>
-    <sub-title lang="en">Strikers v Heat IN2</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251125222500 +1100" stop="20251125230000 +1100" channel="506.SPS">
-    <title lang="en">Live: Cricket: WBBL The Blast: Episode 2</title>
-    <sub-title lang="en">Episode 2</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251125230000 +1100" stop="20251126000000 +1100" channel="506.SPS">
@@ -9390,7 +9150,7 @@
     <desc lang="en" />
   </programme>
   <programme start="20251127134500 +1100" stop="20251127142700 +1100" channel="506.SPS">
-    <title lang="en">Live: Supercars: From The Vault</title>
+    <title lang="en">Live: Supercars Adelaide Supports</title>
     <sub-title lang="en">Thursday (Porsche Carrera Cup Practice 2)</sub-title>
     <desc lang="en" />
   </programme>
@@ -9415,7 +9175,7 @@
     <desc lang="en" />
   </programme>
   <programme start="20251127163400 +1100" stop="20251127170700 +1100" channel="506.SPS">
-    <title lang="en">Live: Supercars: From The Vault</title>
+    <title lang="en">Live: Supercars Adelaide Supports</title>
     <sub-title lang="en">Thursday (Trans Am Qualifying)</sub-title>
     <desc lang="en" />
   </programme>
@@ -9555,7 +9315,7 @@
     <desc lang="en" />
   </programme>
   <programme start="20251128084500 +1100" stop="20251128100500 +1100" channel="506.SPS">
-    <title lang="en">Live: Supercars: From The Vault</title>
+    <title lang="en">Live: Supercars Adelaide Supports</title>
     <sub-title lang="en">Friday (Porsche Carrera Cup Qualifying, Aussie Racing Cars Race 1)</sub-title>
     <desc lang="en" />
   </programme>
@@ -9585,7 +9345,7 @@
     <desc lang="en" />
   </programme>
   <programme start="20251128123100 +1100" stop="20251128125500 +1100" channel="506.SPS">
-    <title lang="en">Live: Supercars: From The Vault</title>
+    <title lang="en">Live: Supercars Adelaide Supports</title>
     <sub-title lang="en">Friday (Trans Am Race 1)</sub-title>
     <desc lang="en" />
   </programme>
@@ -9605,7 +9365,7 @@
     <desc lang="en" />
   </programme>
   <programme start="20251128135500 +1100" stop="20251128144500 +1100" channel="506.SPS">
-    <title lang="en">Live: Supercars: From The Vault</title>
+    <title lang="en">Live: Supercars Adelaide Supports</title>
     <sub-title lang="en">Friday (Porsche Carrera Cup Race 1)</sub-title>
     <desc lang="en" />
   </programme>
@@ -10729,69 +10489,119 @@
     <sub-title lang="en">Abu Dhabi Race</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251123234300 +1100" stop="20251124040000 +1100" channel="507.FSS">
-    <title lang="en">Live: Players Championship Darts</title>
-    <sub-title lang="en">Final Day Day Session</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124040000 +1100" stop="20251124055800 +1100" channel="507.FSS">
-    <title lang="en">Darts: PDC ANZ Premier League</title>
-    <sub-title lang="en">Final</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124055800 +1100" stop="20251124100000 +1100" channel="507.FSS">
-    <title lang="en">Live: Players Championship Darts</title>
-    <sub-title lang="en">Final Day Night Session</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124100000 +1100" stop="20251124110000 +1100" channel="507.FSS">
-    <title lang="en">Golf: Australian PGA: QLD PGA FR</title>
-    <sub-title lang="en">QLD PGA FR</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124110000 +1100" stop="20251124123000 +1100" channel="507.FSS">
-    <title lang="en">SailGP: Cadiz Day 1</title>
-    <sub-title lang="en">Cadiz Day 1</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124123000 +1100" stop="20251124140000 +1100" channel="507.FSS">
-    <title lang="en">SailGP: Cadiz Day 2</title>
-    <sub-title lang="en">Cadiz Day 2</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251124140000 +1100" stop="20251124143000 +1100" channel="507.FSS">
-    <title lang="en">Sailing: Racing on the Edge</title>
+  <programme start="20251208020000 +1100" stop="20251208030000 +1100" channel="506.SPS">
+    <title lang="en">Live: F1: Chequered Flag</title>
     <sub-title lang="en">Abu Dhabi</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124143000 +1100" stop="20251124163000 +1100" channel="507.FSS">
-    <title lang="en">Darts: PDC ANZ Premier League</title>
-    <sub-title lang="en">Final</sub-title>
+  <programme start="20251208030000 +1100" stop="20251208033000 +1100" channel="506.SPS">
+    <title lang="en">Live: F1: Ted's Notebook</title>
+    <sub-title lang="en">Abu Dhabi</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124163000 +1100" stop="20251124183000 +1100" channel="507.FSS">
-    <title lang="en">Players Championship Darts</title>
-    <sub-title lang="en">Final Day Night Session</sub-title>
+  <programme start="20251208033000 +1100" stop="20251208040000 +1100" channel="506.SPS">
+    <title lang="en">F1 Mini: Abu Dhabi</title>
+    <sub-title lang="en">Abu Dhabi</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124183000 +1100" stop="20251124193000 +1100" channel="507.FSS">
-    <title lang="en">Supercars Drivers Only</title>
-    <sub-title lang="en">Episode 13</sub-title>
+  <programme start="20251208040000 +1100" stop="20251208043000 +1100" channel="506.SPS">
+    <title lang="en">F1 Mini: Abu Dhabi</title>
+    <sub-title lang="en">Abu Dhabi</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124193000 +1100" stop="20251124203000 +1100" channel="507.FSS">
-    <title lang="en">F1: Las Vegas Qualifying</title>
-    <sub-title lang="en">Las Vegas Qualifying</sub-title>
+  <programme start="20251208043000 +1100" stop="20251208050000 +1100" channel="506.SPS">
+    <title lang="en">F1 Mini: Abu Dhabi</title>
+    <sub-title lang="en">Abu Dhabi</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124203000 +1100" stop="20251124223000 +1100" channel="507.FSS">
-    <title lang="en">F1: Las Vegas Race</title>
-    <sub-title lang="en">Las Vegas Race</sub-title>
+  <programme start="20251208050000 +1100" stop="20251208070000 +1100" channel="506.SPS">
+    <title lang="en">F1: Abu Dhabi Race</title>
+    <sub-title lang="en">Abu Dhabi Race</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251124223000 +1100" stop="20251124233000 +1100" channel="507.FSS">
+  <programme start="20251208070000 +1100" stop="20251208073000 +1100" channel="506.SPS">
+    <title lang="en">F1 Mini: Abu Dhabi</title>
+    <sub-title lang="en">Abu Dhabi</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208073000 +1100" stop="20251208080000 +1100" channel="506.SPS">
+    <title lang="en">F1 Mini: Abu Dhabi</title>
+    <sub-title lang="en">Abu Dhabi</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208080000 +1100" stop="20251208100000 +1100" channel="506.SPS">
+    <title lang="en">F1: Abu Dhabi Race</title>
+    <sub-title lang="en">Abu Dhabi Race</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208100000 +1100" stop="20251208110000 +1100" channel="506.SPS">
     <title lang="en">F1: Chequered Flag</title>
-    <sub-title lang="en">Las Vegas</sub-title>
+    <sub-title lang="en">Abu Dhabi</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208110000 +1100" stop="20251208113000 +1100" channel="506.SPS">
+    <title lang="en">F1: Ted's Notebook</title>
+    <sub-title lang="en">Abu Dhabi</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208113000 +1100" stop="20251208123000 +1100" channel="506.SPS">
+    <title lang="en">F2: Abu Dhabi Feature Race</title>
+    <sub-title lang="en">Abu Dhabi Feature Race</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208123000 +1100" stop="20251208143000 +1100" channel="506.SPS">
+    <title lang="en">F1: Abu Dhabi Race</title>
+    <sub-title lang="en">Abu Dhabi Race</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208143000 +1100" stop="20251208153000 +1100" channel="506.SPS">
+    <title lang="en">F1: Chequered Flag</title>
+    <sub-title lang="en">Abu Dhabi</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208153000 +1100" stop="20251208160000 +1100" channel="506.SPS">
+    <title lang="en">F1: Ted's Notebook</title>
+    <sub-title lang="en">Abu Dhabi</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208160000 +1100" stop="20251208163000 +1100" channel="506.SPS">
+    <title lang="en">F1 Mini: Abu Dhabi</title>
+    <sub-title lang="en">Abu Dhabi</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208163000 +1100" stop="20251208173000 +1100" channel="506.SPS">
+    <title lang="en">MotoGP Season Review</title>
+    <sub-title lang="en">Moto2 &amp; Moto3</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208173000 +1100" stop="20251208183000 +1100" channel="506.SPS">
+    <title lang="en">MotoGP Season Review</title>
+    <sub-title lang="en">MotoGP</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208183000 +1100" stop="20251208203000 +1100" channel="506.SPS">
+    <title lang="en">F1: Abu Dhabi Race</title>
+    <sub-title lang="en">Abu Dhabi Race</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208203000 +1100" stop="20251208213000 +1100" channel="506.SPS">
+    <title lang="en">F1: Chequered Flag</title>
+    <sub-title lang="en">Abu Dhabi</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208213000 +1100" stop="20251208220000 +1100" channel="506.SPS">
+    <title lang="en">F1: Ted's Notebook</title>
+    <sub-title lang="en">Abu Dhabi</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208220000 +1100" stop="20251208230000 +1100" channel="506.SPS">
+    <title lang="en">F2: Abu Dhabi Feature Race</title>
+    <sub-title lang="en">Abu Dhabi Feature Race</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208230000 +1100" stop="20251209000000 +1100" channel="506.SPS">
+    <title lang="en">MotoGP Season Review</title>
+    <sub-title lang="en">MotoGP</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251124233000 +1100" stop="20251125000000 +1100" channel="507.FSS">
@@ -10819,29 +10629,24 @@
     <sub-title lang="en">Valencia Race</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125050000 +1100" stop="20251125051500 +1100" channel="507.FSS">
-    <title lang="en">MotoGP: Best Battles of 2024</title>
-    <sub-title lang="en">MotoGP: Best Battles of 2024</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251125051500 +1100" stop="20251125084500 +1100" channel="507.FSS">
-    <title lang="en">Ultimate Pool Mixed Pairs Cup</title>
+  <programme start="20251125050000 +1100" stop="20251125083000 +1100" channel="507.FSS">
+    <title lang="en">Live: Ultimate Pool Mixed Pairs Cup</title>
     <sub-title lang="en">Week 4</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125084500 +1100" stop="20251125104500 +1100" channel="507.FSS">
+  <programme start="20251125083000 +1100" stop="20251125103000 +1100" channel="507.FSS">
     <title lang="en">Players Championship Darts</title>
     <sub-title lang="en">Final Day Night Session</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125104500 +1100" stop="20251125124500 +1100" channel="507.FSS">
+  <programme start="20251125103000 +1100" stop="20251125123000 +1100" channel="507.FSS">
     <title lang="en">Darts: PDC ANZ Premier League</title>
     <sub-title lang="en">Final</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251125124500 +1100" stop="20251125130000 +1100" channel="507.FSS">
-    <title lang="en">My Game: Tiger Woods</title>
-    <sub-title lang="en">Driver Control</sub-title>
+  <programme start="20251125123000 +1100" stop="20251125130000 +1100" channel="507.FSS">
+    <title lang="en">How Good is Golf: Northern Golf Club</title>
+    <sub-title lang="en">Northern Golf Club</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251125130000 +1100" stop="20251125140000 +1100" channel="507.FSS">
@@ -11072,51 +10877,59 @@
     <sub-title lang="en">Spain Round 1</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251128030000 +1100" stop="20251128040000 +1100" channel="507.FSS">
-    <title lang="en">F1: Las Vegas Qualifying</title>
-    <sub-title lang="en">Las Vegas Qualifying</sub-title>
+  <programme start="20251128030000 +1100" stop="20251128033000 +1100" channel="507.FSS">
+    <title lang="en">Supercars Adelaide: Practice 1</title>
+    <sub-title lang="en">Practice 1</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251128040000 +1100" stop="20251128060000 +1100" channel="507.FSS">
-    <title lang="en">F1: Las Vegas Race</title>
-    <sub-title lang="en">Las Vegas Race</sub-title>
+  <programme start="20251128033000 +1100" stop="20251128043000 +1100" channel="507.FSS">
+    <title lang="en">MotoGP: Valencia Race</title>
+    <sub-title lang="en">Valencia Race</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251128060000 +1100" stop="20251128070000 +1100" channel="507.FSS">
-    <title lang="en">F1: Chequered Flag</title>
-    <sub-title lang="en">Las Vegas</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251128070000 +1100" stop="20251128073000 +1100" channel="507.FSS">
-    <title lang="en">F1: Ted's Notebook</title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20251128073000 +1100" stop="20251128083000 +1100" channel="507.FSS">
+  <programme start="20251128043000 +1100" stop="20251128053000 +1100" channel="507.FSS">
     <title lang="en">Motorsport: Australian Supercross</title>
     <sub-title lang="en">Rnd 4 Melbourne</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251128083000 +1100" stop="20251128090000 +1100" channel="507.FSS">
-    <title lang="en">F1 Academy</title>
+  <programme start="20251128053000 +1100" stop="20251128073000 +1100" channel="507.FSS">
+    <title lang="en">F1: Las Vegas Race</title>
+    <sub-title lang="en">Las Vegas Race</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251128090000 +1100" stop="20251128100000 +1100" channel="507.FSS">
+  <programme start="20251128073000 +1100" stop="20251128080000 +1100" channel="507.FSS">
+    <title lang="en">F1 Academy: Round 7 Las Vegas</title>
+    <sub-title lang="en">Round 7 Las Vegas</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251128080000 +1100" stop="20251128090000 +1100" channel="507.FSS">
     <title lang="en">Transworld Sport</title>
+    <sub-title lang="en">Episode 48</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251128100000 +1100" stop="20251128120000 +1100" channel="507.FSS">
+  <programme start="20251128090000 +1100" stop="20251128093000 +1100" channel="507.FSS">
+    <title lang="en">F1: Paddock Uncut: Qatar</title>
+    <sub-title lang="en">Qatar</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251128093000 +1100" stop="20251128113000 +1100" channel="507.FSS">
     <title lang="en">Players Championship Darts</title>
     <sub-title lang="en">Final Day Night Session</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251128120000 +1100" stop="20251128140000 +1100" channel="507.FSS">
+  <programme start="20251128113000 +1100" stop="20251128133000 +1100" channel="507.FSS">
     <title lang="en">Darts: PDC ANZ Premier League</title>
     <sub-title lang="en">Final</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251128140000 +1100" stop="20251128180000 +1100" channel="507.FSS">
+  <programme start="20251128133000 +1100" stop="20251128173000 +1100" channel="507.FSS">
     <title lang="en">Live: Golf: JLPGA</title>
     <sub-title lang="en">Tour Championship Rnd 2</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251128173000 +1100" stop="20251128180000 +1100" channel="507.FSS">
+    <title lang="en">F1: Paddock Uncut: Qatar</title>
+    <sub-title lang="en">Qatar</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251128180000 +1100" stop="20251128190000 +1100" channel="507.FSS">
@@ -11124,8 +10937,14 @@
     <sub-title lang="en">Rnd 4 Melbourne</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20251128190000 +1100" stop="20251128230000 +1100" channel="507.FSS">
-    <title lang="en">Live: Sport Special</title>
+  <programme start="20251128190000 +1100" stop="20251128210000 +1100" channel="507.FSS">
+    <title lang="en">Players Championship Darts</title>
+    <sub-title lang="en">Final Day Night Session</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251128210000 +1100" stop="20251128230000 +1100" channel="507.FSS">
+    <title lang="en">Players Championship Darts</title>
+    <sub-title lang="en">Final Day Night Session</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20251128230000 +1100" stop="20251129000000 +1100" channel="507.FSS">
@@ -11792,6 +11611,83 @@
   <programme start="20251207210000 +1100" stop="20251208013000 +1100" channel="507.FSS">
     <title lang="en">Live: Golf: Nedbank Golf Challenge Final</title>
     <sub-title lang="en">Nedbank Golf Challenge Final Round</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208013000 +1100" stop="20251208020000 +1100" channel="507.FSS">
+    <title lang="en">Spirit of Sport</title>
+    <sub-title lang="en">Episode 12</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208020000 +1100" stop="20251208040000 +1100" channel="507.FSS">
+    <title lang="en">Golf: Australian Open Championship Final</title>
+    <sub-title lang="en">Final Round</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208040000 +1100" stop="20251208050000 +1100" channel="507.FSS">
+    <title lang="en">SailGP Highlights: Abu Dhabi</title>
+    <sub-title lang="en">Abu Dhabi</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208050000 +1100" stop="20251208090000 +1100" channel="507.FSS">
+    <title lang="en">Live: USPGA: Hero World Challenge Final</title>
+    <sub-title lang="en">Hero World Challenge Final Round</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208090000 +1100" stop="20251208093000 +1100" channel="507.FSS">
+    <title lang="en">How Good is Golf</title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208093000 +1100" stop="20251208113000 +1100" channel="507.FSS">
+    <title lang="en">Golf: Nedbank Golf Challenge Final Round</title>
+    <sub-title lang="en">Nedbank Golf Challenge Final Round</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208113000 +1100" stop="20251208123000 +1100" channel="507.FSS">
+    <title lang="en">Motorsport: Australian Supercross</title>
+    <sub-title lang="en">Rnd 1 Redcliffe</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208123000 +1100" stop="20251208133000 +1100" channel="507.FSS">
+    <title lang="en">Motorsport: Australian Supercross</title>
+    <sub-title lang="en">Rnd 2 Redcliffe</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208133000 +1100" stop="20251208143000 +1100" channel="507.FSS">
+    <title lang="en">Motorsport: Australian Supercross</title>
+    <sub-title lang="en">Rnd 3 Sydney</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208143000 +1100" stop="20251208153000 +1100" channel="507.FSS">
+    <title lang="en">Motorsport: Australian Supercross</title>
+    <sub-title lang="en">Rnd 4 Melbourne</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208153000 +1100" stop="20251208163000 +1100" channel="507.FSS">
+    <title lang="en">Motorsport: Australian Supercross</title>
+    <sub-title lang="en">Rnd 5 Adelaide</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208163000 +1100" stop="20251208183000 +1100" channel="507.FSS">
+    <title lang="en">F1: Abu Dhabi Race</title>
+    <sub-title lang="en">Abu Dhabi Race</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208183000 +1100" stop="20251208200000 +1100" channel="507.FSS">
+    <title lang="en">Motorsport: British Superbikes</title>
+    <sub-title lang="en">Season Review</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208200000 +1100" stop="20251208210000 +1100" channel="507.FSS">
+    <title lang="en">Sport Special</title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208210000 +1100" stop="20251208220000 +1100" channel="507.FSS">
+    <title lang="en">Sport Special</title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20251208220000 +1100" stop="20251209000000 +1100" channel="507.FSS">
+    <title lang="en">F1: Abu Dhabi Race</title>
+    <sub-title lang="en">Abu Dhabi Race</sub-title>
     <desc lang="en" />
   </programme>
 </tv>
