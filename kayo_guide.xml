@@ -24,110 +24,71 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20251123222516 +1100" stop="20251124061016 +1100" channel="4k.kayo.505">
+  <programme start="20251126004010 +1100" stop="20251126061510 +1100" channel="4k.kayo.501">
     <title lang="en">: Abu Dhabi T10</title>
     <desc lang="en">The 10-over format gets underway in UAE with Marcus Stonis, Tim David and more competing for this year’s title.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691cead5e4b05c3cf4963e10-1763502955839?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691ceb87e4b069f5495ff396-1763503091524?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251123142010 +1100" stop="20251123231010 +1100" channel="4k.kayo.501">
+  <programme start="20251125142012 +1100" stop="20251125231012 +1100" channel="4k.kayo.501">
     <title lang="en">Test Matches: India vs South Africa</title>
     <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">South Africa aims to make history again by securing a series win against India.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691bcb0ae4b099bad5452e62-1763429190796?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251123200742 +1100" stop="20251124003042 +1100" channel="4k.kayo.501">
-    <title lang="en">Women's Big Bash League: Brisbane Heat Women vs Melbourne Stars Women</title>
-    <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">The Heat look to get their season back on track against the resurging Stars.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68fb28c4e4b0c3216ff5c793-1762909652809?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251123111500 +1100" stop="20251123131500 +1100" channel="4k.kayo.506">
-    <title lang="en">: Las Vegas: Race 2</title>
-    <desc lang="en">The season's final race guarantees high-stakes as Doriane Pin &amp; Maya Weug conclude their season-long fight for the title.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691be7c5e4b06258c92dbb36-1763436737110?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251123133003 +1100" stop="20251123194003 +1100" channel="4k.kayo.506">
-    <title lang="en">Formula One World Championship: Las Vegas Grand Prix</title>
-    <sub-title lang="en">2025</sub-title>
-    <desc lang="en">Oscar Piastri must close the points gap to Lando Norris, while Max Verstappen needs a victory to keep his title hopes alive.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6913ee10e4b0dfb6e2d5c80f-1762920778593?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251123123008 +1100" stop="20251123184008 +1100" channel="4k.kayo.503">
-    <title lang="en">: QLD PGA</title>
-    <desc lang="en">Final round coverage of the QLD PGA begins from the Nudgee Golf Club.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691d5159e4b05c3cf4963e52-1763529076008?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251124050000 +1100" stop="20251124091000 +1100" channel="4k.kayo.506">
-    <title lang="en">: Tour Championship</title>
-    <desc lang="en">Jeeno Thitikul takes a 6 shot lead heading into the final round from the Ritz Carlton Golf Resort.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691d3ff3e4b06f376705aea4-1763524667298?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251124050000 +1100" stop="20251124091000 +1100" channel="4k.kayo.503">
-    <title lang="en">RSM Classic: The RSM Classic</title>
-    <sub-title lang="en">2025</sub-title>
-    <desc lang="en">Sami Välimäki takes a 2 shot lead heading into the final round from the Sea Island Golf Club.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691c04e0e4b05c3cf4963df2-1763444736153?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251124142000 +1100" stop="20251124231000 +1100" channel="4k.kayo.505">
-    <title lang="en">Test Matches: India vs South Africa</title>
-    <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">South Africa aims to make history again by securing a series win against India.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691bc344e4b0f4d228d119f5-1763427204611?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251124193000 +1100" stop="20251124231000 +1100" channel="4k.kayo.504">
-    <title lang="en">: 2025 W Awards</title>
-    <desc lang="en">All of the 2025 Season 10 AFLW Awards, including the AFLW Best and Fairest, will be handed out.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691ff530e4b06258c92dbdde-1763702884700?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251125142000 +1100" stop="20251125231000 +1100" channel="4k.kayo.505">
-    <title lang="en">Test Matches: India vs South Africa</title>
-    <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">South Africa aims to make history again by securing a series win against India.</desc>
+    <desc lang="en">Day Four. South Africa chose not to inflict the follow on, but the tourists are still nearing a famous series win.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/691bcb85e4b099bad5452e66-1763429317398?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251125183000 +1100" stop="20251125234000 +1100" channel="4k.kayo.506">
+  <programme start="20251125183000 +1100" stop="20251125234000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Big Bash League: Adelaide Strikers Women vs Brisbane Heat Women</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Strikers' Darcie Brown and Megan Schutt hope to contain a Heat hungry for points.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68fb29f0e4b030160fa7e396-1762909685664?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251126004300 +1100" stop="20251126061000 +1100" channel="4k.kayo.501">
-    <title lang="en">: Abu Dhabi T10</title>
-    <desc lang="en">The 10-over format gets underway in UAE with Marcus Stonis, Tim David and more competing for this year’s title.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691ceb87e4b069f5495ff396-1763503091524?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
   <programme start="20251126142000 +1100" stop="20251126231000 +1100" channel="4k.kayo.505">
     <title lang="en">Test Matches: India vs South Africa</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">South Africa aims to make history again by securing a series win against India.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691bcbe4e4b06258c92dbb2c-1763429387006?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691bcbe4e4b06258c92dbb2c-1763942393720?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251126150700 +1100" stop="20251126193000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Big Bash League: Melbourne Stars Women vs Hobart Hurricanes Women</title>
     <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Meg Lanning’s Stars face the Hurricanes, led by Natalie Sciver-Brunt and Elyse Villani.</desc>
+    <desc lang="en">After suffering their first loss of the season, the Hurricanes face another test against the in-form Stars.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68fb2a52e4b026b9c8b9e98e-1762909799065?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251126222800 +1100" stop="20251127061000 +1100" channel="4k.kayo.501">
+  <programme start="20251126222500 +1100" stop="20251127061500 +1100" channel="4k.kayo.501">
     <title lang="en">: Abu Dhabi T10</title>
     <desc lang="en">The 10-over format gets underway in UAE with Marcus Stonis, Tim David and more competing for this year’s title.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/691ceb89e4b0a9e132e687c2-1763503101527?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251126173000 +1100" stop="20251126201000 +1100" channel="4k.kayo.506">
+    <title lang="en">: Adelaide Final Street Party</title>
+    <desc lang="en">The Street Party returns for Grand Final week as the Supercars cruise through the city before parking up in Victoria Square for the ultimate motorsport moment.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6923ae4ce4b03c54e9f1deee-1763946103288?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251127150700 +1100" stop="20251127193000 +1100" channel="4k.kayo.501">
+    <title lang="en">Women's Big Bash League: Melbourne Renegades Women vs Perth Scorchers Women</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">Renegades will be looking to solidify their top-four spot, but they must contain Scorchers opener Beth Mooney.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68fb2a9ee4b057f436c58d9e-1762909812191?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251127222800 +1100" stop="20251128061000 +1100" channel="4k.kayo.501">
     <title lang="en">: Abu Dhabi T10</title>
     <desc lang="en">The 10-over format gets underway in UAE with Marcus Stonis, Tim David and more competing for this year’s title.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/691ceb8ce4b03c547ec7ddf7-1763503113952?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20251127120000 +1100" stop="20251127181000 +1100" channel="4k.kayo.503">
+    <title lang="en">: AUS PGA Championship</title>
+    <desc lang="en">The 2025 BMW Australian PGA Championship returns to the prestigious Royal Queensland Golf Club, uniting top golfing talent from around the world.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6924f563e4b0bac09fe679d0-1764049119517?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20251128153700 +1100" stop="20251128200000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Big Bash League: Sydney Sixers Women vs Brisbane Heat Women</title>
     <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">An epic encounter with World Cup winners Ellyse Perry and Jess Jonassen facing off.</desc>
+    <desc lang="en">A huge recent win has given the Sixers momentum while the Heat need a win to keep their season alive.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68fb2b2be4b057f436c58da0-1762909906940?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251128190700 +1100" stop="20251128233000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Big Bash League: Adelaide Strikers Women vs Sydney Thunder Women</title>
     <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Tahlia McGrath captains the Strikers against the Thunder's emerging star Phoebe Litchfield.</desc>
+    <desc lang="en">The Strikers return to Adelaide Oval against a Thunder determined to bounce back after a historic loss.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68fb2b7ae4b09d53c0224251-1762909963223?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251128222800 +1100" stop="20251129061000 +1100" channel="4k.kayo.501">
@@ -135,10 +96,15 @@
     <desc lang="en">The 10-over format gets underway in UAE with Marcus Stonis, Tim David and more competing for this year’s title.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/691cec11e4b0d656554486ba-1763503174589?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20251128120000 +1100" stop="20251128181000 +1100" channel="4k.kayo.503">
+    <title lang="en">: AUS PGA Championship</title>
+    <desc lang="en">The 2025 BMW Australian PGA Championship returns to the prestigious Royal Queensland Golf Club, uniting top golfing talent from around the world.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6924f581e4b002a1a424b097-1764049442464?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20251129144000 +1100" stop="20251129193500 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Big Bash League: Melbourne Renegades Women vs Melbourne Stars Women</title>
     <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">The final Melbourne Derby of the year sees Georgia Wareham's Renegades face off against Meg Lanning's Stars.</desc>
+    <desc lang="en">A blockbuster Melbourne Derby gets under way with top four placement on the line.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68fb2bd7e4b09d53c0224253-1762909966742?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251129182500 +1100" stop="20251129235000 +1100" channel="4k.kayo.501">
@@ -151,6 +117,22 @@
     <title lang="en">: Abu Dhabi T10</title>
     <desc lang="en">The 10-over format gets underway in UAE with Marcus Stonis, Tim David and more competing for this year’s title.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/691cecf8e4b05c3cf4963e16-1763503471754?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251129183000 +1100" stop="20251129232500 +1100" channel="4k.kayo.504">
+    <title lang="en">AFL Women's: North Melbourne Kangaroos Women vs Brisbane Lions Women</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Competition powerhouses North Melbourne and Brisbane clash in the AFLW Grand Final for the third year in a row at Ikon Park.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/692522c7e4b0bac09fe67a00-1764041465483?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251129120000 +1100" stop="20251129181000 +1100" channel="4k.kayo.503">
+    <title lang="en">: AUS PGA Championship</title>
+    <desc lang="en">The 2025 BMW Australian PGA Championship returns to the prestigious Royal Queensland Golf Club, uniting top golfing talent from around the world.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6924f586e4b03c54e9f1df4c-1764049194351?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251129210000 +1100" stop="20251129230000 +1100" channel="4k.kayo.506">
+    <title lang="en">: Abu Dhabi: Day 1</title>
+    <desc lang="en">It all comes down to this, four teams including Australia are still in line to take the 2025 Grand Final.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/692521f2e4b05c3cf496412a-1764042630278?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251130120700 +1100" stop="20251130163000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Big Bash League: Brisbane Heat Women vs Adelaide Strikers Women</title>
@@ -168,17 +150,33 @@
     <title lang="en">One-Day Internationals: India vs South Africa</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">The number-one-ranked ODI squad India begins its series against South Africa at home.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69127bc2e4b0dba508590583-1762819052306?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69127bc2e4b0dba508590583-1763935346874?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251130222800 +1100" stop="20251201041000 +1100" channel="4k.kayo.505">
     <title lang="en">: Abu Dhabi T10</title>
     <desc lang="en">The 10-over format gets underway in UAE with Marcus Stonis, Tim David and more competing for this year’s title.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/691ced40e4b03c547ec7ddfa-1763503478807?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20251201013000 +1100" stop="20251201074000 +1100" channel="4k.kayo.506">
+    <title lang="en">Formula One World Championship: Qatar Grand Prix</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">After a weekend that ended with both McLarens disqualified, the F1 heads to Qatar for the penultimate event of the season. </desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6924db32e4b03c54e9f1df30-1764023465943?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251130120000 +1100" stop="20251130181000 +1100" channel="4k.kayo.503">
+    <title lang="en">: AUS PGA Championship</title>
+    <desc lang="en">The 2025 BMW Australian PGA Championship returns to the prestigious Royal Queensland Golf Club, uniting top golfing talent from around the world.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6924f588e4b03c54e9f1df4d-1764049277076?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251130210000 +1100" stop="20251130230000 +1100" channel="4k.kayo.506">
+    <title lang="en">: Abu Dhabi: Day 2</title>
+    <desc lang="en">It all comes down to this, four teams including Australia are still in line to take the 2025 Grand Final.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69252712e4b074c99d747fa4-1764042646634?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20251201184000 +1100" stop="20251201232500 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Big Bash League: Hobart Hurricanes Women vs Melbourne Stars Women</title>
     <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Hurricanes travel to Melbourne to face the Stars. </desc>
+    <desc lang="en">Hurricanes travel to Melbourne to face the Stars.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/691fc161e4b0bac09fe67877-1763690577905?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251202200700 +1100" stop="20251203003000 +1100" channel="4k.kayo.501">
@@ -203,7 +201,7 @@
     <title lang="en">Test Matches: Australia vs England</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">The Ashes continues with the Second Test at the Gabba, begins at 2:00 p.m. AEDT on December 4</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/690bfd33e4b0ddab00f46000-1762394154368?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/690bfd33e4b0ddab00f46000-1764021801361?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251205103700 +1100" stop="20251205151000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Big Bash League: Melbourne Renegades Women vs Sydney Sixers Women</title>
@@ -215,7 +213,7 @@
     <title lang="en">Test Matches: Australia vs England</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">The Ashes continues with the Second Test at the Gabba, begins at 2:00 p.m. AEDT on December 4</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/690bfd34e4b0072c7a1c6710-1762394149689?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/690bfd34e4b0072c7a1c6710-1764021865377?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251205190700 +1100" stop="20251205234000 +1100" channel="4k.kayo.505">
     <title lang="en">Women's Big Bash League: Adelaide Strikers Women vs Hobart Hurricanes Women</title>
@@ -246,5 +244,17 @@
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">The regular season comes to an end as the Strikers travel to face the Sixers. </desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/691fca37e4b05c3cf496401d-1763691167196?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251207140000 +1100" stop="20251207234500 +1100" channel="4k.kayo.501">
+    <title lang="en">Test Matches: Australia vs England</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">The Ashes continues with the Second Test at the Gabba, begins at 2:00 p.m. AEDT on December 4</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/690bfd3ce4b096f4383b28e3-1764021870330?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251208140000 +1100" stop="20251208234500 +1100" channel="4k.kayo.501">
+    <title lang="en">Test Matches: Australia vs England</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">The Ashes continues with the Second Test at the Gabba, begins at 2:00 p.m. AEDT on December 4</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/690bfd3ee4b0db4e611fcaaa-1764021878811?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
 </tv>
