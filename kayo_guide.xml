@@ -24,22 +24,10 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20251126004010 +1100" stop="20251126061510 +1100" channel="4k.kayo.501">
+  <programme start="20251126222515 +1100" stop="20251127061515 +1100" channel="4k.kayo.501">
     <title lang="en">: Abu Dhabi T10</title>
     <desc lang="en">The 10-over format gets underway in UAE with Marcus Stonis, Tim David and more competing for this year’s title.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691ceb87e4b069f5495ff396-1763503091524?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251125142012 +1100" stop="20251125231012 +1100" channel="4k.kayo.501">
-    <title lang="en">Test Matches: India vs South Africa</title>
-    <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Day Four. South Africa chose not to inflict the follow on, but the tourists are still nearing a famous series win.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691bcb85e4b099bad5452e66-1763429317398?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251125183000 +1100" stop="20251125234000 +1100" channel="4k.kayo.501">
-    <title lang="en">Women's Big Bash League: Adelaide Strikers Women vs Brisbane Heat Women</title>
-    <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Strikers' Darcie Brown and Megan Schutt hope to contain a Heat hungry for points.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/68fb29f0e4b030160fa7e396-1762909685664?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691ceb89e4b0a9e132e687c2-1764136970839?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251126142000 +1100" stop="20251126231000 +1100" channel="4k.kayo.505">
     <title lang="en">Test Matches: India vs South Africa</title>
@@ -47,18 +35,13 @@
     <desc lang="en">South Africa aims to make history again by securing a series win against India.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/691bcbe4e4b06258c92dbb2c-1763942393720?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251126150700 +1100" stop="20251126193000 +1100" channel="4k.kayo.501">
+  <programme start="20251126153032 +1100" stop="20251126195332 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Big Bash League: Melbourne Stars Women vs Hobart Hurricanes Women</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">After suffering their first loss of the season, the Hurricanes face another test against the in-form Stars.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68fb2a52e4b026b9c8b9e98e-1762909799065?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251126222500 +1100" stop="20251127061500 +1100" channel="4k.kayo.501">
-    <title lang="en">: Abu Dhabi T10</title>
-    <desc lang="en">The 10-over format gets underway in UAE with Marcus Stonis, Tim David and more competing for this year’s title.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691ceb89e4b0a9e132e687c2-1763503101527?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251126173000 +1100" stop="20251126201000 +1100" channel="4k.kayo.506">
+  <programme start="20251126173006 +1100" stop="20251126201006 +1100" channel="4k.kayo.506">
     <title lang="en">: Adelaide Final Street Party</title>
     <desc lang="en">The Street Party returns for Grand Final week as the Supercars cruise through the city before parking up in Victoria Square for the ultimate motorsport moment.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6923ae4ce4b03c54e9f1deee-1763946103288?location=hero-portrait-m2&amp;imwidth=720" />
@@ -69,10 +52,25 @@
     <desc lang="en">Renegades will be looking to solidify their top-four spot, but they must contain Scorchers opener Beth Mooney.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/68fb2a9ee4b057f436c58d9e-1762909812191?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251127222800 +1100" stop="20251128061000 +1100" channel="4k.kayo.501">
+  <programme start="20251127210000 +1100" stop="20251128061000 +1100" channel="4k.kayo.505">
+    <title lang="en">: WPL Auction</title>
+    <desc lang="en">Alyssa Healy and Meg Lanning headline Australia’s contingent hoping to be sold in the 2026 WPL Auction.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6926475fe4b02e33a204c7da-1764116373500?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251127222500 +1100" stop="20251128061500 +1100" channel="4k.kayo.501">
     <title lang="en">: Abu Dhabi T10</title>
     <desc lang="en">The 10-over format gets underway in UAE with Marcus Stonis, Tim David and more competing for this year’s title.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691ceb8ce4b03c547ec7ddf7-1763503113952?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691ceb8ce4b03c547ec7ddf7-1764135893331?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251127134500 +1100" stop="20251127181500 +1100" channel="4k.kayo.506">
+    <title lang="en">: Adelaide</title>
+    <desc lang="en">Broc Feeney tops the leaderboard as day one of the Adelaide Grand Final gets underway.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69253762e4b074c99d747fac-1764046858682?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251128084500 +1100" stop="20251128124000 +1100" channel="4k.kayo.506">
+    <title lang="en">: Adelaide</title>
+    <desc lang="en">Teams use this second and final practice session to dial in setups for the Grand Final weekend, a key chance for contenders like Broc Feeney or Matt Payne to test pace and tire strategy before qualifying begins.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69253789e4b05c3cf4964131-1764046904296?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251127120000 +1100" stop="20251127181000 +1100" channel="4k.kayo.503">
     <title lang="en">: AUS PGA Championship</title>
@@ -94,12 +92,50 @@
   <programme start="20251128222800 +1100" stop="20251129061000 +1100" channel="4k.kayo.501">
     <title lang="en">: Abu Dhabi T10</title>
     <desc lang="en">The 10-over format gets underway in UAE with Marcus Stonis, Tim David and more competing for this year’s title.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691cec11e4b0d656554486ba-1763503174589?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691cec11e4b0d656554486ba-1764135900024?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251128113000 +1100" stop="20251128145000 +1100" channel="4k.kayo.506">
+    <title lang="en">: Adelaide</title>
+    <desc lang="en">Drivers battle for grid positions as championship contenders look to build momentum; expect fierce competition from front-running Australians.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69253780e4b03c54e9f1dfb8-1764046987697?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251128134000 +1100" stop="20251128192500 +1100" channel="4k.kayo.506">
+    <title lang="en">: Adelaide</title>
+    <desc lang="en">First official race of the event, where leading drivers begin their push for championship points under the new finals format.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69253796e4b0bac09fe67a0e-1764047022568?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251129000000 +1100" stop="20251129031000 +1100" channel="4k.kayo.506">
+    <title lang="en">Formula One World Championship: Qatar Grand Prix</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">First session of the weekend gives teams their only chance to shake down setups under night-race conditions.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6924db22e4b074c99d747f44-1764023194973?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251129030800 +1100" stop="20251129045500 +1100" channel="4k.kayo.506">
+    <title lang="en">: Qatar: Qualifying</title>
+    <desc lang="en">The penultimate round the Formula 2 season heads to Qatar where pole position is up for grabs.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691c102be4b0ba7f61bd591f-1763446990274?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251129035000 +1100" stop="20251129071000 +1100" channel="4k.kayo.506">
+    <title lang="en">Formula One World Championship: Qatar Grand Prix</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Drivers battle in three short sessions under tire and time constraints to set the grid for the sprint race. A clean lap could mean early championship momentum.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6924db25e4b0bac09fe679b7-1764023249432?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251129083000 +1100" stop="20251129121500 +1100" channel="4k.kayo.506">
+    <title lang="en">: Adelaide</title>
+    <desc lang="en">Qualifying session for the next race, grid order could shake up as teams fine-tune strategy under pressure.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6925379ce4b03c54e9f1dfb9-1764047108773?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251128120000 +1100" stop="20251128181000 +1100" channel="4k.kayo.503">
     <title lang="en">: AUS PGA Championship</title>
     <desc lang="en">The 2025 BMW Australian PGA Championship returns to the prestigious Royal Queensland Golf Club, uniting top golfing talent from around the world.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6924f581e4b002a1a424b097-1764049442464?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251129143500 +1100" stop="20251129231000 +1100" channel="4k.kayo.505">
+    <title lang="en">Tour Matches: Prime Minister's XI vs England</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">Australia's Prime Minister's XI face England's XI in a two-day pink-ball tour match in Canberra.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69265744e4b08dbe42836413-1764120453983?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251129144000 +1100" stop="20251129193500 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Big Bash League: Melbourne Renegades Women vs Melbourne Stars Women</title>
@@ -116,7 +152,39 @@
   <programme start="20251130004300 +1100" stop="20251130061000 +1100" channel="4k.kayo.501">
     <title lang="en">: Abu Dhabi T10</title>
     <desc lang="en">The 10-over format gets underway in UAE with Marcus Stonis, Tim David and more competing for this year’s title.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691cecf8e4b05c3cf4963e16-1763503471754?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691cecf8e4b05c3cf4963e16-1764136060843?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251129110500 +1100" stop="20251129144500 +1100" channel="4k.kayo.506">
+    <title lang="en">: Adelaide</title>
+    <desc lang="en">Top ten drivers fight for prime starting spots; crucial for those targeting strong finishes in the weekend’s races.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/692537a2e4b002a1a424b0ca-1764047277856?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251129133500 +1100" stop="20251129195500 +1100" channel="4k.kayo.506">
+    <title lang="en">: Adelaide</title>
+    <desc lang="en">Critical weekend race as contenders try to consolidate their standings. Strong results here could define championship hopes.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/692537c7e4b0bac09fe67a0f-1764047309582?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251130000000 +1100" stop="20251130041000 +1100" channel="4k.kayo.506">
+    <title lang="en">Formula One World Championship: Qatar Grand Prix</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">A 100 km dash where the sprint winner and top finishers can apply pressure in the championship fight. Every point counts for Norris, Piastri and Verstappen.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6924db28e4b002a1a424b075-1764023286661?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251130031500 +1100" stop="20251130052500 +1100" channel="4k.kayo.506">
+    <title lang="en">: Qatar: Sprint Race</title>
+    <desc lang="en">The reverse grid test sees championship contenders attack the field for vital points.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691c11cce4b05c3cf4963dfc-1763447451243?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251130041500 +1100" stop="20251130084000 +1100" channel="4k.kayo.506">
+    <title lang="en">Formula One World Championship: Qatar Grand Prix</title>
+    <sub-title lang="en">2025</sub-title>
+    <desc lang="en">Full qualifying session to decide the grand prix grid. Critical for top drivers to secure front-row positions ahead of the final race.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6924db2fe4b0bac09fe679b8-1764033546384?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251130094500 +1100" stop="20251130121000 +1100" channel="4k.kayo.506">
+    <title lang="en">: Adelaide</title>
+    <desc lang="en">Final qualifying session before the final showdown, last chance to secure a favorable starting position for title contenders.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/692537d6e4b002a1a424b0cc-1764047379962?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251129183000 +1100" stop="20251129232500 +1100" channel="4k.kayo.504">
     <title lang="en">AFL Women's: North Melbourne Kangaroos Women vs Brisbane Lions Women</title>
@@ -150,17 +218,32 @@
     <title lang="en">One-Day Internationals: India vs South Africa</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">The number-one-ranked ODI squad India begins its series against South Africa at home.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69127bc2e4b0dba508590583-1763935346874?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69127bc2e4b0dba508590583-1764109498952?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251130222800 +1100" stop="20251201041000 +1100" channel="4k.kayo.505">
     <title lang="en">: Abu Dhabi T10</title>
     <desc lang="en">The 10-over format gets underway in UAE with Marcus Stonis, Tim David and more competing for this year’s title.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691ced40e4b03c547ec7ddfa-1763503478807?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691ced40e4b03c547ec7ddfa-1764135883190?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251130110000 +1100" stop="20251130144500 +1100" channel="4k.kayo.506">
+    <title lang="en">: Adelaide</title>
+    <desc lang="en">Top ten drivers line up for what may decide championship positions. Expect aggressive but calculated driving.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/692537cde4b0bac09fe67a10-1764047450980?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251130133500 +1100" stop="20251130201000 +1100" channel="4k.kayo.506">
+    <title lang="en">: Adelaide</title>
+    <desc lang="en">Championship-defining race: top contenders battle it out for final points in the Grand Final weekend, season title on the line.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/692537dce4b074c99d747fae-1764048241994?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251130225500 +1100" stop="20251201012500 +1100" channel="4k.kayo.506">
+    <title lang="en">: Qatar: Race</title>
+    <desc lang="en">Championship leader Leonardo Fornaroli faces relentless pressure from rivals Jak Crawford and Luke Browning.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691c1467e4b03c547ec7dde2-1763448084814?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251201013000 +1100" stop="20251201074000 +1100" channel="4k.kayo.506">
     <title lang="en">Formula One World Championship: Qatar Grand Prix</title>
     <sub-title lang="en">2025</sub-title>
-    <desc lang="en">After a weekend that ended with both McLarens disqualified, the F1 heads to Qatar for the penultimate event of the season. </desc>
+    <desc lang="en">After a weekend that ended with both McLarens disqualified, the F1 heads to Qatar for the penultimate event of the season.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6924db32e4b03c54e9f1df30-1764023465943?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251130120000 +1100" stop="20251130181000 +1100" channel="4k.kayo.503">
