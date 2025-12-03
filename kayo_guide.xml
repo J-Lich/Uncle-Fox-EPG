@@ -24,31 +24,19 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20251202200741 +1100" stop="20251203003041 +1100" channel="4k.kayo.501">
-    <title lang="en">Women's Big Bash League: Perth Scorchers Women vs Melbourne Renegades Women</title>
-    <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Both sides are tied on points, desperately fighting to lock down a vital top-four finals position.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691fc1a7e4b0bac09fe67878-1764543139114?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251203083000 +1100" stop="20251203175500 +1100" channel="4k.kayo.505">
-    <title lang="en">Test Matches: New Zealand vs West Indies</title>
-    <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Day Two. West Indies captain Roston Chase aims to harness his team's underdog status and break a decades-long drought.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6927fda6e4b06c035e46556a-1764307570439?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251203153700 +1100" stop="20251203200000 +1100" channel="4k.kayo.501">
-    <title lang="en">Women's Big Bash League: Melbourne Stars Women vs Sydney Sixers Women</title>
-    <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Derby winners face off with Meg Lanning seeking another big win, this time against Ellyse Perry’s Sixers.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691fc221e4b0596bb25ee4e5-1764543154443?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251203185000 +1100" stop="20251204035000 +1100" channel="4k.kayo.505">
+  <programme start="20251203185013 +1100" stop="20251204035013 +1100" channel="4k.kayo.505">
     <title lang="en">One-Day Internationals: India vs South Africa</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Game Two. To deny India a series victory, the Proteas must stop the red-hot Virat Kohli who smashed a record 52nd ODI century in game one.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69262709e4b086d6881f082a-1764109555559?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251203190700 +1100" stop="20251203233000 +1100" channel="4k.kayo.501">
+  <programme start="20251203153751 +1100" stop="20251203200051 +1100" channel="4k.kayo.501">
+    <title lang="en">Women's Big Bash League: Melbourne Stars Women vs Sydney Sixers Women</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">Derby winners face off with Meg Lanning seeking another big win, this time against Ellyse Perry’s Sixers.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/691fc221e4b0596bb25ee4e5-1764543154443?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251203190751 +1100" stop="20251203233051 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Big Bash League: Sydney Thunder Women vs Brisbane Heat Women</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">The Thunder fight to be in the playoff hunt against a Brisbane Heat side desperate for their first win of the season.</desc>
@@ -60,9 +48,9 @@
     <desc lang="en">Day Three. After a dominant performance in the white ball leg, New Zealand looks to complete the summer with a Test series win.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6927fdafe4b02075fbf461a5-1764307574329?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251204070000 +1100" stop="20251204151000 +1100" channel="4k.kayo.503">
+  <programme start="20251204070000 +1100" stop="20251204201000 +1100" channel="4k.kayo.503">
     <title lang="en">: Australian Open: Rory TV</title>
-    <desc lang="en">Follow every shot of Rory McIlroy as opening round gets underway from the iconic Royal Melbourne Golf Club.</desc>
+    <desc lang="en">It's a blockbuster opening round as Rory McIlroy returns to Royal Melbourne Golf Club alongside star Aussie duo Adam Scott and Min Woo Lee.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/692e3f1fe4b0db1bbcbf69de-1764638663734?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251204053000 +1100" stop="20251204111000 +1100" channel="4k.kayo.506">
@@ -73,7 +61,7 @@
   <programme start="20251204140000 +1100" stop="20251204234500 +1100" channel="4k.kayo.501">
     <title lang="en">Test Matches: Australia vs England</title>
     <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Travball, Bazball and a swinging pink ball head to the Gabba with Australia 1-0 up in the series. </desc>
+    <desc lang="en">Travball, Bazball and a swinging pink ball head to the Gabba with Australia 1-0 up in the series.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/690bfd33e4b0ddab00f46000-1764204079376?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251205083000 +1100" stop="20251205175500 +1100" channel="4k.kayo.505">
@@ -105,6 +93,12 @@
     <desc lang="en">The Strikers need a crucial home win against the competition's number one team to propel themselves into the top four.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/691fc8d8e4b0596bb25ee4ef-1763690837676?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20251205225500 +1100" stop="20251206034000 +1100" channel="4k.kayo.505">
+    <title lang="en">Women's Twenty20 Internationals: South Africa Women vs Ireland Women</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">Ireland take on South Africa in Game 1 of the T20 series from Newlands Cricket Ground.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/692faf3fe4b0db1bbcbf6a8a-1764732997612?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20251206083000 +1100" stop="20251206175500 +1100" channel="4k.kayo.505">
     <title lang="en">Test Matches: New Zealand vs West Indies</title>
     <sub-title lang="en">2025-26</sub-title>
@@ -114,7 +108,7 @@
   <programme start="20251206101000 +1100" stop="20251206151000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Big Bash League: Melbourne Stars Women vs Sydney Thunder Women</title>
     <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Meg Lanning's Stars battle the Thunder as finals qualification looms for both teams.</desc>
+    <desc lang="en">Meg Lanning's Stars battle a Thunder team that's looking to close out their season with a big win.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/691fc96de4b05c3cf496401c-1763690925265?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251205200000 +1100" stop="20251205230500 +1100" channel="4k.kayo.506">
@@ -129,7 +123,7 @@
     <desc lang="en">Championship contenders Norris, Piastri and Verstappen seek optimal pace in Abu Dhabi as the second practice session begins.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/692d2b6fe4b02075fbf462c4-1764567982465?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251205120000 +1100" stop="20251205181000 +1100" channel="4k.kayo.503">
+  <programme start="20251205120000 +1100" stop="20251205201000 +1100" channel="4k.kayo.503">
     <title lang="en">: Australian Open</title>
     <desc lang="en">The 2025 Australian Open continues from the iconic Royal Melbourne Golf Club.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/692e3f29e4b02075fbf462f7-1764638680485?location=hero-portrait-m2&amp;imwidth=720" />
@@ -154,7 +148,7 @@
   <programme start="20251207103700 +1100" stop="20251207151000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Big Bash League: Sydney Sixers Women vs Adelaide Strikers Women</title>
     <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">The regular season comes to an end as the Strikers travel to face the Sixers.</desc>
+    <desc lang="en">The regular season comes to an end as the Sixers and Strikers look to cement themselves in the top four.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/691fca37e4b05c3cf496401d-1763691167196?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251206211500 +1100" stop="20251207002000 +1100" channel="4k.kayo.506">
@@ -169,7 +163,7 @@
     <desc lang="en">Full qualifying session to decide the grand prix grid. Critical for top drivers to secure front-row positions ahead of the final race.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/692d2aa7e4b0db1bbcbf69a7-1764568181075?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251206120000 +1100" stop="20251206181000 +1100" channel="4k.kayo.503">
+  <programme start="20251206120000 +1100" stop="20251206201000 +1100" channel="4k.kayo.503">
     <title lang="en">: Australian Open</title>
     <desc lang="en">The 2025 Australian Open continues from the iconic Royal Melbourne Golf Club.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/692e3f2ee4b02562b38bbbf6-1764638758915?location=hero-portrait-m2&amp;imwidth=720" />
@@ -191,10 +185,21 @@
     <desc lang="en">Aussie Oscar Piastri, fellow McLaren teammate Lando Norris, and five-team champ Max Verstappen race in a three-way title fight decider in Abu Dhabi.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/692d2a9ee4b071212af50f5e-1764568226627?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20251207120000 +1100" stop="20251207201000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Australian Open</title>
+    <desc lang="en">The 2025 Australian Open concludes from the iconic Royal Melbourne Golf Club.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/692e3f31e4b0db1bbcbf69df-1764638797540?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20251208140000 +1100" stop="20251208234500 +1100" channel="4k.kayo.501">
     <title lang="en">Test Matches: Australia vs England</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Travball, Bazball and a swinging pink ball head to the Gabba with Australia 1-0 up in the series.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/690bfd3ee4b0db4e611fcaaa-1764640655423?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/690bfd3ee4b0db4e611fcaaa-1764744352390?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251217093000 +1100" stop="20251217194000 +1100" channel="4k.kayo.501">
+    <title lang="en">Test Matches: Australia vs England</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">The Third Ashes test gets underway at Adelaide Oval, begins at 9:30 p.m. AEDT on December 17</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/690c035ce4b0379ece071569-1764333101659?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
 </tv>
