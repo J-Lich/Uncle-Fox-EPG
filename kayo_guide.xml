@@ -24,54 +24,39 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20251207225500 +1100" stop="20251208034000 +1100" channel="4k.kayo.505">
+  <programme start="20251209191500 +1100" stop="20251210002000 +1100" channel="4k.kayo.501">
+    <title lang="en">Women's Big Bash League: Perth Scorchers Women vs Melbourne Stars Women</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">The Scorchers host the Stars in the WBBL Knockout as the sides battle to qualify for the Challenger.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69361040e4b06772604d9dbc-1765150960948?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251210002000 +1100" stop="20251210054000 +1100" channel="4k.kayo.501">
+    <title lang="en">Twenty20 Internationals: India vs South Africa</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">The teams turn to T20 for the first game of this five match series.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/693284f8e4b0ccc941e18326-1764918701339?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251210083000 +1100" stop="20251210175500 +1100" channel="4k.kayo.501">
+    <title lang="en">Test Matches: New Zealand vs West Indies</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">Day One. A mammoth 4th innings effort earned West Indies a draw in the 1st test, the sides meet at Wellington for the 2nd.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6936553ae4b0ff92849f0c56-1765168550277?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251211025500 +1100" stop="20251211074000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Twenty20 Internationals: South Africa Women vs Ireland Women</title>
     <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Boland Park in Paarl hosts the second women’s T20I between South Africa and Ireland.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/692faf43e4b02562b38bbcda-1764733012407?location=hero-portrait-m2&amp;imwidth=720" />
+    <desc lang="en">South Africa take a 2-0 lead going into the third and final game of the series.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/692faf45e4b00e18218770d0-1764733032026?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251207140014 +1100" stop="20251208000014 +1100" channel="4k.kayo.501">
-    <title lang="en">Test Matches: Australia vs England</title>
-    <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Boland and Starc's late surge under lights has Australia in the box seat heading into a pivotal Day four.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/690bfd3ce4b096f4383b28e3-1765016662915?location=hero-portrait-m2&amp;imwidth=720" />
+  <programme start="20251211203000 +1100" stop="20251212014000 +1100" channel="4k.kayo.506">
+    <title lang="en">: Saudi Open</title>
+    <desc lang="en">Second round action of the Saudi Open from the Dirab Golf and Country Club.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69362f70e4b03761cef054b2-1765159080967?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251207232000 +1100" stop="20251208001300 +1100" channel="4k.kayo.501">
-    <title lang="en">Test Matches: Australia vs England</title>
-    <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Boland and Starc's late surge under lights has Australia in the box seat heading into a pivotal Day four.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69356451e4b0cbbf829f1f53-1765106809506?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251207220006 +1100" stop="20251208051006 +1100" channel="4k.kayo.506">
-    <title lang="en">Formula One World Championship: Abu Dhabi Grand Prix</title>
-    <sub-title lang="en">2025</sub-title>
-    <desc lang="en">Aussie Oscar Piastri, fellow McLaren teammate Lando Norris, and four-time champ Max Verstappen race in a three-way title fight decider in Abu Dhabi.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/692d2a9ee4b071212af50f5e-1764568226627?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251207163011 +1100" stop="20251207221011 +1100" channel="4k.kayo.506">
-    <title lang="en">: Thailand: Day 2</title>
-    <desc lang="en">Round 6 of the Asia Road Racing Championship continues in Thailand at the Chang International Circuit.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6932278ae4b0e38c6043a181-1765017426457?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251207201016 +1100" stop="20251207223516 +1100" channel="4k.kayo.506">
-    <title lang="en">: Abu Dhabi: Race</title>
-    <desc lang="en">The F2 season reaches a conclusion at the iconic Yas Marina Circuit.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/692d2aa1e4b02075fbf462c0-1764892395149?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251207110032 +1100" stop="20251207181032 +1100" channel="4k.kayo.503">
-    <title lang="en">: Australian Open</title>
-    <desc lang="en">Cam Smith trails by two shots heading into the Final Round at Royal Melbourne, with Min Woo Lee and Adam Scott still in striking range.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/692e3f31e4b0db1bbcbf69df-1765016711193?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251207190008 +1100" stop="20251208014008 +1100" channel="4k.kayo.503">
-    <title lang="en">: Nedbank Challenge</title>
-    <desc lang="en">Final round coverage of the Nedbank Golf Challenge begins from Gary Player Country Club, South Africa.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6931fdeae4b01b289bcfeb28-1764883989120?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251208033000 +1100" stop="20251208094000 +1100" channel="4k.kayo.503">
-    <title lang="en">: Hero World Challenge</title>
-    <desc lang="en">Two-time defending champion Scottie Scheffler is the man to beat as it comes down to the final day at Albany Golf Club.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/692d2db6e4b02075fbf462cd-1764568702358?location=hero-portrait-m2&amp;imwidth=720" />
+  <programme start="20251212193000 +1100" stop="20251213004000 +1100" channel="4k.kayo.506">
+    <title lang="en">: Saudi Open</title>
+    <desc lang="en">Third round action of the Saudi Open from the Dirab Golf and Country Club.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69363116e4b03761cef054b3-1765159385748?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251217093000 +1100" stop="20251217194000 +1100" channel="4k.kayo.501">
     <title lang="en">Test Matches: Australia vs England</title>
