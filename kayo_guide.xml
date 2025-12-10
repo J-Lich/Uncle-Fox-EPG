@@ -24,24 +24,6 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20251210002009 +1100" stop="20251210054009 +1100" channel="4k.kayo.501">
-    <title lang="en">Twenty20 Internationals: India vs South Africa</title>
-    <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">The teams turn to T20 for the first game of this five match series.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/693284f8e4b0ccc941e18326-1765257410238?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251209191502 +1100" stop="20251210002002 +1100" channel="4k.kayo.501">
-    <title lang="en">Women's Big Bash League: Perth Scorchers Women vs Melbourne Stars Women</title>
-    <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">The Scorchers host the Stars in the WBBL Knockout as the sides battle to qualify for the Challenger.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69361040e4b06772604d9dbc-1765243020733?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251210083000 +1100" stop="20251210175500 +1100" channel="4k.kayo.501">
-    <title lang="en">Test Matches: New Zealand vs West Indies</title>
-    <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Day One. A mammoth 4th innings effort earned West Indies a draw in the 1st test, the sides meet at Wellington for the 2nd.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6936553ae4b0ff92849f0c56-1765254040703?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
   <programme start="20251211025500 +1100" stop="20251211074000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Twenty20 Internationals: South Africa Women vs Ireland Women</title>
     <sub-title lang="en">2025-26</sub-title>
@@ -54,50 +36,71 @@
     <desc lang="en">Day Two. A mammoth 4th innings effort earned West Indies a draw in the 1st test, the sides meet at Wellington for the 2nd.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6936569ce4b0ff92849f0c5c-1765254083988?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251210203000 +1100" stop="20251211014000 +1100" channel="4k.kayo.503">
+  <programme start="20251210203014 +1100" stop="20251211014014 +1100" channel="4k.kayo.503">
     <title lang="en">: Saudi Open</title>
     <desc lang="en">First round action of the Saudi Open from the Dirab Golf and Country Club.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6937c91ee4b03761cef0555a-1765264045233?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20251211184500 +1100" stop="20251211235000 +1100" channel="4k.kayo.501">
+    <title lang="en">Women's Big Bash League: Sydney Sixers Women vs Perth Scorchers Women</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">The Sixers host the Scorchers in the Challenger with the winner making their way to the Final to take on the Hurricanes.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6938ae4ee4b06037def5a8e9-1765322357203?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20251212002000 +1100" stop="20251212054000 +1100" channel="4k.kayo.501">
     <title lang="en">Twenty20 Internationals: India vs South Africa</title>
     <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">India took the ODI series 2-1 as the sides now turn to T20's.</desc>
+    <desc lang="en">South Africa look to fight back in the series after India's massive win in game one.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/693285dde4b0db1bbcbf6bf0-1765257418712?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251212083000 +1100" stop="20251212175500 +1100" channel="4k.kayo.501">
     <title lang="en">Test Matches: New Zealand vs West Indies</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Day Three. A mammoth 4th innings effort earned West Indies a draw in the 1st test, the sides meet at Wellington for the 2nd.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/693655d9e4b0624b363b965e-1765254158465?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/693655d9e4b0624b363b965e-1765331367893?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251211203000 +1100" stop="20251212014000 +1100" channel="4k.kayo.506">
     <title lang="en">: Saudi Open</title>
     <desc lang="en">Second round action of the Saudi Open from the Dirab Golf and Country Club.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69362f70e4b03761cef054b2-1765159080967?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20251211210000 +1100" stop="20251212031000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Alfred Dunhill Championship</title>
+    <desc lang="en">The tournament returns to Johannesburg with a field deep in talent with former champions and rising stars.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6938df65e4b0ff92849f0d22-1765334958623?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20251213083000 +1100" stop="20251213175500 +1100" channel="4k.kayo.501">
     <title lang="en">Test Matches: New Zealand vs West Indies</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Day Four. A mammoth 4th innings effort earned West Indies a draw in the 1st test, the sides meet at Wellington for the 2nd.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/693655ede4b0624b363b965f-1765254183904?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/693655ede4b0624b363b965f-1765331390117?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251212170000 +1100" stop="20251212201000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Chasing The Fox</title>
+    <desc lang="en">Chasing the Fox is a six-hole ‘Ambrose format’ one-day golf event showcasing NZ legend, Ryan Fox, as he takes on a mix of challengers!</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6938e372e4b0ba9cbbbe36be-1765335963813?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251212193000 +1100" stop="20251213004000 +1100" channel="4k.kayo.506">
     <title lang="en">: Saudi Open</title>
     <desc lang="en">Third round action of the Saudi Open from the Dirab Golf and Country Club.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69363116e4b03761cef054b3-1765263748473?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20251212210000 +1100" stop="20251213031000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Alfred Dunhill Championship</title>
+    <desc lang="en">Second round coverage continues from the Royal Johannesburg Golf Club as Shaun Norris looks to successfully defend his title.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6938dfefe4b06037def5a90f-1765335094017?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20251213050000 +1100" stop="20251213091000 +1100" channel="4k.kayo.503">
     <title lang="en">: Grant Thornton Invitational</title>
     <desc lang="en">Defending champions Patty Tavatanakit and Jake Knapp return to Tiburon Golf Club in Naples as round 1 coverage gets underway.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/693783cbe4b03761cef05514-1765246453245?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251213121000 +1100" stop="20251213143500 +1100" channel="4k.kayo.506">
+  <programme start="20251213121000 +1100" stop="20251213144000 +1100" channel="4k.kayo.506">
     <title lang="en">: Malaysia: Qualifying</title>
     <desc lang="en">Qualifying begins for the opening round of the 2025/26 Asian Le Mans Series in Sepang.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/693793e0e4b0442f8cb3d66b-1765250191241?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251213160000 +1100" stop="20251213211000 +1100" channel="4k.kayo.506">
+  <programme start="20251213153000 +1100" stop="20251213213500 +1100" channel="4k.kayo.506">
     <title lang="en">: Malaysia: Race 1</title>
     <desc lang="en">The 2025/26 Asian Le Mans Series opens with the first race of the 4 Hours of Sepang.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69378c9ae4b0e0ad296cf562-1765248292488?location=hero-portrait-m2&amp;imwidth=720" />
@@ -107,28 +110,43 @@
     <desc lang="en">Final round action of the Saudi Open from the Dirab Golf and Country Club.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69378ef6e4b06037def5a881-1765248953791?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20251213203000 +1100" stop="20251214024000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Alfred Dunhill Championship</title>
+    <desc lang="en">Third round coverage continues from the Royal Johannesburg Golf Club as Shaun Norris looks to successfully defend his title.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6938e128e4b0ff92849f0d25-1765335468419?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20251214183000 +1100" stop="20251215001000 +1100" channel="4k.kayo.501">
     <title lang="en">Big Bash League: Perth Scorchers vs Sydney Sixers</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">The BBL 2025/26 season ignites with a blockbuster Scorchers-Sixers clash at The Furnace.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69375d47e4b03761cef054f2-1765236123397?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69375d47e4b03761cef054f2-1765324226586?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251214160000 +1100" stop="20251214211000 +1100" channel="4k.kayo.506">
+  <programme start="20251214153000 +1100" stop="20251214213500 +1100" channel="4k.kayo.506">
     <title lang="en">: Malaysia: Race 2</title>
     <desc lang="en">The first round of the 2025/26 Asian Le Mans Series continues with the second race of the 4 Hours of Sepang.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/693795f8e4b03761cef05532-1765250876761?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251214203000 +1100" stop="20251215024000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Alfred Dunhill Championship</title>
+    <desc lang="en">Final round coverage continues from the Royal Johannesburg Golf Club as Shaun Norris looks to successfully defend his title.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6938e292e4b0ff92849f0d27-1765335855602?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251215184500 +1100" stop="20251215235500 +1100" channel="4k.kayo.501">
     <title lang="en">Big Bash League: Melbourne Renegades vs Brisbane Heat</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Two sides hoping to improve on last season's poor performance clash at GMHBA Stadium.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69376030e4b03761cef054f5-1765236855446?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69376030e4b03761cef054f5-1765323994400?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251216050000 +1100" stop="20251216094000 +1100" channel="4k.kayo.506">
+    <title lang="en">: Mixed Pairs: Week 7</title>
+    <desc lang="en">The 2025 Ultimate Pool Mixed Pairs Cup continues with Week Seven action.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6938f22fe4b0e0ad296cf5f3-1765339868570?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251216184500 +1100" stop="20251216235500 +1100" channel="4k.kayo.501">
     <title lang="en">Big Bash League: Hobart Hurricanes vs Sydney Thunder</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">It's a grand final rematch as last season's champions the Hurricanes host the Thunder in Hobart.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69376094e4b0e0ad296cf533-1765236968039?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69376094e4b0e0ad296cf533-1765324028082?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251217093000 +1100" stop="20251217194000 +1100" channel="4k.kayo.501">
     <title lang="en">Test Matches: Australia vs England</title>
@@ -140,7 +158,7 @@
     <title lang="en">Big Bash League: Sydney Sixers vs Adelaide Strikers</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">The Sixers host last year's wooden spooners as Adelaide gets their season started at the SCG.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69376114e4b03761cef054fa-1765237090207?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69376114e4b03761cef054fa-1765324040617?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251218093000 +1100" stop="20251218194000 +1100" channel="4k.kayo.501">
     <title lang="en">Test Matches: Australia vs England</title>
@@ -152,7 +170,7 @@
     <title lang="en">Big Bash League: Melbourne Stars vs Hobart Hurricanes</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Glenn Maxwell will be hoping to get the Stars off to a hot start as they start their season against last year's champions at the MCG.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6937623ae4b0e0ad296cf536-1765237534767?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6937623ae4b0e0ad296cf536-1765324056579?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251219093000 +1100" stop="20251219194000 +1100" channel="4k.kayo.501">
     <title lang="en">Test Matches: Australia vs England</title>
@@ -164,7 +182,7 @@
     <title lang="en">Big Bash League: Brisbane Heat vs Perth Scorchers</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Two sides hoping to improve on disappointing seasons last year clash at the Gabba.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/693762bae4b0ff92849f0c7a-1765237475652?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/693762bae4b0ff92849f0c7a-1765322427455?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251220093000 +1100" stop="20251220194000 +1100" channel="4k.kayo.501">
     <title lang="en">Test Matches: Australia vs England</title>
@@ -176,6 +194,6 @@
     <title lang="en">Test Matches: Australia vs England</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Skipper Pat Cummins returns with the Aussies 2-0 up and looking to clench the Ashes as the series moves to Adelaide.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/690c036be4b0072c7a1c6715-1765248639109?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/690c036be4b0072c7a1c6715-1765322168439?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
 </tv>
