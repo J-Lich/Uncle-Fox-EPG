@@ -24,25 +24,11 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20251212210014 +1100" stop="20251213031014 +1100" channel="4k.kayo.503">
-    <title lang="en">: Alfred Dunhill Championship</title>
-    <desc lang="en">Second round coverage continues from the Royal Johannesburg Golf Club as Shaun Norris looks to successfully defend his title.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6938dfefe4b06037def5a90f-1765335094017?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251212170016 +1100" stop="20251212201016 +1100" channel="4k.kayo.503">
-    <title lang="en">: Chasing The Fox</title>
-    <desc lang="en">Chasing the Fox is a six-hole ‘Ambrose format’ one-day golf event showcasing NZ legend, Ryan Fox, as he takes on a mix of challengers!</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6938e372e4b0ba9cbbbe36be-1765404319479?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251212193017 +1100" stop="20251213004017 +1100" channel="4k.kayo.506">
-    <title lang="en">: Saudi Open</title>
-    <desc lang="en">Third round action of the Saudi Open from the Dirab Golf and Country Club.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69363116e4b03761cef054b3-1765263748473?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251213050000 +1100" stop="20251213091000 +1100" channel="4k.kayo.503">
-    <title lang="en">: Grant Thornton Invitational</title>
-    <desc lang="en">Defending champions Patty Tavatanakit and Jake Knapp return to Tiburon Golf Club in Naples as round 1 coverage gets underway.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/693783cbe4b03761cef05514-1765246453245?location=hero-portrait-m2&amp;imwidth=720" />
+  <programme start="20251213185000 +1100" stop="20251214041000 +1100" channel="4k.kayo.505">
+    <title lang="en">Women's One-Day Internationals: South Africa Women vs Ireland Women</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">Attention turns to the 50-over format as the Proteas host Ireland at Buffalo Park in East London.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69320e7fe4b01b289bcfeb73-1764888683410?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251213183000 +1100" stop="20251214001000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Big Bash League: Hobart Hurricanes Women vs Perth Scorchers Women</title>
@@ -50,36 +36,30 @@
     <desc lang="en">It all comes down to this as minor premiers the Hurricanes host the Scorchers in the Final, with the winner taking the 2025 title.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/693b40ede4b07f5d4aea3a01-1765513636531?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251213185000 +1100" stop="20251214041000 +1100" channel="4k.kayo.505">
-    <title lang="en">Women's One-Day Internationals: South Africa Women vs Ireland Women</title>
-    <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Attention turns to the 50-over format as the Proteas host Ireland at Buffalo Park in East London.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69320e7fe4b01b289bcfeb73-1764888683410?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
   <programme start="20251213121000 +1100" stop="20251213144000 +1100" channel="4k.kayo.506">
     <title lang="en">: Malaysia: Qualifying</title>
     <desc lang="en">Qualifying begins for the opening round of the 2025/26 Asian Le Mans Series in Sepang.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/693793e0e4b0442f8cb3d66b-1765250191241?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251213153000 +1100" stop="20251213213500 +1100" channel="4k.kayo.506">
+  <programme start="20251213153030 +1100" stop="20251213213530 +1100" channel="4k.kayo.506">
     <title lang="en">: Malaysia: Race 1</title>
     <desc lang="en">The 2025/26 Asian Le Mans Series opens with the first race of the 4 Hours of Sepang.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69378c9ae4b0e0ad296cf562-1765248292488?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251213150000 +1100" stop="20251213191000 +1100" channel="4k.kayo.503">
+  <programme start="20251213150005 +1100" stop="20251213191005 +1100" channel="4k.kayo.503">
     <title lang="en">: VIC PGA C'Ship</title>
-    <desc lang="en">Third round coverage of the Victorian PGA Championship begins from Moonah Links.</desc>
+    <desc lang="en">Marc Leishman enters the day in contention as third round coverage of the Victorian PGA Championship begins.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/693a23dae4b06772dc2d862b-1765418096864?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251213193000 +1100" stop="20251213213000 +1100" channel="4k.kayo.506">
-    <title lang="en">: Saudi Open</title>
-    <desc lang="en">Final round action of the Saudi Open from the Dirab Golf and Country Club.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69378ef6e4b06037def5a881-1765248953791?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251213203000 +1100" stop="20251214024000 +1100" channel="4k.kayo.503">
+  <programme start="20251213192500 +1100" stop="20251214050500 +1100" channel="4k.kayo.503">
     <title lang="en">: Alfred Dunhill Championship</title>
     <desc lang="en">Third round coverage continues from the Royal Johannesburg Golf Club as Shaun Norris looks to successfully defend his title.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6938e128e4b0ff92849f0d25-1765335468419?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251213193009 +1100" stop="20251214004009 +1100" channel="4k.kayo.506">
+    <title lang="en">: Saudi Open</title>
+    <desc lang="en">Final round action of the Saudi Open from the Dirab Golf and Country Club.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69378ef6e4b06037def5a881-1765248953791?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251214060000 +1100" stop="20251214101000 +1100" channel="4k.kayo.503">
     <title lang="en">: Grant Thornton Invitational</title>
@@ -232,5 +212,11 @@
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">The biggest day of the summer gets underway with the Boxing Day Ashes Test. Begins at 9:00 a.m. AEDT on December 26</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69298b6ce4b086d6881f0976-1764330631769?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251227093000 +1100" stop="20251227194000 +1100" channel="4k.kayo.501">
+    <title lang="en">Test Matches: Australia vs England</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">The biggest day of summer gets underway with the Boxing Day Ashes Test. Begins at 9:00 a.m. AEDT on December 26</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69298b71e4b06c035e465627-1764330633832?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
 </tv>
