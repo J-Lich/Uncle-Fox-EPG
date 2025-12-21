@@ -24,61 +24,33 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20251220182800 +1100" stop="20251221000800 +1100" channel="4k.kayo.501">
-    <title lang="en">Big Bash League: Sydney Thunder vs Sydney Sixers</title>
-    <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">The first Sydney Smash of the season takes place as the Thunder and Sixers clash at ENGIE Stadium.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69376348e4b00f1b564ef03e-1766218026328?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251221083000 +1100" stop="20251221175500 +1100" channel="4k.kayo.505">
-    <title lang="en">Test Matches: New Zealand vs West Indies</title>
-    <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">West Indies fought back on day three through Hodge’s century and now trail by 194 runs heading into day four.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/693f4a39e4b0d1261fa203af-1765941752177?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251221093000 +1100" stop="20251221194000 +1100" channel="4k.kayo.501">
-    <title lang="en">Test Matches: Australia vs England</title>
-    <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">England need a miracle on Day 5 as Australia are four wickets from retaining the urn in the Third NRMA Insurance Ashes Test.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/690c036be4b0072c7a1c6715-1765767301085?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251221050000 +1100" stop="20251221104000 +1100" channel="4k.kayo.506">
-    <title lang="en">: Simpson v Williamson</title>
-    <desc lang="en">Unbeaten champion Callum Simpson defends his super-middleweight titles against veteran Troy Williamson, who is coming off a massive upset victory.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6941eb39e4b0d1261fa204d6-1765927878526?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251220200038 +1100" stop="20251221014038 +1100" channel="4k.kayo.503">
-    <title lang="en">: Mauritius Open</title>
-    <desc lang="en">Third round coverage of the AfrAsia Bank Mauritius Open gets underway at La Reserve Golf Links.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/694095cbe4b0d1261fa2040e-1765840398473?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251221050000 +1100" stop="20251221111000 +1100" channel="4k.kayo.503">
-    <title lang="en">: PNC Championship</title>
-    <desc lang="en">Round 1 tees off from the Ritz-Carlton Golf Club in Orlando.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6946700ae4b0d1261fa205c8-1766224010466?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251221183000 +1100" stop="20251222001000 +1100" channel="4k.kayo.501">
-    <title lang="en">Big Bash League: Melbourne Renegades vs Hobart Hurricanes</title>
-    <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">The Renegades return to Geelong to face the defending Big Bash champions.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/693763d5e4b0e0ad296cf53b-1765331160024?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251222002000 +1100" stop="20251222054000 +1100" channel="4k.kayo.501">
+  <programme start="20251222002024 +1100" stop="20251222054024 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Twenty20 Internationals: India Women vs Sri Lanka Women</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">The series kicks off in Andhra Padesh with both sides looking to get off to a hot start.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6944d606e4b0175cc0cd4dab-1766118977700?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20251221184516 +1100" stop="20251222001016 +1100" channel="4k.kayo.501">
+    <title lang="en">Big Bash League: Melbourne Renegades vs Hobart Hurricanes</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">The Renegades return to Geelong to face the defending Big Bash champions.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/693763d5e4b0e0ad296cf53b-1765331160024?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20251222083000 +1100" stop="20251222175500 +1100" channel="4k.kayo.501">
     <title lang="en">Test Matches: New Zealand vs West Indies</title>
     <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">The West Indies’ long tour of New Zealand concludes as the third Test wraps up in Mount Maunganui.</desc>
+    <desc lang="en">New Zealand are chasing victory after centuries from Tom Latham and Devon Conway as West Indies battle to survive.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/693f4a3fe4b0d2fac50bdeee-1765755605165?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20251221170000 +1100" stop="20251221231000 +1100" channel="4k.kayo.503">
+  <programme start="20251221170033 +1100" stop="20251221231033 +1100" channel="4k.kayo.503">
     <title lang="en">: Mauritius Open</title>
     <desc lang="en">Final round coverage of the AfrAsia Bank Mauritius Open gets underway at La Reserve Golf Links.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69409622e4b062721d7f6276-1765840456092?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251222033000 +1100" stop="20251222094000 +1100" channel="4k.kayo.503">
+    <title lang="en">: PNC Championship</title>
+    <desc lang="en">Final round coverage from the Ritz-Carlton Golf Club in Orlando.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6947831be4b0d1261fa205d4-1766294338137?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251222184500 +1100" stop="20251223001000 +1100" channel="4k.kayo.501">
     <title lang="en">Big Bash League: Sydney Thunder vs Brisbane Heat</title>
@@ -307,5 +279,17 @@
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">The Heat and Stars clash at the Gabba.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/694231e5e4b0d1261fa20517-1765946161281?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260103184500 +1100" stop="20260104001000 +1100" channel="4k.kayo.501">
+    <title lang="en">Big Bash League: Sydney Thunder vs Hobart Hurricanes</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">The Hurricanes travel to Sydney to take on the Thunder at ENGIE Stadium.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/694231eee4b0ac13948a6941-1765958801993?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260104093000 +1100" stop="20260104191300 +1100" channel="4k.kayo.501">
+    <title lang="en">Test Matches: Australia vs England</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">The New Years Ashes Test gets underway at the Sydney Cricket Ground. Begins at 9:30 a.m. AEDT on January 4</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6929940fe4b02075fbf46234-1766099270608?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
 </tv>
