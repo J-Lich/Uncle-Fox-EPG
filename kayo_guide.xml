@@ -24,16 +24,6 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20251225012500 +1100" stop="20251225064000 +1100" channel="4k.kayo.501">
-    <title lang="en">: Capitals v Warriorz</title>
-    <desc lang="en">The sides meet at Dubai International Stadium as we get closer to the pointy end of the tournament.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6944ef3fe4b0d8ef2e159ad9-1766529728550?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251224134152 +1100" stop="20251224143252 +1100" channel="4k.kayo.503">
-    <title lang="en">: USPGA Season Review</title>
-    <desc lang="en">The 2025 PGA TOUR Year in Review celebrates the biggest breakthroughs of the season, including Rory McIlroy’s historic Masters Tournament victory.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/694b9926e4b0d8ef42f9a85f-1766562124613?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
   <programme start="20251226090000 +1100" stop="20251226191000 +1100" channel="4k.kayo.501">
     <title lang="en">Test Matches: Australia vs England</title>
     <sub-title lang="en">2025-26</sub-title>
@@ -386,5 +376,11 @@
     <title lang="en">: The Bay v Atlanta</title>
     <desc lang="en">Min Woo Lee's Bay Golf Club will look to get revenge on their Semi Final loss when they meet Atlanta Drive Golf Club.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/694b43dfe4b0ee6b155d3bbb-1766540372064?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260108093000 +1100" stop="20260108194000 +1100" channel="4k.kayo.501">
+    <title lang="en">Test Matches: Australia vs England</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">The New Years Ashes Test gets underway at the Sydney Cricket Ground. Begins at 9:30 a.m. AEDT on January 4</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6929941ce4b039adbcbaca7b-1766534148274?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
 </tv>
