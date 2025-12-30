@@ -24,42 +24,6 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20251229141510 +1100" stop="20251229191010 +1100" channel="4k.kayo.505">
-    <title lang="en">: Wellington v Auckland</title>
-    <desc lang="en">The Firebirds and Aces go head-to-head at the Basin Reserve as New Zealand’s Super Smash continues.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6944f460e4b0d1261fa205a1-1766531696661?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251229184500 +1100" stop="20251230001000 +1100" channel="4k.kayo.501">
-    <title lang="en">Big Bash League: Hobart Hurricanes vs Melbourne Renegades</title>
-    <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">The Hurricanes can move to equal top on the Big Bash table with victory over the Renegades.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69423197e4b0ac13948a6940-1766989627027?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251230020000 +1100" stop="20251230074000 +1100" channel="4k.kayo.501">
-    <title lang="en">: Sunrisers v Capitals</title>
-    <desc lang="en">The Sunrisers and Capitals clash at St George's Oval.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6944f6a2e4b016410892569a-1766532353389?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251230103000 +1100" stop="20251230151000 +1100" channel="4k.kayo.505">
-    <title lang="en">: Otago v Central</title>
-    <desc lang="en">The Otago Sparks return to the picturesque Molyneux Park where they host the Central Hinds in the Women’s Super Smash.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69487b76e4b0a2c77d5a3b61-1766532208210?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251229220006 +1100" stop="20251230051006 +1100" channel="4k.kayo.503">
-    <title lang="en">: Pro Cup Day 3</title>
-    <desc lang="en">Day Session: Featuring 32 of the world’s elite professional players competing in a high-stakes, single-elimination 8-ball tournament in Newcastle-under-Lyme.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/694a832fe4b0a2c70777cb07-1766491008549?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251230060000 +1100" stop="20251230101000 +1100" channel="4k.kayo.503">
-    <title lang="en">: Pro Cup Day 3</title>
-    <desc lang="en">Night Session: Featuring 32 of the world’s elite professional players competing in a high-stakes, single-elimination 8-ball tournament in Newcastle-under-Lyme.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/694a83dde4b0fd4e4c7439b6-1766491189385?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20251230141500 +1100" stop="20251230185500 +1100" channel="4k.kayo.505">
-    <title lang="en">: Otago v Central</title>
-    <desc lang="en">The Volts search for victory against the Central Stages at Molyneux Park.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69487b95e4b0d8ef2e159b33-1766532196975?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
   <programme start="20251231002000 +1100" stop="20251231054000 +1100" channel="4k.kayo.506">
     <title lang="en">Women's Twenty20 Internationals: India Women vs Sri Lanka Women</title>
     <sub-title lang="en">2025-26</sub-title>
@@ -70,6 +34,17 @@
     <title lang="en">: Vipers v Emirates</title>
     <desc lang="en">A place in the Final is on the line as the Desert Vipers take on MI Emirates in the first qualifier in Abu Dhabi.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6951d171e4b08201a099ef5b-1766969793048?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251230141507 +1100" stop="20251230185507 +1100" channel="4k.kayo.505">
+    <title lang="en">: Otago v Central</title>
+    <desc lang="en">The Volts search for victory against the Central Stages at Molyneux Park.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69487b95e4b0d8ef2e159b33-1766532196975?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20251230184500 +1100" stop="20251231001000 +1100" channel="4k.kayo.501">
+    <title lang="en">Big Bash League: Sydney Thunder vs Perth Scorchers</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">Sam Konstas and Mitch Marsh go head-to-head as the Thunder search for a win over the Scorchers at home.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/694231a0e4b0d1261fa20516-1766989976669?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20251231020000 +1100" stop="20251231074000 +1100" channel="4k.kayo.501">
     <title lang="en">: Durban v Joburg</title>
@@ -167,7 +142,7 @@
   </programme>
   <programme start="20260103020000 +1100" stop="20260103074000 +1100" channel="4k.kayo.501">
     <title lang="en">: Paarl v Cape Town</title>
-    <desc lang="en">Paarl and Cape Town clash at Boland Park. </desc>
+    <desc lang="en">Paarl and Cape Town clash at Boland Park.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6951ca7be4b041a20f630e4e-1766968032323?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260103103000 +1100" stop="20260103151000 +1100" channel="4k.kayo.501">
@@ -292,22 +267,85 @@
     <desc lang="en">The New Years Ashes Test gets underway at the Sydney Cricket Ground. Begins at 9:30 a.m. AEDT on January 4</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69299415e4b02075fbf46236-1766962806300?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20260106103000 +1100" stop="20260106151000 +1100" channel="4k.kayo.505">
+    <title lang="en">: Auckland v Otago</title>
+    <desc lang="en">The Aces and Volts clash in Auckland.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69531ea9e4b082019dfbfacf-1767055100291?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260106050000 +1100" stop="20260106094000 +1100" channel="4k.kayo.506">
+    <title lang="en">: Unrivaled: Day 1</title>
+    <desc lang="en">Some of the biggest stars in women's basketball take the court in this trailblazing three-on-three league.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69535feee4b07b4a731a0b6a-1767071823379?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260106141500 +1100" stop="20260106191000 +1100" channel="4k.kayo.505">
+    <title lang="en">: Auckland v Otago</title>
+    <desc lang="en">The Hearts and Sparks clash in Auckland.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69531f31e4b041a210b4454b-1767055211833?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260106183000 +1100" stop="20260107001000 +1100" channel="4k.kayo.501">
+    <title lang="en">Big Bash League: Adelaide Strikers vs Sydney Thunder</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">The Strikers host the Thunder at Adelaide Oval. </desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69426434e4b0d1261fa20521-1766534536951?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260107020000 +1100" stop="20260107074000 +1100" channel="4k.kayo.501">
+    <title lang="en">: Cape Town v Joburg</title>
+    <desc lang="en">Cape Town and Joburg clash at Newlands.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69533171e4b07b4a731a0b56-1767059964514?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20260107093000 +1100" stop="20260107194000 +1100" channel="4k.kayo.501">
     <title lang="en">Test Matches: Australia vs England</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">The New Years Ashes Test gets underway at the Sydney Cricket Ground. Begins at 9:30 a.m. AEDT on January 4</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69299418e4b0f543fc3ed003-1766962829425?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20260107103000 +1100" stop="20260107151000 +1100" channel="4k.kayo.505">
+    <title lang="en">: Wellington v Central</title>
+    <desc lang="en">The Blaze and Central clash in Wellington.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69533473e4b041a210b44550-1767060678052?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20260107090000 +1100" stop="20260107121000 +1100" channel="4k.kayo.503">
     <title lang="en">: The Bay v Atlanta</title>
     <desc lang="en">Min Woo Lee's Bay Golf Club will look to get revenge on their Semi Final loss when they meet Atlanta Drive Golf Club.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/694b43dfe4b0ee6b155d3bbb-1766959726890?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260107141500 +1100" stop="20260107191000 +1100" channel="4k.kayo.505">
+    <title lang="en">: Wellington v Central</title>
+    <desc lang="en">The Firebirds and Central clash in Wellington.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69533524e4b098c9fd031d02-1767060866903?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260107183000 +1100" stop="20260108001000 +1100" channel="4k.kayo.501">
+    <title lang="en">Big Bash League: Perth Scorchers vs Melbourne Renegades</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">The Scorchers host the Renegades at Optus Stadium.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6942643ce4b02e5e1749b3ce-1766989129144?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260108020000 +1100" stop="20260108074000 +1100" channel="4k.kayo.501">
+    <title lang="en">: Durban v Pretoria</title>
+    <desc lang="en">Durban and Pretoria clash at Kingsmead stadium, in Durban.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/695351b2e4b041a210b44557-1767068171643?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260108093000 +1100" stop="20260108194000 +1100" channel="4k.kayo.501">
     <title lang="en">Test Matches: Australia vs England</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">The New Years Ashes Test gets underway at the Sydney Cricket Ground. Begins at 9:30 a.m. AEDT on January 4</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6929941ce4b039adbcbaca7b-1766963151451?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260108120000 +1100" stop="20260108171000 +1100" channel="4k.kayo.505">
+    <title lang="en">: Northern v Canterbury</title>
+    <desc lang="en">The Brave and Canterbury clash in Seddon Park, Hamilton.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69535483e4b07b4a731a0b65-1767068885738?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260108154500 +1100" stop="20260108204000 +1100" channel="4k.kayo.505">
+    <title lang="en">: Northern v Canterbury</title>
+    <desc lang="en">The Brave and Canterbury clash in Seddon Park, Hamilton.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/695357b4e4b041a210b44560-1767069861391?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260108183000 +1100" stop="20260109001000 +1100" channel="4k.kayo.501">
+    <title lang="en">Big Bash League: Melbourne Stars vs Sydney Sixers</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">The Stars host the sixers at the MCG.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/694480d0e4b0d1261fa20564-1766534240104?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260109020000 +1100" stop="20260109074000 +1100" channel="4k.kayo.501">
     <title lang="en">: Joburg v Paarl</title>
@@ -324,10 +362,16 @@
     <desc lang="en">The Firebirds and the Volts clash in Wellington.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69487db1e4b055bf38b3a813-1766534195791?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20260109184500 +1100" stop="20260109235500 +1100" channel="4k.kayo.501">
+    <title lang="en">Big Bash League: Hobart Hurricanes vs Adelaide Strikers</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">The Hurricanes host the Strikers at Bellerive.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/694480f0e4b06fdd0fa83776-1766534186220?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20260110160000 +1100" stop="20260110201000 +1100" channel="4k.kayo.503">
     <title lang="en">: Webex Players Series</title>
     <desc lang="en">Superstar siblings Minjee and Min Woo Lee host the Webex Players Series Perth, showcasing the next generation of Aussie golfers. Round 3 begins.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/694b4eb5e4b0ee6b155d3bbd-1766543071898?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/694b4eb5e4b0ee6b155d3bbd-1767044911591?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260111140000 +1100" stop="20260111201000 +1100" channel="4k.kayo.503">
     <title lang="en">: Webex Players Series</title>
