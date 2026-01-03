@@ -24,43 +24,7 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20260103012500 +1100" stop="20260103064000 +1100" channel="4k.kayo.505">
-    <title lang="en">: Emirates v Knight Riders</title>
-    <desc lang="en">MI Emriates face the Abu Dhabi Knight Riders with the winner taking on the Desert Vipers in the final.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6951d2fee4b0b142720106a3-1767327570784?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260102141511 +1100" stop="20260102191011 +1100" channel="4k.kayo.501">
-    <title lang="en">: Auckland v Firebirds</title>
-    <desc lang="en">The Aces and Firebirds go head-to-head at the Kennards Hire Community Oval in Auckland.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69432ba7e4b0d8ef2e159a68-1766533390155?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260102184500 +1100" stop="20260103001000 +1100" channel="4k.kayo.501">
-    <title lang="en">Big Bash League: Brisbane Heat vs Melbourne Stars</title>
-    <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Glenn Maxwell’s Stars look to keep their undefeated start alive when they travel to the Gabba to face the Heat.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/694231e5e4b0d1261fa20517-1766533440673?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260103020000 +1100" stop="20260103074000 +1100" channel="4k.kayo.501">
-    <title lang="en">: Paarl v Cape Town</title>
-    <desc lang="en">Paarl and Cape Town clash at Boland Park.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6951ca7be4b041a20f630e4e-1766968032323?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260103103000 +1100" stop="20260103151000 +1100" channel="4k.kayo.501">
-    <title lang="en">: Central v Canterbury</title>
-    <desc lang="en">Central Hinds and Canterbury Clash at Saxton Oval, Nelson.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69433bd5e4b0d8ef2e159a6b-1766533609783?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260102220007 +1100" stop="20260103034007 +1100" channel="4k.kayo.503">
-    <title lang="en">: Invitational Day 1 Session 1</title>
-    <desc lang="en">The 2025 Championship League of Snooker Invitational begins from the Mattioli Arena in Leicester.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6949dc08e4b03c28ac7fff3d-1767305260629?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260103033000 +1100" stop="20260103091000 +1100" channel="4k.kayo.503">
-    <title lang="en">: Invitational Day 1 Session 2</title>
-    <desc lang="en">The 2025 Championship League of Snooker Invitational continues from the Mattioli Arena in Leicester.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6949dcc9e4b0d8ef42f9a7de-1767305388192?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260103141500 +1100" stop="20260103191000 +1100" channel="4k.kayo.501">
+  <programme start="20260103141515 +1100" stop="20260103191015 +1100" channel="4k.kayo.501">
     <title lang="en">: Central v Canterbury</title>
     <desc lang="en">Central Stags and Canterbury Kinds clash at Saxton Oval, Nelson.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69433bd9e4b0ac13948a699a-1766533603338?location=hero-portrait-m2&amp;imwidth=720" />
@@ -87,7 +51,7 @@
     <desc lang="en">The New Years Ashes Test gets underway at the Sydney Cricket Ground. Begins at 9:30 a.m. AEDT on January 4</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6929940fe4b02075fbf46234-1766963118638?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260103110000 +1100" stop="20260103141000 +1100" channel="4k.kayo.503">
+  <programme start="20260103110006 +1100" stop="20260103141006 +1100" channel="4k.kayo.503">
     <title lang="en">: Boston v Los Angeles</title>
     <desc lang="en">A massive match up that features stars Rory McIlroy and Adam Scott against Tommy Fleetwood and Collin Morikawa.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/694b4236e4b0ee6b155d3bb8-1766976786882?location=hero-portrait-m2&amp;imwidth=720" />
