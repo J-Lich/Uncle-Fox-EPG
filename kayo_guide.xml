@@ -24,48 +24,16 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20260106141500 +1100" stop="20260106191000 +1100" channel="4k.kayo.505">
-    <title lang="en">: Auckland v Otago</title>
-    <desc lang="en">The Hearts and Sparks clash in Auckland.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69531f31e4b041a210b4454b-1767055211833?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260106183036 +1100" stop="20260107001036 +1100" channel="4k.kayo.501">
-    <title lang="en">Big Bash League: Adelaide Strikers vs Sydney Thunder</title>
-    <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Chris Lynn’s Strikers look to defend home turf against a dangerous Thunder attack at the Adelaide Oval.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69426434e4b0d1261fa20521-1766534536951?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260107020000 +1100" stop="20260107074000 +1100" channel="4k.kayo.501">
-    <title lang="en">: Cape Town v Joburg</title>
-    <desc lang="en">Rashid Khan's Cape Town fights to climb the table against the undefeated Joburg Super Kings at Newlands.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69533171e4b07b4a731a0b56-1767059964514?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260107093000 +1100" stop="20260107194000 +1100" channel="4k.kayo.501">
-    <title lang="en">Test Matches: Australia vs England</title>
-    <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">The New Years Ashes Test gets underway at the Sydney Cricket Ground. Begins at 9:30 a.m. AEDT</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69299418e4b0f543fc3ed003-1766962829425?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260107103000 +1100" stop="20260107151000 +1100" channel="4k.kayo.505">
-    <title lang="en">: Wellington v Central</title>
-    <desc lang="en">The Blaze and Central clash in Wellington.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69533473e4b041a210b44550-1767060678052?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260107090000 +1100" stop="20260107121000 +1100" channel="4k.kayo.503">
-    <title lang="en">: The Bay v Atlanta</title>
-    <desc lang="en">Shane Lowry's Bay Golf Club will look to get revenge on their Semi Final loss when they meet Atlanta Drive Golf Club.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/694b43dfe4b0ee6b155d3bbb-1767575451276?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260107141500 +1100" stop="20260107191000 +1100" channel="4k.kayo.505">
+  <programme start="20260107141537 +1100" stop="20260107191037 +1100" channel="4k.kayo.505">
     <title lang="en">: Wellington v Central</title>
     <desc lang="en">The Firebirds and Central clash in Wellington.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69533524e4b098c9fd031d02-1767060866903?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260107183000 +1100" stop="20260108001000 +1100" channel="4k.kayo.501">
+  <programme start="20260107183025 +1100" stop="20260108001025 +1100" channel="4k.kayo.501">
     <title lang="en">Big Bash League: Perth Scorchers vs Melbourne Renegades</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Fresh off an upset win over their cross-town rivals, the Renegades are looking to topple the Scorchers at the Furnace.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6942643ce4b02e5e1749b3ce-1766989129144?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6942643ce4b02e5e1749b3ce-1767787257265?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260108020000 +1100" stop="20260108074000 +1100" channel="4k.kayo.501">
     <title lang="en">: Durban v Pretoria</title>
@@ -83,7 +51,7 @@
     <desc lang="en">The Brave and Canterbury clash in Seddon Park, Hamilton.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69535483e4b07b4a731a0b65-1767068885738?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260108154500 +1100" stop="20260108204000 +1100" channel="4k.kayo.505">
+  <programme start="20260108161000 +1100" stop="20260108204000 +1100" channel="4k.kayo.505">
     <title lang="en">: Northern v Canterbury</title>
     <desc lang="en">The Brave and Canterbury clash in Seddon Park, Hamilton.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/695357b4e4b041a210b44560-1767069861391?location=hero-portrait-m2&amp;imwidth=720" />
@@ -112,7 +80,7 @@
   <programme start="20260109184500 +1100" stop="20260109235500 +1100" channel="4k.kayo.501">
     <title lang="en">Big Bash League: Hobart Hurricanes vs Adelaide Strikers</title>
     <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">The Hurricanes host the Strikers at Bellerive.</desc>
+    <desc lang="en">With Aussie Test stars returning this weekend, the Hurricanes aim to cement their spot atop the BBL ladder.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/694480f0e4b06fdd0fa83776-1766534186220?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260110005000 +1100" stop="20260110061000 +1100" channel="4k.kayo.501">
@@ -162,7 +130,7 @@
     <title lang="en">Women's Premier League: UP Warriorz Women vs Gujarat Giants Women</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Meg Lanning makes her captaincy debut for UP against Gujarat's Ashleigh Gardner and Beth Mooney.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6954fc25e4b098c9e191f40f-1767345899382?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6954fc25e4b098c9e191f40f-1767756924210?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260110213000 +1100" stop="20260111031000 +1100" channel="4k.kayo.505">
     <title lang="en">: Paarl v Pretoria</title>
@@ -215,7 +183,7 @@
   <programme start="20260111185000 +1100" stop="20260112041000 +1100" channel="4k.kayo.505">
     <title lang="en">One-Day Internationals: India vs New Zealand</title>
     <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">New Zealand look to make history again against Shubman Gill’s India side.</desc>
+    <desc lang="en">New Zealand look to make history again against Shubman Gill’s India.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69550365e4b098c9e191f419-1767680166230?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260112000000 +1100" stop="20260112054000 +1100" channel="4k.kayo.501">
@@ -227,7 +195,7 @@
     <title lang="en">Women's Premier League: Delhi Capitals Women vs Gujarat Giants Women</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">It is a battle for Aussie supremacy as Ashleigh Gardner and Beth Mooney's Giants face Delhi’s Alana King.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69570a77e4b098c9e191f441-1767345784434?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69570a77e4b098c9e191f441-1767757016922?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260112103000 +1100" stop="20260112151000 +1100" channel="4k.kayo.501">
     <title lang="en">: Otago v Auckland</title>
@@ -254,7 +222,7 @@
     <title lang="en">Women's Premier League: Royal Challengers Bengaluru Women vs UP Warriorz Women</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Georgia Voll and Grace Harris take on a Warriorz side featuring Meg Lanning and Phoebe Litchfield.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69570ad8e4b098c9e191f443-1767345598404?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69570ad8e4b098c9e191f443-1767757033275?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260113020000 +1100" stop="20260113074000 +1100" channel="4k.kayo.501">
     <title lang="en">: Pretoria v Cape Town</title>
@@ -264,7 +232,7 @@
   <programme start="20260112190000 +1100" stop="20260112211000 +1100" channel="4k.kayo.506">
     <title lang="en">: Grand Arrivals</title>
     <desc lang="en">Before they step into the ring at the Brisbane Entertainment Centre, Nikita Tszyu and Michael Zerafa will make their first official appearance of fight week.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/695c86bce4b011f87b02b5ba-1767671870723?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/695c86bce4b011f87b02b5ba-1767741474847?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260113120000 +1100" stop="20260113164000 +1100" channel="4k.kayo.501">
     <title lang="en">: Central v Northern</title>
@@ -286,7 +254,7 @@
     <title lang="en">Women's Premier League: Mumbai Indians Women vs Gujarat Giants Women</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">The WPL's most expensive star Ashleigh Gardner leads the Giants into a tough battle with the powerhouse Mumbai.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/695c6891e4b045d41e9a8e76-1767663814626?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/695c6891e4b045d41e9a8e76-1767757055136?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260114020000 +1100" stop="20260114074000 +1100" channel="4k.kayo.501">
     <title lang="en">: Paarl v Durban</title>
@@ -301,7 +269,7 @@
   <programme start="20260113120000 +1100" stop="20260113141000 +1100" channel="4k.kayo.506">
     <title lang="en">: Open Workout</title>
     <desc lang="en">Check out the fighters on the Nikita Tszyu and Michael Zerafa card as they go through their paces in an open workout.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/695c89e6e4b0fdbcf89c0d6e-1767672697469?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/695c89e6e4b0fdbcf89c0d6e-1767741466695?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260114144000 +1100" stop="20260114191500 +1100" channel="4k.kayo.501">
     <title lang="en">: Auckland v Canterbury</title>
@@ -314,11 +282,17 @@
     <desc lang="en">The Hurricanes and Heat clash at Bellerive.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69448306e4b0175cc0cd4d85-1767140985557?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20260114185000 +1100" stop="20260115041000 +1100" channel="4k.kayo.505">
+    <title lang="en">One-Day Internationals: India vs New Zealand</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">India host New Zealand in the second of a three game ODI series at Saurashtra Cricket Association Stadium.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/695b3356e4b008d103065bec-1767680146002?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20260115005000 +1100" stop="20260115061000 +1100" channel="4k.kayo.503">
     <title lang="en">Women's Premier League: UP Warriorz Women vs Delhi Capitals Women</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Meg Lanning faces her old club Delhi in one of the most anticipated games of the year.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6954fd36e4b07b4a3bbd6740-1767177574671?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6954fd36e4b07b4a3bbd6740-1767757072050?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260115020000 +1100" stop="20260115074000 +1100" channel="4k.kayo.501">
     <title lang="en">: Sunrisers v Joburg</title>
@@ -329,6 +303,11 @@
     <title lang="en">: Otago v Wellington</title>
     <desc lang="en">The Sparks and the Blaze clash at the University of Otago Oval, Dunedin.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69487f4de4b0ee6bbe946faf-1766533823816?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260114120000 +1100" stop="20260114141000 +1100" channel="4k.kayo.506">
+    <title lang="en">: Press Conference</title>
+    <desc lang="en">The official press conference for Nikita Tszyu v Michael Zerafa gets underway in Brisbane.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/695d967fe4b04e8cd6dead82-1767741428503?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260114110000 +1100" stop="20260114141000 +1100" channel="4k.kayo.503">
     <title lang="en">: Jupiter Links v New York</title>
@@ -346,9 +325,15 @@
     <desc lang="en">The Renegades host the Scorchers at Marvel stadium.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69575148e4b0fe562d4b792e-1767330200557?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20260116005000 +1100" stop="20260116061000 +1100" channel="4k.kayo.505">
+    <title lang="en">Women's Premier League: Mumbai Indians Women vs UP Warriorz Women</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">Tahlia McGrath and Charli Knott test their mettle against the reigning title holders.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69570adce4b08b1055b30200-1767313572237?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20260116020000 +1100" stop="20260116074000 +1100" channel="4k.kayo.501">
     <title lang="en">: Pretoria v Paarl</title>
-    <desc lang="en">Pretoria and Paarl clash at Centurion Park. </desc>
+    <desc lang="en">Pretoria and Paarl clash at Centurion Park.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/695b1dfde4b04a671467a467-1767579306548?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260116120000 +1100" stop="20260116164000 +1100" channel="4k.kayo.501">
@@ -394,12 +379,18 @@
     <title lang="en">Women's Premier League: UP Warriorz Women vs Mumbai Indians Women</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">All-rounder Tahlia McGrath joins Meg Lanning to lead the Warriorz against the star-studded Mumbai side.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/695c6d31e4b0d4e710733ecd-1767664995341?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/695c6d31e4b0d4e710733ecd-1767756952015?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260117213000 +1100" stop="20260118031000 +1100" channel="4k.kayo.506">
     <title lang="en">: Durban v Paarl</title>
     <desc lang="en">Durban and Paarl clash at Kingsmead stadium, in Durban.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/695c4d4ae4b045480d038460-1767656854181?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260118005000 +1100" stop="20260118061000 +1100" channel="4k.kayo.505">
+    <title lang="en">Women's Premier League: Delhi Capitals Women vs Royal Challengers Bengaluru Women</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">Alana King brings her leg-spin to the fore for Delhi against the aggressive hitting of Georgia Voll.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/695dc378e4b03cfafa8621e6-1767756932970?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260118020000 +1100" stop="20260118074000 +1100" channel="4k.kayo.501">
     <title lang="en">: Joburg v Pretoria</title>
@@ -441,5 +432,21 @@
     <title lang="en">: Paarl v Joburg</title>
     <desc lang="en">Paarl and Joburg clash at Boland Park.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/695b1e0ae4b045d41e9a8e27-1767579310396?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260120120000 +1100" stop="20260120164000 +1100" channel="4k.kayo.501">
+    <title lang="en">: Northern v Central</title>
+    <desc lang="en">The Brave and the Hinds clash at Seddon Park, Hamilton.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/695b3dcfe4b011f87b02b569-1767587495071?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260120154500 +1100" stop="20260120204000 +1100" channel="4k.kayo.505">
+    <title lang="en">: Northern v Central</title>
+    <desc lang="en">The Brave and the Stags clash at Seddon Park, Hamilton.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/695b3ed1e4b02c82b598363e-1767587712714?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260120183000 +1100" stop="20260121001000 +1100" channel="4k.kayo.501">
+    <title lang="en">Big Bash League: 1st vs 2nd</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">The top two teams battle it out to advance straight to the Grand Final.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/695dda0be4b045d41e9a8edb-1767758732760?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
 </tv>
