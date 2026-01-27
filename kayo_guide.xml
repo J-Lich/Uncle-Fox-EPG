@@ -24,17 +24,6 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20260127005000 +1100" stop="20260127061000 +1100" channel="4k.kayo.501">
-    <title lang="en">Women's Premier League: Royal Challengers Bengaluru Women vs Mumbai Indians Women</title>
-    <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Georgia Voll looks to make her mark for Bengaluru against Mumbai Indians' Australian recruit Nicola Carey.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69659411e4b046f839d7b137-1768272675451?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260126141506 +1100" stop="20260126191006 +1100" channel="4k.kayo.501">
-    <title lang="en">: Auckland v Central</title>
-    <desc lang="en">The Aces and Stags clash in the final game of the regular season.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/695dbd1be4b04a67ba436812-1768543503676?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
   <programme start="20260128005000 +1100" stop="20260128061000 +1100" channel="4k.kayo.503">
     <title lang="en">Women's Premier League: Gujarat Giants Women vs Delhi Capitals Women</title>
     <sub-title lang="en">2025-26</sub-title>
@@ -44,15 +33,15 @@
   <programme start="20260128025500 +1100" stop="20260128081000 +1100" channel="4k.kayo.501">
     <title lang="en">Twenty20 Internationals: South Africa vs West Indies</title>
     <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">On the eve of the T20 World Cup, Aiden Markram and Quinton de Kock get to put their side to the test as they face the West Indies.</desc>
+    <desc lang="en">Aiden Markram and Quinton de Kock get to put their side to the test as they face the West Indies.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/696596a5e4b0edba20946b65-1768868699034?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260127113000 +1100" stop="20260127151000 +1100" channel="4k.kayo.505">
+  <programme start="20260127113017 +1100" stop="20260127151017 +1100" channel="4k.kayo.505">
     <title lang="en">: Unrivaled</title>
     <desc lang="en">Day 13: Some of the biggest stars in women's basketball take the court in this trailblazing three-on-three league.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/696d8162e4b0177beceb21d4-1768861443201?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260127110000 +1100" stop="20260127141000 +1100" channel="4k.kayo.503">
+  <programme start="20260127110010 +1100" stop="20260127141010 +1100" channel="4k.kayo.503">
     <title lang="en">: Boston v The Bay</title>
     <desc lang="en">Chasing their first win of the season The Bay will face heavyweight contenders Boston Common Golf at SoFi Center in Palm Beach Gardens.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/696d6c15e4b0604a00903033-1768778917255?location=hero-portrait-m2&amp;imwidth=720" />
@@ -63,7 +52,17 @@
     <desc lang="en">India host New Zealand in game four of a five match series in Potinamallayyapalem.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69658c2be4b0edba20946b5f-1768519276118?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260128183000 +1100" stop="20260128204000 +1100" channel="4k.kayo.505">
+  <programme start="20260128231800 +1100" stop="20260129031000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Gotham FC v Corinthians</title>
+    <desc lang="en">SF1: CONCACAF champs Gotham FC take on Brazilian giants Corinthians for a place in the inaugural tournaments Final.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/697848dfe4b015e658d78951-1769490775584?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260129044800 +1100" stop="20260129084000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Arsenal v AS FAR</title>
+    <desc lang="en">SF2: With 3 Matilda's in the squad, Women's UCL champions Arsenal will hope for another victory as they take on AS FAR for a spot in the Final.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69784a2ae4b050cc86d98a43-1769491164975?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260128183000 +1100" stop="20260128211000 +1100" channel="4k.kayo.505">
     <title lang="en">: UFC 325 Open Workout</title>
     <desc lang="en">Check out the fighters on the UFC 325 card as they go through their paces in an open workout.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69715558e4b0177beceb22d3-1769035173754?location=hero-portrait-m2&amp;imwidth=720" />
@@ -87,8 +86,13 @@
   </programme>
   <programme start="20260130060000 +1100" stop="20260130111000 +1100" channel="4k.kayo.506">
     <title lang="en">: The Masters</title>
-    <desc lang="en">Day one action of The Masters from Milton Keynes, UK.</desc>
+    <desc lang="en">Day one action of The Masters from Milton Keynes. Five-time champion Michael van Gerwen battles Aussie Damon Heta.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/697049a2e4b04078d10238ab-1768966655422?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260129193000 +1100" stop="20260130014000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Bahrain Championship</title>
+    <desc lang="en">Three-time Major Champion Padraig Harrington and current Race to Dubai leader Jayden Schaper are set to tee it up in round 1 at the Royal Golf Club, Bahrain.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/696ef5d5e4b04078d102385d-1768880682560?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260130033000 +1100" stop="20260130074000 +1100" channel="4k.kayo.505">
     <title lang="en">: Tournament of Champions</title>
@@ -136,6 +140,11 @@
     <desc lang="en">Day two action of The Masters from Milton Keynes, UK.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69704a25e4b04078d10238ac-1768966858940?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20260130193000 +1100" stop="20260131014000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Bahrain Championship</title>
+    <desc lang="en">Second round coverage begins from the Royal Golf Club, Bahrain.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69782334e4b015e658d78941-1769481264807?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20260131033000 +1100" stop="20260131074000 +1100" channel="4k.kayo.505">
     <title lang="en">: Tournament of Champions</title>
     <desc lang="en">Round two action of the Tournament of Champions from Lake Nona Golf &amp; Country Club.</desc>
@@ -178,6 +187,11 @@
     <desc lang="en">South Africa host the West Indies in the third of three T20's, from Sandton.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/696d9e98e4b04078d10237d8-1768869240724?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20260201075500 +1100" stop="20260201095500 +1100" channel="4k.kayo.505">
+    <title lang="en">: Highlands</title>
+    <desc lang="en">Day two action of the NextGen NZ Championship from Highlands Motorsport Park.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69785687e4b0214ca44202e4-1769494531643?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20260131110000 +1100" stop="20260131154000 +1100" channel="4k.kayo.503">
     <title lang="en">: Unrivaled</title>
     <desc lang="en">Day 14: Some of the biggest stars in women's basketball take the court in this trailblazing three-on-three league.</desc>
@@ -197,6 +211,11 @@
     <title lang="en">: WPS Murray River</title>
     <desc lang="en">Third round coverage of the WPS Murray River begins from Cobram Barooga Golf Club.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6972e377e4b0604a009031d6-1769137139231?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260131200000 +1100" stop="20260201014000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Bahrain Championship</title>
+    <desc lang="en">Third round coverage begins from the Royal Golf Club, Bahrain.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/697825aee4b0177beceb23f2-1769481682202?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260201030000 +1100" stop="20260201114000 +1100" channel="4k.kayo.503">
     <title lang="en">: Farmers Insurance Open</title>
@@ -218,6 +237,11 @@
     <title lang="en">: WPS Murray River</title>
     <desc lang="en">Final round coverage of the WPS Murray River begins from Cobram Barooga Golf Club.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6972e3d1e4b02de0a8e177f1-1769137199100?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260201193000 +1100" stop="20260202014000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Bahrain Championship</title>
+    <desc lang="en">Final round coverage begins from the Royal Golf Club, Bahrain.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/697825b1e4b015e658d78944-1769481707323?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260202023000 +1100" stop="20260202111000 +1100" channel="4k.kayo.503">
     <title lang="en">: Farmers Insurance Open</title>
@@ -243,5 +267,10 @@
     <title lang="en">: Atlanta v Jupiter Links</title>
     <desc lang="en">Jupiter Links will need to overcome a tough task when they face the undefeated Atlanta Drive at SoFi Center, Palm Beach Gardens. </desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/696d6c22e4b0104a6e258040-1768778925593?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260203113000 +1100" stop="20260203151000 +1100" channel="4k.kayo.505">
+    <title lang="en">: Unrivaled</title>
+    <desc lang="en">Day 17: Some of the biggest stars in women's basketball take the court in this trailblazing three-on-three league.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6977e5d3e4b0214ca44202bf-1769465427378?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
 </tv>
