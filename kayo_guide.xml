@@ -24,83 +24,27 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20260131005005 +1100" stop="20260131061005 +1100" channel="4k.kayo.501">
-    <title lang="en">Women's Premier League: Gujarat Giants Women vs Mumbai Indians Women</title>
-    <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">An Australian blockbuster as Beth Mooney and Kim Garth lead the Giants against Mumbai’s Nicola Carey.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6965b557e4b08a1ff47bb78c-1768273363844?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260130120000 +1100" stop="20260130164000 +1100" channel="4k.kayo.501">
-    <title lang="en">: Auckland v Northern</title>
-    <desc lang="en">Second and third place compete for a spot in the Grand Final.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/695dc1a5e4b045d41e9a8eca-1769578241400?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260130154515 +1100" stop="20260130204015 +1100" channel="4k.kayo.501">
-    <title lang="en">: Auckland v Canterbury</title>
-    <desc lang="en">Second and third place compete for a spot in the Grand Final.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/695dc147e4b045d41e9a8ec8-1769578177351?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260130150008 +1100" stop="20260130171008 +1100" channel="4k.kayo.506">
-    <title lang="en">: Highlands</title>
-    <desc lang="en">After persistent rain at Teretonga Park forced its cancellation, race 3 of the Toyota FR Oceania Trophy has been added to the season final at Highlands Motorsport Park.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/697963a8e4b0f090dbb43c6e-1769563158317?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260131083000 +1100" stop="20260131154000 +1100" channel="4k.kayo.505">
-    <title lang="en">: Highlands</title>
-    <desc lang="en">Day one action of the NextGen NZ Championship from Highlands.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69717734e4b0604a00903158-1769043826742?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260131060000 +1100" stop="20260131111000 +1100" channel="4k.kayo.506">
-    <title lang="en">: The Masters</title>
-    <desc lang="en">Heavyweight clashes headline Day 2. Luke Littler faces Mike De Decker and Luke Humphries begins his title defence against Dave Chisnall.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69704a25e4b04078d10238ac-1768966858940?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260130193017 +1100" stop="20260131014017 +1100" channel="4k.kayo.503">
-    <title lang="en">: Bahrain Championship</title>
-    <desc lang="en">Second round coverage begins from the Royal Golf Club, Bahrain.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69782334e4b015e658d78941-1769656318978?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260131033000 +1100" stop="20260131074000 +1100" channel="4k.kayo.505">
-    <title lang="en">: Tournament of Champions</title>
-    <desc lang="en">Round two action of the Tournament of Champions from Lake Nona Golf &amp; Country Club.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6971b063e4b047e6da767d20-1769058442344?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260131040000 +1100" stop="20260131121000 +1100" channel="4k.kayo.503">
-    <title lang="en">: Farmers Insurance Open</title>
-    <desc lang="en">Justin Rose had a brilliant first round and takes the lead at -10 as we move into the second round from Torrey Pines Golf Course.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/696ef27be4b0177beceb224e-1769556757413?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260130110010 +1100" stop="20260130144010 +1100" channel="4k.kayo.505">
-    <title lang="en">: Tournament Of Champs</title>
-    <desc lang="en">Finals: The PSA Tournament Of Champions reaches the Finals in New York City.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/696f0117e4b04ab602f3374d-1768882549809?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260131015000 +1100" stop="20260131054000 +1100" channel="4k.kayo.506">
-    <title lang="en">: Czech Republic</title>
-    <desc lang="en">The Pro Tour Season XVII continues in Bedřichov, Czech Republic with the Bedřichov Sprint.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69704dade4b047e6da767ca5-1769042492337?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260131120000 +1100" stop="20260131164000 +1100" channel="4k.kayo.501">
-    <title lang="en">: Grand Final</title>
-    <desc lang="en">The season leader and the eliminator winner face off in the Grand Final for the NZ Super Smash trophy.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/695dc0b7e4b011f887d6876e-1767751897355?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260131154500 +1100" stop="20260131204000 +1100" channel="4k.kayo.501">
-    <title lang="en">: Grand Final</title>
-    <desc lang="en">The season leader and the eliminator winner face off in the Grand Final for the NZ Super Smash trophy.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/695dc054e4b045d41e9a8ec6-1767756675464?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260131213000 +1100" stop="20260201024000 +1100" channel="4k.kayo.501">
-    <title lang="en">Twenty20 Internationals: Pakistan vs Australia</title>
-    <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Travis Head and Australia will look to halt Pakistan’s momentum and level the series after the hosts broke a seven-year drought in game one.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/697a9046e4b0774cd8219351-1769640118242?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260201002000 +1100" stop="20260201054000 +1100" channel="4k.kayo.505">
+  <programme start="20260201002016 +1100" stop="20260201054016 +1100" channel="4k.kayo.505">
     <title lang="en">Twenty20 Internationals: India vs New Zealand</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">After a vital win for the Kiwis, New Zealand faces one final opportunity to make a statement against top-ranked India.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6965bc7be4b08f97e7b4bd46-1768519282532?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260131120003 +1100" stop="20260131164003 +1100" channel="4k.kayo.501">
+    <title lang="en">: Auckland v Wellington</title>
+    <desc lang="en">The season leader and the eliminator winner face off in the Grand Final for the NZ Super Smash trophy.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/695dc0b7e4b011f887d6876e-1767751897355?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260131154500 +1100" stop="20260131204000 +1100" channel="4k.kayo.501">
+    <title lang="en">: Northern v Canterbury</title>
+    <desc lang="en">The season leader and the eliminator winner face off in the Grand Final for the NZ Super Smash trophy.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/695dc054e4b045d41e9a8ec6-1767756675464?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260131213001 +1100" stop="20260201024001 +1100" channel="4k.kayo.501">
+    <title lang="en">Twenty20 Internationals: Pakistan vs Australia</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">Travis Head and Australia will look to halt Pakistan’s momentum and level the series after the hosts broke a seven-year drought in game one.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/697a9046e4b0774cd8219351-1769640118242?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260201025500 +1100" stop="20260201074000 +1100" channel="4k.kayo.501">
     <title lang="en">Twenty20 Internationals: South Africa vs West Indies</title>
@@ -108,7 +52,7 @@
     <desc lang="en">Quinton de Kock returned to South Africa with a bang, the West Indies are desperate to avoid a 3-0 whitewash in the Pink Day T20 clash.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/696d9e98e4b04078d10237d8-1769688782694?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260131163500 +1100" stop="20260131191000 +1100" channel="4k.kayo.505">
+  <programme start="20260131163911 +1100" stop="20260131191411 +1100" channel="4k.kayo.505">
     <title lang="en">: Dubai: Qualifying</title>
     <desc lang="en">The third stop of the Asian Le Mans Series takes us to the Dubai Autodrome. Qualifying begins.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6977e6d8e4b0214ca44202c0-1769465704033?location=hero-portrait-m2&amp;imwidth=720" />
@@ -118,49 +62,49 @@
     <desc lang="en">Day two action of the NextGen NZ Championship from Highlands Motorsport Park.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69785687e4b0214ca44202e4-1769494531643?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260131113000 +1100" stop="20260131151000 +1100" channel="4k.kayo.503">
+  <programme start="20260131113010 +1100" stop="20260131151010 +1100" channel="4k.kayo.503">
     <title lang="en">: Unrivaled</title>
     <desc lang="en">Day 14: Some of the biggest stars in women's basketball take the court in this trailblazing three-on-three league.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/696c9b12e4b03ad63cfb89d7-1768785025897?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260201000000 +1100" stop="20260201051000 +1100" channel="4k.kayo.506">
     <title lang="en">: The Masters</title>
-    <desc lang="en">Day three action of The Masters from Milton Keynes, UK.</desc>
+    <desc lang="en">Fresh off a big win over Van Gerwen, Aussie Damon Heta features here in day three action from Milton Keynes, UK.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69704b3ce4b047e6da767ca2-1768967178520?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260201060000 +1100" stop="20260201111000 +1100" channel="4k.kayo.506">
     <title lang="en">: The Masters</title>
-    <desc lang="en">Night three action of The Masters from Milton Keynes, UK.</desc>
+    <desc lang="en">Big names in action on night three as the likes of Luke Littler and Luke Humphries attempt to qualify for the quarter-finals.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6971b68ae4b0604a00903199-1769060099447?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260131120000 +1100" stop="20260131174000 +1100" channel="4k.kayo.506">
-    <title lang="en">: Icons Series</title>
-    <desc lang="en">Masters Champion Danny Willett and Ryder Cup icon Thomas Bjørn lead the two rival teams for the Reignwood Icons of Football at Robinswood Golf Club, Bangkok.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/697aa89ce4b0c1bd60b48a3a-1769646495559?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260131120000 +1100" stop="20260131161000 +1100" channel="4k.kayo.503">
     <title lang="en">: WPS Murray River</title>
     <desc lang="en">Third round coverage of the WPS Murray River begins from Cobram Barooga Golf Club.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6972e377e4b0604a009031d6-1769137139231?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260131173000 +1100" stop="20260131224000 +1100" channel="4k.kayo.506">
+  <programme start="20260131120013 +1100" stop="20260131174013 +1100" channel="4k.kayo.506">
+    <title lang="en">: Icons Series</title>
+    <desc lang="en">Masters Champion Danny Willett and Ryder Cup icon Thomas Bjørn lead the two rival teams for the Reignwood Icons of Football at Robinswood Golf Club, Bangkok.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/697aa89ce4b0c1bd60b48a3a-1769646495559?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260131173017 +1100" stop="20260131224017 +1100" channel="4k.kayo.506">
     <title lang="en">: Icons Series</title>
     <desc lang="en">Session 2 of the Reignwood Icons of Football gets underway at Robinswood Golf Club, Bangkok.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/697aa8a6e4b0efe819583789-1769646962984?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260131200000 +1100" stop="20260201014000 +1100" channel="4k.kayo.503">
+  <programme start="20260131200017 +1100" stop="20260201014017 +1100" channel="4k.kayo.503">
     <title lang="en">: Bahrain Championship</title>
     <desc lang="en">Third round coverage begins from the Royal Golf Club, Bahrain.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/697825aee4b0177beceb23f2-1769555948441?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260201030000 +1100" stop="20260201114000 +1100" channel="4k.kayo.503">
     <title lang="en">: Farmers Insurance Open</title>
-    <desc lang="en">Third round coverage begins from Torrey Pines Golf Course.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/696ef348e4b0604a009030c5-1769556783201?location=hero-portrait-m2&amp;imwidth=720" />
+    <desc lang="en">Justin Rose holds a 4 stroke lead as the players move to round three at Torrey Pines Golf Course.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/696ef348e4b0604a009030c5-1769815419909?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260201063000 +1100" stop="20260201104000 +1100" channel="4k.kayo.505">
     <title lang="en">: Tournament of Champions</title>
-    <desc lang="en">Third round action of the Tournament of Champions from Lake Nona Golf &amp; Country Club.</desc>
+    <desc lang="en">Lydia Ko and Lottie Ward are tied for the lead as we move to the third round from Lake Nona Golf &amp; Country Club.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6971b0e4e4b0177beceb2326-1769058611545?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260201213000 +1100" stop="20260202024000 +1100" channel="4k.kayo.501">
@@ -342,5 +286,11 @@
     <title lang="en">: The Bay v Los Angeles</title>
     <desc lang="en">The Bay clash with Los Angeles in the TGL.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/696d6c01e4b04078d10237b2-1768778906487?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260214025500 +1100" stop="20260214074000 +1100" channel="4k.kayo.501">
+    <title lang="en">Women's Twenty20 Internationals: South Africa Women vs Pakistan Women</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">South Africa hosts Pakistan in the second of three T20Is, from Willowmoore Park in Benoni.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/697ae3a7e4b01ccd3168c5a7-1769661470565?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
 </tv>

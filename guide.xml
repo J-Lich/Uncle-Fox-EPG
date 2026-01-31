@@ -28,101 +28,6 @@
     <display-name>FOX 507</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/FOX%20Sports%20More.png" />
   </channel>
-  <programme start="20260130233000 +1100" stop="20260131003000 +1100" channel="501.FS1">
-    <title lang="en">T20: SA v WI Game 2</title>
-    <sub-title lang="en">SA v WI Game 2</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131003000 +1100" stop="20260131005000 +1100" channel="501.FS1">
-    <title lang="en">WPL Mini: UPW v RCB</title>
-    <sub-title lang="en">UPW v RCB</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131005000 +1100" stop="20260131050000 +1100" channel="501.FS1">
-    <title lang="en">Live: WPL: Giants v Mumbai</title>
-    <sub-title lang="en">Giants v Mumbai</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131050000 +1100" stop="20260131060000 +1100" channel="501.FS1">
-    <title lang="en">Big Bash: QF Scorchers v Sixers</title>
-    <sub-title lang="en">QF Scorchers v Sixers</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131060000 +1100" stop="20260131070000 +1100" channel="501.FS1">
-    <title lang="en">Big Bash: KO Hurricanes v Stars</title>
-    <sub-title lang="en">KO Hurricanes v Stars</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131070000 +1100" stop="20260131080000 +1100" channel="501.FS1">
-    <title lang="en">Big Bash: CHL Sixers v Hurricanes</title>
-    <sub-title lang="en">CHL Sixers v Hurricanes</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131080000 +1100" stop="20260131090000 +1100" channel="501.FS1">
-    <title lang="en">Big Bash: The Final</title>
-    <sub-title lang="en">The Final</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131090000 +1100" stop="20260131100000 +1100" channel="501.FS1">
-    <title lang="en">SA20: Final</title>
-    <sub-title lang="en">Final</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131100000 +1100" stop="20260131110000 +1100" channel="501.FS1">
-    <title lang="en">T20: SA v WI Game 2</title>
-    <sub-title lang="en">SA v WI Game 2</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131110000 +1100" stop="20260131112000 +1100" channel="501.FS1">
-    <title lang="en">WPL Mini: GG v MI</title>
-    <sub-title lang="en">GG v MI</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131112000 +1100" stop="20260131114000 +1100" channel="501.FS1">
-    <title lang="en">T20 Mini IND v NZL: Game 4</title>
-    <sub-title lang="en">Game 4</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131114000 +1100" stop="20260131120000 +1100" channel="501.FS1">
-    <title lang="en">WPL Mini: GG v MI</title>
-    <sub-title lang="en">GG v MI</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131120000 +1100" stop="20260131152500 +1100" channel="501.FS1">
-    <title lang="en">Live: NZ Super Smash</title>
-    <sub-title lang="en">Women's Grand Final</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131152500 +1100" stop="20260131154500 +1100" channel="501.FS1">
-    <title lang="en">Big Bash Mini: The Final</title>
-    <sub-title lang="en">The Final</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131154500 +1100" stop="20260131193000 +1100" channel="501.FS1">
-    <title lang="en">Live: NZ Super Smash</title>
-    <sub-title lang="en">Men's Grand Final</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131193000 +1100" stop="20260131200000 +1100" channel="501.FS1">
-    <title lang="en">Ashes: 2006/07 1st Test</title>
-    <sub-title lang="en">2006/07 1st Test</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131200000 +1100" stop="20260131210000 +1100" channel="501.FS1">
-    <title lang="en">Ashes: 2006/07 2nd Test</title>
-    <sub-title lang="en">2006/07 2nd Test</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131210000 +1100" stop="20260131220000 +1100" channel="501.FS1">
-    <title lang="en">Ashes: 2006/07 3rd Test</title>
-    <sub-title lang="en">2006/07 3rd Test</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131220000 +1100" stop="20260131230000 +1100" channel="501.FS1">
-    <title lang="en">Ashes: 2006/07 4th Test</title>
-    <sub-title lang="en">2006/07 4th Test</sub-title>
-    <desc lang="en" />
-  </programme>
   <programme start="20260131230000 +1100" stop="20260201000000 +1100" channel="501.FS1">
     <title lang="en">Ashes: 2006/07 5th Test</title>
     <sub-title lang="en">2006/07 5th Test</sub-title>
@@ -1553,186 +1458,6 @@
     <sub-title lang="en">FNL Scorchers v Sixers</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20260130233000 +1100" stop="20260131000000 +1100" channel="502.SP2">
-    <title lang="en">Vossy's 2000s</title>
-    <sub-title lang="en">Episode 10</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131000000 +1100" stop="20260131010000 +1100" channel="502.SP2">
-    <title lang="en">NRL: Preliminary Final Storm v Sharks</title>
-    <sub-title lang="en">Preliminary Final Storm v Sharks</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131010000 +1100" stop="20260131020000 +1100" channel="502.SP2">
-    <title lang="en">NRL: PF BRI v PEN</title>
-    <sub-title lang="en">PF BRI v PEN</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131020000 +1100" stop="20260131030000 +1100" channel="502.SP2">
-    <title lang="en">NRL: Grand Final Storm v Broncos</title>
-    <sub-title lang="en">Grand Final Storm v Broncos</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131030000 +1100" stop="20260131040000 +1100" channel="502.SP2">
-    <title lang="en">NRL Vegas: Round 1 Raiders v Warriors</title>
-    <sub-title lang="en">Round 1 Raiders v Warriors</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131040000 +1100" stop="20260131050000 +1100" channel="502.SP2">
-    <title lang="en">NRL Vegas: Round 1 Panthers v Sharks</title>
-    <sub-title lang="en">Round 1 Panthers v Sharks</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131050000 +1100" stop="20260131060000 +1100" channel="502.SP2">
-    <title lang="en">NRL: Round 1 Roosters v Broncos</title>
-    <sub-title lang="en">Round 1 Roosters v Broncos</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131060000 +1100" stop="20260131070000 +1100" channel="502.SP2">
-    <title lang="en">NRL: Round 1 Wests Tigers v Knights</title>
-    <sub-title lang="en">Round 1 Wests Tigers v Knights</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131070000 +1100" stop="20260131080000 +1100" channel="502.SP2">
-    <title lang="en">NRL: Round 1 Rabbitohs v Dolphins</title>
-    <sub-title lang="en">Round 1 Rabbitohs v Dolphins</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131080000 +1100" stop="20260131090000 +1100" channel="502.SP2">
-    <title lang="en">NRL: Round 1 Dragons v Bulldogs</title>
-    <sub-title lang="en">Round 1 Dragons v Bulldogs</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131090000 +1100" stop="20260131093000 +1100" channel="502.SP2">
-    <title lang="en">Top 50 Greatest Finals: #50</title>
-    <sub-title lang="en">#50</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131093000 +1100" stop="20260131100000 +1100" channel="502.SP2">
-    <title lang="en">Top 50 Greatest Finals: #49</title>
-    <sub-title lang="en">#49</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131100000 +1100" stop="20260131103000 +1100" channel="502.SP2">
-    <title lang="en">Top 50 Greatest Finals: #48</title>
-    <sub-title lang="en">#48</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131103000 +1100" stop="20260131110000 +1100" channel="502.SP2">
-    <title lang="en">Top 50 Greatest Finals: #47</title>
-    <sub-title lang="en">#47</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131110000 +1100" stop="20260131113000 +1100" channel="502.SP2">
-    <title lang="en">Top 50 Greatest Finals: #46</title>
-    <sub-title lang="en">#46</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131113000 +1100" stop="20260131120000 +1100" channel="502.SP2">
-    <title lang="en">Top 50 Greatest Finals: #45</title>
-    <sub-title lang="en">#45</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131120000 +1100" stop="20260131123000 +1100" channel="502.SP2">
-    <title lang="en">Top 50 Greatest Finals: #44</title>
-    <sub-title lang="en">#44</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131123000 +1100" stop="20260131130000 +1100" channel="502.SP2">
-    <title lang="en">Top 50 Greatest Finals: #43</title>
-    <sub-title lang="en">#43</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131130000 +1100" stop="20260131133000 +1100" channel="502.SP2">
-    <title lang="en">Top 50 Greatest Finals: #42</title>
-    <sub-title lang="en">#42</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131133000 +1100" stop="20260131140000 +1100" channel="502.SP2">
-    <title lang="en">Top 50 Greatest Finals: #41</title>
-    <sub-title lang="en">#41</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131140000 +1100" stop="20260131143000 +1100" channel="502.SP2">
-    <title lang="en">Top 50 Greatest Finals: #40</title>
-    <sub-title lang="en">#40</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131143000 +1100" stop="20260131150000 +1100" channel="502.SP2">
-    <title lang="en">Top 50 Greatest Finals: #39</title>
-    <sub-title lang="en">#39</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131150000 +1100" stop="20260131153000 +1100" channel="502.SP2">
-    <title lang="en">Top 50 Greatest Finals: #38</title>
-    <sub-title lang="en">#38</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131153000 +1100" stop="20260131160000 +1100" channel="502.SP2">
-    <title lang="en">Top 50 Greatest Finals: #37</title>
-    <sub-title lang="en">#37</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131160000 +1100" stop="20260131163000 +1100" channel="502.SP2">
-    <title lang="en">Top 50 Greatest Finals: #36</title>
-    <sub-title lang="en">#36</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131163000 +1100" stop="20260131170000 +1100" channel="502.SP2">
-    <title lang="en">Top 50 Greatest Finals: #35</title>
-    <sub-title lang="en">#35</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131170000 +1100" stop="20260131173000 +1100" channel="502.SP2">
-    <title lang="en">Top 50 Greatest Finals: #34</title>
-    <sub-title lang="en">#34</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131173000 +1100" stop="20260131180000 +1100" channel="502.SP2">
-    <title lang="en">Top 50 Greatest Finals: #33</title>
-    <sub-title lang="en">#33</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131180000 +1100" stop="20260131183000 +1100" channel="502.SP2">
-    <title lang="en">Top 50 Greatest Finals: #32</title>
-    <sub-title lang="en">#32</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131183000 +1100" stop="20260131190000 +1100" channel="502.SP2">
-    <title lang="en">Top 50 Greatest Finals: #31</title>
-    <sub-title lang="en">#31</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131190000 +1100" stop="20260131193000 +1100" channel="502.SP2">
-    <title lang="en">Top 50 Greatest Finals: #30</title>
-    <sub-title lang="en">#30</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131193000 +1100" stop="20260131200000 +1100" channel="502.SP2">
-    <title lang="en">Top 50 Greatest Finals: #29</title>
-    <sub-title lang="en">#29</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131200000 +1100" stop="20260131203000 +1100" channel="502.SP2">
-    <title lang="en">Top 50 Greatest Finals: #28</title>
-    <sub-title lang="en">#28</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131203000 +1100" stop="20260131210000 +1100" channel="502.SP2">
-    <title lang="en">Top 50 Greatest Finals: #27</title>
-    <sub-title lang="en">#27</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131210000 +1100" stop="20260131213000 +1100" channel="502.SP2">
-    <title lang="en">Top 50 Greatest Finals: #26</title>
-    <sub-title lang="en">#26</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131213000 +1100" stop="20260131223000 +1100" channel="502.SP2">
-    <title lang="en">Greatest Tests: 08' World Cup F AUS v NZ</title>
-    <sub-title lang="en">08' World Cup F AUS v NZ</sub-title>
-    <desc lang="en" />
-  </programme>
   <programme start="20260131223000 +1100" stop="20260201000000 +1100" channel="502.SP2">
     <title lang="en">Greatest Tests: 2022 RLWC F AUS v NZ W</title>
     <sub-title lang="en">2022 RLWC F AUS v NZ W</sub-title>
@@ -3123,64 +2848,6 @@
     <sub-title lang="en">Dragons v Knights</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20260130193000 +1100" stop="20260131003000 +1100" channel="503.FS3">
-    <title lang="en">Live: Golf: Bahrain Championship Round 2</title>
-    <sub-title lang="en">Bahrain Championship Round 2</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131003000 +1100" stop="20260131023000 +1100" channel="503.FS3">
-    <title lang="en">Golf: The Open: Final Round</title>
-    <sub-title lang="en">Final Round</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131023000 +1100" stop="20260131040000 +1100" channel="503.FS3">
-    <title lang="en">USPGA: Farmers Insurance Open Round 1</title>
-    <sub-title lang="en">Farmers Insurance Open Round 1</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131040000 +1100" stop="20260131070000 +1100" channel="503.FS3">
-    <title lang="en">Live: USPGA: Farmers Insurance Open R2</title>
-    <sub-title lang="en">Farmers Insurance Open R2</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131070000 +1100" stop="20260131110000 +1100" channel="503.FS3">
-    <title lang="en">Live: USPGA: Farmers Insurance Open R2</title>
-    <sub-title lang="en">Farmers Insurance Open R2</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131110000 +1100" stop="20260131120000 +1100" channel="503.FS3">
-    <title lang="en">USPGA: Tiger 2000</title>
-    <sub-title lang="en">Tiger 2000</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131120000 +1100" stop="20260131150000 +1100" channel="503.FS3">
-    <title lang="en">Live: Golf: WPS Murray River R3</title>
-    <sub-title lang="en">WPS Murray River R3</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131143000 +1100" stop="20260131150000 +1100" channel="503.FS3">
-    <title lang="en">Sport Special</title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131150000 +1100" stop="20260131163000 +1100" channel="503.FS3">
-    <title lang="en">USPGA: Farmers Insurance Open Round 2</title>
-    <sub-title lang="en">Farmers Insurance Open Round 2</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131163000 +1100" stop="20260131180000 +1100" channel="503.FS3">
-    <title lang="en">Golf: TGL: Boston v The Bay</title>
-    <sub-title lang="en">Boston v The Bay</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131180000 +1100" stop="20260131183000 +1100" channel="503.FS3">
-    <title lang="en">Sport Special</title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131180000 +1100" stop="20260131200000 +1100" channel="503.FS3">
-    <title lang="en">Golf: PGA Tour Champions Learning Center</title>
-    <sub-title lang="en">Episode 1</sub-title>
-    <desc lang="en" />
-  </programme>
   <programme start="20260131200000 +1100" stop="20260201003000 +1100" channel="503.FS3">
     <title lang="en">Live: Golf: Bahrain Championship Round 3</title>
     <sub-title lang="en">Bahrain Championship Round 3</sub-title>
@@ -3637,186 +3304,6 @@
   <programme start="20260206200000 +1100" stop="20260207010000 +1100" channel="503.FS3">
     <title lang="en">Live: Golf: Qatar Masters Round 2</title>
     <sub-title lang="en">Qatar Masters Round 2</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131000000 +1100" stop="20260131023000 +1100" channel="504.FAF">
-    <title lang="en">AFL: Round 20 Richmond v Collingwood</title>
-    <sub-title lang="en">Round 20 Richmond v Collingwood</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131023000 +1100" stop="20260131050000 +1100" channel="504.FAF">
-    <title lang="en">AFL: Round 20 St Kilda v Melbourne</title>
-    <sub-title lang="en">Round 20 St Kilda v Melbourne</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131050000 +1100" stop="20260131073000 +1100" channel="504.FAF">
-    <title lang="en">AFL: Round 21 Adelaide v Hawthorn</title>
-    <sub-title lang="en">Round 21 Adelaide v Hawthorn</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131073000 +1100" stop="20260131080000 +1100" channel="504.FAF">
-    <title lang="en">Dermie Delivers: #1 Draft Picks</title>
-    <sub-title lang="en">#1 Draft Picks</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131080000 +1100" stop="20260131083000 +1100" channel="504.FAF">
-    <title lang="en">Dermie Delivers: Kicks after the Siren</title>
-    <sub-title lang="en">Kicks after the Siren</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131083000 +1100" stop="20260131090000 +1100" channel="504.FAF">
-    <title lang="en">Dermie Delivers: Indigenous Inspiration</title>
-    <sub-title lang="en">Indigenous Inspiration</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131090000 +1100" stop="20260131093000 +1100" channel="504.FAF">
-    <title lang="en">AFL: AFL Fantastic Finals</title>
-    <sub-title lang="en">2023 Preliminary Final Collingwood v GWS</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131093000 +1100" stop="20260131100000 +1100" channel="504.FAF">
-    <title lang="en">AFL: AFL Fantastic Finals</title>
-    <sub-title lang="en">2011 Preliminary Final Hawthorn v Collingwood</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131100000 +1100" stop="20260131103000 +1100" channel="504.FAF">
-    <title lang="en">AFL: AFL Fantastic Finals</title>
-    <sub-title lang="en">2004 Preliminary Final Port Adelaide v St Kilda</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131103000 +1100" stop="20260131110000 +1100" channel="504.FAF">
-    <title lang="en">AFL: AFL Fantastic Finals</title>
-    <sub-title lang="en">1984 Semi Final Essendon v Hawthorn</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131110000 +1100" stop="20260131113000 +1100" channel="504.FAF">
-    <title lang="en">AFL: AFL Fantastic Finals</title>
-    <sub-title lang="en">1986 Elimination Final Fitzroy v Essendon</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131113000 +1100" stop="20260131120000 +1100" channel="504.FAF">
-    <title lang="en">AFL: AFL Fantastic Finals</title>
-    <sub-title lang="en">1990 Qualifying Final Collingwood v West Coast</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131120000 +1100" stop="20260131123000 +1100" channel="504.FAF">
-    <title lang="en">AFL: AFL Fantastic Finals</title>
-    <sub-title lang="en">1994 Preliminary Final Geelong v North Melbourne</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131123000 +1100" stop="20260131130000 +1100" channel="504.FAF">
-    <title lang="en">AFL: AFL Fantastic Finals</title>
-    <sub-title lang="en">1999 Preliminary Final Carlton v Essendon</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131130000 +1100" stop="20260131133000 +1100" channel="504.FAF">
-    <title lang="en">AFL: AFL Fantastic Finals</title>
-    <sub-title lang="en">2002 Qualifying Final Port Adelaide v Collingwood</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131133000 +1100" stop="20260131140000 +1100" channel="504.FAF">
-    <title lang="en">AFL: AFL Fantastic Finals</title>
-    <sub-title lang="en">2016 Preliminary Final GWS v Western Bulldogs</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131140000 +1100" stop="20260131143000 +1100" channel="504.FAF">
-    <title lang="en">AFL: AFL Fantastic Finals</title>
-    <sub-title lang="en">2017 Elimination Final Port Adelaide v West Coast</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131143000 +1100" stop="20260131150000 +1100" channel="504.FAF">
-    <title lang="en">AFL: AFL Fantastic Finals</title>
-    <sub-title lang="en">2020 Preliminary Final Richmond v Port Adelaide</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131150000 +1100" stop="20260131153000 +1100" channel="504.FAF">
-    <title lang="en">AFL: AFL Fantastic Finals</title>
-    <sub-title lang="en">2005 Semi Final Sydney v Geelong</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131153000 +1100" stop="20260131160000 +1100" channel="504.FAF">
-    <title lang="en">AFL: AFL Fantastic Finals</title>
-    <sub-title lang="en">2007 Preliminary Final Geelong v Collingwood</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131160000 +1100" stop="20260131163000 +1100" channel="504.FAF">
-    <title lang="en">AFL: AFL Fantastic Finals</title>
-    <sub-title lang="en">2009 Elimination Final Brisbane v Carlton</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131163000 +1100" stop="20260131170000 +1100" channel="504.FAF">
-    <title lang="en">AFL: AFL Fantastic Finals</title>
-    <sub-title lang="en">2013 Elimination Final Richmond v Carlton</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131170000 +1100" stop="20260131173000 +1100" channel="504.FAF">
-    <title lang="en">AFL: AFL Fantastic Finals</title>
-    <sub-title lang="en">1993 Preliminary Final Essendon v Adelaide</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131173000 +1100" stop="20260131175000 +1100" channel="504.FAF">
-    <title lang="en">AFL: AFL Fantastic Finals</title>
-    <sub-title lang="en">2023 Semi Final Melbourne v Carlton</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131175000 +1100" stop="20260131181000 +1100" channel="504.FAF">
-    <title lang="en">AFL: AFL Fantastic Finals</title>
-    <sub-title lang="en">2022 Preliminary Final Sydney v Collingwood</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131181000 +1100" stop="20260131183000 +1100" channel="504.FAF">
-    <title lang="en">AFL: AFL Fantastic Finals</title>
-    <sub-title lang="en">2025 Elimination Final Fremantle v Gold Coast</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131183000 +1100" stop="20260131190000 +1100" channel="504.FAF">
-    <title lang="en">AFL: AFL Fantastic Finals</title>
-    <sub-title lang="en">2023 Preliminary Final Collingwood v GWS</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131190000 +1100" stop="20260131193000 +1100" channel="504.FAF">
-    <title lang="en">AFL: AFL Fantastic Finals</title>
-    <sub-title lang="en">2011 Preliminary Final Hawthorn v Collingwood</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131193000 +1100" stop="20260131200000 +1100" channel="504.FAF">
-    <title lang="en">AFL: AFL Fantastic Finals</title>
-    <sub-title lang="en">2004 Preliminary Final Port Adelaide v St Kilda</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131200000 +1100" stop="20260131203000 +1100" channel="504.FAF">
-    <title lang="en">AFL: AFL Fantastic Finals</title>
-    <sub-title lang="en">1984 Semi Final Essendon v Hawthorn</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131203000 +1100" stop="20260131210000 +1100" channel="504.FAF">
-    <title lang="en">AFL: AFL Fantastic Finals</title>
-    <sub-title lang="en">1986 Elimination Final Fitzroy v Essendon</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131210000 +1100" stop="20260131213000 +1100" channel="504.FAF">
-    <title lang="en">AFL: AFL Fantastic Finals</title>
-    <sub-title lang="en">1990 Qualifying Final Collingwood v West Coast</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131213000 +1100" stop="20260131220000 +1100" channel="504.FAF">
-    <title lang="en">AFL: AFL Fantastic Finals</title>
-    <sub-title lang="en">1994 Preliminary Final Geelong v North Melbourne</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131220000 +1100" stop="20260131223000 +1100" channel="504.FAF">
-    <title lang="en">AFL: AFL Fantastic Finals</title>
-    <sub-title lang="en">2005 Semi Final Sydney v Geelong</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131223000 +1100" stop="20260131230000 +1100" channel="504.FAF">
-    <title lang="en">AFL: AFL Fantastic Finals</title>
-    <sub-title lang="en">2007 Preliminary Final Geelong v Collingwood</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131230000 +1100" stop="20260131233000 +1100" channel="504.FAF">
-    <title lang="en">AFL: AFL Fantastic Finals</title>
-    <sub-title lang="en">2009 Elimination Final Brisbane v Carlton</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20260131233000 +1100" stop="20260201000000 +1100" channel="504.FAF">
@@ -4926,96 +4413,6 @@
     <sub-title lang="en">2010 R12 ME v COL</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20260130230000 +1100" stop="20260131000000 +1100" channel="505.FSP">
-    <title lang="en">T20: IND v NZL Game 4</title>
-    <sub-title lang="en">IND v NZL Game 4</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131000000 +1100" stop="20260131003000 +1100" channel="505.FSP">
-    <title lang="en">Fight Week: UFC 325</title>
-    <sub-title lang="en">UFC 325</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131003000 +1100" stop="20260131020000 +1100" channel="505.FSP">
-    <title lang="en">SailGP: Perth Day 1</title>
-    <sub-title lang="en">Perth Day 1</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131020000 +1100" stop="20260131033000 +1100" channel="505.FSP">
-    <title lang="en">SailGP: Perth Day 2</title>
-    <sub-title lang="en">Perth Day 2</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131033000 +1100" stop="20260131063000 +1100" channel="505.FSP">
-    <title lang="en">Live: Golf: USLPGA: T'ment of Champs R2</title>
-    <sub-title lang="en">T'ment of Champs R2</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131063000 +1100" stop="20260131073000 +1100" channel="505.FSP">
-    <title lang="en">Rodeo: Pro Bull Riding Series</title>
-    <sub-title lang="en">Episode 1</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131073000 +1100" stop="20260131083000 +1100" channel="505.FSP">
-    <title lang="en">Motorsport: NextGen Championship</title>
-    <sub-title lang="en">Bridgestone GR86 Rnd 4</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131083000 +1100" stop="20260131141500 +1100" channel="505.FSP">
-    <title lang="en">Live: Motorsport: NextGen Championship</title>
-    <sub-title lang="en">Highlands Day 1</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131141500 +1100" stop="20260131151500 +1100" channel="505.FSP">
-    <title lang="en">Rodeo: Pro Bull Riding Series</title>
-    <sub-title lang="en">Episode 1</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131151500 +1100" stop="20260131160000 +1100" channel="505.FSP">
-    <title lang="en">UFC 325 Press Conference</title>
-    <sub-title lang="en">UFC 325 Press Conference</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131160000 +1100" stop="20260131163500 +1100" channel="505.FSP">
-    <title lang="en">Fight Week: UFC 325</title>
-    <sub-title lang="en">UFC 325</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131161500 +1100" stop="20260131170000 +1100" channel="505.FSP">
-    <title lang="en">Boxing: Main Event UFC</title>
-    <sub-title lang="en">UFC 325 Weigh Ins</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131163500 +1100" stop="20260131175500 +1100" channel="505.FSP">
-    <title lang="en">Live: Motorsport: Asian Le Mans</title>
-    <sub-title lang="en">Abu Dhabi Qualifying</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131175500 +1100" stop="20260131200000 +1100" channel="505.FSP">
-    <title lang="en">The Masters Darts: Day 2</title>
-    <sub-title lang="en">Day 2</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131200000 +1100" stop="20260131203000 +1100" channel="505.FSP">
-    <title lang="en">Fight Week: UFC 325</title>
-    <sub-title lang="en">UFC 325</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131203000 +1100" stop="20260131220000 +1100" channel="505.FSP">
-    <title lang="en">USPGA: Farmers Insurance Open Round 2</title>
-    <sub-title lang="en">Farmers Insurance Open Round 2</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131203000 +1100" stop="20260131213000 +1100" channel="505.FSP">
-    <title lang="en">Countdown: UFC 325</title>
-    <sub-title lang="en">UFC 325</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131213000 +1100" stop="20260131233000 +1100" channel="505.FSP">
-    <title lang="en">The Masters Darts: Day 2</title>
-    <sub-title lang="en">Day 2</sub-title>
-    <desc lang="en" />
-  </programme>
   <programme start="20260131233000 +1100" stop="20260201000000 +1100" channel="505.FSP">
     <title lang="en">Fight Week: UFC 325</title>
     <sub-title lang="en">UFC 325</sub-title>
@@ -5563,115 +4960,6 @@
   <programme start="20260207220000 +1100" stop="20260208000000 +1100" channel="505.FSP">
     <title lang="en">Premier League Darts: Week 1</title>
     <sub-title lang="en">Week 1</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260130220000 +1100" stop="20260131000000 +1100" channel="506.SPS">
-    <title lang="en">The Masters Darts: Day 1</title>
-    <sub-title lang="en">Day 1</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131000000 +1100" stop="20260131010000 +1100" channel="506.SPS">
-    <title lang="en">Lawn Bowls: BPL22</title>
-    <sub-title lang="en">Final Day</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131010000 +1100" stop="20260131012000 +1100" channel="506.SPS">
-    <title lang="en">Motorsport: Supercars Best Races of 2025</title>
-    <sub-title lang="en">#6</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131012000 +1100" stop="20260131014000 +1100" channel="506.SPS">
-    <title lang="en">Motorsport: Supercars Best Races of 2025</title>
-    <sub-title lang="en">#5</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131014000 +1100" stop="20260131015000 +1100" channel="506.SPS">
-    <title lang="en">MotoGP: When In Catalonia</title>
-    <sub-title lang="en">MotoGP: When In Catalonia</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131015000 +1100" stop="20260131042000 +1100" channel="506.SPS">
-    <title lang="en">Live: Ski Classics Pro: Czech Republic</title>
-    <sub-title lang="en">Czech Republic</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131042000 +1100" stop="20260131043000 +1100" channel="506.SPS">
-    <title lang="en">MotoGP: When In Australia</title>
-    <sub-title lang="en">MotoGP: When In Australia</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131043000 +1100" stop="20260131053000 +1100" channel="506.SPS">
-    <title lang="en">Countdown: UFC 325</title>
-    <sub-title lang="en">UFC 325</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131053000 +1100" stop="20260131060000 +1100" channel="506.SPS">
-    <title lang="en">Fight Week: UFC 325</title>
-    <sub-title lang="en">UFC 325</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131060000 +1100" stop="20260131100000 +1100" channel="506.SPS">
-    <title lang="en">Live: The Masters Darts: Day 2</title>
-    <sub-title lang="en">Day 2</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131100000 +1100" stop="20260131110000 +1100" channel="506.SPS">
-    <title lang="en">Rodeo: Pro Bull Riding Series</title>
-    <sub-title lang="en">Episode 2</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131100000 +1100" stop="20260131102000 +1100" channel="506.SPS">
-    <title lang="en">Motorsport: Supercars Best Races of 2025</title>
-    <sub-title lang="en">#3</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131102000 +1100" stop="20260131104000 +1100" channel="506.SPS">
-    <title lang="en">Motorsport: Supercars Best Races of 2025</title>
-    <sub-title lang="en">#2</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131104000 +1100" stop="20260131110000 +1100" channel="506.SPS">
-    <title lang="en">Motorsport: Supercars Best Races of 2025</title>
-    <sub-title lang="en">#1</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131110000 +1100" stop="20260131112000 +1100" channel="506.SPS">
-    <title lang="en">Golf: TGL: Jupiter Links v New York</title>
-    <sub-title lang="en">Jupiter Links v New York</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131112000 +1100" stop="20260131114000 +1100" channel="506.SPS">
-    <title lang="en">Golf: TGL: Jupiter Links v Los Angeles</title>
-    <sub-title lang="en">Jupiter Links v Los Angeles</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131114000 +1100" stop="20260131120000 +1100" channel="506.SPS">
-    <title lang="en">Golf: TGL: Boston v The Bay</title>
-    <sub-title lang="en">Boston v The Bay</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131120000 +1100" stop="20260131163000 +1100" channel="506.SPS">
-    <title lang="en">Live: Golf: ICONS series</title>
-    <sub-title lang="en">Day 1 Session 1</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131163000 +1100" stop="20260131173000 +1100" channel="506.SPS">
-    <title lang="en">F2: Abu Dhabi Feature Race</title>
-    <sub-title lang="en">Abu Dhabi Feature Race</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131173000 +1100" stop="20260131220000 +1100" channel="506.SPS">
-    <title lang="en">Live: Golf: ICONS series</title>
-    <sub-title lang="en">Day 1 Session 2</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131220000 +1100" stop="20260131233000 +1100" channel="506.SPS">
-    <title lang="en">USPGA: Farmers Insurance Open Round 2</title>
-    <sub-title lang="en">Farmers Insurance Open Round 2</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131233000 +1100" stop="20260131234500 +1100" channel="506.SPS">
-    <title lang="en">Dorna Specials 2025</title>
     <desc lang="en" />
   </programme>
   <programme start="20260201000000 +1100" stop="20260201040000 +1100" channel="506.SPS">
@@ -6617,135 +5905,6 @@
     <sub-title lang="en">Abu Dhabi Race 6</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20260130230000 +1100" stop="20260131000000 +1100" channel="507.FSS">
-    <title lang="en">FIM Speedway Grand Prix Highlights</title>
-    <sub-title lang="en">Season Review</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131000000 +1100" stop="20260131020000 +1100" channel="507.FSS">
-    <title lang="en">Darts: Saudi Arabia Masters Final Day</title>
-    <sub-title lang="en">Saudi Arabia Masters Final Day</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131020000 +1100" stop="20260131040000 +1100" channel="507.FSS">
-    <title lang="en">Darts</title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131040000 +1100" stop="20260131130000 +1100" channel="507.FSS">
-    <title lang="en">Live: Sport Special</title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131040000 +1100" stop="20260131060000 +1100" channel="507.FSS">
-    <title lang="en">The Masters Darts: Day 1</title>
-    <sub-title lang="en">Day 1</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131060000 +1100" stop="20260131070000 +1100" channel="507.FSS">
-    <title lang="en">Lawn Bowls: BPL21: Day 1</title>
-    <sub-title lang="en">Day 1</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131070000 +1100" stop="20260131080000 +1100" channel="507.FSS">
-    <title lang="en">Lawn Bowls: BPL21: Day 2</title>
-    <sub-title lang="en">Day 2</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131080000 +1100" stop="20260131090000 +1100" channel="507.FSS">
-    <title lang="en">Lawn Bowls: BPL21: Day 3</title>
-    <sub-title lang="en">Day 3</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131090000 +1100" stop="20260131100000 +1100" channel="507.FSS">
-    <title lang="en">Lawn Bowls: BPL21: Final Day</title>
-    <sub-title lang="en">Final Day</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131100000 +1100" stop="20260131120000 +1100" channel="507.FSS">
-    <title lang="en">Darts: Saudi Arabia Masters Final Day</title>
-    <sub-title lang="en">Saudi Arabia Masters Final Day</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131120000 +1100" stop="20260131130000 +1100" channel="507.FSS">
-    <title lang="en">Netball: Constellation Cup Game 1</title>
-    <sub-title lang="en">Game 1</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131130000 +1100" stop="20260131143000 +1100" channel="507.FSS">
-    <title lang="en">Golf: DP World Tour: Bahrain C'ship R2</title>
-    <sub-title lang="en">Bahrain C'ship R2</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131130000 +1100" stop="20260131140000 +1100" channel="507.FSS">
-    <title lang="en">Netball: Constellation Cup Game 2</title>
-    <sub-title lang="en">Game 2</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131140000 +1100" stop="20260131150000 +1100" channel="507.FSS">
-    <title lang="en">Netball: Constellation Cup Game 3</title>
-    <sub-title lang="en">Game 3</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131143000 +1100" stop="20260131160000 +1100" channel="507.FSS">
-    <title lang="en">Golf: USLPGA: Tournament of Champions R2</title>
-    <sub-title lang="en">Tournament of Champions R2</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131150000 +1100" stop="20260131160000 +1100" channel="507.FSS">
-    <title lang="en">Netball: Constellation Cup Game 4</title>
-    <sub-title lang="en">Game 4</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131160000 +1100" stop="20260131163000 +1100" channel="507.FSS">
-    <title lang="en">Sport Special</title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131160000 +1100" stop="20260131180000 +1100" channel="507.FSS">
-    <title lang="en">The Masters Darts: Day 2</title>
-    <sub-title lang="en">Day 2</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131163000 +1100" stop="20260131173000 +1100" channel="507.FSS">
-    <title lang="en">Live: Motorsport: Asian Le Mans</title>
-    <sub-title lang="en">Dubai Qualifying</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131173000 +1100" stop="20260131180000 +1100" channel="507.FSS">
-    <title lang="en">Sport Special</title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131180000 +1100" stop="20260131190000 +1100" channel="507.FSS">
-    <title lang="en">Sport Special</title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131180000 +1100" stop="20260131190000 +1100" channel="507.FSS">
-    <title lang="en">Countdown: UFC 325</title>
-    <sub-title lang="en">UFC 325</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131190000 +1100" stop="20260131210000 +1100" channel="507.FSS">
-    <title lang="en">Darts</title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131190000 +1100" stop="20260131193000 +1100" channel="507.FSS">
-    <title lang="en">Fight Week: UFC 325</title>
-    <sub-title lang="en">UFC 325</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131193000 +1100" stop="20260131200000 +1100" channel="507.FSS">
-    <title lang="en">Inside Sailing</title>
-    <sub-title lang="en">Episode 1</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131200000 +1100" stop="20260131202000 +1100" channel="507.FSS">
-    <title lang="en">Cricket: WBBL Mini: FNL HUR v SCO</title>
-    <sub-title lang="en">FNL HUR v SCO</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260131202000 +1100" stop="20260131204000 +1100" channel="507.FSS">
-    <title lang="en">Cricket: T20 Mini IND v NZL: Game 4</title>
-    <sub-title lang="en">Game 4</sub-title>
-    <desc lang="en" />
-  </programme>
   <programme start="20260131204000 +1100" stop="20260201013500 +1100" channel="507.FSS">
     <title lang="en">Live: Motorsport: Asian Le Mans</title>
     <sub-title lang="en">Dubai Race 3</sub-title>
@@ -7233,6 +6392,161 @@
   <programme start="20260207220000 +1100" stop="20260208020000 +1100" channel="507.FSS">
     <title lang="en">Live: Motorsport: Asian Le Mans</title>
     <sub-title lang="en">Abu Dhabi Race 5</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20260211000000 +1100" stop="20260211013000 +1100" channel="507.FSS">
+    <title lang="en">Sport Special</title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20260211013000 +1100" stop="20260211030000 +1100" channel="507.FSS">
+    <title lang="en">Sport Special</title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20260211030000 +1100" stop="20260211043000 +1100" channel="507.FSS">
+    <title lang="en">Sport Special</title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20260211043000 +1100" stop="20260211050000 +1100" channel="507.FSS">
+    <title lang="en">Spirit of Sport</title>
+    <sub-title lang="en">Episode 4</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20260211050000 +1100" stop="20260211060000 +1100" channel="507.FSS">
+    <title lang="en">Golf: Webex Players Sydney FR</title>
+    <sub-title lang="en">Webex Players Sydney FR</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20260211060000 +1100" stop="20260211070000 +1100" channel="507.FSS">
+    <title lang="en">Golf: USPGA: Phoenix Open</title>
+    <sub-title lang="en">Phoenix Open</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20260211070000 +1100" stop="20260211073000 +1100" channel="507.FSS">
+    <title lang="en">Spirit of Sport</title>
+    <sub-title lang="en">Episode 4</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20260211073000 +1100" stop="20260211080000 +1100" channel="507.FSS">
+    <title lang="en">Golf: DP World Tour</title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20260211080000 +1100" stop="20260211100000 +1100" channel="507.FSS">
+    <title lang="en">Premier League Darts: Week 1</title>
+    <sub-title lang="en">Week 1</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20260211100000 +1100" stop="20260211120000 +1100" channel="507.FSS">
+    <title lang="en">USPGA: Phoenix Open Final Round</title>
+    <sub-title lang="en">Phoenix Open Final Round</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20260211120000 +1100" stop="20260211133000 +1100" channel="507.FSS">
+    <title lang="en">Golf: TGL: The Bay v Los Angeles</title>
+    <sub-title lang="en">The Bay v Los Angeles</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20260211140000 +1100" stop="20260211160000 +1100" channel="507.FSS">
+    <title lang="en">Cycling: Australian Road Nationals</title>
+    <sub-title lang="en">Women's Elite Race</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20260211160000 +1100" stop="20260211180000 +1100" channel="507.FSS">
+    <title lang="en">Cycling: Australian Road Nationals</title>
+    <sub-title lang="en">Men's Elite Race</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20260211180000 +1100" stop="20260211190000 +1100" channel="507.FSS">
+    <title lang="en">Golf: Webex Players Sydney FR</title>
+    <sub-title lang="en">Webex Players Sydney FR</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20260211190000 +1100" stop="20260211200000 +1100" channel="507.FSS">
+    <title lang="en">Golf: USPGA: Phoenix Open</title>
+    <sub-title lang="en">Phoenix Open</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20260211200000 +1100" stop="20260211220000 +1100" channel="507.FSS">
+    <title lang="en">Premier League Darts: Week 1</title>
+    <sub-title lang="en">Week 1</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20260211220000 +1100" stop="20260211233000 +1100" channel="507.FSS">
+    <title lang="en">Golf: TGL: The Bay v Los Angeles</title>
+    <sub-title lang="en">The Bay v Los Angeles</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20260212020000 +1100" stop="20260212040000 +1100" channel="507.FSS">
+    <title lang="en">Cycling: Australian Road Nationals</title>
+    <sub-title lang="en">Men's Elite Race</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20260212040000 +1100" stop="20260212060000 +1100" channel="507.FSS">
+    <title lang="en">Golf: ICONS series</title>
+    <sub-title lang="en">Episode 1</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20260212060000 +1100" stop="20260212070000 +1100" channel="507.FSS">
+    <title lang="en">Golf: Webex Players Sydney FR</title>
+    <sub-title lang="en">Webex Players Sydney FR</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20260212070000 +1100" stop="20260212090000 +1100" channel="507.FSS">
+    <title lang="en">Cycling: Australian Road Nationals</title>
+    <sub-title lang="en">Women's Elite Race</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20260212090000 +1100" stop="20260212110000 +1100" channel="507.FSS">
+    <title lang="en">Cycling: Australian Road Nationals</title>
+    <sub-title lang="en">Men's Elite Race</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20260212110000 +1100" stop="20260212123000 +1100" channel="507.FSS">
+    <title lang="en">SailGP: Perth Day 1</title>
+    <sub-title lang="en">Perth Day 1</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20260212123000 +1100" stop="20260212140000 +1100" channel="507.FSS">
+    <title lang="en">SailGP: Perth Day 2</title>
+    <sub-title lang="en">Perth Day 2</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20260212140000 +1100" stop="20260212160000 +1100" channel="507.FSS">
+    <title lang="en">Darts: Bahrain Masters Day 1</title>
+    <sub-title lang="en">Bahrain Masters Day 1</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20260212180000 +1100" stop="20260212182000 +1100" channel="507.FSS">
+    <title lang="en">Sport Special</title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20260212182000 +1100" stop="20260212184000 +1100" channel="507.FSS">
+    <title lang="en">Sport Special</title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20260212190000 +1100" stop="20260212193000 +1100" channel="507.FSS">
+    <title lang="en">Golf: The Cut</title>
+    <sub-title lang="en">Episode 5</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20260212193000 +1100" stop="20260212210000 +1100" channel="507.FSS">
+    <title lang="en">Golf: TGL: The Bay v Los Angeles</title>
+    <sub-title lang="en">The Bay v Los Angeles</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20260212210000 +1100" stop="20260212220000 +1100" channel="507.FSS">
+    <title lang="en">Sport Special</title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20260212220000 +1100" stop="20260212223000 +1100" channel="507.FSS">
+    <title lang="en">Golf: DP World Tour</title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20260212230000 +1100" stop="20260212233000 +1100" channel="507.FSS">
+    <title lang="en">Golf: Sport Special</title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20260212233000 +1100" stop="20260213000000 +1100" channel="507.FSS">
+    <title lang="en">Golf: Sport Special</title>
     <desc lang="en" />
   </programme>
 </tv>
