@@ -24,22 +24,13 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20260202113011 +1100" stop="20260202151011 +1100" channel="4k.kayo.505">
-    <title lang="en">: Unrivaled</title>
-    <desc lang="en">Day 16: Some of the biggest stars in women's basketball take the court in this trailblazing three-on-three league.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6971b1bde4b0104a6e2581e6-1769058882764?location=hero-portrait-m2&amp;imwidth=720" />
+  <programme start="20260204005000 +1100" stop="20260204061000 +1100" channel="4k.kayo.501">
+    <title lang="en">Women's Premier League: Gujarat Giants Women vs Delhi Capitals Women</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">Giants' Ashleigh Gardner and Beth Mooney look to clinch a finals spot, but the Delhi Capitals stand in their way.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698119e5e4b0c1bd60b48b8f-1770068561335?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260203090000 +1100" stop="20260203121000 +1100" channel="4k.kayo.503">
-    <title lang="en">: Atlanta v Jupiter Links</title>
-    <desc lang="en">Jupiter Links will need to overcome a tough task when they face the undefeated Atlanta Drive at SoFi Center, Palm Beach Gardens.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/696d6c22e4b0104a6e258040-1769991408850?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260203050000 +1100" stop="20260203094000 +1100" channel="4k.kayo.505">
-    <title lang="en">: Women's Champions League</title>
-    <desc lang="en">The 2026 Ultimate Pool Women's Champions League continues with Week Five action.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69802331e4b03b4d0a48c0db-1770005390278?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260203113000 +1100" stop="20260203151000 +1100" channel="4k.kayo.505">
+  <programme start="20260203113012 +1100" stop="20260203151012 +1100" channel="4k.kayo.505">
     <title lang="en">: Unrivaled</title>
     <desc lang="en">Day 17: Some of the biggest stars in women's basketball take the court in this trailblazing three-on-three league.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6977e5d3e4b0214ca44202bf-1769465427378?location=hero-portrait-m2&amp;imwidth=720" />
@@ -54,10 +45,16 @@
     <desc lang="en">The third edition of the African Amateur Championship will take place at the East Course in Royal Johannesburg, South Africa.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/697c059de4b0e88dc76eda8c-1769735655923?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260206060000 +1100" stop="20260206111000 +1100" channel="4k.kayo.505">
-    <title lang="en">: Premier League</title>
-    <desc lang="en">The biggest names in darts get the Premier League started as Week 1 begins at Newcastle Arena.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/697c2665e4b0e88dc76eda9f-1769744033349?location=hero-portrait-m2&amp;imwidth=720" />
+  <programme start="20260205080000 +1100" stop="20260205104000 +1100" channel="4k.kayo.503">
+    <title lang="en">: On The Range</title>
+    <desc lang="en">Go on the range at TPC Scottsdale, with interviews and analysis on the top golfers from the Tour Championship.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69817f66e4b017f6cb696209-1770094855946?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260206005000 +1100" stop="20260206061000 +1100" channel="4k.kayo.501">
+    <title lang="en">Women's Premier League: Royal Challengers Bengaluru Women vs Winner Eliminator</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">The league's best faces the Eliminator survivor for the 2026 WPL crown.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69811b93e4b0001d4f5d0975-1770068995018?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260205200000 +1100" stop="20260206021000 +1100" channel="4k.kayo.503">
     <title lang="en">: Qatar Masters</title>
@@ -72,7 +69,12 @@
   <programme start="20260205190000 +1100" stop="20260205231000 +1100" channel="4k.kayo.505">
     <title lang="en">: Australia v Jamaica</title>
     <desc lang="en">Australia clash with Jamaica in game one of a three game series at the Adelaide Entertainment Centre.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/697c32aae4b06a599452ee56-1769989943818?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/697c32aae4b06a599452ee56-1770084443897?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260206060000 +1100" stop="20260206111000 +1100" channel="4k.kayo.505">
+    <title lang="en">: Premier League</title>
+    <desc lang="en">The biggest names in darts get the Premier League started as Week 1 begins at Newcastle Arena.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/697c2665e4b0e88dc76eda9f-1769744033349?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260206200000 +1100" stop="20260207021000 +1100" channel="4k.kayo.503">
     <title lang="en">: Qatar Masters</title>
@@ -106,11 +108,6 @@
     <desc lang="en">Qualifying begins for the 4 Hours of Abu Dhabi at the Yas Marina Circuit.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/697c4d00e4b06a599452ee5b-1769754338565?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260207113000 +1100" stop="20260207151000 +1100" channel="4k.kayo.505">
-    <title lang="en">: Unrivaled</title>
-    <desc lang="en">Day 18: Some of the biggest stars in women's basketball take the court in this trailblazing three-on-three league.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/697af335e4b0efe819583807-1769665489551?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
   <programme start="20260207200000 +1100" stop="20260208011000 +1100" channel="4k.kayo.505">
     <title lang="en">: African Amateur Championship</title>
     <desc lang="en">Final round coverage begins with the winner earning exemptions for The 154th Open at Royal Birkdale and The Amateur Championship this year. </desc>
@@ -119,22 +116,22 @@
   <programme start="20260207203000 +1100" stop="20260208021000 +1100" channel="4k.kayo.503">
     <title lang="en">: Qatar Masters</title>
     <desc lang="en">Third round of the Qatar Masters tees off at the iconic Doha Golf Club. </desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/697abadce4b0efe8195837cf-1770010739251?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/697abadce4b0efe8195837cf-1770069330412?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260208010000 +1100" stop="20260208114000 +1100" channel="4k.kayo.503">
     <title lang="en">: Phoenix Open</title>
     <desc lang="en">Third round coverage begins from TPC Scottsdale.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/697ab3a5e4b0e88dc76ed9d8-1769649117689?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20260207113000 +1100" stop="20260207151000 +1100" channel="4k.kayo.505">
+    <title lang="en">: Unrivaled</title>
+    <desc lang="en">Day 18: Some of the biggest stars in women's basketball take the court in this trailblazing three-on-three league.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/697af335e4b0efe819583807-1769665489551?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20260208230000 +1100" stop="20260209051000 +1100" channel="4k.kayo.506">
     <title lang="en">: Abu Dhabi: Race 6</title>
     <desc lang="en">The final race of the weekend begins at the Yas Marina Circuit with four hours of thrilling action.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/697c4f63e4b0f80e61dd420b-1769754885378?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260208113000 +1100" stop="20260208151000 +1100" channel="4k.kayo.505">
-    <title lang="en">: Unrivaled</title>
-    <desc lang="en">Day 19: Some of the biggest stars in women's basketball take the court in this trailblazing three-on-three league.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/697c447ee4b06a599452ee59-1769751734332?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260208193000 +1100" stop="20260209014000 +1100" channel="4k.kayo.503">
     <title lang="en">: Qatar Masters</title>
@@ -146,10 +143,20 @@
     <desc lang="en">Final round coverage begins from TPC Scottsdale.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/697ab459e4b0e88dc76ed9d9-1769649301867?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20260208113000 +1100" stop="20260208151000 +1100" channel="4k.kayo.505">
+    <title lang="en">: Unrivaled</title>
+    <desc lang="en">Day 19: Some of the biggest stars in women's basketball take the court in this trailblazing three-on-three league.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/697c447ee4b06a599452ee59-1769751734332?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20260208190000 +1100" stop="20260208231000 +1100" channel="4k.kayo.505">
     <title lang="en">: Australia v Jamaica</title>
     <desc lang="en">Australia clash with Jamaica in game two of a three game series at the RAC Arena, Perth.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/697c3b8ee4b0efe81958388d-1769749434363?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/697c3b8ee4b0efe81958388d-1770090237257?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260210050000 +1100" stop="20260210094000 +1100" channel="4k.kayo.505">
+    <title lang="en">: Women's Champions League</title>
+    <desc lang="en">The 2026 Ultimate Pool Women's Champions League continues with Week Six action.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69813e60e4b0f45f6979d08b-1770077841451?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260211025500 +1100" stop="20260211074000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Twenty20 Internationals: South Africa Women vs Pakistan Women</title>
@@ -162,6 +169,16 @@
     <desc lang="en">The Bay clash with Los Angeles in the TGL.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/696d6c01e4b04078d10237b2-1768778906487?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20260210220000 +1100" stop="20260211034000 +1100" channel="4k.kayo.505">
+    <title lang="en">: Invitational Day 15 Session 1</title>
+    <desc lang="en">The 2026 Championship League of Snooker Invitational continues from the Mattioli Arena in Leicester.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69815d2be4b0f45f6979d08f-1770085823846?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260211033000 +1100" stop="20260211091000 +1100" channel="4k.kayo.505">
+    <title lang="en">: Invitational Day 15 Session 2</title>
+    <desc lang="en">The 2026 Championship League of Snooker Invitational continues from the Mattioli Arena in Leicester.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69816904e4b0da59386d760d-1770088769951?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20260214025500 +1100" stop="20260214074000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Twenty20 Internationals: South Africa Women vs Pakistan Women</title>
     <sub-title lang="en">2025-26</sub-title>
@@ -172,6 +189,12 @@
     <title lang="en">Women's Twenty20 Internationals: Australia Women vs India Women</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">New captain Sophie Molineux leads Australia for the first time against arch-rivals India.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6972a83ce4b0104a6e2581fb-1769659754157?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6972a83ce4b0104a6e2581fb-1770118896983?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260217025500 +1100" stop="20260217074000 +1100" channel="4k.kayo.501">
+    <title lang="en">Women's Twenty20 Internationals: South Africa Women vs Pakistan Women</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">Can Pakistan’s spin wizards master the South African bounce heading into game three?</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/697ae3aae4b0c1bd60b48a95-1769982998769?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
 </tv>
