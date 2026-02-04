@@ -24,23 +24,17 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20260204005000 +1100" stop="20260204061000 +1100" channel="4k.kayo.501">
-    <title lang="en">Women's Premier League: Gujarat Giants Women vs Delhi Capitals Women</title>
-    <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Giants' Ashleigh Gardner and Beth Mooney look to clinch a finals spot, but the Delhi Capitals stand in their way.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698119e5e4b0c1bd60b48b8f-1770068561335?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260203113012 +1100" stop="20260203151012 +1100" channel="4k.kayo.505">
-    <title lang="en">: Unrivaled</title>
-    <desc lang="en">Day 17: Some of the biggest stars in women's basketball take the court in this trailblazing three-on-three league.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6977e5d3e4b0214ca44202bf-1769465427378?location=hero-portrait-m2&amp;imwidth=720" />
+  <programme start="20260204130006 +1100" stop="20260204145506 +1100" channel="4k.kayo.506">
+    <title lang="en">: Malaysia Testing: Day 1</title>
+    <desc lang="en">After The Flag: All the action from MotoGP Day 1 of testing from the Sepang International Circuit in Malaysia.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69818cd0e4b0874c92175cd3-1770184618351?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260205100000 +1100" stop="20260205131000 +1100" channel="4k.kayo.506">
     <title lang="en">: Cook Out Clash</title>
     <desc lang="en">The Bowman Gray Stadium hosts the Cook Out Clash, the unofficial NASCAR season opening event ahead of Daytona 500.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/697abe07e4b0e88dc76ed9f1-1769651803909?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260204200000 +1100" stop="20260205001000 +1100" channel="4k.kayo.503">
+  <programme start="20260204200011 +1100" stop="20260205001011 +1100" channel="4k.kayo.503">
     <title lang="en">: African Amateur Championship</title>
     <desc lang="en">The third edition of the African Amateur Championship will take place at the East Course in Royal Johannesburg, South Africa.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/697c059de4b0e88dc76eda8c-1769735655923?location=hero-portrait-m2&amp;imwidth=720" />
@@ -51,23 +45,29 @@
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69817f66e4b017f6cb696209-1770094855946?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260206005000 +1100" stop="20260206061000 +1100" channel="4k.kayo.501">
-    <title lang="en">Women's Premier League: Royal Challengers Bengaluru Women vs Winner Eliminator</title>
+    <title lang="en">Women's Premier League: Royal Challengers Bengaluru Women vs Delhi Capitals Women</title>
     <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">The league's best faces the Eliminator survivor for the 2026 WPL crown.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69811b93e4b0001d4f5d0975-1770068995018?location=hero-portrait-m2&amp;imwidth=720" />
+    <desc lang="en">Can Grace Harris and Georgia Voll power RCB to a second WPL trophy, or will the Capitals finally break their 0-4 finals curse?</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69811b93e4b0001d4f5d0975-1770156415375?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260205130000 +1100" stop="20260205145500 +1100" channel="4k.kayo.506">
+    <title lang="en">: Malaysia Testing: Day 2</title>
+    <desc lang="en">After The Flag: All the action from MotoGP Day 2 of testing from the Sepang International Circuit in Malaysia.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69818cdae4b0da59386d761e-1770184610466?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260205200000 +1100" stop="20260206021000 +1100" channel="4k.kayo.503">
     <title lang="en">: Qatar Masters</title>
     <desc lang="en">First round of the Qatar Masters tees off at the iconic Doha Golf Club.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/697ab89be4b0c1bd60b48a60-1770010753522?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260206010000 +1100" stop="20260206131000 +1100" channel="4k.kayo.503">
+  <programme start="20260206010000 +1100" stop="20260206124000 +1100" channel="4k.kayo.503">
     <title lang="en">: Phoenix Open</title>
     <desc lang="en">Scottie Scheffler and Brooks Koepka headline a competitive group of golfers as first round coverage gets underway at TPC Scottsdale.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/697ab202e4b0efe819583799-1770010913213?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260205190000 +1100" stop="20260205231000 +1100" channel="4k.kayo.505">
-    <title lang="en">: Australia v Jamaica</title>
+  <programme start="20260205190000 +1100" stop="20260205224000 +1100" channel="4k.kayo.505">
+    <title lang="en">Netball Tests: Australia vs Jamaica</title>
+    <sub-title lang="en">2026</sub-title>
     <desc lang="en">Australia clash with Jamaica in game one of a three game series at the Adelaide Entertainment Centre.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/697c32aae4b06a599452ee56-1770084443897?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
@@ -75,6 +75,11 @@
     <title lang="en">: Premier League</title>
     <desc lang="en">The biggest names in darts get the Premier League started as Week 1 begins at Newcastle Arena.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/697c2665e4b0e88dc76eda9f-1769744033349?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260206130000 +1100" stop="20260206145500 +1100" channel="4k.kayo.506">
+    <title lang="en">: Malaysia Testing: Day 3</title>
+    <desc lang="en">After The Flag: All the action from MotoGP Day 3 of testing from the Sepang International Circuit in Malaysia.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69818ce0e4b017f6cb69620c-1770184606005?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260206200000 +1100" stop="20260207021000 +1100" channel="4k.kayo.503">
     <title lang="en">: Qatar Masters</title>
@@ -86,8 +91,8 @@
     <desc lang="en">Third round coverage begins from the renowned East Course in Royal Johannesburg, South Africa.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/697c067ee4b0f80e61dd41da-1769735895003?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260207010000 +1100" stop="20260207131000 +1100" channel="4k.kayo.503">
-    <title lang="en">: Phoenix Open </title>
+  <programme start="20260207010000 +1100" stop="20260207124000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Phoenix Open</title>
     <desc lang="en">Second round coverage begins from TPC Scottsdale.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/697ab2b1e4b0e88dc76ed9c7-1770010937010?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
@@ -149,7 +154,8 @@
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/697c447ee4b06a599452ee59-1769751734332?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260208190000 +1100" stop="20260208231000 +1100" channel="4k.kayo.505">
-    <title lang="en">: Australia v Jamaica</title>
+    <title lang="en">Netball Tests: Australia vs Jamaica</title>
+    <sub-title lang="en">2026</sub-title>
     <desc lang="en">Australia clash with Jamaica in game two of a three game series at the RAC Arena, Perth.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/697c3b8ee4b0efe81958388d-1770090237257?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
@@ -178,6 +184,22 @@
     <title lang="en">: Invitational Day 15 Session 2</title>
     <desc lang="en">The 2026 Championship League of Snooker Invitational continues from the Mattioli Arena in Leicester.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69816904e4b0da59386d760d-1770088769951?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260211100000 +1100" stop="20260211154000 +1100" channel="4k.kayo.506">
+    <title lang="en">: Windy City Open</title>
+    <desc lang="en">The PSA Windy City Open reaches the Semi Finals stage in Chicago.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698295fee4b0768e5b0ae593-1770165848805?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260211193000 +1100" stop="20260211234000 +1100" channel="4k.kayo.505">
+    <title lang="en">Netball Tests: Australia vs Jamaica</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">Liz Watson celebrates her 100th game in the green and gold as the sides clash for the third and final game of the series in Melbourne.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/697c3c05e4b0e88dc76edaa7-1770095225708?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260212110000 +1100" stop="20260212161000 +1100" channel="4k.kayo.506">
+    <title lang="en">: Windy City Open</title>
+    <desc lang="en">The PSA Windy City Open reaches the Finals stage in Chicago.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69829804e4b0768e5b0ae594-1770166406923?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260214025500 +1100" stop="20260214074000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Twenty20 Internationals: South Africa Women vs Pakistan Women</title>
