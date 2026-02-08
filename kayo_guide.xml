@@ -24,74 +24,27 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20260207170020 +1100" stop="20260207203520 +1100" channel="4k.kayo.502">
-    <title lang="en">Pre Season Challenge: Canterbury vs North Queensland</title>
-    <sub-title lang="en">2026</sub-title>
-    <desc lang="en">Rugby league is back for 2026. The Pre-season Challenge begins with the Bulldogs &amp; Cowboys in game one of a double header.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6979424ce4b0f12f3f6c9393-1770422678498?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260207192500 +1100" stop="20260207230500 +1100" channel="4k.kayo.502">
-    <title lang="en">Pre Season Challenge: St George Illawarra vs Newcastle</title>
-    <sub-title lang="en">2026</sub-title>
-    <desc lang="en">As both teams prepare for Round 1 action under the bright lights in Las Vegas, the Dragons host the Knights.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6979436fe4b0f12f3f6c9395-1770243505075?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260207174526 +1100" stop="20260207201526 +1100" channel="4k.kayo.506">
-    <title lang="en">: Abu Dhabi: Qualifying</title>
-    <desc lang="en">Qualifying begins for the 4 Hours of Abu Dhabi at the Yas Marina Circuit.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/697c4d00e4b06a599452ee5b-1769754338565?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260207223017 +1100" stop="20260208024017 +1100" channel="4k.kayo.506">
-    <title lang="en">: 2026 Season Launch</title>
-    <desc lang="en">The 2026 MotoGP World Championship campaign launches in Kuala Lumpur.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/697ff6bce4b06a599452eeac-1770184630948?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260207150007 +1100" stop="20260207191007 +1100" channel="4k.kayo.503">
-    <title lang="en">: Players Series: Sydney</title>
-    <desc lang="en">Third round coverage of the WPS Sydney tees off from the Castle Hill Country Club.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69840372e4b0d8ecd84a7e25-1770332518961?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260207200016 +1100" stop="20260208011016 +1100" channel="4k.kayo.505">
-    <title lang="en">: African Amateur Championship</title>
-    <desc lang="en">Final round coverage begins with the winner earning exemptions for The 154th Open at Royal Birkdale and The Amateur Championship this year.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/697c2893e4b01ccd3168c5f5-1769744677328?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260207203020 +1100" stop="20260208021020 +1100" channel="4k.kayo.503">
-    <title lang="en">: Qatar Masters</title>
-    <desc lang="en">Patrick Reed takes the lead at Qatar Masters, as he tries to wrap up Middle East swing with another win.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/697abadce4b0efe8195837cf-1770069330412?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260208033000 +1100" stop="20260208114000 +1100" channel="4k.kayo.503">
-    <title lang="en">: Phoenix Open</title>
-    <desc lang="en">It's Japan's Ryo Hisatsune leading the pack heading into moving day, with Aussie Min Woo Lee and tour heavyweight Scottie Scheffler close behind.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/697ab3a5e4b0e88dc76ed9d8-1770442486807?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260207113008 +1100" stop="20260207151008 +1100" channel="4k.kayo.505">
-    <title lang="en">: Unrivaled</title>
-    <desc lang="en">Day 18: Some of the biggest stars in women's basketball take the court in this trailblazing three-on-three league.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/697af335e4b0efe819583807-1770422992286?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260208230000 +1100" stop="20260209051000 +1100" channel="4k.kayo.506">
+  <programme start="20260208230025 +1100" stop="20260209051025 +1100" channel="4k.kayo.506">
     <title lang="en">: Abu Dhabi: Race 6</title>
     <desc lang="en">The final race of the weekend begins at the Yas Marina Circuit with four hours of thrilling action.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/697c4f63e4b0f80e61dd420b-1769754885378?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260208130000 +1100" stop="20260208191000 +1100" channel="4k.kayo.503">
+  <programme start="20260208130035 +1100" stop="20260208191035 +1100" channel="4k.kayo.503">
     <title lang="en">: Players Series: Sydney</title>
     <desc lang="en">Final round coverage of the WPS Sydney tees off from the Castle Hill Country Club.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698403cce4b0421356f6f504-1770327553317?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260208193000 +1100" stop="20260209014000 +1100" channel="4k.kayo.503">
+  <programme start="20260208193019 +1100" stop="20260209014019 +1100" channel="4k.kayo.503">
     <title lang="en">: Qatar Masters</title>
     <desc lang="en">Final round of the Qatar Masters tees off at the iconic Doha Golf Club.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/697abbe8e4b0efe8195837d1-1770010779239?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260209030000 +1100" stop="20260209111000 +1100" channel="4k.kayo.503">
+  <programme start="20260209024500 +1100" stop="20260209105500 +1100" channel="4k.kayo.503">
     <title lang="en">: Phoenix Open</title>
     <desc lang="en">Final round coverage begins from TPC Scottsdale.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/697ab459e4b0e88dc76ed9d9-1769649301867?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260208113000 +1100" stop="20260208151000 +1100" channel="4k.kayo.505">
+  <programme start="20260208113010 +1100" stop="20260208161010 +1100" channel="4k.kayo.505">
     <title lang="en">: Unrivaled</title>
     <desc lang="en">Day 19: Some of the biggest stars in women's basketball take the court in this trailblazing three-on-three league.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/697c447ee4b06a599452ee59-1769751734332?location=hero-portrait-m2&amp;imwidth=720" />
@@ -414,5 +367,11 @@
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Australia host India in the second of a three game T20 series, from Manuka Oval. Canberra.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6972a840e4b02de0a8e177cf-1770118980626?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260221184500 +1100" stop="20260221235000 +1100" channel="4k.kayo.501">
+    <title lang="en">Women's Twenty20 Internationals: Australia Women vs India Women</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">Australia host India for the final game of the T20 series, at the Adelaide Oval</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6972a843e4b02de0a8e177d0-1770119008514?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
 </tv>
