@@ -24,37 +24,6 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20260208230025 +1100" stop="20260209051025 +1100" channel="4k.kayo.506">
-    <title lang="en">: Abu Dhabi: Race 6</title>
-    <desc lang="en">The final race of the weekend begins at the Yas Marina Circuit with four hours of thrilling action.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/697c4f63e4b0f80e61dd420b-1769754885378?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260208130035 +1100" stop="20260208191035 +1100" channel="4k.kayo.503">
-    <title lang="en">: Players Series: Sydney</title>
-    <desc lang="en">Final round coverage of the WPS Sydney tees off from the Castle Hill Country Club.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698403cce4b0421356f6f504-1770327553317?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260208193019 +1100" stop="20260209014019 +1100" channel="4k.kayo.503">
-    <title lang="en">: Qatar Masters</title>
-    <desc lang="en">Final round of the Qatar Masters tees off at the iconic Doha Golf Club.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/697abbe8e4b0efe8195837d1-1770010779239?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260209024500 +1100" stop="20260209105500 +1100" channel="4k.kayo.503">
-    <title lang="en">: Phoenix Open</title>
-    <desc lang="en">Final round coverage begins from TPC Scottsdale.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/697ab459e4b0e88dc76ed9d9-1769649301867?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260208113010 +1100" stop="20260208161010 +1100" channel="4k.kayo.505">
-    <title lang="en">: Unrivaled</title>
-    <desc lang="en">Day 19: Some of the biggest stars in women's basketball take the court in this trailblazing three-on-three league.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/697c447ee4b06a599452ee59-1769751734332?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260208190000 +1100" stop="20260208231000 +1100" channel="4k.kayo.505">
-    <title lang="en">Netball Tests: Australia vs Jamaica</title>
-    <sub-title lang="en">2026</sub-title>
-    <desc lang="en">After the Diamonds dominant win in game one, the teams head to the RAC Arena in Perth for game two.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/697c3b8ee4b0efe81958388d-1770432113196?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
   <programme start="20260210050000 +1100" stop="20260210094000 +1100" channel="4k.kayo.505">
     <title lang="en">: Women's Champions League</title>
     <desc lang="en">The 2026 Ultimate Pool Women's Champions League continues with Week Six action.</desc>
@@ -104,7 +73,7 @@
   <programme start="20260211193000 +1100" stop="20260211234000 +1100" channel="4k.kayo.505">
     <title lang="en">Netball Tests: Australia vs Jamaica</title>
     <sub-title lang="en">2026</sub-title>
-    <desc lang="en">Liz Watson celebrates her 100th game in the green and gold as the sides clash for the third and final game of the series in Melbourne.</desc>
+    <desc lang="en">Liz Watson celebrates her 100th game in the green and gold as the sides clash for the third and final game in Melbourne.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/697c3c05e4b0e88dc76edaa7-1770432180959?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260212033000 +1100" stop="20260212091000 +1100" channel="4k.kayo.505">
@@ -158,7 +127,7 @@
     <desc lang="en">The AFAS Dome in Antwerp hosts Night 2 as the two Luke's face off in the quarter-finals.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6983cfeee4b0147f86616556-1770326922330?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260212110000 +1100" stop="20260212161000 +1100" channel="4k.kayo.506">
+  <programme start="20260212110000 +1100" stop="20260212144000 +1100" channel="4k.kayo.506">
     <title lang="en">: Windy City Open</title>
     <desc lang="en">The PSA Windy City Open reaches the Finals stage in Chicago.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69829804e4b0768e5b0ae594-1770166406923?location=hero-portrait-m2&amp;imwidth=720" />
@@ -188,13 +157,13 @@
   <programme start="20260214070000 +1100" stop="20260214093000 +1100" channel="4k.kayo.502">
     <title lang="en">: Warrington v St Helens</title>
     <desc lang="en">Round 1 of the Super League from Halliwell Jones Stadium.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6985473ee4b0147f8661660e-1770342240884?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6985473ee4b0147f8661660e-1770588828738?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260213190000 +1100" stop="20260213234000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Tour Matches: Governor-General's XI vs India Women</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Before the tour gets underway, India faces the Governor General’s picked XI in a T20 warm up at North Sydney Oval.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69854fc7e4b0efe84f47bfd4-1770344457627?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69854fc7e4b0efe84f47bfd4-1770588730177?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260214025500 +1100" stop="20260214074000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Twenty20 Internationals: South Africa Women vs Pakistan Women</title>
@@ -230,7 +199,7 @@
   <programme start="20260214190000 +1100" stop="20260215004000 +1100" channel="4k.kayo.504">
     <title lang="en">State of Origin: Western Australia vs Victoria</title>
     <sub-title lang="en">2026</sub-title>
-    <desc lang="en">State pride is on the line as Western Australia takes on Victoria for the first time this century. </desc>
+    <desc lang="en">State pride is on the line as Western Australia takes on Victoria for the first time this century.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69830bd4e4b017f6cb696251-1770195957750?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260214133000 +1100" stop="20260214164500 +1100" channel="4k.kayo.502">
@@ -334,12 +303,12 @@
     <title lang="en">Women's Twenty20 Internationals: Australia Women vs India Women</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">New captain Sophie Molineux leads Australia for the first time against arch-rivals India.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6972a83ce4b0104a6e2581fb-1770347493409?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6972a83ce4b0104a6e2581fb-1770594890567?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260216053000 +1100" stop="20260216114000 +1100" channel="4k.kayo.506">
     <title lang="en">: Daytona 500</title>
     <desc lang="en">The 2026 NASCAR Cup Series officially begins. William Byron will attempt to become the first driver to win three consecutive Daytona 500s.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698418c7e4b0efe84f47bf43-1770264884493?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698418c7e4b0efe84f47bf43-1770628686593?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260216030000 +1100" stop="20260216114000 +1100" channel="4k.kayo.503">
     <title lang="en">: Pebble Beach Pro-Am</title>
@@ -366,12 +335,23 @@
     <title lang="en">Women's Twenty20 Internationals: Australia Women vs India Women</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Australia host India in the second of a three game T20 series, from Manuka Oval. Canberra.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6972a840e4b02de0a8e177cf-1770118980626?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6972a840e4b02de0a8e177cf-1770594902882?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260219140000 +1100" stop="20260219201000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Thailand</title>
+    <desc lang="en">First round coverage of the LPGA Thailand begins from Siam Country Club, Pattaya.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69891151e4b01b49fef87270-1770590660753?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260221184500 +1100" stop="20260221235000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Twenty20 Internationals: Australia Women vs India Women</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Australia host India for the final game of the T20 series, at the Adelaide Oval</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6972a843e4b02de0a8e177d0-1770119008514?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6972a843e4b02de0a8e177d0-1770594898010?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260222185500 +1100" stop="20260223041000 +1100" channel="4k.kayo.501">
+    <title lang="en">Women's One-Day Internationals: South Africa Women vs Pakistan Women</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">South Africa hosts Pakistan in the first of three ODIs from the Mangaung Oval in Bloemfontein.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/697ae50ce4b0c1bd60b48a97-1769983016222?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
 </tv>
