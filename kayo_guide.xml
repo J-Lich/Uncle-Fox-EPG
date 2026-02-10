@@ -24,23 +24,18 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20260210050000 +1100" stop="20260210094000 +1100" channel="4k.kayo.505">
-    <title lang="en">: Women's Champions League</title>
-    <desc lang="en">The 2026 Ultimate Pool Women's Champions League continues with Week Six action.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69813e60e4b0f45f6979d08b-1770077841451?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
   <programme start="20260211025500 +1100" stop="20260211074000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Twenty20 Internationals: South Africa Women vs Pakistan Women</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Laura Wolvaardt leads a star-studded South African lineup at home against Pakistan.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/697ae3a1e4b0e88dc76eda16-1770252567736?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260210110000 +1100" stop="20260210141000 +1100" channel="4k.kayo.503">
+  <programme start="20260210110004 +1100" stop="20260210141004 +1100" channel="4k.kayo.503">
     <title lang="en">: The Bay v Los Angeles</title>
     <desc lang="en">The Bay clash with Los Angeles in the TGL.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/696d6c01e4b04078d10237b2-1768778906487?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260210113000 +1100" stop="20260210151000 +1100" channel="4k.kayo.505">
+  <programme start="20260210113014 +1100" stop="20260210151014 +1100" channel="4k.kayo.505">
     <title lang="en">: Unrivaled</title>
     <desc lang="en">Day 20: Some of the biggest stars in women's basketball take the court in this trailblazing three-on-three league.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6984133de4b0d8ecd84a7e35-1770263429357?location=hero-portrait-m2&amp;imwidth=720" />
@@ -59,6 +54,11 @@
     <title lang="en">: Windy City Open</title>
     <desc lang="en">The PSA Windy City Open reaches the Semi Finals stage in Chicago.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698295fee4b0768e5b0ae593-1770165848805?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260212020000 +1100" stop="20260212042000 +1100" channel="4k.kayo.506">
+    <title lang="en">: F1 Testing Day 1</title>
+    <desc lang="en">The first official week of pre-season testing begins at the Bahrain International Circuit.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698a6c4ae4b06f247aa09a62-1770679875084?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260211213000 +1100" stop="20260212024000 +1100" channel="4k.kayo.503">
     <title lang="en">: Saudi International</title>
@@ -84,13 +84,18 @@
   <programme start="20260212193000 +1100" stop="20260212233500 +1100" channel="4k.kayo.502">
     <title lang="en">Pre Season Challenge: Dolphins vs Gold Coast Titans</title>
     <sub-title lang="en">2026</sub-title>
-    <desc lang="en">The Dolphins and the Titans clash at Kayo Stadium.</desc>
+    <desc lang="en">A Queensland Derby at Kayo Stadium in Brisbane to open Week 2 of the 2026 Pre-Season Challenge.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69852311e4b0147f866165d5-1770355870271?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260213070000 +1100" stop="20260213111000 +1100" channel="4k.kayo.502">
+  <programme start="20260213060000 +1100" stop="20260213104000 +1100" channel="4k.kayo.502">
     <title lang="en">: York v Hull KR</title>
     <desc lang="en">Round 1 of the Super League from LNER Community Stadium.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6985831de4b0efe84f47c007-1770372638826?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6985831de4b0efe84f47c007-1770702481609?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260213020000 +1100" stop="20260213042000 +1100" channel="4k.kayo.506">
+    <title lang="en">: F1 Testing Day 2</title>
+    <desc lang="en">The first official week of pre-season testing continues on Day 2 at the Bahrain International Circuit.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698a6dd3e4b084a4582e2485-1770679886366?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260213100000 +1100" stop="20260213151000 +1100" channel="4k.kayo.506">
     <title lang="en">: Duel at Daytona</title>
@@ -110,7 +115,7 @@
   <programme start="20260213033000 +1100" stop="20260213121000 +1100" channel="4k.kayo.503">
     <title lang="en">: Pebble Beach Pro-Am</title>
     <desc lang="en">The iconic AT&amp;T Pebble Beach Pro-Am returns with a star-studded field at Pebble Beach Golf Links.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69840b9de4b017f6cb696278-1770261736845?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69840b9de4b017f6cb696278-1770713778673?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260213043000 +1100" stop="20260213063000 +1100" channel="4k.kayo.503">
     <title lang="en">: Pebble Beach Pro-Am</title>
@@ -135,29 +140,29 @@
   <programme start="20260213170000 +1100" stop="20260213203500 +1100" channel="4k.kayo.502">
     <title lang="en">Pre Season Challenge: Canberra vs Melbourne</title>
     <sub-title lang="en">2026</sub-title>
-    <desc lang="en">The Raiders and the Storm clash at Seiffert Oval.</desc>
+    <desc lang="en">Two sides from last year's top 4 kick off their pre season at Seiffert Oval in Queanbeyan, home ground of the Raiders for their first eight years.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69852749e4b0056189e30ad8-1770356028958?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260213192500 +1100" stop="20260213233500 +1100" channel="4k.kayo.502">
     <title lang="en">Pre Season Challenge: North Queensland vs Penrith</title>
     <sub-title lang="en">2026</sub-title>
-    <desc lang="en">The Cowboys and the Panthers clash in Mackay.</desc>
+    <desc lang="en">The Cowboys host this clash in Mackay before heading to Las Vegas for Round 1, while the Panthers open their pre-season campaign.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698527a5e4b0056189e30ada-1770355975523?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260214045500 +1100" stop="20260214081000 +1100" channel="4k.kayo.506">
     <title lang="en">: Catalans v Huddersfield</title>
     <desc lang="en">Round 1 of the Super League from Stade Gilbert Brutus.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698546abe4b0147f8661660b-1770372577345?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698546abe4b0147f8661660b-1770702477066?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260214063000 +1100" stop="20260214104000 +1100" channel="4k.kayo.502">
+    <title lang="en">: Warrington v St Helens</title>
+    <desc lang="en">Round 1 of the Super League from Halliwell Jones Stadium.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6985473ee4b0147f8661660e-1770702536306?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260214065500 +1100" stop="20260214101000 +1100" channel="4k.kayo.505">
     <title lang="en">: Leigh v Leeds</title>
     <desc lang="en">Round 1 of the Super League from Leigh Sports Village Stadium.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69854708e4b0147f8661660d-1770372591503?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260214070000 +1100" stop="20260214093000 +1100" channel="4k.kayo.502">
-    <title lang="en">: Warrington v St Helens</title>
-    <desc lang="en">Round 1 of the Super League from Halliwell Jones Stadium.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6985473ee4b0147f8661660e-1770588828738?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69854708e4b0147f8661660d-1770702473854?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260213190000 +1100" stop="20260213234000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Tour Matches: Governor-General's XI vs India Women</title>
@@ -170,6 +175,11 @@
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">With their T20 head-to-head record historically deadlocked, who will take the series lead?</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/697ae3a7e4b01ccd3168c5a7-1770327497924?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260214020000 +1100" stop="20260214042000 +1100" channel="4k.kayo.506">
+    <title lang="en">: F1 Testing Day 3</title>
+    <desc lang="en">The first official week of pre-season testing continues on Day 3 at the Bahrain International Circuit.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698a6dd8e4b0b71d5748bbe8-1770679891228?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260213110000 +1100" stop="20260213151000 +1100" channel="4k.kayo.503">
     <title lang="en">: Amateur Asia Pacific</title>
@@ -184,7 +194,7 @@
   <programme start="20260214033000 +1100" stop="20260214121000 +1100" channel="4k.kayo.503">
     <title lang="en">: Pebble Beach Pro-Am</title>
     <desc lang="en">Second round coverage begins from Pebble Beach Golf Links.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69840ba4e4b0efe84f47bf37-1770263636775?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69840ba4e4b0efe84f47bf37-1770713788071?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260214043000 +1100" stop="20260214063000 +1100" channel="4k.kayo.503">
     <title lang="en">: Pebble Beach Pro-Am</title>
@@ -196,7 +206,7 @@
     <desc lang="en">Third round coverage gets underway at Royal Wellington, New Zealand.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6985707ee4b017f6cb69630f-1770352845518?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260214190000 +1100" stop="20260215004000 +1100" channel="4k.kayo.504">
+  <programme start="20260214190000 +1100" stop="20260215001000 +1100" channel="4k.kayo.504">
     <title lang="en">State of Origin: Western Australia vs Victoria</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">State pride is on the line as Western Australia takes on Victoria for the first time this century.</desc>
@@ -205,36 +215,36 @@
   <programme start="20260214133000 +1100" stop="20260214164500 +1100" channel="4k.kayo.502">
     <title lang="en">Pre Season Challenge: Warriors vs Manly</title>
     <sub-title lang="en">2026</sub-title>
-    <desc lang="en">The Warriors and the Sea Eagles clash at in Napier.</desc>
+    <desc lang="en">The opener of four Saturday clashes is also the first pre-season action for both sides in 2026.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69857c67e4b0c1e443eaf1ca-1770356102565?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260214153500 +1100" stop="20260214185500 +1100" channel="4k.kayo.502">
     <title lang="en">Pre Season Challenge: Wests Tigers vs Sydney Roosters</title>
     <sub-title lang="en">2026</sub-title>
-    <desc lang="en">The Wests Tigers and the Roosters clash at McDonald Jones Stadium.</desc>
+    <desc lang="en">A double header at McDonald Jones Stadium in Newcastle begins with two teams playing their first game in the 2026 pre-season challenge.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698547abe4b0c1e443eaf19b-1770356093449?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260214174500 +1100" stop="20260214210500 +1100" channel="4k.kayo.502">
     <title lang="en">Pre Season Challenge: Newcastle vs Canterbury</title>
     <sub-title lang="en">2026</sub-title>
-    <desc lang="en">The Knights and the Bulldogs clash at McDonald Jones Stadium.</desc>
+    <desc lang="en">The second &amp; final game of the pre season for these sides before Round 1 in Las Vegas.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69857c7ee4b0efe84f47bffa-1770356085181?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260214195500 +1100" stop="20260214234500 +1100" channel="4k.kayo.502">
     <title lang="en">Pre Season Challenge: St George Illawarra vs South Sydney</title>
     <sub-title lang="en">2026</sub-title>
-    <desc lang="en">The Dragons clash with the Rabbitohs at WIN Stadium.</desc>
+    <desc lang="en">The 43rd Charity Shield clash moves to WIN Stadium in Wollongong with the Dragons holding the trophy after 2025's triumph.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698547fde4b017f6cb6962eb-1770356079132?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260215042500 +1100" stop="20260215081000 +1100" channel="4k.kayo.502">
+  <programme start="20260215042500 +1100" stop="20260215074000 +1100" channel="4k.kayo.502">
     <title lang="en">: Hull FC v Bradford</title>
     <desc lang="en">Round 1 of the Super League from MKM Stadium.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69858323e4b0efe84f47c008-1770358108153?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69858323e4b0efe84f47c008-1770702468552?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260215070000 +1100" stop="20260215111000 +1100" channel="4k.kayo.502">
+  <programme start="20260215065500 +1100" stop="20260215101000 +1100" channel="4k.kayo.502">
     <title lang="en">: Wakefield v Toulouse</title>
     <desc lang="en">Round 1 of the Super League from The Dly Kitchens Stadium.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69858328e4b0147f8661664a-1770358120705?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69858328e4b0147f8661664a-1770702460944?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260214130000 +1100" stop="20260214175000 +1100" channel="4k.kayo.506">
     <title lang="en">: Bathurst 12 Hour</title>
@@ -254,7 +264,7 @@
   <programme start="20260215030000 +1100" stop="20260215121000 +1100" channel="4k.kayo.503">
     <title lang="en">: Pebble Beach Pro-Am</title>
     <desc lang="en">Third round coverage begins from Pebble Beach Golf Links.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69840bc0e4b0efe84f47bf39-1770261833533?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69840bc0e4b0efe84f47bf39-1770713793341?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260215040000 +1100" stop="20260215060000 +1100" channel="4k.kayo.503">
     <title lang="en">: Pebble Beach Pro-Am</title>
@@ -279,25 +289,25 @@
   <programme start="20260215130000 +1100" stop="20260215162000 +1100" channel="4k.kayo.502">
     <title lang="en">Women's All Stars: New Zealand Maori Women vs Indigenous All Stars Women</title>
     <sub-title lang="en">2026</sub-title>
-    <desc lang="en">The Women's All Star game live from FMG Stadium Waikato, Hamilton.</desc>
+    <desc lang="en">The Women's Indigenous All Stars are chasing a hat-trick of wins over the Women's Maori All Stars.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698570d7e4b08febaadba1ed-1770353136294?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260215151000 +1100" stop="20260215191000 +1100" channel="4k.kayo.502">
+  <programme start="20260215151000 +1100" stop="20260215185000 +1100" channel="4k.kayo.502">
     <title lang="en">All Stars: New Zealand Maori vs Indigenous All Stars</title>
     <sub-title lang="en">2026</sub-title>
-    <desc lang="en">The All Star game live from FMG Stadium Waikato, Hamilton.</desc>
+    <desc lang="en">The 15th edition of the men's game's annual cultural showpiece takes place at FMG Stadium in Waikato NZ.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698570e2e4b04d8565d6583f-1770353141140?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260215174000 +1100" stop="20260215213500 +1100" channel="4k.kayo.502">
     <title lang="en">Pre Season Challenge: Cronulla vs Parramatta</title>
     <sub-title lang="en">2026</sub-title>
-    <desc lang="en">The Sharks and the Eels clash at Henson Park.</desc>
+    <desc lang="en">One of rugby league's historic grounds, Henson Park, is the venue for the final pre-season clash of week 2.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6985487ee4b0c1e443eaf19d-1770356071730?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260216015500 +1100" stop="20260216051000 +1100" channel="4k.kayo.502">
     <title lang="en">: Castleford v Wigan</title>
     <desc lang="en">Round 1 of the Super League from The OneBore Stadium.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6985832ce4b017f6cb696324-1770358126413?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6985832ce4b017f6cb696324-1770702458464?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260215183000 +1100" stop="20260215235000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Twenty20 Internationals: Australia Women vs India Women</title>
@@ -313,7 +323,7 @@
   <programme start="20260216030000 +1100" stop="20260216114000 +1100" channel="4k.kayo.503">
     <title lang="en">: Pebble Beach Pro-Am</title>
     <desc lang="en">Final round coverage begins from Pebble Beach Golf Links.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69840bcbe4b0d8ecd84a7e2c-1770261885209?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69840bcbe4b0d8ecd84a7e2c-1770713744368?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260216033000 +1100" stop="20260216053000 +1100" channel="4k.kayo.503">
     <title lang="en">: Pebble Beach Pro-Am</title>
@@ -325,11 +335,21 @@
     <desc lang="en">Peter Burling and Blair Tuke's Black Foils continue taking on the world in their backyard as Day 2 gets underway.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698428eee4b0147f86616591-1770269038362?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20260216134500 +1100" stop="20260216181000 +1100" channel="4k.kayo.504">
+    <title lang="en">: Hawthorn v Geelong</title>
+    <desc lang="en">The Hawks and Cats face off in the first scratch match of the new year.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6989a59be4b0cc8015ce4052-1770628599796?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20260217025500 +1100" stop="20260217074000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Twenty20 Internationals: South Africa Women vs Pakistan Women</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Can Pakistan’s spin wizards master the South African bounce heading into game three?</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/697ae3aae4b0c1bd60b48a95-1770327483761?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260217050000 +1100" stop="20260217094000 +1100" channel="4k.kayo.505">
+    <title lang="en">: Women's Champions League</title>
+    <desc lang="en">The 2026 Ultimate Pool Women's Champions League continues with Week Seven action.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698a5818e4b0cc8015ce405d-1770674251135?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260219184500 +1100" stop="20260219235000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Twenty20 Internationals: Australia Women vs India Women</title>
