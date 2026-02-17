@@ -24,27 +24,6 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20260216134636 +1100" stop="20260216173136 +1100" channel="4k.kayo.504">
-    <title lang="en">: Hawthorn v Geelong</title>
-    <desc lang="en">The Hawks take on the Cats as AFL pre season kicks into gear.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6989a59be4b0cc8015ce4052-1771210327754?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260217025500 +1100" stop="20260217074000 +1100" channel="4k.kayo.501">
-    <title lang="en">Women's Twenty20 Internationals: South Africa Women vs Pakistan Women</title>
-    <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Can Pakistan’s spin wizards master the South African bounce heading into game three?</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/697ae3aae4b0c1bd60b48a95-1770327483761?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260216202252 +1100" stop="20260216211352 +1100" channel="4k.kayo.506">
-    <title lang="en">: Daytona 500</title>
-    <desc lang="en">The 2026 NASCAR Cup Series officially begins. William Byron will attempt to become the first driver to win three consecutive Daytona 500 races.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6992e323e4b0afb9cfcc9530-1771234428445?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260217050000 +1100" stop="20260217094000 +1100" channel="4k.kayo.505">
-    <title lang="en">: Women's Champions League</title>
-    <desc lang="en">The 2026 Ultimate Pool Women's Champions League continues with Week Seven action.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698a5818e4b0cc8015ce405d-1770674251135?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
   <programme start="20260218180000 +1100" stop="20260218214500 +1100" channel="4k.kayo.504">
     <title lang="en">: Brisbane v Carlton</title>
     <desc lang="en">The reigning premiers host the Blues in a pre season face-off.</desc>
@@ -94,7 +73,7 @@
   <programme start="20260219184500 +1100" stop="20260219235000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Twenty20 Internationals: Australia Women vs India Women</title>
     <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Australia host India in the second of a three game T20 series, from Manuka Oval. Canberra.</desc>
+    <desc lang="en">Pressure is on in Canberra as Sophie Molineux searches for her first win as captain to stop a red-hot India.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6972a840e4b02de0a8e177cf-1770594902882?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260219175000 +1100" stop="20260219231500 +1100" channel="4k.kayo.506">
@@ -159,7 +138,7 @@
     <desc lang="en">Round 2 of the Super League from AMT Headingley Stadium.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698e88a1e4b0afb9cfcc9473-1770954233895?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260220134500 +1100" stop="20260220202100 +1100" channel="4k.kayo.506">
+  <programme start="20260220134500 +1100" stop="20260220201500 +1100" channel="4k.kayo.506">
     <title lang="en">: Sydney</title>
     <desc lang="en">The Supercars are on track for the first time this season, with the only practice session of the weekend, followed by qualifying to set the grid for Race 1.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698e4a08e4b0b59266c46401-1770932967258?location=hero-portrait-m2&amp;imwidth=720" />
@@ -169,7 +148,7 @@
     <desc lang="en">With the first official session of the season just two weeks away, the pressure is on as the final day of pre-season testing arrives.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698d272ee4b0c76be6161f74-1770858412523?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260220191100 +1100" stop="20260220222500 +1100" channel="4k.kayo.506">
+  <programme start="20260220190500 +1100" stop="20260220222500 +1100" channel="4k.kayo.506">
     <title lang="en">: Sydney 500</title>
     <desc lang="en">Race 1: The new Toyota GR Supra makes its race debut as the Sydney 500 gets underway with a 100km sprint under lights.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698e4a76e4b0afb9cfcc9448-1770936565521?location=hero-portrait-m2&amp;imwidth=720" />
@@ -212,7 +191,7 @@
     <desc lang="en">Round 2 of the Super League from Stade Ernest Wallon.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698e8a35e4b04efc622dddbd-1770954289277?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260222070000 +1100" stop="20260222111000 +1100" channel="4k.kayo.502">
+  <programme start="20260222070000 +1100" stop="20260222101500 +1100" channel="4k.kayo.502">
     <title lang="en">: Wigan v Hull FC</title>
     <desc lang="en">Round 2 of the Super League from The Brick Community Stadium.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698e8a83e4b0f2048d5928a2-1770954246108?location=hero-portrait-m2&amp;imwidth=720" />
@@ -223,7 +202,7 @@
     <desc lang="en">Australia host India for the final game of the T20 series, at the Adelaide Oval</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6972a843e4b02de0a8e177d0-1770594898010?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260221120000 +1100" stop="20260221172200 +1100" channel="4k.kayo.506">
+  <programme start="20260221120000 +1100" stop="20260221174000 +1100" channel="4k.kayo.506">
     <title lang="en">: Sydney</title>
     <desc lang="en">Qualifying for Race 2 begins with drivers looking to achieve one of the 10 fastest times to secure a place in this afternoon’s shootout.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698e4a0ee4b0afb9cfcc9443-1770933038383?location=hero-portrait-m2&amp;imwidth=720" />
@@ -233,17 +212,17 @@
     <desc lang="en">Phillip Island hosts the opening round of the season. Nicolo Bulega enters the weekend as the heavy favourite at a track where he swept the races in 2025.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698ec1f4e4b003c9647f5fd4-1770963674819?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260221161200 +1100" stop="20260221201000 +1100" channel="4k.kayo.506">
+  <programme start="20260221163000 +1100" stop="20260221201000 +1100" channel="4k.kayo.506">
     <title lang="en">: Sydney</title>
     <desc lang="en">Pole position is up for grabs in the Top 10 Shootout, which will set the grid for Race 2 at Sydney Motorsport Park.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698e4a13e4b0c76be6161fb3-1770933172671?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260221190000 +1100" stop="20260221225700 +1100" channel="4k.kayo.506">
+  <programme start="20260221190000 +1100" stop="20260221225500 +1100" channel="4k.kayo.506">
     <title lang="en">: Sydney 500</title>
     <desc lang="en">Race 2: We are racing under lights at Sydney Motorsport Park. Cam Waters will be looking for a repeat of his thrilling Saturday night victory last year.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698e4a18e4b0b59266c46402-1770933197612?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260222084000 +1100" stop="20260222135200 +1100" channel="4k.kayo.506">
+  <programme start="20260222084000 +1100" stop="20260222141000 +1100" channel="4k.kayo.506">
     <title lang="en">: Sydney</title>
     <desc lang="en">The opening round of Supercars continues with the third and final qualifying session of the weekend for Race 3.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698e4a1ae4b04efc622ddd9b-1770933160270?location=hero-portrait-m2&amp;imwidth=720" />
@@ -277,15 +256,15 @@
   <programme start="20260222185500 +1100" stop="20260223041000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's One-Day Internationals: South Africa Women vs Pakistan Women</title>
     <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">South Africa hosts Pakistan in the first of three ODIs from the Mangaung Oval in Bloemfontein.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/697ae50ce4b0c1bd60b48a97-1769983016222?location=hero-portrait-m2&amp;imwidth=720" />
+    <desc lang="en">South Africa aim to move past their heartbreaking World Cup final defeat when they take on Pakistan.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/697ae50ce4b0c1bd60b48a97-1771302042590?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260222124200 +1100" stop="20260222164100 +1100" channel="4k.kayo.506">
+  <programme start="20260222130000 +1100" stop="20260222163000 +1100" channel="4k.kayo.506">
     <title lang="en">: Sydney</title>
     <desc lang="en">The final Top 10 Shootout of the opening round begins as we find out who will start from pole in Race 3.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698e4a1de4b0c76be6161fb4-1770933438247?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260222152000 +1100" stop="20260222194200 +1100" channel="4k.kayo.506">
+  <programme start="20260222152000 +1100" stop="20260222194000 +1100" channel="4k.kayo.506">
     <title lang="en">: Sydney 500</title>
     <desc lang="en">Race 3: The opening weekend of Supercars action wraps up with a 52 lap showdown.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698e4a2ae4b0b59266c46403-1770933441310?location=hero-portrait-m2&amp;imwidth=720" />
@@ -310,6 +289,11 @@
     <desc lang="en">After The Flag: A full wrap-up of the final day of the MotoGP full-grid test at the Buriram International Circuit in Thailand.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698ecfe8e4b04efc622dde05-1770967392753?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20260224090000 +1100" stop="20260224121000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Atlanta v Boston</title>
+    <desc lang="en">Atlanta and Boston clash in the TGL.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6993b700e4b0e578b983f2da-1771288377005?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20260223113000 +1100" stop="20260223151000 +1100" channel="4k.kayo.505">
     <title lang="en">: Unrivaled</title>
     <desc lang="en">Day 27: Some of the biggest stars in women's basketball take the court in this trailblazing three-on-three league.</desc>
@@ -321,22 +305,32 @@
     <desc lang="en">Australia faces India at Allan Border Field in Brisbane for the first of three ODI matches.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6972c9d1e4b02de0a8e177df-1770688139711?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20260224130000 +1100" stop="20260224161000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Los Angeles v Atlanta</title>
+    <desc lang="en">Los Angeles clash with Atlanta in the TGL.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6993b759e4b0e578b983f2db-1771288832809?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20260225090000 +1100" stop="20260225121000 +1100" channel="4k.kayo.503">
     <title lang="en">: New York v The Bay</title>
     <desc lang="en">New York clash with the Bay in the TGL.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6985722ee4b0d8ecd84a7eaf-1770353249660?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20260224113000 +1100" stop="20260224151000 +1100" channel="4k.kayo.505">
+    <title lang="en">: Unrivaled</title>
+    <desc lang="en">Day 28: Some of the biggest stars in women's basketball take the court in this trailblazing three-on-three league.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6993ada8e4b0fcc9a300406d-1771285997955?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20260225170000 +1100" stop="20260225221000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Twenty20 Internationals: New Zealand Women vs Zimbabwe Women</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">The White Ferns host Zimbabwe’s Lady Chevrons for the first time ever in a bilateral T20 series.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69811e86e4b0efe8195838fe-1770340714928?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69811e86e4b0efe8195838fe-1771299898958?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260225225500 +1100" stop="20260226081000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's One-Day Internationals: South Africa Women vs Pakistan Women</title>
     <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">The Proteas look to maintain their 50-over dominance at Kingsmead with the Black Day ODI.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/697ff45de4b032e43108aaa5-1769993351782?location=hero-portrait-m2&amp;imwidth=720" />
+    <desc lang="en">World No. 1 Laura Wolvaardt leads the Proteas against a resilient Pakistan in Centurion.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/697ff45de4b032e43108aaa5-1771302750859?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260225130000 +1100" stop="20260225161000 +1100" channel="4k.kayo.503">
     <title lang="en">: Boston v New York</title>
