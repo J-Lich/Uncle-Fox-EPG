@@ -24,42 +24,42 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20260218180000 +1100" stop="20260218214500 +1100" channel="4k.kayo.504">
+  <programme start="20260218180014 +1100" stop="20260218214514 +1100" channel="4k.kayo.504">
     <title lang="en">: Brisbane v Carlton</title>
     <desc lang="en">The reigning premiers host the Blues in a pre season face-off.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6989a60fe4b01b49fef8728b-1770628699697?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6989a60fe4b01b49fef8728b-1771366803890?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260218175000 +1100" stop="20260218231500 +1100" channel="4k.kayo.506">
-    <title lang="en">: F1 Testing Day 1</title>
-    <desc lang="en">Anticipation builds towards the first ‘lights out’ and Cadillac’s F1 debut as week 2 of pre-season testing gets underway in Bahrain.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698beec1e4b04efc622ddcf2-1770778532361?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260218225500 +1100" stop="20260219041500 +1100" channel="4k.kayo.506">
+  <programme start="20260218225510 +1100" stop="20260219041510 +1100" channel="4k.kayo.506">
     <title lang="en">: F1 Testing Night 1</title>
     <desc lang="en">The opening day of week 2 of pre-season testing continues in Bahrain, with all the teams looking for an advantage ahead of the 2026 season.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698beec8e4b06f6c5833d007-1770778465594?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260219090000 +1100" stop="20260219114000 +1100" channel="4k.kayo.503">
+  <programme start="20260218175010 +1100" stop="20260218231510 +1100" channel="4k.kayo.506">
+    <title lang="en">: F1 Testing Day 1</title>
+    <desc lang="en">Anticipation builds towards the first ‘lights out’ and Cadillac’s F1 debut as week 2 of pre-season testing gets underway in Bahrain.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698beec1e4b04efc622ddcf2-1770778532361?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260219090000 +1100" stop="20260219105500 +1100" channel="4k.kayo.503">
     <title lang="en">: On The Range</title>
     <desc lang="en">Go on the range at the Genesis Invitational, with interviews and analysis on the top golfers from the Tour Championship.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698d0143e4b04efc622ddd2b-1770866964675?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260218113000 +1100" stop="20260218151000 +1100" channel="4k.kayo.505">
+  <programme start="20260218113000 +1100" stop="20260218150000 +1100" channel="4k.kayo.505">
     <title lang="en">: Unrivaled</title>
     <desc lang="en">Day 24: Some of the biggest stars in women's basketball take the court in this trailblazing three-on-three league.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698d0153e4b0c76be6161f3e-1770848673124?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260219140000 +1100" stop="20260219184000 +1100" channel="4k.kayo.504">
+  <programme start="20260219140000 +1100" stop="20260219174500 +1100" channel="4k.kayo.504">
     <title lang="en">: Bulldogs v Sydney</title>
     <desc lang="en">The Bulldogs host the Swans as both teams look to build momentum for the season.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6989a67ae4b07e771b0193dd-1770628769437?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260219194500 +1100" stop="20260220002500 +1100" channel="4k.kayo.504">
+  <programme start="20260219194500 +1100" stop="20260219233000 +1100" channel="4k.kayo.504">
     <title lang="en">: Gold Coast v St Kilda</title>
     <desc lang="en">The new-look Suns welcome the Saints for a pre-season hit out.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6989a6dee4b0316c9c97efa0-1771192045840?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260220103000 +1100" stop="20260220144000 +1100" channel="4k.kayo.505">
+  <programme start="20260220103000 +1100" stop="20260220144500 +1100" channel="4k.kayo.505">
     <title lang="en">: Essendon v Richmond</title>
     <desc lang="en">The Bombers and Tigers both come into this year with renewed optimism as they meet in a simulation match.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698e528fe4b0b59266c4640f-1770934974137?location=hero-portrait-m2&amp;imwidth=720" />
@@ -67,10 +67,10 @@
   <programme start="20260220063000 +1100" stop="20260220101000 +1100" channel="4k.kayo.502">
     <title lang="en">World Club Challenge: Hull KR vs Brisbane</title>
     <sub-title lang="en">2026</sub-title>
-    <desc lang="en">The Super League champions take on the NRL champions at MKM Stadium, Hull.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6989871ee4b0c1e443eaf27e-1770620756064?location=hero-portrait-m2&amp;imwidth=720" />
+    <desc lang="en">Hull KR feature in the WCC for the first time, while the Broncos pursue a second title in their fifth appearance.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6989871ee4b0c1e443eaf27e-1771383939642?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260219184500 +1100" stop="20260219235000 +1100" channel="4k.kayo.501">
+  <programme start="20260219184500 +1100" stop="20260219235500 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Twenty20 Internationals: Australia Women vs India Women</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Pressure is on in Canberra as Sophie Molineux searches for her first win as captain to stop a red-hot India.</desc>
@@ -81,7 +81,7 @@
     <desc lang="en">Day two of pre-season testing has arrived with all the teams looking for an advantage ahead of the 2026 season opener in Melbourne.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698beed4e4b0c8aaad01283e-1770778440754?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260219225500 +1100" stop="20260220041500 +1100" channel="4k.kayo.506">
+  <programme start="20260219225500 +1100" stop="20260220042000 +1100" channel="4k.kayo.506">
     <title lang="en">: F1 Testing Night 2</title>
     <desc lang="en">The second day of pre-season testing continues with all the teams looking for an advantage ahead of the 2026 season.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698beedce4b07cfa8a01516d-1770778454200?location=hero-portrait-m2&amp;imwidth=720" />
@@ -120,7 +120,7 @@
     <title lang="en">Pre Season Challenge: Warriors vs Dolphins</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">The Warriors and the Dolphins clash at Leichhardt Oval.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698bf33fe4b039d623895a8a-1770779566584?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698bf33fe4b039d623895a8a-1771369386748?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260220195500 +1100" stop="20260220234500 +1100" channel="4k.kayo.502">
     <title lang="en">Pre Season Challenge: Wests Tigers vs Penrith</title>
@@ -172,7 +172,7 @@
     <title lang="en">Pre Season Challenge: Cronulla vs Canberra</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">The Sharks and the Raiders clash in Gosford.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698bdd43e4b039d623895a72-1770774084620?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698bdd43e4b039d623895a72-1771371104794?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260221174500 +1100" stop="20260221210500 +1100" channel="4k.kayo.502">
     <title lang="en">Pre Season Challenge: Sydney Roosters vs Parramatta</title>
@@ -207,10 +207,15 @@
     <desc lang="en">Qualifying for Race 2 begins with drivers looking to achieve one of the 10 fastest times to secure a place in this afternoon’s shootout.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698e4a0ee4b0afb9cfcc9443-1770933038383?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260221123000 +1100" stop="20260221181000 +1100" channel="4k.kayo.505">
+  <programme start="20260221125000 +1100" stop="20260221142000 +1100" channel="4k.kayo.505">
+    <title lang="en">: Australia: Superpole</title>
+    <desc lang="en">The first day of the new World Superbikes season starts from Phillip Island with the Superpole.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698ec1f4e4b003c9647f5fd4-1770963674819?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260221141500 +1100" stop="20260221181000 +1100" channel="4k.kayo.505">
     <title lang="en">: Australia: Race 1</title>
     <desc lang="en">Phillip Island hosts the opening round of the season. Nicolo Bulega enters the weekend as the heavy favourite at a track where he swept the races in 2025.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698ec1f4e4b003c9647f5fd4-1770963674819?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6994fe7de4b0e578b983f32e-1771372232739?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260221163000 +1100" stop="20260221201000 +1100" channel="4k.kayo.506">
     <title lang="en">: Sydney</title>
@@ -246,7 +251,7 @@
     <title lang="en">Pre Season Challenge: South Sydney vs Manly</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">The Rabbitohs and the Sea Eagles clash in Mudgee.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698bdd6ce4b06f6c5833cfff-1770774233773?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698bdd6ce4b06f6c5833cfff-1771376761348?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260223015500 +1100" stop="20260223051000 +1100" channel="4k.kayo.502">
     <title lang="en">: Huddersfield v Wakefield</title>
@@ -259,10 +264,20 @@
     <desc lang="en">South Africa aim to move past their heartbreaking World Cup final defeat when they take on Pakistan.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/697ae50ce4b0c1bd60b48a97-1771302042590?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20260222124500 +1100" stop="20260222144500 +1100" channel="4k.kayo.505">
+    <title lang="en">: Australia: S.Pole Race</title>
+    <desc lang="en">Phillip Island hosts the second and final day of round one of the 2026 World Superbikes Season, starting with the Superpole Race.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/699500bbe4b0fcc9a3004102-1771372845735?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20260222130000 +1100" stop="20260222163000 +1100" channel="4k.kayo.506">
     <title lang="en">: Sydney</title>
     <desc lang="en">The final Top 10 Shootout of the opening round begins as we find out who will start from pole in Race 3.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698e4a1de4b0c76be6161fb4-1770933438247?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260222141500 +1100" stop="20260222181000 +1100" channel="4k.kayo.505">
+    <title lang="en">: Australia: Race 2</title>
+    <desc lang="en">With champion Toprak Razgatlioglu having departed for MotoGP, the 2026 grid is hungry to claim the vacant throne. Aussie Remy Gardner targets a home podium in his fourth season.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6994ffb7e4b04b00b736ec19-1771372648083?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260222152000 +1100" stop="20260222194000 +1100" channel="4k.kayo.506">
     <title lang="en">: Sydney 500</title>
@@ -319,6 +334,12 @@
     <title lang="en">: Unrivaled</title>
     <desc lang="en">Day 28: Some of the biggest stars in women's basketball take the court in this trailblazing three-on-three league.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6993ada8e4b0fcc9a300406d-1771285997955?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260225190000 +1100" stop="20260225231000 +1100" channel="4k.kayo.504">
+    <title lang="en">AFL Pre-Season: Carlton Blues vs Geelong Cats</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">The Blues and Cats kick off the 2026 Community Series with a clash at IKON Park.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698e590fe4b0c76be6161fbd-1770937153787?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260225170000 +1100" stop="20260225221000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Twenty20 Internationals: New Zealand Women vs Zimbabwe Women</title>
