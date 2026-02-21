@@ -24,84 +24,12 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20260220110000 +1100" stop="20260220144500 +1100" channel="4k.kayo.504">
-    <title lang="en">: Collingwood v GWS</title>
-    <desc lang="en">Two teams with premiership aspirations, the Magpies and Giants collide in pre season action.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6989a72ce4b07e771b0193e0-1771541092926?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260220160035 +1100" stop="20260220194035 +1100" channel="4k.kayo.504">
-    <title lang="en">: Nth Melbourne v Melbourne</title>
-    <desc lang="en">The Kangaroos take on the new-look Demons in a pre season hit out.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6989a74de4b01b49fef87290-1771569072635?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260220180022 +1100" stop="20260220221022 +1100" channel="4k.kayo.503">
-    <title lang="en">: Port Adelaide v Adelaide</title>
-    <desc lang="en">The Power and Crows face off in a pre season showdown.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6989a7c6e4b01b49fef87292-1771541559924?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260220173009 +1100" stop="20260220210509 +1100" channel="4k.kayo.502">
-    <title lang="en">Pre Season Challenge: Warriors vs Dolphins</title>
-    <sub-title lang="en">2026</sub-title>
-    <desc lang="en">The final round of pre-season action begins with the Warriors taking on the Dolphins at Leichhardt Oval in Sydney.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698bf33fe4b039d623895a8a-1771369386748?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260220195502 +1100" stop="20260220234502 +1100" channel="4k.kayo.502">
-    <title lang="en">Pre Season Challenge: Wests Tigers vs Penrith</title>
-    <sub-title lang="en">2026</sub-title>
-    <desc lang="en">Both sides have named near full-strength line-ups for their concluding pre-season game at Leichhardt Oval in Sydney.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698bf357e4b0c8aaad012845-1770779539051?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260221063000 +1100" stop="20260221104000 +1100" channel="4k.kayo.502">
-    <title lang="en">: Bradford v Catalans</title>
-    <desc lang="en">Round 2 of the Super League from Bartercard Odsal Stadium.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698e8c4de4b06cee29f5f667-1770954293342?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260221065500 +1100" stop="20260221101000 +1100" channel="4k.kayo.505">
-    <title lang="en">: Leeds v York</title>
-    <desc lang="en">Round 2 of the Super League from AMT Headingley Stadium.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698e88a1e4b0afb9cfcc9473-1770954233895?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260220225500 +1100" stop="20260221041500 +1100" channel="4k.kayo.506">
-    <title lang="en">: F1 Testing Night 3</title>
-    <desc lang="en">The final session of pre-season testing gets underway in Bahrain as anticipation builds for the season opener at Albert Park.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698beee8e4b039d623895a82-1770778512189?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260220134500 +1100" stop="20260220201500 +1100" channel="4k.kayo.506">
-    <title lang="en">: Sydney</title>
-    <desc lang="en">The Supercars are on track for the first time this season, with the only practice session of the weekend, followed by qualifying to set the grid for Race 1.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698e4a08e4b0b59266c46401-1770932967258?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260220175010 +1100" stop="20260220231510 +1100" channel="4k.kayo.505">
-    <title lang="en">: F1 Testing Day 3</title>
-    <desc lang="en">With the first official session of the season just two weeks away, the pressure is on as the final day of pre-season testing arrives.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698d272ee4b0c76be6161f74-1770858412523?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260220191300 +1100" stop="20260220223300 +1100" channel="4k.kayo.506">
-    <title lang="en">: Sydney 500</title>
-    <desc lang="en">Race 1: The new Toyota GR Supra makes its race debut as the Sydney 500 gets underway with a 100km sprint under lights.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698e4a76e4b0afb9cfcc9448-1770936565521?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260220210021 +1100" stop="20260221031021 +1100" channel="4k.kayo.503">
-    <title lang="en">: Kenya Open</title>
-    <desc lang="en">Second round of the Kenya Open tees off at the Karen Country Club.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698d4a03e4b0f2338c020809-1771209570487?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260220140011 +1100" stop="20260220201011 +1100" channel="4k.kayo.503">
-    <title lang="en">: Thailand</title>
-    <desc lang="en">Second round coverage of the LPGA Thailand begins from Siam Country Club, Pattaya.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69891155e4b025bc4d1f65b0-1770590665522?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260221021500 +1100" stop="20260221131000 +1100" channel="4k.kayo.503">
-    <title lang="en">: Genesis Invitational</title>
-    <desc lang="en">Frustrating weather delays has left everything to play for as Round two action begins.  </desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698d7091e4b0f2338c020823-1770877169485?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260221120000 +1100" stop="20260221164500 +1100" channel="4k.kayo.504">
+  <programme start="20260221120137 +1100" stop="20260221164637 +1100" channel="4k.kayo.504">
     <title lang="en">: Fremantle v West Coast</title>
     <desc lang="en">The Western Derby takes centre stage as AFL pre season continues to heat up.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6989a7bbe4b0316c9c97efa1-1771561158246?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260221153000 +1100" stop="20260221185500 +1100" channel="4k.kayo.502">
+  <programme start="20260221153003 +1100" stop="20260221185503 +1100" channel="4k.kayo.502">
     <title lang="en">Pre Season Challenge: Cronulla vs Canberra</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">The Sharks &amp; Raiders finish their pre-season with the opening game of a double header in Gosford on the NSW Central Coast.</desc>
@@ -113,11 +41,11 @@
     <desc lang="en">Roosters recruit Daly Cherry-Evans &amp; Eels skipper Mitch Moses will make their first appearance of this pre-season as both sides prepare for Round 1.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698bdd57e4b039d623895a73-1770774619960?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260221195500 +1100" stop="20260221234500 +1100" channel="4k.kayo.502">
+  <programme start="20260221203015 +1100" stop="20260222002015 +1100" channel="4k.kayo.502">
     <title lang="en">Pre Season Challenge: Melbourne vs Gold Coast Titans</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Sunshine Coast Stadium is the venue for this clash giving both clubs an opportunity for a final hitout before Round 1.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698bdd63e4b07cfa8a01515b-1770774278598?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698bdd63e4b07cfa8a01515b-1771667689043?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260222045500 +1100" stop="20260222081000 +1100" channel="4k.kayo.502">
     <title lang="en">: Toulouse v Castleford</title>
@@ -129,7 +57,7 @@
     <desc lang="en">Round 2 of the Super League from The Brick Community Stadium.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698e8a83e4b0f2048d5928a2-1770954246108?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260221184500 +1100" stop="20260221235500 +1100" channel="4k.kayo.501">
+  <programme start="20260221184503 +1100" stop="20260221235503 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Twenty20 Internationals: Australia Women vs India Women</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Game Three - With Georgia Voll powering Australia to a 1-1 series tie, it’s game on in the T20 series decider.</desc>
@@ -140,7 +68,7 @@
     <desc lang="en">Qualifying for Race 2 begins with drivers looking to achieve one of the 10 fastest times to secure a place in this afternoon’s shootout.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698e4a0ee4b0afb9cfcc9443-1770933038383?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260221125000 +1100" stop="20260221144000 +1100" channel="4k.kayo.505">
+  <programme start="20260221125009 +1100" stop="20260221144009 +1100" channel="4k.kayo.505">
     <title lang="en">: Australia: Superpole</title>
     <desc lang="en">The first day of the new World Superbikes season starts from Phillip Island with the Superpole.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698ec1f4e4b003c9647f5fd4-1770963674819?location=hero-portrait-m2&amp;imwidth=720" />
@@ -155,7 +83,7 @@
     <desc lang="en">Pole position is up for grabs in the Top 10 Shootout, which will set the grid for Race 2 at Sydney Motorsport Park.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698e4a13e4b0c76be6161fb3-1770933172671?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260221190000 +1100" stop="20260221225500 +1100" channel="4k.kayo.506">
+  <programme start="20260221190004 +1100" stop="20260221225504 +1100" channel="4k.kayo.506">
     <title lang="en">: Sydney 500</title>
     <desc lang="en">Race 2: We are racing under lights at Sydney Motorsport Park. Cam Waters will be looking for a repeat of his thrilling Saturday night victory last year.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698e4a18e4b0b59266c46402-1770933197612?location=hero-portrait-m2&amp;imwidth=720" />
@@ -170,19 +98,19 @@
     <desc lang="en">After The Flag: A full wrap-up of Day 1 of the MotoGP full-grid test at the Buriram International Circuit in Thailand.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698ec9ede4b0c76be6162017-1770967123069?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260221133000 +1100" stop="20260221174000 +1100" channel="4k.kayo.503">
+  <programme start="20260221133010 +1100" stop="20260221174010 +1100" channel="4k.kayo.503">
     <title lang="en">: NZ PGA Championship</title>
     <desc lang="en">Round three coverage from the New Zealand PGA Championship at Paraparaumu Beach Golf Club.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698d5748e4b0afb9cfcc942d-1770870693438?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260221203000 +1100" stop="20260222021000 +1100" channel="4k.kayo.503">
+  <programme start="20260221173013 +1100" stop="20260222021013 +1100" channel="4k.kayo.503">
     <title lang="en">: Kenya Open</title>
     <desc lang="en">Third round of the Kenya Open tees off at the Karen Country Club.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698d4a07e4b0c76be6161f8c-1771225849339?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260222020000 +1100" stop="20260222121000 +1100" channel="4k.kayo.503">
+  <programme start="20260222023000 +1100" stop="20260222121000 +1100" channel="4k.kayo.503">
     <title lang="en">: Genesis Invitational</title>
-    <desc lang="en">Third round coverage begins from The Riviera Country Club.</desc>
+    <desc lang="en">Third round coverage begins from The Riviera Country Club, with Rory McIlroy sitting one shot off the lead.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698d708be4b0c76be6161fa5-1770877194755?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260222153000 +1100" stop="20260222194000 +1100" channel="4k.kayo.502">
@@ -232,7 +160,7 @@
     <desc lang="en">Final round coverage from the New Zealand PGA Championship at Paraparaumu Beach Golf Club.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698d5666e4b04efc622ddd78-1770870690330?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260222193000 +1100" stop="20260223014000 +1100" channel="4k.kayo.503">
+  <programme start="20260222170000 +1100" stop="20260223014000 +1100" channel="4k.kayo.503">
     <title lang="en">: Kenya Open</title>
     <desc lang="en">Final round of the Kenya Open tees off at the Karen Country Club.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698d4a0ae4b003c9647f5ee6-1771208114855?location=hero-portrait-m2&amp;imwidth=720" />
