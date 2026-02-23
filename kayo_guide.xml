@@ -24,64 +24,7 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20260222153003 +1100" stop="20260222194003 +1100" channel="4k.kayo.502">
-    <title lang="en">Pre Season Challenge: South Sydney vs Manly</title>
-    <sub-title lang="en">2026</sub-title>
-    <desc lang="en">Plenty of big name Rabbitohs players &amp; Sea Eagles recruit Jamal Fogarty will feature in this game at Glen Willow Stadium in Mudgee.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698bdd6ce4b06f6c5833cfff-1771376761348?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260223015500 +1100" stop="20260223051000 +1100" channel="4k.kayo.502">
-    <title lang="en">: Huddersfield v Wakefield</title>
-    <desc lang="en">Round 2 of the Super League from The Accu Stadium.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698e8b11e4b0afb9cfcc9477-1770954258085?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260222211016 +1100" stop="20260223072516 +1100" channel="4k.kayo.501">
-    <title lang="en">Women's One-Day Internationals: South Africa Women vs Pakistan Women</title>
-    <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">South Africa aim to move past their heartbreaking World Cup final defeat when they take on Pakistan.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/697ae50ce4b0c1bd60b48a97-1771302042590?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260222124500 +1100" stop="20260222144500 +1100" channel="4k.kayo.505">
-    <title lang="en">: Australia: S.Pole Race</title>
-    <desc lang="en">Phillip Island hosts the second and final day of round one of the 2026 World Superbikes Season, starting with the Superpole Race.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/699500bbe4b0fcc9a3004102-1771372845735?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260222130000 +1100" stop="20260222163000 +1100" channel="4k.kayo.506">
-    <title lang="en">: Sydney</title>
-    <desc lang="en">The final Top 10 Shootout of the opening round begins as we find out who will start from pole in Race 3.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698e4a1de4b0c76be6161fb4-1770933438247?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260222141514 +1100" stop="20260222181014 +1100" channel="4k.kayo.505">
-    <title lang="en">: Australia: Race 2</title>
-    <desc lang="en">With champion Toprak Razgatlioglu having departed for MotoGP, the 2026 grid is hungry to claim the vacant throne. Aussie Remy Gardner targets a home podium in his fourth season.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6994ffb7e4b04b00b736ec19-1771372648083?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260222152836 +1100" stop="20260222194836 +1100" channel="4k.kayo.506">
-    <title lang="en">: Sydney 500</title>
-    <desc lang="en">Race 3: The opening round of Supercars action wraps up with a 52 lap showdown, as Broc Feeney looks for his second win of the weekend.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698e4a2ae4b0b59266c46403-1770933441310?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260223060000 +1100" stop="20260223121000 +1100" channel="4k.kayo.506">
-    <title lang="en">: NASCAR</title>
-    <desc lang="en">Tyler Reddick will be eyeing off consecutive race wins to start 2026 when the next round of the Cup Series begins in Atlanta.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6992619ee4b08546c7ae1dc7-1771541011998?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260222113000 +1100" stop="20260222174000 +1100" channel="4k.kayo.503">
-    <title lang="en">: NZ PGA Championship</title>
-    <desc lang="en">Final round coverage from the New Zealand PGA Championship at Paraparaumu Beach Golf Club.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698d5666e4b04efc622ddd78-1770870690330?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260222170012 +1100" stop="20260223031012 +1100" channel="4k.kayo.503">
-    <title lang="en">: Kenya Open</title>
-    <desc lang="en">Final round of the Kenya Open tees off at the Karen Country Club.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698d4a0ae4b003c9647f5ee6-1771208114855?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260223020000 +1100" stop="20260223114000 +1100" channel="4k.kayo.503">
-    <title lang="en">: Genesis Invitational</title>
-    <desc lang="en">Final round coverage begins from The Riviera Country Club, with Rory McIlroy teeing off in the final group. </desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698d7080e4b0f2338c020822-1770882019602?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260223110000 +1100" stop="20260223134000 +1100" channel="4k.kayo.506">
+  <programme start="20260223113014 +1100" stop="20260223141014 +1100" channel="4k.kayo.506">
     <title lang="en">: Thailand Testing</title>
     <desc lang="en">After The Flag: A full wrap-up of the final day of the MotoGP full-grid test at the Buriram International Circuit in Thailand.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698ecfe8e4b04efc622dde05-1770967392753?location=hero-portrait-m2&amp;imwidth=720" />
@@ -91,7 +34,7 @@
     <desc lang="en">Atlanta and Boston clash in the TGL.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6993b700e4b0e578b983f2da-1771288377005?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260223113000 +1100" stop="20260223151000 +1100" channel="4k.kayo.505">
+  <programme start="20260223113011 +1100" stop="20260223151011 +1100" channel="4k.kayo.505">
     <title lang="en">: Unrivaled</title>
     <desc lang="en">Day 27: Some of the biggest stars in women's basketball take the court in this trailblazing three-on-three league.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69926e15e4b09e6a589d5096-1771204251594?location=hero-portrait-m2&amp;imwidth=720" />
@@ -101,7 +44,7 @@
     <desc lang="en">The 2026 Ultimate Pool Women's Champions League continues with Week Eight action.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6997be85e4b09e6ac7d7bcf9-1771552438639?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260224141500 +1100" stop="20260224231000 +1100" channel="4k.kayo.501">
+  <programme start="20260224141500 +1100" stop="20260224234000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's One-Day Internationals: Australia Women vs India Women</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Game One - Alyssa Healy’s farewell tour begins with Australia seeking ODI revenge against the world champion Indians.</desc>
@@ -115,7 +58,7 @@
   <programme start="20260225090000 +1100" stop="20260225121000 +1100" channel="4k.kayo.503">
     <title lang="en">: New York v The Bay</title>
     <desc lang="en">New York clash with the Bay in the TGL.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6985722ee4b0d8ecd84a7eaf-1770353249660?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6985722ee4b0d8ecd84a7eaf-1771801390311?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260224113000 +1100" stop="20260224151000 +1100" channel="4k.kayo.505">
     <title lang="en">: Unrivaled</title>
@@ -143,7 +86,7 @@
   <programme start="20260225130000 +1100" stop="20260225161000 +1100" channel="4k.kayo.503">
     <title lang="en">: Boston v New York</title>
     <desc lang="en">Boston and New York clash in the TGL.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6985729ee4b08febaadba1f2-1770353370527?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6985729ee4b08febaadba1f2-1771801571170?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260226160000 +1100" stop="20260226201000 +1100" channel="4k.kayo.504">
     <title lang="en">AFL Pre-Season: Sydney Swans vs Greater Western Sydney Giants</title>
@@ -160,7 +103,7 @@
   <programme start="20260227063000 +1100" stop="20260227104000 +1100" channel="4k.kayo.502">
     <title lang="en">: Wigan v Leigh</title>
     <desc lang="en">Round 3 of the Super League from The Brick Community Stadium.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6997b94ee4b0291be26eb9b7-1771551090495?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6997b94ee4b0291be26eb9b7-1771815880592?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260226123000 +1100" stop="20260226174000 +1100" channel="4k.kayo.503">
     <title lang="en">: New Zealand Open</title>
@@ -172,7 +115,7 @@
     <desc lang="en">First round coverage of the Women's World Championship begins from Sentosa Golf Club, Singapore.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/699684fae4b0afb925a926f6-1771472181167?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260226213000 +1100" stop="20260227041000 +1100" channel="4k.kayo.505">
+  <programme start="20260226213000 +1100" stop="20260227034000 +1100" channel="4k.kayo.505">
     <title lang="en">: South African Open</title>
     <desc lang="en">First round action of the South African Open tees off at Stellenbosch Golf Club.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69964251e4b0fcc9a3004139-1771455570450?location=hero-portrait-m2&amp;imwidth=720" />
@@ -207,12 +150,12 @@
   <programme start="20260228065500 +1100" stop="20260228101000 +1100" channel="4k.kayo.502">
     <title lang="en">: Castleford v Huddersfield</title>
     <desc lang="en">Round 3 of the Super League from The OneBore Stadium.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6997b9b6e4b04b009993e641-1771551202733?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6997b9b6e4b04b009993e641-1771815896035?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260228065500 +1100" stop="20260228101000 +1100" channel="4k.kayo.505">
     <title lang="en">: Hull FC v York</title>
     <desc lang="en">Round 3 of the Super League from MKM Stadium.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6997ba0de4b0afb925a92758-1771551270743?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6997ba0de4b0afb925a92758-1771815883904?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260227141500 +1100" stop="20260227234000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's One-Day Internationals: Australia Women vs India Women</title>
@@ -266,20 +209,26 @@
     <desc lang="en">The Saints look to back up a huge win last week in their final pre season match against the Bombers.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698e5939e4b003c9647f5f4f-1770937258770?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20260228180000 +1100" stop="20260228221000 +1100" channel="4k.kayo.504">
+    <title lang="en">AFL Pre-Season: Fremantle Dockers vs Adelaide Crows</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">The Dockers welcome the Crows to Mandurah for a final pre season hit out.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/699b8d2fe4b0d87cc4eed2be-1771802312702?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20260301042500 +1100" stop="20260301074000 +1100" channel="4k.kayo.502">
     <title lang="en">: Warrington v Wakefield</title>
     <desc lang="en">Round 3 of the Super League from Halliwell Jones Stadium.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6997bb1ce4b0fc3cf3e80c31-1771551572673?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6997bb1ce4b0fc3cf3e80c31-1771815776261?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260301045500 +1100" stop="20260301081000 +1100" channel="4k.kayo.505">
     <title lang="en">: Catalans v St Helens</title>
     <desc lang="en">Round 3 of the Super League from Stade Gilbert Brutus.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6997ba63e4b04b009993e643-1771551377462?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6997ba63e4b04b009993e643-1771815895971?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260301100000 +1100" stop="20260301141000 +1100" channel="4k.kayo.502">
     <title lang="en">: Hull KR v Leeds</title>
     <desc lang="en">Round 3 of the Super League from Allegiant Stadium, Las Vegas.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6997bac1e4b0291be26eb9bb-1771551468085?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6997bac1e4b0291be26eb9bb-1771815787812?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260228123500 +1100" stop="20260228143500 +1100" channel="4k.kayo.506">
     <title lang="en">: Thailand: Practice 3</title>
@@ -293,12 +242,12 @@
   </programme>
   <programme start="20260228183000 +1100" stop="20260228205500 +1100" channel="4k.kayo.506">
     <title lang="en">: Thailand: Sprint Race</title>
-    <desc lang="en">Points are on offer in MotoGP for the first time in 2026 with the Sprint Race.</desc>
+    <desc lang="en">Points are on offer for the first time in 2026, as reigning champion Marc Marquez looks to defend his crown against a revitalised Francesco Bagnaia.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6997f3b4e4b0afb925a92774-1771566181402?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260301060000 +1100" stop="20260301111000 +1100" channel="4k.kayo.506">
     <title lang="en">: NASCAR</title>
-    <desc lang="en">The famous Circuit of the Americas hosts the third round of the 2026 season.</desc>
+    <desc lang="en">With two rounds complete, Austin Hill sits atop the standings as the field prepares for its third race of the year at the famous Circuit of the Americas.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69969816e4b0e578d6fb0cf2-1771477088723?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260301072500 +1100" stop="20260301092500 +1100" channel="4k.kayo.506">
@@ -326,6 +275,11 @@
     <desc lang="en">Third round action of the Cognizant Classic from the Champions Course at PGA National Resort.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69964155e4b09e6a589d51c4-1771454928412?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20260228233000 +1100" stop="20260301013000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Cognizant Classic</title>
+    <desc lang="en">Featured Groups: Third round action of the Cognizant Classic from the Champions Course at PGA National Resort.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69978db3e4b0291be26eb97a-1771540008629?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20260228113000 +1100" stop="20260228151000 +1100" channel="4k.kayo.505">
     <title lang="en">: Unrivaled</title>
     <desc lang="en">Day 29: Some of the biggest stars in women's basketball take the court in this trailblazing three-on-three league.</desc>
@@ -348,10 +302,22 @@
     <desc lang="en">The Community Series comes to a close with the Eagles hosting the Power in Perth.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698e594be4b0c76be6161fc0-1770937378447?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20260301130000 +1100" stop="20260301162000 +1100" channel="4k.kayo.502">
+    <title lang="en">Premiership: Newcastle vs North Queensland</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">Round 1 begins from Allegiant Stadium, Las Vegas.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/699ba1dfe4b0291be26ebab9-1771811206077?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260301151000 +1100" stop="20260301191000 +1100" channel="4k.kayo.502">
+    <title lang="en">Premiership: Canterbury vs St George Illawarra</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">Round 1 begins from Allegiant Stadium, Las Vegas.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/699ba1e5e4b0291be26ebaba-1771811211682?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20260302015500 +1100" stop="20260302051000 +1100" channel="4k.kayo.502">
     <title lang="en">: Bradford v Toulouse</title>
     <desc lang="en">Round 3 of the Super League from Bartercard Odsal Stadium.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6997bb92e4b04b009993e645-1771551674938?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6997bb92e4b04b009993e645-1771815792541?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260301141500 +1100" stop="20260301234000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's One-Day Internationals: Australia Women vs India Women</title>
@@ -399,6 +365,16 @@
     <desc lang="en">Final round action of the South African Open tees off at Stellenbosch Golf Club.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6996426ae4b0afb9cfcc960a-1771455555838?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20260301233000 +1100" stop="20260302013000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Cognizant Classic</title>
+    <desc lang="en">Featured Groups: Final round action of the Cognizant Classic from the Champions Course at PGA National Resort.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69978ea9e4b09e6ac7d7bcd5-1771540196184?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260301233000 +1100" stop="20260302111000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Cognizant Classic</title>
+    <desc lang="en">Final round action of the Cognizant Classic from the Champions Course at PGA National Resort.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69964157e4b0afb9cfcc9605-1771454951805?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20260301120000 +1100" stop="20260301154000 +1100" channel="4k.kayo.505">
     <title lang="en">: Unrivaled</title>
     <desc lang="en">Day 30: Some of the biggest stars in women's basketball take the court in this trailblazing three-on-three league.</desc>
@@ -413,5 +389,10 @@
     <title lang="en">: Sweden: Day 1</title>
     <desc lang="en">Pro Tour Season XVII continues in Sälen, Sweden with the legendary Vasaloppet.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/699647e1e4b09e6a589d51ce-1771456630466?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260302130000 +1100" stop="20260302161000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Jupiter Links v Boston</title>
+    <desc lang="en">Jupiter Links and Boston clash in the TGL.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6993cca8e4b0fcc9a300407c-1771294004420?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
 </tv>
