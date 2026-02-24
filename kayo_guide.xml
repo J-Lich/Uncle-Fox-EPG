@@ -24,43 +24,23 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20260223113014 +1100" stop="20260223141014 +1100" channel="4k.kayo.506">
-    <title lang="en">: Thailand Testing</title>
-    <desc lang="en">After The Flag: A full wrap-up of the final day of the MotoGP full-grid test at the Buriram International Circuit in Thailand.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698ecfe8e4b04efc622dde05-1770967392753?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260224090000 +1100" stop="20260224121000 +1100" channel="4k.kayo.503">
-    <title lang="en">: Atlanta v Boston</title>
-    <desc lang="en">Atlanta and Boston clash in the TGL.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6993b700e4b0e578b983f2da-1771288377005?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260223113011 +1100" stop="20260223151011 +1100" channel="4k.kayo.505">
-    <title lang="en">: Unrivaled</title>
-    <desc lang="en">Day 27: Some of the biggest stars in women's basketball take the court in this trailblazing three-on-three league.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69926e15e4b09e6a589d5096-1771204251594?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260224050000 +1100" stop="20260224094000 +1100" channel="4k.kayo.505">
-    <title lang="en">: Women's Champions League</title>
-    <desc lang="en">The 2026 Ultimate Pool Women's Champions League continues with Week Eight action.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6997be85e4b09e6ac7d7bcf9-1771552438639?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
   <programme start="20260224141500 +1100" stop="20260224234000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's One-Day Internationals: Australia Women vs India Women</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">Game One - Alyssa Healy’s farewell tour begins with Australia seeking ODI revenge against the world champion Indians.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6972c9d1e4b02de0a8e177df-1770688139711?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260224130000 +1100" stop="20260224161000 +1100" channel="4k.kayo.503">
+  <programme start="20260224130006 +1100" stop="20260224161006 +1100" channel="4k.kayo.503">
     <title lang="en">: Los Angeles v Atlanta</title>
     <desc lang="en">Los Angeles clash with Atlanta in the TGL.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6993b759e4b0e578b983f2db-1771288832809?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260225090000 +1100" stop="20260225121000 +1100" channel="4k.kayo.503">
     <title lang="en">: New York v The Bay</title>
-    <desc lang="en">New York clash with the Bay in the TGL.</desc>
+    <desc lang="en">Rickie Fowler's New York clash with Shane Lowry's Bay Golf Club with both sides desperate for points.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6985722ee4b0d8ecd84a7eaf-1771801390311?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260224113000 +1100" stop="20260224151000 +1100" channel="4k.kayo.505">
+  <programme start="20260224113016 +1100" stop="20260224151016 +1100" channel="4k.kayo.505">
     <title lang="en">: Unrivaled</title>
     <desc lang="en">Day 28: Some of the biggest stars in women's basketball take the court in this trailblazing three-on-three league.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6993ada8e4b0fcc9a300406d-1771285997955?location=hero-portrait-m2&amp;imwidth=720" />
@@ -68,16 +48,16 @@
   <programme start="20260225190000 +1100" stop="20260225231000 +1100" channel="4k.kayo.504">
     <title lang="en">AFL Pre-Season: Carlton Blues vs Geelong Cats</title>
     <sub-title lang="en">2026</sub-title>
-    <desc lang="en">The Blues and Cats kick off the 2026 Community Series with a clash at IKON Park.</desc>
+    <desc lang="en">Blues fans return to Ikon Park to watch Jagga Smith run out for the first time, when they host Geelong in the last hit-out before 2026 season begins.  </desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698e590fe4b0c76be6161fbd-1770937153787?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260225170000 +1100" stop="20260225221000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Twenty20 Internationals: New Zealand Women vs Zimbabwe Women</title>
     <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">The White Ferns host Zimbabwe’s Lady Chevrons for the first time ever in a bilateral T20 series.</desc>
+    <desc lang="en">Amelia Kerr begins her full-time captaincy as New Zealand host Zimbabwe Women in their first-ever bilateral T20 series.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69811e86e4b0efe8195838fe-1771299898958?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260225225500 +1100" stop="20260226081000 +1100" channel="4k.kayo.501">
+  <programme start="20260225225500 +1100" stop="20260226071000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's One-Day Internationals: South Africa Women vs Pakistan Women</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">World No. 1 Laura Wolvaardt leads the Proteas against a resilient Pakistan in Centurion.</desc>
@@ -85,19 +65,19 @@
   </programme>
   <programme start="20260225130000 +1100" stop="20260225161000 +1100" channel="4k.kayo.503">
     <title lang="en">: Boston v New York</title>
-    <desc lang="en">Boston and New York clash in the TGL.</desc>
+    <desc lang="en">Rory McIlroy and Adam Scott lead a Boston squad as they clash against New York.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6985729ee4b08febaadba1f2-1771801571170?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260226160000 +1100" stop="20260226201000 +1100" channel="4k.kayo.504">
     <title lang="en">AFL Pre-Season: Sydney Swans vs Greater Western Sydney Giants</title>
     <sub-title lang="en">2026</sub-title>
-    <desc lang="en">The Swans and Giants collide in a pre season battle of the bridge.</desc>
+    <desc lang="en">The Swans and Giants unleash prized recruits Charlie Curnow and Clayton Oliver in their final tune up before season 2026. </desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698e5919e4b0b59266c46411-1770942781301?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260226190000 +1100" stop="20260226231000 +1100" channel="4k.kayo.504">
     <title lang="en">AFL Pre-Season: Brisbane Lions vs Gold Coast Suns</title>
     <sub-title lang="en">2026</sub-title>
-    <desc lang="en">The reigning premiers meet their local rivals for a pre season QClash.</desc>
+    <desc lang="en">The AAMI Community Series continues when the two Queensland sides meet for one last hit out ahead of the 2026 season. </desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/698e5920e4b0c76be6161fbe-1770937395359?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260227063000 +1100" stop="20260227104000 +1100" channel="4k.kayo.502">
@@ -139,7 +119,7 @@
     <title lang="en">AFL Pre-Season: Melbourne Demons vs Richmond Tigers</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">The Demons and Tigers meet with both teams looking to finish their pre seasons with a win.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698e5928e4b04efc622ddda6-1770937164105?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698e5928e4b04efc622ddda6-1771910623092?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260227190000 +1100" stop="20260227231000 +1100" channel="4k.kayo.504">
     <title lang="en">AFL Pre-Season: Western Bulldogs vs Hawthorn Hawks</title>
@@ -213,7 +193,7 @@
     <title lang="en">AFL Pre-Season: Fremantle Dockers vs Adelaide Crows</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">The Dockers welcome the Crows to Mandurah for a final pre season hit out.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/699b8d2fe4b0d87cc4eed2be-1771802312702?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/699b8d2fe4b0d87cc4eed2be-1771902062287?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260301042500 +1100" stop="20260301074000 +1100" channel="4k.kayo.502">
     <title lang="en">: Warrington v Wakefield</title>
@@ -294,7 +274,7 @@
     <title lang="en">AFL Pre-Season: North Melbourne Kangaroos vs Collingwood Magpies</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">The Kangaroos and Magpies meet in Ballarat with both teams looking to end pre season with a win.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698e5943e4b0c76be6161fbf-1770937462146?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/698e5943e4b0c76be6161fbf-1771901931160?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260301180000 +1100" stop="20260301221000 +1100" channel="4k.kayo.504">
     <title lang="en">AFL Pre-Season: West Coast Eagles vs Port Adelaide Power</title>
@@ -333,12 +313,12 @@
   <programme start="20260301154500 +1100" stop="20260301181000 +1100" channel="4k.kayo.506">
     <title lang="en">: Thailand: Race</title>
     <desc lang="en">The 2026 Moto3 Championship begins with the first race of the season in Thailand. Title favourite Maximo Quiles leads the pack of young talent.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/699a607ee4b0afb925a92790-1771725481392?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/699a607ee4b0afb925a92790-1771914579051?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260301170000 +1100" stop="20260301192500 +1100" channel="4k.kayo.506">
     <title lang="en">: Thailand: Race</title>
     <desc lang="en">The 2026 Moto2 Championship begins with the first race of the season in Thailand. Reigning Moto3 champion Jose Antonio Rueda makes his intermediate class debut.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/699a6339e4b0291be26eba52-1771726271283?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/699a6339e4b0291be26eba52-1771891099342?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260301181500 +1100" stop="20260301212500 +1100" channel="4k.kayo.506">
     <title lang="en">: Thailand: Race</title>
@@ -392,7 +372,22 @@
   </programme>
   <programme start="20260302130000 +1100" stop="20260302161000 +1100" channel="4k.kayo.503">
     <title lang="en">: Jupiter Links v Boston</title>
-    <desc lang="en">Jupiter Links and Boston clash in the TGL.</desc>
+    <desc lang="en">Tiger Woods leads the Jupiter Links team as they clash with a Boston side featuring Aussie Adam Scott.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/6993cca8e4b0fcc9a300407c-1771294004420?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260303050000 +1100" stop="20260303094000 +1100" channel="4k.kayo.505">
+    <title lang="en">: Women's Champions League</title>
+    <desc lang="en">The 2026 Ultimate Pool Women's Champions League continues with Week Nine action.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/699ceb36e4b067f0611bde18-1771891613347?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260303110000 +1100" stop="20260303141000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Los Angeles v New York</title>
+    <desc lang="en">Tommy Fleetwood features in an LA team battling against Rickie Fowler's New York.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6993ccb3e4b0afb9cfcc9557-1771293994129?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260304130000 +1100" stop="20260304161000 +1100" channel="4k.kayo.503">
+    <title lang="en">: The Bay v Jupiter Links</title>
+    <desc lang="en">Aussie Min Woo Lee features for The Bay as they clash with Jupiter Links.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/6993ccb6e4b06897040b4938-1771294013272?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
 </tv>
