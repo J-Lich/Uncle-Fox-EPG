@@ -24,62 +24,36 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20260312183000 +1100" stop="20260313001000 +1100" channel="4k.kayo.504">
-    <title lang="en">AFL: Carlton Blues vs Richmond Tigers</title>
-    <sub-title lang="en">2026</sub-title>
-    <desc lang="en">Fox Footy has all the build up and fallout from the MCG as Carlton look to rebound from an early loss when they host a young and improving Richmond.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69a8ec7be4b0757d0d8eabf2-1773141691126?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260312183000 +1100" stop="20260312230500 +1100" channel="4k.kayo.502">
-    <title lang="en">Premiership: Brisbane vs Parramatta</title>
-    <sub-title lang="en">2026</sub-title>
-    <desc lang="en">Round 2 begins with the defending premiers looking to reverse last year's Round 21 upset by the visitors.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69a91a78e4b0757d0d8eac15-1773180356363?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260312223000 +1100" stop="20260313111000 +1100" channel="4k.kayo.503">
-    <title lang="en">: The Players Championship</title>
-    <desc lang="en">Scottie Scheffler leads a strong field chasing an early edge. Australia’s Min Woo Lee targets a fast start.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69a8d319e4b0757d0d8eabc0-1773182562515?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260312233007 +1100" stop="20260313112507 +1100" channel="4k.kayo.503">
-    <title lang="en">: The Players Championship</title>
-    <desc lang="en">Featured Groups: First round action of The Players Championship from TPC Sawgrass.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69a8d326e4b09484fd6174b2-1773265857039?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260312123003 +1100" stop="20260312184003 +1100" channel="4k.kayo.505">
-    <title lang="en">: Women's Australian Open</title>
-    <desc lang="en">Minjee Lee and Hannah Green headline a strong home field as contenders seek an early lead in the opening round.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa07d1e4b0757d0d8eac45-1773285572619?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260313060000 +1100" stop="20260313111000 +1100" channel="4k.kayo.506">
-    <title lang="en">: Premier League</title>
-    <desc lang="en">Nottingham Arena hosts Night Six as Price and Littler clash in a must-see first round matchup.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69a8c5c4e4b09484fd6174a4-1772668400571?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260313183000 +1100" stop="20260314002500 +1100" channel="4k.kayo.504">
+  <programme start="20260313183006 +1100" stop="20260314002506 +1100" channel="4k.kayo.504">
     <title lang="en">AFL: Essendon Bombers vs Hawthorn Hawks</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Two of the competition's fiercest rivals meet in a Round 1 Friday night blockbuster.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa24bde4b00117d8deb1e4-1773141700918?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260313195500 +1100" stop="20260314000500 +1100" channel="4k.kayo.502">
+  <programme start="20260313170008 +1100" stop="20260313210508 +1100" channel="4k.kayo.502">
+    <title lang="en">Premiership: Warriors vs Canberra</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">A great way for Friday Night Footy to kick off with two Round 1 winners.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa6718e4b00ddba33758d3-1772784864830?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260313195723 +1100" stop="20260314000723 +1100" channel="4k.kayo.502">
     <title lang="en">Premiership: Sydney Roosters vs South Sydney</title>
     <sub-title lang="en">2026</sub-title>
-    <desc lang="en">The Book of Feuds - the oldest rivalry in rugby league, fuelled by drama on &amp; off the field.  Plus the all-time try scoring record looming for AJ.</desc>
+    <desc lang="en">The Book of Feuds - the oldest rivalry in rugby league, fuelled by drama on &amp; off the field. Plus the all-time try scoring record looming for AJ.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa6778e4b00ddba33758d4-1773223183194?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260313121000 +1100" stop="20260313140500 +1100" channel="4k.kayo.506">
+  <programme start="20260313121016 +1100" stop="20260313140516 +1100" channel="4k.kayo.506">
     <title lang="en">: China: Practice</title>
     <desc lang="en">The 2026 F1 Academy season gets underway, with a mixture of returning drivers and fresh faces for the Shanghai season opener.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69ac0d6ae4b0757d0d8eacf5-1772883581237?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260313140000 +1100" stop="20260313165500 +1100" channel="4k.kayo.506">
+  <programme start="20260313140004 +1100" stop="20260313165504 +1100" channel="4k.kayo.506">
     <title lang="en">Formula One World Championship: Chinese Grand Prix</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">A week on from a chaotic Australian Grand Prix weekend, drivers head out for the only practice session at the Shanghai Circuit.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69ac0a1be4b09484fd6175f6-1773022919144?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260313170800 +1100" stop="20260313185500 +1100" channel="4k.kayo.506">
+  <programme start="20260313170819 +1100" stop="20260313185519 +1100" channel="4k.kayo.506">
     <title lang="en">: China: Qualifying</title>
     <desc lang="en">The 2026 F1 Academy season gets underway, with a mixture of returning drivers and fresh faces for the Shanghai season opener.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69ac0f4ee4b0757d0d8eacf7-1772884064264?location=hero-portrait-m2&amp;imwidth=720" />
@@ -90,20 +64,20 @@
     <desc lang="en">China is the first of six sprint events this season, as drivers battle for pole position in the opening Sprint Qualifying session of 2026.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69ac0996e4b0757d0d8eacf1-1773022948606?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260313123000 +1100" stop="20260313184000 +1100" channel="4k.kayo.505">
-    <title lang="en">: Women's Australian Open</title>
-    <desc lang="en">Second round action of the Women's Australian Open from Kooyonga Golf Club.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa089ae4b096b0a7d70f8c-1773285822688?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260313223000 +1100" stop="20260314111000 +1100" channel="4k.kayo.503">
+  <programme start="20260313223016 +1100" stop="20260314111016 +1100" channel="4k.kayo.503">
     <title lang="en">: The Players Championship</title>
-    <desc lang="en">Second round action of The Players Championship from the TPC Sawgrass.</desc>
+    <desc lang="en">McNealy, Theegala, Hodges and Straka share the lead after round one. Scheffler leads the chase before the cut.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa0aece4b00117d8deb1cc-1773182854547?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260313233000 +1100" stop="20260314013000 +1100" channel="4k.kayo.503">
+  <programme start="20260313233036 +1100" stop="20260314013036 +1100" channel="4k.kayo.505">
     <title lang="en">: The Players Championship</title>
     <desc lang="en">Featured Groups: Second round action of The Players Championship from TPC Sawgrass.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69a8d32ae4b00ddba33757f7-1773265920370?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260313123004 +1100" stop="20260313184004 +1100" channel="4k.kayo.505">
+    <title lang="en">: Women's Australian Open</title>
+    <desc lang="en">Darcey Harry leads after an opening 66. Australia’s Hannah Green and Minjee Lee aim to climb the leaderboard.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa089ae4b096b0a7d70f8c-1773285822688?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260314123000 +1100" stop="20260314171000 +1100" channel="4k.kayo.504">
     <title lang="en">AFL: Western Bulldogs vs Greater Western Sydney Giants</title>
@@ -174,7 +148,7 @@
     <desc lang="en">Third round action of The Players Championship from the TPC Sawgrass.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa0ba8e4b0aeca189dd25d-1772751839265?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260314233000 +1100" stop="20260315013000 +1100" channel="4k.kayo.503">
+  <programme start="20260314233000 +1100" stop="20260315013000 +1100" channel="4k.kayo.505">
     <title lang="en">: The Players Championship</title>
     <desc lang="en">Featured Groups: Third round action of The Players Championship from TPC Sawgrass.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69a8d32ee4b00117d8deb160-1772672143233?location=hero-portrait-m2&amp;imwidth=720" />
@@ -206,7 +180,7 @@
   <programme start="20260315180000 +1100" stop="20260315225500 +1100" channel="4k.kayo.504">
     <title lang="en">AFL: Gold Coast Suns vs West Coast Eagles</title>
     <sub-title lang="en">2026</sub-title>
-    <desc lang="en">Round 1 concludes with the Eagles opening their 2026 campaign with a trip to the Gold Coast. </desc>
+    <desc lang="en">Round 1 concludes with the Eagles opening their 2026 campaign with a trip to the Gold Coast.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa292ce4b0757d0d8eac70-1773179857498?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260315150000 +1100" stop="20260315191000 +1100" channel="4k.kayo.502">
@@ -220,12 +194,6 @@
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Suncorp Stadium in Brisbane is the venue for a Queensland Derby expected to involve plenty of points.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa67c9e4b0757d0d8eac9f-1773202929472?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260315123000 +1100" stop="20260315172000 +1100" channel="4k.kayo.501">
-    <title lang="en">Women's Twenty20 Internationals: New Zealand Women vs South Africa Women</title>
-    <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">Game One - New Zealand’s Sophie Devine and Suzie Bates return to bolster the White Ferns' defence against a vengeful South Africa.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa1b72e4b00ddba33758a2-1773285921500?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260315163000 +1100" stop="20260315221000 +1100" channel="4k.kayo.501">
     <title lang="en">Twenty20 Internationals: New Zealand vs South Africa</title>
@@ -254,7 +222,7 @@
     <desc lang="en">Final round action of The Players Championship from the TPC Sawgrass.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa0c3ce4b0aeca189dd25f-1772752026921?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260315230000 +1100" stop="20260316010000 +1100" channel="4k.kayo.503">
+  <programme start="20260315230000 +1100" stop="20260316010000 +1100" channel="4k.kayo.505">
     <title lang="en">: The Players Championship</title>
     <desc lang="en">Featured Groups: Final round action of The Players Championship from TPC Sawgrass.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69a8d331e4b00117d8deb161-1772672180611?location=hero-portrait-m2&amp;imwidth=720" />
@@ -265,7 +233,7 @@
     <desc lang="en">The Vixens begin their quest to go back-to-back as they travel to Queensland to take on last year's wooden spooners at Nissan Arena.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa653fe4b096b0a7d70fd9-1772782459216?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260315154500 +1100" stop="20260315185500 +1100" channel="4k.kayo.505">
+  <programme start="20260315154500 +1100" stop="20260315184000 +1100" channel="4k.kayo.505">
     <title lang="en">Suncorp Super Netball: West Coast Fever vs Sunshine Coast Lightning</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">After a heartbreaking grand final loss the Fever will be out for revenge as they begin their season hosting the Lightning at RAC Arena.</desc>
@@ -279,7 +247,7 @@
   <programme start="20260316010000 +1100" stop="20260316061000 +1100" channel="4k.kayo.506">
     <title lang="en">: Rome</title>
     <desc lang="en">Session two: The world’s best karate athletes are heading to Rome for the next stop of the Karate One Premier League.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69af5cfbe4b09484fd61770a-1773100359128?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69af5cfbe4b09484fd61770a-1773355070919?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260317050000 +1100" stop="20260317094000 +1100" channel="4k.kayo.505">
     <title lang="en">: Women's Champions League</title>
@@ -301,12 +269,12 @@
   <programme start="20260318093000 +1100" stop="20260318124000 +1100" channel="4k.kayo.503">
     <title lang="en">: Atlanta v Los Angeles Semi Final</title>
     <desc lang="en">Justin Thomas and Patrick Cantlay lead Atlanta against Collin Morikawa and Tommy Fleetwood, with a finals place at stake.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b0de60e4b07c2decfde80a-1773199077473?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b0de60e4b07c2decfde80a-1773377014119?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260318120000 +1100" stop="20260318151000 +1100" channel="4k.kayo.503">
     <title lang="en">: Jupiter Links v Boston Semi Final</title>
     <desc lang="en">Max Homa and Tom Kim lead Jupiter Links against Rory McIlroy and Australia’s Adam Scott, with a place in the final on the line.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b0de6be4b09484fd6177b2-1773200161252?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b0de6be4b09484fd6177b2-1773376975863?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260319183000 +1100" stop="20260320001000 +1100" channel="4k.kayo.504">
     <title lang="en">AFL: Hawthorn Hawks vs Sydney Swans</title>
@@ -314,35 +282,69 @@
     <desc lang="en">The Hawks host the Swans in Round 2.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b240b6e4b09484fd61786a-1773289781281?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20260319183000 +1100" stop="20260319230500 +1100" channel="4k.kayo.502">
+    <title lang="en">Premiership: Canberra vs Canterbury</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">Watch Round 3 of the NRL on Kayo.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b240bce4b02037cf97bb7d-1773358537826?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20260320063000 +1100" stop="20260320103000 +1100" channel="4k.kayo.502">
     <title lang="en">: Wigan v York</title>
     <desc lang="en">Round 5 of the Super League from The Brick Community Stadium.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b211cbe4b09484fd617844-1773277690054?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b211cbe4b09484fd617844-1773377707234?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260319223000 +1100" stop="20260320101000 +1100" channel="4k.kayo.503">
-    <title lang="en">: Valspar Championship</title>
+    <title lang="en">: Valspar Championship Round 1</title>
     <desc lang="en">First round action of Valspar Championship from Innisbrook Resort and Golf Club.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b226efe4b07c2decfde8aa-1773283148747?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20260319230000 +1100" stop="20260320010000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Valspar Championship R1 FG</title>
+    <desc lang="en">First round action of Valspar Championship from Innisbrook Resort and Golf Club.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b23cc9e4b099514be9d824-1773288706105?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260320090000 +1100" stop="20260320131000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Founders Cup</title>
+    <desc lang="en">First round coverage of the Founders Cup begins from Sharon Heights Golf and Country Club.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b35888e4b09484fd6178fb-1773361413137?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20260320060000 +1100" stop="20260320111000 +1100" channel="4k.kayo.505">
     <title lang="en">: Premier League</title>
-    <desc lang="en">The tournament moves to Dublin as the 3Arena hosts Night Seven.</desc>
+    <desc lang="en">The tournament moves to Dublin as the 3Arena hosts Night Seven. Current leader Jonny Clayton takes on Luke Humphries in the first round.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b20293e4b07c2decfde872-1773273820032?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260320183000 +1100" stop="20260321001000 +1100" channel="4k.kayo.504">
+    <title lang="en">AFL: Adelaide Crows vs Western Bulldogs</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">Adelaide hosts the Western Bulldogs in Round 2.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b2694ee4b068c636de9f9c-1773349574166?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260320170000 +1100" stop="20260320210500 +1100" channel="4k.kayo.502">
+    <title lang="en">Premiership: Sydney Roosters vs Penrith</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">Watch Round 3 of the NRL on Kayo.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b26791e4b09484fd61787e-1773349685003?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260320195500 +1100" stop="20260321000500 +1100" channel="4k.kayo.502">
+    <title lang="en">Premiership: Melbourne vs Brisbane</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">Watch Round 3 of the NRL on Kayo.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b267c9e4b099514be9d846-1773349693058?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260321045500 +1100" stop="20260321080500 +1100" channel="4k.kayo.505">
     <title lang="en">: Toulouse v St Helens</title>
     <desc lang="en">Round 5 of the Super League from Stade Ernest Wallon.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b2126fe4b09484fd617846-1773277835898?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b2126fe4b09484fd617846-1773370141601?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260321063000 +1100" stop="20260321103000 +1100" channel="4k.kayo.502">
     <title lang="en">: Wakefield v Leigh</title>
     <desc lang="en">Round 5 of the Super League from The Dly Kitchens Stadium.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b212c6e4b068c636de9f58-1773277978491?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b212c6e4b068c636de9f58-1773370147365?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260321065500 +1100" stop="20260321101000 +1100" channel="4k.kayo.505">
     <title lang="en">: Bradford v Huddersfield</title>
     <desc lang="en">Round 5 of the Super League from Bartercard Odsal Stadium.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b21349e4b051fcd1caee2e-1773278058474?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b21349e4b051fcd1caee2e-1773370156685?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260320123000 +1100" stop="20260320174000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Twenty20 Internationals: New Zealand Women vs South Africa Women</title>
@@ -373,29 +375,86 @@
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b262ebe4b09484fd61787b-1773299169196?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260320223000 +1100" stop="20260321101000 +1100" channel="4k.kayo.503">
-    <title lang="en">: Valspar Championship</title>
+    <title lang="en">: Valspar Championship R2</title>
     <desc lang="en">Second round action of Valspar Championship from Innisbrook Resort and Golf Club.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b227b9e4b099514be9d812-1773284750039?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260321090000 +1100" stop="20260321131000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Founders Cup</title>
+    <desc lang="en">Second round coverage of the Founders Cup begins from Sharon Heights Golf and Country Club.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b35acce4b02037cf97bbeb-1773361963665?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260321120000 +1100" stop="20260321172500 +1100" channel="4k.kayo.504">
+    <title lang="en">AFL: Richmond Tigers vs Gold Coast Suns</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">The Tigers clash with the Suns in Round 2.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b26958e4b0025c4ab849a4-1773300097776?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260321161500 +1100" stop="20260321202500 +1100" channel="4k.kayo.504">
+    <title lang="en">AFL: Greater Western Sydney Giants vs St Kilda Saints</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">The Giants play host to the Saints in Round 2.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b269a3e4b0025c4ab849a6-1773300202485?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260321191500 +1100" stop="20260322014000 +1100" channel="4k.kayo.504">
+    <title lang="en">AFL: Fremantle Dockers vs Melbourne Demons</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">The Dockers kick off their home campaign against the Dees.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b269abe4b099514be9d84d-1773349594157?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260321123500 +1100" stop="20260321154000 +1100" channel="4k.kayo.502">
+    <title lang="en">NSW Cup: Newcastle vs Warriors</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">The New South Wales Cup expands to 14 teams with the introduction of Melbourne Storm. The sides provide depth &amp; rising stars for the NRL.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b343ade4b02037cf97bbda-1773372136519?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260321143000 +1100" stop="20260321180500 +1100" channel="4k.kayo.502">
+    <title lang="en">Premiership: Newcastle vs Warriors</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">Watch Round 3 of the NRL on Kayo.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b26801e4b02037cf97bb91-1773299740697?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260321165500 +1100" stop="20260321203500 +1100" channel="4k.kayo.502">
+    <title lang="en">Premiership: Cronulla vs Dolphins</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">Watch Round 3 of the NRL on Kayo.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b2680ae4b099514be9d848-1773349704419?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260321192500 +1100" stop="20260321235000 +1100" channel="4k.kayo.502">
+    <title lang="en">Premiership: South Sydney vs Wests Tigers</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">Watch Round 3 of the NRL on Kayo.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b2684de4b02037cf97bb94-1773299858197?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260322015500 +1100" stop="20260322051000 +1100" channel="4k.kayo.502">
     <title lang="en">: Warrington v Castleford</title>
     <desc lang="en">Round 5 of the Super League from Halliwell Jones Stadium.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b2147be4b068c636de9f5b-1773278387383?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b2147be4b068c636de9f5b-1773370167349?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260322042500 +1100" stop="20260322075000 +1100" channel="4k.kayo.502">
     <title lang="en">: Catalans v Hull KR</title>
     <desc lang="en">Round 5 of the Super League from Stade Gilbert Brutus.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b214d9e4b02037cf97bb5a-1773278466944?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b214d9e4b02037cf97bb5a-1773377741646?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260321223500 +1100" stop="20260322003500 +1100" channel="4k.kayo.506">
     <title lang="en">: Brazil: Practice 3</title>
     <desc lang="en">It's a new day in Brazil and the MotoGP action begins with the third and final practice session.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b2642de4b07c2decfde8d4-1773299102226?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20260321120000 +1100" stop="20260321181000 +1100" channel="4k.kayo.503">
+    <title lang="en">: WPGA Championship</title>
+    <desc lang="en">Third round action of the WPGA Championship from Sanctuary Cove Golf Club.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b3753fe4b068c636dea011-1773368753833?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20260321223000 +1100" stop="20260322101000 +1100" channel="4k.kayo.503">
     <title lang="en">: Valspar Championship</title>
     <desc lang="en">Third round action of Valspar Championship from Innisbrook Resort and Golf Club.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b22e36e4b02037cf97bb61-1773285037734?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260322090000 +1100" stop="20260322131000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Founders Cup</title>
+    <desc lang="en">Third round coverage of the Founders Cup begins from Sharon Heights Golf and Country Club.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b35c1ae4b099514be9d893-1773362300431?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260321184500 +1100" stop="20260321215500 +1100" channel="4k.kayo.505">
     <title lang="en">Suncorp Super Netball: Adelaide Thunderbirds vs West Coast Fever</title>
@@ -403,16 +462,40 @@
     <desc lang="en">The Thunderbirds and Fever clash in Adelaide.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b0fb57e4b03be4c4afa505-1773206389994?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20260322143000 +1100" stop="20260322191000 +1100" channel="4k.kayo.504">
+    <title lang="en">AFL: Port Adelaide Power vs Essendon Bombers</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">The Power get their first home game of the season against the Bombers.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b39087e4b07c2decfde93a-1773375702234?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260322180000 +1100" stop="20260322225500 +1100" channel="4k.kayo.504">
+    <title lang="en">AFL: West Coast Eagles vs North Melbourne Kangaroos</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">The Eagles welcome the Roos to WA in a battle of up-and-coming teams/</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b39092e4b068c636dea025-1773375696633?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260322150000 +1100" stop="20260322191000 +1100" channel="4k.kayo.502">
+    <title lang="en">Premiership: Parramatta vs St George Illawarra</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">Watch Round 3 of the NRL on Kayo.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b26854e4b068c636de9f99-1773349714851?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260322180000 +1100" stop="20260322212000 +1100" channel="4k.kayo.502">
+    <title lang="en">Premiership: North Queensland vs Gold Coast Titans</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">Watch Round 3 of the NRL on Kayo.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b2685ae4b09484fd617885-1773299941862?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20260323063000 +1100" stop="20260323103000 +1100" channel="4k.kayo.502">
     <title lang="en">: Hull FC v Leeds</title>
     <desc lang="en">Round 5 of the Super League from MKM Stadium.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b2184ce4b07c2decfde8a7-1773279346463?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b2184ce4b07c2decfde8a7-1773370016330?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260322123000 +1100" stop="20260322172000 +1100" channel="4k.kayo.501">
     <title lang="en">Women's Twenty20 Internationals: New Zealand Women vs South Africa Women</title>
     <sub-title lang="en">2025-26</sub-title>
     <desc lang="en">The series heads to the capital as the White Ferns and Proteas fight for a match-winning edge at Basin Reserve.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa1b83e4b09484fd617559-1773285887583?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa1b83e4b09484fd617559-1773354999860?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260322163000 +1100" stop="20260322215000 +1100" channel="4k.kayo.501">
     <title lang="en">Twenty20 Internationals: New Zealand vs South Africa</title>
@@ -420,10 +503,20 @@
     <desc lang="en">A crucial battle for momentum as the series reaches the business end in Wellington.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa1f5ee4b09484fd617563-1773275843793?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20260322120000 +1100" stop="20260322181000 +1100" channel="4k.kayo.503">
+    <title lang="en">: WPGA Championship</title>
+    <desc lang="en">Final round action of the WPGA Championship from Sanctuary Cove Golf Club.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b375efe4b099514be9d89d-1773368848739?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20260322223000 +1100" stop="20260323101000 +1100" channel="4k.kayo.503">
     <title lang="en">: Valspar Championship</title>
     <desc lang="en">Final round action of Valspar Championship from Innisbrook Resort and Golf Club.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b22f32e4b02037cf97bb63-1773285825796?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260323090000 +1100" stop="20260323131000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Founders Cup</title>
+    <desc lang="en">Final round coverage of the Founders Cup begins from Sharon Heights Golf and Country Club.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b35da5e4b07c2decfde923-1773362882612?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260322143000 +1100" stop="20260322175500 +1100" channel="4k.kayo.505">
     <title lang="en">Suncorp Super Netball: Giants Netball vs Melbourne Vixens</title>
