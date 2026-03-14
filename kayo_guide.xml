@@ -24,115 +24,60 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20260313183006 +1100" stop="20260314002506 +1100" channel="4k.kayo.504">
-    <title lang="en">AFL: Essendon Bombers vs Hawthorn Hawks</title>
-    <sub-title lang="en">2026</sub-title>
-    <desc lang="en">Two of the competition's fiercest rivals meet in a Round 1 Friday night blockbuster.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa24bde4b00117d8deb1e4-1773141700918?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260313170008 +1100" stop="20260313210508 +1100" channel="4k.kayo.502">
-    <title lang="en">Premiership: Warriors vs Canberra</title>
-    <sub-title lang="en">2026</sub-title>
-    <desc lang="en">A great way for Friday Night Footy to kick off with two Round 1 winners.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa6718e4b00ddba33758d3-1772784864830?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260313195723 +1100" stop="20260314000723 +1100" channel="4k.kayo.502">
-    <title lang="en">Premiership: Sydney Roosters vs South Sydney</title>
-    <sub-title lang="en">2026</sub-title>
-    <desc lang="en">The Book of Feuds - the oldest rivalry in rugby league, fuelled by drama on &amp; off the field. Plus the all-time try scoring record looming for AJ.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa6778e4b00ddba33758d4-1773223183194?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260313121016 +1100" stop="20260313140516 +1100" channel="4k.kayo.506">
-    <title lang="en">: China: Practice</title>
-    <desc lang="en">The 2026 F1 Academy season gets underway, with a mixture of returning drivers and fresh faces for the Shanghai season opener.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69ac0d6ae4b0757d0d8eacf5-1772883581237?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260313140004 +1100" stop="20260313165504 +1100" channel="4k.kayo.506">
-    <title lang="en">Formula One World Championship: Chinese Grand Prix</title>
-    <sub-title lang="en">2026</sub-title>
-    <desc lang="en">A week on from a chaotic Australian Grand Prix weekend, drivers head out for the only practice session at the Shanghai Circuit.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69ac0a1be4b09484fd6175f6-1773022919144?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260313170819 +1100" stop="20260313185519 +1100" channel="4k.kayo.506">
-    <title lang="en">: China: Qualifying</title>
-    <desc lang="en">The 2026 F1 Academy season gets underway, with a mixture of returning drivers and fresh faces for the Shanghai season opener.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69ac0f4ee4b0757d0d8eacf7-1772884064264?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260313174500 +1100" stop="20260313211000 +1100" channel="4k.kayo.506">
-    <title lang="en">Formula One World Championship: Chinese Grand Prix</title>
-    <sub-title lang="en">2026</sub-title>
-    <desc lang="en">China is the first of six sprint events this season, as drivers battle for pole position in the opening Sprint Qualifying session of 2026.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69ac0996e4b0757d0d8eacf1-1773022948606?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260313223016 +1100" stop="20260314111016 +1100" channel="4k.kayo.503">
-    <title lang="en">: The Players Championship</title>
-    <desc lang="en">McNealy, Theegala, Hodges and Straka share the lead after round one. Scheffler leads the chase before the cut.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa0aece4b00117d8deb1cc-1773182854547?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260313233036 +1100" stop="20260314013036 +1100" channel="4k.kayo.505">
-    <title lang="en">: The Players Championship</title>
-    <desc lang="en">Featured Groups: Second round action of The Players Championship from TPC Sawgrass.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69a8d32ae4b00ddba33757f7-1773265920370?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
-  <programme start="20260313123004 +1100" stop="20260313184004 +1100" channel="4k.kayo.505">
-    <title lang="en">: Women's Australian Open</title>
-    <desc lang="en">Darcey Harry leads after an opening 66. Australia’s Hannah Green and Minjee Lee aim to climb the leaderboard.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa089ae4b096b0a7d70f8c-1773285822688?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
   <programme start="20260314123000 +1100" stop="20260314171000 +1100" channel="4k.kayo.504">
     <title lang="en">AFL: Western Bulldogs vs Greater Western Sydney Giants</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Marcus Bontempelli and Toby Greene will face off in one of the newest but fiercest rivalries when the Dogs face the Giants at Marvel Stadium.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa2559e4b096b0a7d70fb3-1773142177682?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260314160000 +1100" stop="20260314201000 +1100" channel="4k.kayo.504">
+  <programme start="20260314160908 +1100" stop="20260314201908 +1100" channel="4k.kayo.504">
     <title lang="en">AFL: Geelong Cats vs Fremantle Dockers</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Super Saturday continues when the Dockers open their 2026 campaign with a trip to Geelong.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa25dde4b00117d8deb1e6-1773142183395?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260314190000 +1100" stop="20260314234000 +1100" channel="4k.kayo.503">
+  <programme start="20260314190007 +1100" stop="20260314234007 +1100" channel="4k.kayo.503">
     <title lang="en">AFL: Sydney Swans vs Brisbane Lions</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">The Swans host the Lions in a big Saturday night clash at the SCG.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa2713e4b0f2991b30451e-1773142046973?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260314190000 +1100" stop="20260315004000 +1100" channel="4k.kayo.504">
+  <programme start="20260314190605 +1100" stop="20260315004605 +1100" channel="4k.kayo.504">
     <title lang="en">AFL: Collingwood Magpies vs Adelaide Crows</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">The ageless Pies host the 2025 minor premiers who will be desperate for redemption after last year’s straight set finals heartbreak.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa2665e4b0f2991b30451c-1773293456576?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260314143000 +1100" stop="20260314180500 +1100" channel="4k.kayo.502">
+  <programme start="20260314143003 +1100" stop="20260314180503 +1100" channel="4k.kayo.502">
     <title lang="en">Premiership: Wests Tigers vs North Queensland</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Wests Tigers begin their 2026 campaign against the Cowboys who are chasing a hat-trick of wins at Leichhardt Oval.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa6889e4b012ce0d17691d-1772784484457?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260314165500 +1100" stop="20260314203500 +1100" channel="4k.kayo.502">
+  <programme start="20260314171512 +1100" stop="20260314205512 +1100" channel="4k.kayo.502">
     <title lang="en">Premiership: St George Illawarra vs Melbourne</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">The hosts return to Wollongong after a heartbreaking loss in Vegas, while the visitors were one of Round 1's most impressive winners.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa683ee4b09d170d42fc33-1772784519526?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260314192500 +1100" stop="20260314235000 +1100" channel="4k.kayo.502">
+  <programme start="20260314193254 +1100" stop="20260314235754 +1100" channel="4k.kayo.502">
     <title lang="en">Premiership: Penrith vs Cronulla</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Super Saturday's nightcap sees two dominant Round 1 winners meet at Bathurst in Central West NSW.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa6830e4b0757d0d8eaca2-1772784846156?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260314132500 +1100" stop="20260314171000 +1100" channel="4k.kayo.506">
+  <programme start="20260314132506 +1100" stop="20260314171006 +1100" channel="4k.kayo.506">
     <title lang="en">Formula One World Championship: Chinese Grand Prix</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Shanghai hosts the first F1 Sprint of 2026. Drivers face a 19-lap dash as teams test new aero under revamped regulations.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69ac0af2e4b0757d0d8eacf3-1773023464114?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260314164000 +1100" stop="20260314184000 +1100" channel="4k.kayo.506">
+  <programme start="20260314164015 +1100" stop="20260314184015 +1100" channel="4k.kayo.506">
     <title lang="en">: China: Race 1</title>
     <desc lang="en">F1 Academy returns to Shanghai with a grid featuring a mix of returning stars and ambitious rookies, with home-hero wildcard Shi Wei set to race in front of her local fans.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69ac119ee4b0757d0d8eacfa-1772884872873?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260314173000 +1100" stop="20260314214000 +1100" channel="4k.kayo.506">
+  <programme start="20260314173050 +1100" stop="20260314214050 +1100" channel="4k.kayo.506">
     <title lang="en">Formula One World Championship: Chinese Grand Prix</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Mercedes duo George Russell and Kimi Antonelli secured the front row in Melbourne last week and will be the ones to watch when qualifying begins.</desc>
@@ -143,23 +88,28 @@
     <desc lang="en">Just three points separates Justin Allgaier and Jesse Love at the top of the standings entering race five of the Auto Parts Series season in Las Vegas.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b0cc6be4b05f95e84b1127-1773194722071?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260314230000 +1100" stop="20260315111000 +1100" channel="4k.kayo.503">
+  <programme start="20260314231639 +1100" stop="20260315112639 +1100" channel="4k.kayo.503">
     <title lang="en">: The Players Championship</title>
-    <desc lang="en">Third round action of The Players Championship from the TPC Sawgrass.</desc>
+    <desc lang="en">Ludvig Aberg holds a two shot lead but will face stiff competition from a star-studded chasing pack going into round three.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa0ba8e4b0aeca189dd25d-1772751839265?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260314233000 +1100" stop="20260315013000 +1100" channel="4k.kayo.505">
+  <programme start="20260315001518 +1100" stop="20260315021518 +1100" channel="4k.kayo.505">
     <title lang="en">: The Players Championship</title>
     <desc lang="en">Featured Groups: Third round action of The Players Championship from TPC Sawgrass.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69a8d32ee4b00117d8deb160-1772672143233?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260314163000 +1100" stop="20260314195500 +1100" channel="4k.kayo.505">
+  <programme start="20260314160009 +1100" stop="20260314201009 +1100" channel="4k.kayo.503">
+    <title lang="en">: Heritage Classic</title>
+    <desc lang="en">Third round action of the Heritage Classic from Heritage Golf &amp; Country Club.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69a90e32e4b096b0a7d70f2d-1773349157184?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260314163014 +1100" stop="20260314195514 +1100" channel="4k.kayo.505">
     <title lang="en">Suncorp Super Netball: Mavericks vs Giants Netball</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">The 2026 SSN season kicks off with the Mavericks hosting the Giants at Red Energy Stadium, Bendigo.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa6545e4b09484fd61759c-1772774891568?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260314184500 +1100" stop="20260314215500 +1100" channel="4k.kayo.505">
+  <programme start="20260314184506 +1100" stop="20260314215506 +1100" channel="4k.kayo.505">
     <title lang="en">Suncorp Super Netball: Adelaide Thunderbirds vs NSW Swifts</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">The Swifts are looking to bounce back after a disappointing finals series last season, they travel to Adelaide to take on the Thunderbirds.</desc>
@@ -194,6 +144,12 @@
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Suncorp Stadium in Brisbane is the venue for a Queensland Derby expected to involve plenty of points.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa67c9e4b0757d0d8eac9f-1773202929472?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260315123000 +1100" stop="20260315173500 +1100" channel="4k.kayo.501">
+    <title lang="en">Women's Twenty20 Internationals: New Zealand Women vs South Africa Women</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">Game One - New Zealand’s Sophie Devine and Suzie Bates return to bolster the White Ferns' defence against a vengeful South Africa.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa1b72e4b00ddba33758a2-1773285921500?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260315163000 +1100" stop="20260315221000 +1100" channel="4k.kayo.501">
     <title lang="en">Twenty20 Internationals: New Zealand vs South Africa</title>
