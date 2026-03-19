@@ -24,34 +24,29 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20260318115813 +1100" stop="20260318150813 +1100" channel="4k.kayo.503">
-    <title lang="en">: Semi Final Jupiter Links v Boston</title>
-    <desc lang="en">Max Homa and Tom Kim lead Jupiter Links against Rory McIlroy and Australia’s Adam Scott, with a place in the final on the line.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b0de6be4b09484fd6177b2-1773376975863?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
   <programme start="20260319183000 +1100" stop="20260320001000 +1100" channel="4k.kayo.504">
     <title lang="en">AFL: Hawthorn Hawks vs Sydney Swans</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Both teams are coming off big wins and the Fox Footy team will have all the buildup and fallout when they clash at the MCG.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b240b6e4b09484fd61786a-1773790589259?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260319183000 +1100" stop="20260319230500 +1100" channel="4k.kayo.502">
+  <programme start="20260319183000 +1100" stop="20260320000500 +1100" channel="4k.kayo.502">
     <title lang="en">Premiership: Canberra vs Canterbury</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">A great way for Round 3 to kick off. In 2025 this match-up produced one of the games of the year.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b240bce4b02037cf97bb7d-1773358537826?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b240bce4b02037cf97bb7d-1773892494538?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260320065500 +1100" stop="20260320103000 +1100" channel="4k.kayo.502">
     <title lang="en">: Wigan v York</title>
     <desc lang="en">Round 5 of the Super League from The Brick Community Stadium.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b211cbe4b09484fd617844-1773377707234?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260319223000 +1100" stop="20260320101000 +1100" channel="4k.kayo.503">
+  <programme start="20260319223010 +1100" stop="20260320101010 +1100" channel="4k.kayo.503">
     <title lang="en">: Valspar Championship R1</title>
-    <desc lang="en">First round action of Valspar Championship from Innisbrook Resort and Golf Club.</desc>
+    <desc lang="en">Schauffele and Hovland headline a strong field as players seek an early edge and build momentum on day one.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b226efe4b07c2decfde8aa-1773628050668?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260319231500 +1100" stop="20260320011500 +1100" channel="4k.kayo.503">
+  <programme start="20260319231507 +1100" stop="20260320011507 +1100" channel="4k.kayo.503">
     <title lang="en">: Valspar Championship R1 FG</title>
     <desc lang="en">First round action of Valspar Championship from Innisbrook Resort and Golf Club.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b23cc9e4b099514be9d824-1773786962375?location=hero-portrait-m2&amp;imwidth=720" />
@@ -66,16 +61,16 @@
     <desc lang="en">The tournament moves to Dublin as the 3Arena hosts Night Seven. Current leader Jonny Clayton takes on Luke Humphries in the first round.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b20293e4b07c2decfde872-1773273820032?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260320183000 +1100" stop="20260321001000 +1100" channel="4k.kayo.504">
+  <programme start="20260320183000 +1100" stop="20260321002500 +1100" channel="4k.kayo.504">
     <title lang="en">AFL: Adelaide Crows vs Western Bulldogs</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">The Crows welcome back a star playmaker as they host the red-hot dogs coming off two impressive wins.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b2694ee4b068c636de9f9c-1773791542778?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260321100000 +1100" stop="20260321134000 +1100" channel="4k.kayo.504">
+  <programme start="20260321100000 +1100" stop="20260321135000 +1100" channel="4k.kayo.504">
     <title lang="en">: Richmond v Southport</title>
-    <desc lang="en">Round 1 of the 2026 VFL season sees the Tigers and Sharks colliding in Frankston</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b9f66ce4b082fa594488ee-1773795953995?location=hero-portrait-m2&amp;imwidth=720" />
+    <desc lang="en">Round 1 of the 2026 VFL season sees the Tigers and Sharks colliding in Frankston.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b9f66ce4b082fa594488ee-1773913552922?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260320170000 +1100" stop="20260320210500 +1100" channel="4k.kayo.502">
     <title lang="en">Premiership: Sydney Roosters vs Penrith</title>
@@ -137,12 +132,17 @@
     <desc lang="en">Second round action of Valspar Championship from Innisbrook Resort and Golf Club.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b227b9e4b099514be9d812-1773628042731?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20260320231500 +1100" stop="20260321011500 +1100" channel="4k.kayo.503">
+    <title lang="en">: Valspar Championship R2 FG</title>
+    <desc lang="en">Second round action of Valspar Championship from Innisbrook Resort and Golf Club.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b23d09e4b099514be9d826-1773791910369?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20260321090000 +1100" stop="20260321131000 +1100" channel="4k.kayo.503">
     <title lang="en">: Founders Cup R2</title>
     <desc lang="en">Second round coverage of the Founders Cup begins from Sharon Heights Golf and Country Club.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b35acce4b02037cf97bbeb-1773361963665?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260321123000 +1100" stop="20260321171000 +1100" channel="4k.kayo.504">
+  <programme start="20260321124000 +1100" stop="20260321171000 +1100" channel="4k.kayo.504">
     <title lang="en">AFL: Richmond Tigers vs Gold Coast Suns</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">The young and exciting Tigers face a big test against Damien Hardwick and his high flying Suns.</desc>
@@ -152,12 +152,12 @@
     <title lang="en">AFL: Greater Western Sydney Giants vs St Kilda Saints</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">The Giants play host to the Saints in Round 2.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b269a3e4b0025c4ab849a6-1773791513430?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b269a3e4b0025c4ab849a6-1773892968661?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260321190000 +1100" stop="20260322004000 +1100" channel="4k.kayo.504">
     <title lang="en">AFL: Fremantle Dockers vs Melbourne Demons</title>
     <sub-title lang="en">2026</sub-title>
-    <desc lang="en">Super Saturday LIVE brings you all the excitement when Fremantle plays their first home game against an energized Melbourne outfit fresh off a win.  </desc>
+    <desc lang="en">Super Saturday LIVE brings you all the excitement when Fremantle plays their first home game against an energized Melbourne outfit fresh off a win.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b269abe4b099514be9d84d-1773790765975?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260321123500 +1100" stop="20260321154000 +1100" channel="4k.kayo.502">
@@ -170,18 +170,18 @@
     <title lang="en">Premiership: Newcastle vs Warriors</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Super Saturday's NRL triple treat commences in Newcastle with the clash of two undefeated sides.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b26801e4b02037cf97bb91-1773299740697?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b26801e4b02037cf97bb91-1773892711084?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260321165500 +1100" stop="20260321203500 +1100" channel="4k.kayo.502">
     <title lang="en">Premiership: Cronulla vs Dolphins</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">The Sharks are looking to extend their eight-game winning streak at home, while the Dolphins play their first away game of 2026.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b2680ae4b099514be9d848-1773349704419?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b2680ae4b099514be9d848-1773892618036?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260321192500 +1100" stop="20260321235000 +1100" channel="4k.kayo.502">
     <title lang="en">Premiership: South Sydney vs Wests Tigers</title>
     <sub-title lang="en">2026</sub-title>
-    <desc lang="en">Super Saturday concludes in Gosford with Benji Ball taking on another side loaded with attacking options. </desc>
+    <desc lang="en">Super Saturday concludes in Gosford with Benji Ball taking on another side loaded with attacking options.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b2684de4b02037cf97bb94-1773299858197?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260322015500 +1100" stop="20260322051000 +1100" channel="4k.kayo.502">
@@ -224,15 +224,15 @@
     <desc lang="en">Third round action of Valspar Championship from Innisbrook Resort and Golf Club.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b22e36e4b02037cf97bb61-1773627970707?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
-  <programme start="20260322090000 +1100" stop="20260322131000 +1100" channel="4k.kayo.503">
-    <title lang="en">: Founders Cup R3</title>
-    <desc lang="en">Third round coverage of the Founders Cup begins from Sharon Heights Golf and Country Club.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b35c1ae4b099514be9d893-1773362300431?location=hero-portrait-m2&amp;imwidth=720" />
-  </programme>
   <programme start="20260321233000 +1100" stop="20260322013000 +1100" channel="4k.kayo.503">
     <title lang="en">: Valspar Championship R3 FG</title>
     <desc lang="en">Third round action of Valspar Championship from Innisbrook Resort and Golf Club.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b377ace4b07c2decfde92b-1773791921662?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260322090000 +1100" stop="20260322131000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Founders Cup R3</title>
+    <desc lang="en">Third round coverage of the Founders Cup begins from Sharon Heights Golf and Country Club.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b35c1ae4b099514be9d893-1773362300431?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260321163000 +1100" stop="20260321195500 +1100" channel="4k.kayo.505">
     <title lang="en">Suncorp Super Netball: Sunshine Coast Lightning vs Queensland Firebirds</title>
@@ -249,7 +249,7 @@
   <programme start="20260322120000 +1100" stop="20260322154000 +1100" channel="4k.kayo.504">
     <title lang="en">: Gold Coast v Werribee</title>
     <desc lang="en">Werribee hits the road to take on the Suns, with both teams looking to being their campaign with a win.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b9faf6e4b03a582af1908f-1773796380344?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b9faf6e4b03a582af1908f-1773913559485?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260322143000 +1100" stop="20260322191000 +1100" channel="4k.kayo.504">
     <title lang="en">AFL: Port Adelaide Power vs Essendon Bombers</title>
@@ -267,7 +267,7 @@
     <title lang="en">Premiership: Parramatta vs St George Illawarra</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">The hosts upset the defending premiers in Round 2, but will be wary of the visitors, feeling the pressure after back-to-back losses. </desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b26854e4b068c636de9f99-1773349714851?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b26854e4b068c636de9f99-1773892718841?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260322180000 +1100" stop="20260322212000 +1100" channel="4k.kayo.502">
     <title lang="en">Premiership: North Queensland vs Gold Coast Titans</title>
@@ -289,7 +289,7 @@
   <programme start="20260322170000 +1100" stop="20260322221000 +1100" channel="4k.kayo.501">
     <title lang="en">Twenty20 Internationals: New Zealand vs South Africa</title>
     <sub-title lang="en">2025-26</sub-title>
-    <desc lang="en">T20. A crucial battle for momentum as the series reaches the business end in Wellington.</desc>
+    <desc lang="en">T20. Tom Latham takes over the captain’s duties for New Zealand in a pivotal Game 4.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69aa1f5ee4b09484fd617563-1773792790988?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260323003500 +1100" stop="20260323021000 +1100" channel="4k.kayo.506">
@@ -357,7 +357,7 @@
   <programme start="20260324120000 +1100" stop="20260324151000 +1100" channel="4k.kayo.503">
     <title lang="en">: Final Game 1</title>
     <desc lang="en">The top teams meet with the Chamionship on the line as the league crowns its second champion.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69ba0588e4b08e801b58905d-1773798859619?location=hero-portrait-m2&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69ba0588e4b08e801b58905d-1773901984749?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260325100000 +1100" stop="20260325131000 +1100" channel="4k.kayo.503">
     <title lang="en">: Final Game 2</title>
@@ -378,8 +378,14 @@
   </programme>
   <programme start="20260325235000 +1100" stop="20260326051000 +1100" channel="4k.kayo.501">
     <title lang="en">: Legends League Eliminator</title>
-    <desc lang="en">T20. Third and fourth place battle to see who goes through to the qualifier and keeps their title dreams alive.</desc>
+    <desc lang="en">T20. Third and fourth place battle to see who goes through to the qualifier and keeps their title dreams alive. </desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69ba369be4b0f6049e105c22-1773811621431?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260326102500 +1100" stop="20260326191000 +1100" channel="4k.kayo.501">
+    <title lang="en">Sheffield Shield: Victoria vs South Australia</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">After a dominant season Victoria are hunting their 33rd title while the Redbacks have fought their way into a second consecutive decider.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69ba3ab4e4b0f6049e105c29-1773812700783?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260325120000 +1100" stop="20260325151000 +1100" channel="4k.kayo.503">
     <title lang="en">: Final Game 3</title>
@@ -397,10 +403,83 @@
     <desc lang="en">T20. With one final spot up for grabs, the Eliminator winner faces the Qualifier 1 runner-up in an all-or-nothing showdown.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69ba36a1e4b06c9c729057b6-1773811626326?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20260327102500 +1100" stop="20260327191000 +1100" channel="4k.kayo.501">
+    <title lang="en">Sheffield Shield: Victoria vs South Australia</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">Day two action of the Sheffield Shield Final.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69ba3b13e4b08e801b589078-1773812719407?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260326183000 +1100" stop="20260327004000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Indian Open R1</title>
+    <desc lang="en">First round action of the Indian Open from DLF Golf and Country Club.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bb2aaae4b0f6049e105c3c-1773873877414?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260326233000 +1100" stop="20260327111000 +1100" channel="4k.kayo.503">
+    <title lang="en">: Houston Open R1</title>
+    <desc lang="en">First round action of the Houston Open from Memorial Park Golf Course.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bb29c9e4b0f6049e105c3b-1773873662112?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260327150000 +1100" stop="20260327191000 +1100" channel="4k.kayo.504">
+    <title lang="en">: Collingwood v GWS</title>
+    <desc lang="en">Collingwood play host to GWS in Round 2 of the VFL.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bb4cb4e4b06c9c729057d1-1773911297906?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260327183000 +1100" stop="20260328002500 +1100" channel="4k.kayo.504">
+    <title lang="en">AFL: Collingwood Magpies vs Greater Western Sydney Giants</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">The Pies and Giants clash in Round 3.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b9eda8e4b082fa594488e3-1773793040557?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20260327235000 +1100" stop="20260328051000 +1100" channel="4k.kayo.501">
     <title lang="en">: Legends League Final</title>
     <desc lang="en">T20. Two legendary squads remain to fight for the 2026 Leagues league trophy.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69ba36e4e4b0f6049e105c23-1773811628625?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260328102500 +1100" stop="20260328122500 +1100" channel="4k.kayo.501">
+    <title lang="en">Sheffield Shield: Victoria vs South Australia</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">Day three action of the Sheffield Shield Final.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69ba3b16e4b082fa59448910-1773812722651?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260327130000 +1100" stop="20260327155500 +1100" channel="4k.kayo.506">
+    <title lang="en">Formula One World Championship: Japanese Grand Prix</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">After a week’s break, Formula 1 returns to the Suzuka Circuit for the opening practice session.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b9ebdde4b03a582af19076-1773792277827?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260327164500 +1100" stop="20260327192500 +1100" channel="4k.kayo.506">
+    <title lang="en">Formula One World Championship: Japanese Grand Prix</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">The Formula 1 drivers are back out at Suzuka for the second practice session.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b9ec6de4b082fa594488dd-1773792450995?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260328005500 +1100" stop="20260328025500 +1100" channel="4k.kayo.506">
+    <title lang="en">: USA Practice 1</title>
+    <desc lang="en">The 2026 MotoGP field travel to Texas for round three, and it all starts with the first practice session.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b9f91ce4b03a582af1908b-1773795782296?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260328051000 +1100" stop="20260328071000 +1100" channel="4k.kayo.506">
+    <title lang="en">: USA Practice 2</title>
+    <desc lang="en">It's time for the second practice session of the MotoGP weekend in the United States. </desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b9fa39e4b020ac73a73fcd-1773795992200?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260328120000 +1100" stop="20260328164000 +1100" channel="4k.kayo.504">
+    <title lang="en">AFL: St Kilda Saints vs Brisbane Lions</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">The Saints host the Lions in Round 3.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b9edb5e4b082fa594488e5-1773892977657?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260328153000 +1100" stop="20260328201000 +1100" channel="4k.kayo.504">
+    <title lang="en">AFL: Fremantle Dockers vs Richmond Tigers</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">The Dockers and Tigers collide in Round 3.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b9edbee4b03a582af1907d-1773793242227?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260328190000 +1100" stop="20260328234000 +1100" channel="4k.kayo.504">
+    <title lang="en">AFL: Essendon Bombers vs North Melbourne Kangaroos</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">The Bombers host the Roos in Round 3.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b9edc4e4b03a582af1907f-1773793072753?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260329005000 +1100" stop="20260329061000 +1100" channel="4k.kayo.501">
     <title lang="en">Indian Premier League: Royal Challengers Bengaluru vs Sunrisers Hyderabad</title>
@@ -408,11 +487,77 @@
     <desc lang="en">Challengers take on Sunrisers at M. Chinnaswamy Stadium, Bengaluru.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b37db1e4b099514be9d8a5-1773370911130?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
+  <programme start="20260329102500 +1100" stop="20260329122500 +1100" channel="4k.kayo.501">
+    <title lang="en">Sheffield Shield: Victoria vs South Australia</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">Day four action of the Sheffield Shield Final.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69ba3b1ae4b020ac73a73feb-1773812786201?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260328131500 +1100" stop="20260328155500 +1100" channel="4k.kayo.506">
+    <title lang="en">Formula One World Championship: Japanese Grand Prix</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">The final practice session gets underway at Suzuka ahead of the all-important qualifying session.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b9ed65e4b08e801b58903e-1773792758158?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260328160000 +1100" stop="20260328204000 +1100" channel="4k.kayo.506">
+    <title lang="en">Formula One World Championship: Japanese Grand Prix</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">Mercedes have secured pole in the opening two qualifying sessions this season and will look to do it again in Suzuka.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b9f007e4b08e801b589046-1773794477196?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260328163000 +1100" stop="20260328195500 +1100" channel="4k.kayo.505">
+    <title lang="en">Suncorp Super Netball: Mavericks vs Melbourne Vixens</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">The first Melbourne derby of the season sees the Mavericks and Vixens clash at John Cain Arena.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b8a213e4b09b6dff6ec451-1773709305075?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260328184500 +1100" stop="20260328215500 +1100" channel="4k.kayo.505">
+    <title lang="en">Suncorp Super Netball: Sunshine Coast Lightning vs NSW Swifts</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">The Lightning host the Swifts on the Sunshine Coast.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b8a21fe4b020ac73a73f64-1773707986355?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260329120000 +1100" stop="20260329162000 +1100" channel="4k.kayo.504">
+    <title lang="en">AFL: Port Adelaide Power vs West Coast Eagles</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">The Power and Eagles go head to head in Round 3.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b9eed5e4b0f6049e105c01-1773793165803?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260329151000 +1100" stop="20260329201000 +1100" channel="4k.kayo.504">
+    <title lang="en">AFL: Carlton Blues vs Melbourne Demons</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">Patrick Cripps leads the Blues against the Dees in Round 3.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b9eedae4b020ac73a73fc1-1773793085487?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
   <programme start="20260330005000 +1100" stop="20260330061000 +1100" channel="4k.kayo.501">
     <title lang="en">Indian Premier League: Mumbai Indians vs Kolkata Knight Riders</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Mumbai take on Knight Riders at Wankhede Stadium, Mumbai.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b37dc1e4b07c2decfde931-1773370916288?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260330102500 +1100" stop="20260330122500 +1100" channel="4k.kayo.501">
+    <title lang="en">Sheffield Shield: Victoria vs South Australia</title>
+    <sub-title lang="en">2025-26</sub-title>
+    <desc lang="en">Final day action of the Sheffield Shield Final.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69ba3b1ee4b0f6049e105c2b-1773812791963?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260329143000 +1100" stop="20260329204000 +1100" channel="4k.kayo.506">
+    <title lang="en">Formula One World Championship: Japanese Grand Prix</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">Mercedes arrives in dominant form following back-to-back 1-2 finishes, while Ferrari emerges as their primary threat, and defending champions McLaren fight to salvage their season after a nightmare start.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b8cecbe4b09d00f73fa5f5-1773787156413?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260329133500 +1100" stop="20260329165500 +1100" channel="4k.kayo.505">
+    <title lang="en">Suncorp Super Netball: Queensland Firebirds vs Adelaide Thunderbirds</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">The Firebirds host the Thunderbirds in Adelaide.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b8a22ce4b09b6dff6ec452-1773708009426?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260329154500 +1100" stop="20260329185500 +1100" channel="4k.kayo.505">
+    <title lang="en">Suncorp Super Netball: West Coast Fever vs Giants Netball</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">The Fever host the Giants in Perth.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b8a240e4b0f6049e105b67-1773708004601?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
   <programme start="20260331005000 +1100" stop="20260331061000 +1100" channel="4k.kayo.501">
     <title lang="en">Indian Premier League: Rajasthan Royals vs Chennai Super Kings</title>
@@ -425,5 +570,11 @@
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Kings take on Titans at New PCA Stadium, Mullanpur (New Chandigarh).</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b37e3de4b07c2decfde934-1773370964603?location=hero-portrait-m2&amp;imwidth=720" />
+  </programme>
+  <programme start="20260402005000 +1100" stop="20260402061000 +1100" channel="4k.kayo.501">
+    <title lang="en">Indian Premier League: Lucknow Super Giants vs Delhi Capitals</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">Super Giants take on Capitals at Ekana Cricket Stadium, Lucknow.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b745b3e4b08e801b588f16-1773618822761?location=hero-portrait-m2&amp;imwidth=720" />
   </programme>
 </tv>
