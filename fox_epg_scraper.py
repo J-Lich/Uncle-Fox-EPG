@@ -135,6 +135,16 @@ def fetch_epg_data():
                                 print(f"  Fetching details for event ID: {event_id} ({event_summary.get('programTitle', '')})")
 
                                 event_detail_url = f"{event_base_url}{event_id}?movieHeight=720&tvShowHeight=720&regionId=20480"
+                                
+
+                                print(f"      Fetching thumbnail for event {event_id}...")
+                                thumbnail_url = fetch_thumbnail_image(event_id)
+                                if thumbnail_url:
+                                    print(f"      ✓ Thumbnail found: {thumbnail_url}")
+                                else:
+                                    print(f"      - No thumbnail found for event {event_id}")
+                        
+                                                        
                                 try:
                                     event_response = requests.get(event_detail_url, headers=headers)
                                     event_response.raise_for_status()
