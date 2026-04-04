@@ -24,16 +24,16 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20260404130000 +1100" stop="20260404164000 +1100" channel="4k.kayo.504">
-    <title lang="en">: Port Melbourne v Sydney</title>
-    <desc lang="en">Port Melbourne searches for its second win of the VFL season when it hosts Sydney at ETU Stadium on Saturday afternoon.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c617a0e4b08209b4bcfeeb-1774825160373&amp;imwidth=720" />
-  </programme>
-  <programme start="20260404153000 +1100" stop="20260404201000 +1100" channel="4k.kayo.504">
+  <programme start="20260404153714 +1100" stop="20260404201714 +1100" channel="4k.kayo.504">
     <title lang="en">AFL: Richmond Tigers vs Port Adelaide Power</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Zak Butters arrives to Melbourne leading the young Power side in a clash of two teams desperately chasing a crucial win.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bb55f3e4b06c9c729057db-1773954451836&amp;imwidth=720" />
+  </programme>
+  <programme start="20260404130000 +1100" stop="20260404164000 +1100" channel="4k.kayo.504">
+    <title lang="en">: Port Melbourne v Sydney</title>
+    <desc lang="en">Port Melbourne searches for its second win of the VFL season when it hosts Sydney at ETU Stadium on Saturday afternoon.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c617a0e4b08209b4bcfeeb-1774825160373&amp;imwidth=720" />
   </programme>
   <programme start="20260404190000 +1100" stop="20260405004000 +1100" channel="4k.kayo.504">
     <title lang="en">AFL: West Coast Eagles vs Sydney Swans</title>
@@ -120,7 +120,7 @@
     <desc lang="en">Third round action of the Aramco Championship from Shadow Creek Golf Club.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c5d3dbe4b0814bf3a2fcaf-1774572554151&amp;imwidth=720" />
   </programme>
-  <programme start="20260404163000 +1100" stop="20260404195500 +1100" channel="4k.kayo.505">
+  <programme start="20260404163005 +1100" stop="20260404195505 +1100" channel="4k.kayo.505">
     <title lang="en">Suncorp Super Netball: Giants Netball vs Queensland Firebirds</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">The two remaining winless teams clash in Sydney with both sides desperate to get on the board.</desc>

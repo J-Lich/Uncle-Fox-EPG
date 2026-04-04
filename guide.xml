@@ -28,16 +28,6 @@
     <display-name>FOX 507</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/FOX%20Sports%20More.png" />
   </channel>
-  <programme start="20260404090000 +1100" stop="20260404121000 +1100" channel="501.FS1">
-    <title lang="en">Live: Women's ODI: NZL v SA Game 3</title>
-    <sub-title lang="en">NZL v SA Game 3</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260404121000 +1100" stop="20260404124000 +1100" channel="501.FS1">
-    <title lang="en">Live: Innings Break: NZ v SA</title>
-    <sub-title lang="en">NZ v SA</sub-title>
-    <desc lang="en" />
-  </programme>
   <programme start="20260404124000 +1100" stop="20260404161000 +1100" channel="501.FS1">
     <title lang="en">Live: Women's ODI: NZL v SA Game 3</title>
     <sub-title lang="en">NZL v SA Game 3</sub-title>
@@ -1587,41 +1577,6 @@
   <programme start="20260414235000 +1000" stop="20260415035000 +1000" channel="501.FS1">
     <title lang="en">Live: IPL: Super Kings v Knight Riders</title>
     <sub-title lang="en">Super Kings v Knight Riders</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260404100000 +1100" stop="20260404120000 +1100" channel="502.SP2">
-    <title lang="en">Live: Saturday League Kick Off</title>
-    <sub-title lang="en">Episode 5</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260404120000 +1100" stop="20260404121000 +1100" channel="502.SP2">
-    <title lang="en">Get 'Em Onside</title>
-    <sub-title lang="en">Episode 17</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260404121000 +1100" stop="20260404123000 +1100" channel="502.SP2">
-    <title lang="en">NRL Mini: SOU v CBY</title>
-    <sub-title lang="en">SOU v CBY</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260404123000 +1100" stop="20260404125000 +1100" channel="502.SP2">
-    <title lang="en">NRL Mini: PEN v MEL</title>
-    <sub-title lang="en">PEN v MEL</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260404125000 +1100" stop="20260404140000 +1100" channel="502.SP2">
-    <title lang="en">NRL Friday Night Footy</title>
-    <sub-title lang="en">Round 5</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260404140000 +1100" stop="20260404142000 +1100" channel="502.SP2">
-    <title lang="en">NRL Mini: SOU v CBY</title>
-    <sub-title lang="en">SOU v CBY</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260404142000 +1100" stop="20260404144000 +1100" channel="502.SP2">
-    <title lang="en">NRL Mini: PEN v MEL</title>
-    <sub-title lang="en">PEN v MEL</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20260404144000 +1100" stop="20260404154000 +1100" channel="502.SP2">
@@ -3410,15 +3365,6 @@
     <sub-title lang="en">Episode 23</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20260404100000 +1100" stop="20260404130000 +1100" channel="503.FS3">
-    <title lang="en">Live: Golf: USLPGA: Aramco C'ship R2</title>
-    <sub-title lang="en">Aramco C'ship R2</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260404130000 +1100" stop="20260404140000 +1100" channel="503.FS3">
-    <title lang="en">1986</title>
-    <desc lang="en" />
-  </programme>
   <programme start="20260404140000 +1100" stop="20260404180000 +1100" channel="503.FS3">
     <title lang="en">Live: Golf: Asian PGA Tour</title>
     <sub-title lang="en">International Series Japan Round 3</sub-title>
@@ -4012,31 +3958,6 @@
   <programme start="20260412223000 +1000" stop="20260413000000 +1000" channel="503.FS3">
     <title lang="en">The Masters: Round 3</title>
     <sub-title lang="en">Round 3</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260404093200 +1100" stop="20260404120200 +1100" channel="504.FAF">
-    <title lang="en">AFL: Round 4 North Melbourne v Carlton</title>
-    <sub-title lang="en">Round 4 North Melbourne v Carlton</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260404120200 +1100" stop="20260404122200 +1100" channel="504.FAF">
-    <title lang="en">AFL Mini: Round 4 ADE v FRE</title>
-    <sub-title lang="en">Round 4 ADE v FRE</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260404122200 +1100" stop="20260404125400 +1100" channel="504.FAF">
-    <title lang="en">In The Back Pocket</title>
-    <sub-title lang="en">Episode 15</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260404125400 +1100" stop="20260404130000 +1100" channel="504.FAF">
-    <title lang="en">AFL: Bite: Round 4 ADL v FRE</title>
-    <sub-title lang="en">Round 4 ADL v FRE</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260404130000 +1100" stop="20260404130200 +1100" channel="504.FAF">
-    <title lang="en">Live: VFL: Pre Game</title>
-    <sub-title lang="en">Pre Game</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20260404130200 +1100" stop="20260404153000 +1100" channel="504.FAF">
@@ -5643,21 +5564,6 @@
   <programme start="20260415230000 +1000" stop="20260416000000 +1000" channel="504.FAF">
     <title lang="en">AFL 360</title>
     <sub-title lang="en">Episode 21</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260404110000 +1100" stop="20260404120000 +1100" channel="505.FSP">
-    <title lang="en">MotoGP: United States Race</title>
-    <sub-title lang="en">United States Race</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260404120000 +1100" stop="20260404123000 +1100" channel="505.FSP">
-    <title lang="en">Live: Boxing: Tszyu v Nurja Weigh-ins</title>
-    <sub-title lang="en">Tszyu v Nurja Weigh-ins</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260404123000 +1100" stop="20260404130000 +1100" channel="505.FSP">
-    <title lang="en">F1 Mini: Japan</title>
-    <sub-title lang="en">Japan</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20260404130000 +1100" stop="20260404150000 +1100" channel="505.FSP">
@@ -8239,11 +8145,6 @@
   <programme start="20260415233000 +1000" stop="20260416000000 +1000" channel="506.SPS">
     <title lang="en">Rivals</title>
     <sub-title lang="en">Episode 7</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260404073000 +1100" stop="20260404123000 +1100" channel="507.FSS">
-    <title lang="en">Live: Surfing: WSL: Bells Beach D4</title>
-    <sub-title lang="en">Bells Beach D4</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20260404123000 +1100" stop="20260404163000 +1100" channel="507.FSS">
