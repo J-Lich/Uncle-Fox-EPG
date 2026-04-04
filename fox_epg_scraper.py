@@ -52,6 +52,7 @@ def fetch_thumbnail_image(event_id):
     Fetches the thumbnail image URL for a specific event from Foxtel's website.
     """
     url = f"https://www.foxtel.com.au/tv-guide/PLACEHOLDER/{event_id}"
+    print(f"      -> [DEBUG] Requesting Thumbnail URL: {url}", flush=True) 
     headers = {
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15',
@@ -60,6 +61,8 @@ def fetch_thumbnail_image(event_id):
     
     try:
         response = requests.get(url, headers=headers, timeout=10)
+        print(f"      -> [DEBUG] Status Code: {response.status_code}", flush=True) 
+        
         response.raise_for_status()
         
         soup = BeautifulSoup(response.content, 'html.parser')
@@ -68,8 +71,10 @@ def fetch_thumbnail_image(event_id):
         img_element = soup.select_one(selector)
         
         if img_element and img_element.get('src'):
+            print(f"      -> [DEBUG] Successfully found image src: {img_element.get('src')}", flush=True)
             return img_element.get('src')
         
+        print(f"      -> [DEBUG] CSS Selector found no image on the page.", flush=True)
         return None
         
     except requests.exceptions.RequestException as e:
