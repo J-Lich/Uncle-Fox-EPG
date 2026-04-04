@@ -4,6 +4,7 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 import pytz
 import time
+from bs4 import BeautifulSoup 
 
 # --- Configuration ---
 
@@ -46,6 +47,39 @@ DEFAULT_ICON = "https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icon
 # --- End Configuration ---
 
 
+def fetch_thumbnail_image(event_id):
+    """
+    Fetches the thumbnail image URL for a specific event from Foxtel's website.
+    """
+    url = f"https://www.foxtel.com.au/tv-guide/PLACEHOLDER/{event_id}"
+    headers = {
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15',
+        'Referer': 'https://www.foxtel.com.au/tv-guide/grid',
+    }
+    
+    try:
+        response = requests.get(url, headers=headers, timeout=10)
+        response.raise_for_status()
+        
+        soup = BeautifulSoup(response.content, 'html.parser')
+        
+        selector = "#epg-synopsis-modal-dialog > div > div.modal-body.epg-modal-body > div > div > div > div.epg-col.epg-col-right > div.epg-poster-bg > img"
+        img_element = soup.select_one(selector)
+        
+        if img_element and img_element.get('src'):
+            return img_element.get('src')
+        
+        return None
+        
+    except requests.exceptions.RequestException as e:
+        print(f"    - Error fetching thumbnail for event {event_id}: {e}")
+        return None
+    except Exception as e:
+        print(f"    - Unexpected error fetching thumbnail for event {event_id}: {e}")
+        return None
+
+
 def fetch_epg_data():
     """
     Fetches EPG data by first getting the grid in 6-hour chunks,
@@ -66,7 +100,6 @@ def fetch_epg_data():
     chunk_duration_hours = 6
     num_iterations = total_duration_hours // chunk_duration_hours
 
-    # Initialize the aggregated data structure based on the keys from the new config
     aggregated_data = {"channelEventsByTag": {channel_tag: [] for channel_tag in CHANNELS_CONFIG.keys()}}
     processed_event_ids = set()
 
@@ -103,7 +136,18 @@ def fetch_epg_data():
                                     event_detail_json = event_response.json()
 
                                     if "event" in event_detail_json:
-                                        aggregated_data["channelEventsByTag"][channel_tag].append(event_detail_json["event"])
+                                        event_data = event_detail_json["event"]
+                                        
+                                        # Fetch thumbnail image for this event
+                                        print(f"    Fetching thumbnail for event {event_id}...")
+                                        thumbnail_url = fetch_thumbnail_image(event_id)
+                                        if thumbnail_url:
+                                            event_data['thumbnailUrl'] = thumbnail_url
+                                            print(f"    ✓ Thumbnail found: {thumbnail_url}")
+                                        else:
+                                            print(f"    - No thumbnail found for event {event_id}")
+                                        
+                                        aggregated_data["channelEventsByTag"][channel_tag].append(event_data)
                                         processed_event_ids.add(event_id)
 
                                     time.sleep(0.1)
@@ -179,7 +223,10 @@ def convert_to_xmltv(json_data):
                 description = event.get('mergedSynopsis', event.get('shortSynopsis', ''))
                 ET.SubElement(programme_el, "desc", {"lang": "en"}).text = description
 
-                if event.get('imageUrl'):
+                if event.get('thumbnailUrl'):
+                    ET.SubElement(programme_el, "icon", {"src": event['thumbnailUrl']})
+                # Fall back to imageUrl if thumbnail wasn't fetched
+                elif event.get('imageUrl'):
                     ET.SubElement(programme_el, "icon", {"src": event['imageUrl']})
 
                 s_num = event.get('seriesNumber')
