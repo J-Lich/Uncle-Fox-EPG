@@ -1,617 +1,622 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <tv generator-info-name="Kayo EPG Scraper">
-  <channel id="4k.501.kayo.501">
-    <display-name>4K Kayo 501</display-name>
-    <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.501.png" />
-  </channel>
-  <channel id="4k.2.kayo.502">
-    <display-name>Kayo UHD 2 (Footy 2)</display-name>
-    <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.502.png" />
-  </channel>
-  <channel id="4k.503.kayo.503">
-    <display-name>4K Kayo 503</display-name>
+  <channel id="4k.571.kayo.571">
+    <display-name>Kayo UHD 6 (Cricket)</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <channel id="4k.1.kayo.504">
-    <display-name>Kayo UHD 1 (Footy 1)</display-name>
-    <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.504.png" />
+  <channel id="4k.572.kayo.572">
+    <display-name>Kayo UHD 2 (League)</display-name>
+    <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <channel id="4k.5.kayo.505">
+  <channel id="4k.573.kayo.573">
+    <display-name>Kayo UHD 3 (Footy 2)</display-name>
+    <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
+  </channel>
+  <channel id="4k.574.kayo.574">
+    <display-name>Kayo UHD 1 (Footy 1)</display-name>
+    <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
+  </channel>
+  <channel id="4k.575.kayo.575">
     <display-name>Kayo UHD 5 (Netball)</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <channel id="4k.506kayo.506">
-    <display-name>4K Kayo 506</display-name>
+  <channel id="4k.576,kayo.576">
+    <display-name>Kayo UHD 4 (F1))</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
-  <programme start="20260404130000 +1100" stop="20260404152600 +1100" channel="4k.1.kayo.504">
+  <programme start="20260404130000 +1100" stop="20260404152600 +1100" channel="4k.574.kayo.574">
     <title lang="en">: Port Melbourne v Sydney</title>
     <desc lang="en">Port Melbourne searches for its second win of the VFL season when it hosts Sydney at ETU Stadium on Saturday afternoon.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c617a0e4b08209b4bcfeeb-1774825160373&amp;imwidth=720" />
   </programme>
-  <programme start="20260404153714 +1100" stop="20260404184714 +1100" channel="4k.1.kayo.504">
+  <programme start="20260404153714 +1100" stop="20260404184714 +1100" channel="4k.574.kayo.574">
     <title lang="en">AFL: Richmond Tigers vs Port Adelaide Power</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Zak Butters arrives to Melbourne leading the young Power side in a clash of two teams desperately chasing a crucial win.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bb55f3e4b06c9c729057db-1773954451836&amp;imwidth=720" />
   </programme>
-  <programme start="20260404190238 +1100" stop="20260405004238 +1100" channel="4k.1.kayo.504">
+  <programme start="20260404190238 +1100" stop="20260404225538 +1100" channel="4k.574.kayo.574">
     <title lang="en">AFL: West Coast Eagles vs Sydney Swans</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">After two wins in a row, the Eagles are back at home against a Sydney side feeling fresh off a bye.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bb57ace4b08e801b5890b3-1773954457477&amp;imwidth=720" />
   </programme>
-  <programme start="20260404193000 +1100" stop="20260404232500 +1100" channel="4k.503.kayo.503">
+  <programme start="20260404193000 +1100" stop="20260404232500 +1100" channel="4k.573.kayo.573">
     <title lang="en">: Hindi West Coast v Sydney</title>
     <desc lang="en">Fox Footy presents Hindi coverage of West Coast v Sydney.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69ceeaede4b0c1f4e2f91c60-1775259109809&amp;imwidth=720" />
   </programme>
-  <programme start="20260405005506 +1100" stop="20260405041006 +1000" channel="4k.2.kayo.502">
-    <title lang="en">: Warrington v Leigh</title>
-    <desc lang="en">Round 7 of the Super League from Halliwell Jones Stadium.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c4afc3e4b0304346eb3584-1774562610922&amp;imwidth=720" />
-  </programme>
-  <programme start="20260404170000 +1100" stop="20260404191300 +1100" channel="4k.2.kayo.502">
+  <programme start="20260404170000 +1100" stop="20260404191300 +1100" channel="4k.572.kayo.572">
     <title lang="en">Premiership: St George Illawarra vs North Queensland</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">The hosts must break a six-game losing streak against the visitors to record their first win of 2026.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bc61abe4b020ac73a7422d-1775005677800&amp;imwidth=720" />
   </programme>
-  <programme start="20260404193017 +1100" stop="20260404235517 +1100" channel="4k.2.kayo.502">
+  <programme start="20260404193017 +1100" stop="20260404221817 +1100" channel="4k.572.kayo.572">
     <title lang="en">Premiership: Gold Coast Titans vs Brisbane</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Super Saturday's action winds up with a Qld derby as the visitors chase a third straight victory in this rivalry.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bc61bde4b0f6049e105dce-1773954022558&amp;imwidth=720" />
   </programme>
-  <programme start="20260405025500 +1000" stop="20260405062000 +1000" channel="4k.2.kayo.502">
+  <programme start="20260405005506 +1100" stop="20260405020506 +1100" channel="4k.572.kayo.572">
+    <title lang="en">: Warrington v Leigh</title>
+    <desc lang="en">Round 7 of the Super League from Halliwell Jones Stadium.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c4afc3e4b0304346eb3584-1774562610922&amp;imwidth=720" />
+  </programme>
+  <programme start="20260405025500 +1000" stop="20260405062000 +1000" channel="4k.572.kayo.572">
     <title lang="en">: Catalans v Toulouse</title>
     <desc lang="en">Round 7 of the Super League from Stade Gilbert Brutus.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c4b143e4b05017fc18e745-1774562596286&amp;imwidth=720" />
   </programme>
-  <programme start="20260405005201 +1100" stop="20260405051201 +1000" channel="4k.501.kayo.501">
-    <title lang="en">Indian Premier League: Gujarat Titans vs Rajasthan Royals</title>
-    <sub-title lang="en">2026</sub-title>
-    <desc lang="en">After a tough opening loss Shubman Gill's Titans return home to face the Royals' new all-rounder Ravindra Jadeja.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c0b188e4b068f5e1cee92d-1774571260087&amp;imwidth=720" />
+  <programme start="20260405030000 +1000" stop="20260405061000 +1000" channel="4k.572.kayo.572">
+    <title lang="en">: Catalans v Toulouse</title>
+    <desc lang="en">Round 7 of the Super League from Stade Gilbert Brutus.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69d1459ee4b07ddf69964563-1775322558862&amp;imwidth=720" />
   </programme>
-  <programme start="20260404205010 +1100" stop="20260405021010 +1100" channel="4k.501.kayo.501">
+  <programme start="20260404205010 +1100" stop="20260405004910 +1100" channel="4k.571.kayo.571">
     <title lang="en">Indian Premier League: Delhi Capitals vs Mumbai Indians</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">After a massive opening display for Mumbai, Rohit Sharma and Ryan Rickelton aim to repeat the feat against the Capitals.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69b745bfe4b08f9ced1a019b-1774494014899&amp;imwidth=720" />
   </programme>
-  <programme start="20260404114500 +1100" stop="20260404163600 +1100" channel="4k.506kayo.506">
-    <title lang="en">: Bathurst 6 Hour</title>
-    <desc lang="en">The best production car endurance drivers descend on the Mountain as a 70-car field takes to the track for qualifying.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c4b05ae4b068f5e1ceea95-1775022685661&amp;imwidth=720" />
+  <programme start="20260405005201 +1100" stop="20260405040601 +1000" channel="4k.571.kayo.571">
+    <title lang="en">Indian Premier League: Gujarat Titans vs Rajasthan Royals</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">After a tough opening loss Shubman Gill's Titans return home to face the Royals' new all-rounder Ravindra Jadeja.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c0b188e4b068f5e1cee92d-1774571260087&amp;imwidth=720" />
   </programme>
-  <programme start="20260405033000 +1000" stop="20260405091000 +1000" channel="4k.506kayo.506">
-    <title lang="en">: NASCAR Rockingham</title>
-    <desc lang="en">The field moves into the eighth round at Rockingham Oval. Series leader Justin Allgaier looks to maintain his hot pace.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c5b8b7e4b0304346eb35c2-1774565630388&amp;imwidth=720" />
-  </programme>
-  <programme start="20260405091500 +1000" stop="20260405184000 +1000" channel="4k.506kayo.506">
+  <programme start="20260405091535 +1000" stop="20260405184035 +1000" channel="4k.576,kayo.576">
     <title lang="en">: Bathurst 6 Hour</title>
     <desc lang="en">The 10th anniversary Bathurst 6 Hour hits Mount Panorama with a 70-car grid. Featuring Supercars stars Will Davison, Thomas Randle, Jack Le Broq and Bryce Fullwood.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c4b1e1e4b09ec77a29862a-1775021984443&amp;imwidth=720" />
   </programme>
-  <programme start="20260405000016 +1100" stop="20260405091016 +1000" channel="4k.503.kayo.503">
-    <title lang="en">: Texas Open R3</title>
-    <desc lang="en">It’s moving day at the Texas Open with Ludvig Aberg looking to chase down Robert MacIntyre at the top of the leaderboard.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c4a34ee4b022941611062c-1775301129362&amp;imwidth=720" />
+  <programme start="20260404114500 +1100" stop="20260404163600 +1100" channel="4k.576,kayo.576">
+    <title lang="en">: Bathurst 6 Hour</title>
+    <desc lang="en">The best production car endurance drivers descend on the Mountain as a 70-car field takes to the track for qualifying.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c4b05ae4b068f5e1ceea95-1775022685661&amp;imwidth=720" />
   </programme>
-  <programme start="20260405003012 +1100" stop="20260405023012 +1100" channel="4k.503.kayo.503">
-    <title lang="en">: Texas Open R3 Featured Groups</title>
-    <desc lang="en">Third round action of the Texas Open from the Oaks Golf Course.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c5cb7be4b082ea23a9ef94-1774997807343&amp;imwidth=720" />
+  <programme start="20260405033006 +1000" stop="20260405091006 +1000" channel="4k.576,kayo.576">
+    <title lang="en">: NASCAR Rockingham</title>
+    <desc lang="en">The field moves into the eighth round at Rockingham Oval. Series leader Justin Allgaier looks to maintain his hot pace.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c5b8b7e4b0304346eb35c2-1774565630388&amp;imwidth=720" />
   </programme>
-  <programme start="20260404140009 +1100" stop="20260404174009 +1100" channel="4k.503.kayo.503">
-    <title lang="en">: International Series Japan R3</title>
-    <desc lang="en">Third round action of the International Series Japan from Caledonian Golf Club.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c4b475e4b0304346eb358c-1774579181047&amp;imwidth=720" />
-  </programme>
-  <programme start="20260405020000 +1000" stop="20260405061000 +1000" channel="4k.5.kayo.505">
-    <title lang="en">: Augusta Women's Amateur FR</title>
-    <desc lang="en">Final round action of the Augusta National Women's Amateur from Augusta National.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c4c61be4b068f5e1ceeaba-1774576293164&amp;imwidth=720" />
-  </programme>
-  <programme start="20260405070000 +1000" stop="20260405121000 +1000" channel="4k.5.kayo.505">
+  <programme start="20260405070000 +1000" stop="20260405121000 +1000" channel="4k.575.kayo.575">
     <title lang="en">: Aramco Championship R3</title>
     <desc lang="en">Third round action of the Aramco Championship from Shadow Creek Golf Club.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c5d3dbe4b0814bf3a2fcaf-1774572554151&amp;imwidth=720" />
   </programme>
-  <programme start="20260404163005 +1100" stop="20260404182205 +1100" channel="4k.5.kayo.505">
+  <programme start="20260404140009 +1100" stop="20260404174009 +1100" channel="4k.573.kayo.573">
+    <title lang="en">: International Series Japan R3</title>
+    <desc lang="en">Third round action of the International Series Japan from Caledonian Golf Club.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c4b475e4b0304346eb358c-1774579181047&amp;imwidth=720" />
+  </programme>
+  <programme start="20260405000016 +1100" stop="20260405091016 +1000" channel="4k.573.kayo.573">
+    <title lang="en">: Texas Open R3</title>
+    <desc lang="en">It’s moving day at the Texas Open with Ludvig Aberg looking to chase down Robert MacIntyre at the top of the leaderboard.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c4a34ee4b022941611062c-1775301129362&amp;imwidth=720" />
+  </programme>
+  <programme start="20260405003012 +1100" stop="20260405101012 +1000" channel="4k.573.kayo.573">
+    <title lang="en">: Texas Open R3 Featured Groups</title>
+    <desc lang="en">Third round action of the Texas Open from the Oaks Golf Course.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c5cb7be4b082ea23a9ef94-1774997807343&amp;imwidth=720" />
+  </programme>
+  <programme start="20260405020020 +1100" stop="20260405051020 +1000" channel="4k.575.kayo.575">
+    <title lang="en">: Augusta Women's Amateur FR</title>
+    <desc lang="en">Final round action of the Augusta National Women's Amateur from Augusta National.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c4c61be4b068f5e1ceeaba-1774576293164&amp;imwidth=720" />
+  </programme>
+  <programme start="20260404163005 +1100" stop="20260404182205 +1100" channel="4k.575.kayo.575">
     <title lang="en">Suncorp Super Netball: Giants Netball vs Queensland Firebirds</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">The two remaining winless teams clash in Sydney with both sides desperate to get on the board.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c5da47e4b022941611068d-1774574178087&amp;imwidth=720" />
   </programme>
-  <programme start="20260404184500 +1100" stop="20260404203000 +1100" channel="4k.5.kayo.505">
+  <programme start="20260404184500 +1100" stop="20260404203000 +1100" channel="4k.575.kayo.575">
     <title lang="en">Suncorp Super Netball: Mavericks vs Adelaide Thunderbirds</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">After a nail-biting extra time loss, the Mavericks host the hottest team in the league as the Thunderbirds look to make it 4 from 4 to start the season.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c5da7ae4b08209b4bcfe99-1774574242861&amp;imwidth=720" />
   </programme>
-  <programme start="20260404120000 +1100" stop="20260404134000 +1100" channel="4k.5.kayo.505">
-    <title lang="en">: Weigh Ins</title>
-    <desc lang="en">The official weigh ins for the Tim Tszyu v Denis Nurja No Limit Boxing card gets underway.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c46c7ae4b0c9477905d70c-1774570644922&amp;imwidth=720" />
-  </programme>
-  <programme start="20260405083000 +1000" stop="20260405121000 +1000" channel="4k.503.kayo.503">
+  <programme start="20260405083000 +1000" stop="20260405121000 +1000" channel="4k.573.kayo.573">
     <title lang="en">: Undercards</title>
     <desc lang="en">All the undercard action for the Tim Tszyu v Denis Nurja pay-per-view gets underway.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c9f3ece4b023b63cd0b860-1774843111709&amp;imwidth=720" />
   </programme>
-  <programme start="20260405143000 +1000" stop="20260405201000 +1000" channel="4k.1.kayo.504">
+  <programme start="20260404120000 +1100" stop="20260404134000 +1100" channel="4k.575.kayo.575">
+    <title lang="en">: Weigh Ins</title>
+    <desc lang="en">The official weigh ins for the Tim Tszyu v Denis Nurja No Limit Boxing card gets underway.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c46c7ae4b0c9477905d70c-1774570644922&amp;imwidth=720" />
+  </programme>
+  <programme start="20260405143000 +1000" stop="20260405201000 +1000" channel="4k.574.kayo.574">
     <title lang="en">AFL: Melbourne Demons vs Gold Coast Suns</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">After a thrilling comeback win last weekend, the Dees are back on the MCG against the undefeated Suns.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bb58abe4b06c9c729057dd-1774914660539&amp;imwidth=720" />
   </programme>
-  <programme start="20260405190000 +1000" stop="20260405234000 +1000" channel="4k.1.kayo.504">
+  <programme start="20260405190000 +1000" stop="20260405234000 +1000" channel="4k.574.kayo.574">
     <title lang="en">AFL: Western Bulldogs vs Essendon Bombers</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">The Bulldogs host the Bombers in a massive Sunday night clash at Marvel Stadium.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bb5bf5e4b020ac73a7405b-1773954469564&amp;imwidth=720" />
   </programme>
-  <programme start="20260405130000 +1000" stop="20260405170500 +1000" channel="4k.2.kayo.502">
+  <programme start="20260405130000 +1000" stop="20260405170500 +1000" channel="4k.572.kayo.572">
     <title lang="en">Premiership: Cronulla vs Warriors</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Round 4 saw the hosts triumph against the Raiders, but the visitors have won their past two in Cronulla.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bc61c7e4b0f6049e105dcf-1775005745814&amp;imwidth=720" />
   </programme>
-  <programme start="20260405155500 +1000" stop="20260405192500 +1000" channel="4k.2.kayo.502">
+  <programme start="20260405155500 +1000" stop="20260405192500 +1000" channel="4k.572.kayo.572">
     <title lang="en">Premiership: Newcastle vs Canberra</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">The hosts are looking for momentum after an upset win, while the visitors search for answers after a third straight loss.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bc61d2e4b0ea7c2d11104f-1773954034444&amp;imwidth=720" />
   </programme>
-  <programme start="20260405235500 +1000" stop="20260406031500 +1000" channel="4k.2.kayo.502">
+  <programme start="20260405235500 +1000" stop="20260406031500 +1000" channel="4k.572.kayo.572">
     <title lang="en">: Castleford v Wakefield</title>
     <desc lang="en">Round 7 of the Super League from The OneBore Stadium.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c4b20be4b0304346eb358a-1774562573819&amp;imwidth=720" />
   </programme>
-  <programme start="20260405195000 +1000" stop="20260406011000 +1000" channel="4k.501.kayo.501">
+  <programme start="20260405195000 +1000" stop="20260406011000 +1000" channel="4k.571.kayo.571">
     <title lang="en">Indian Premier League: Sunrisers Hyderabad vs Lucknow Super Giants</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Mitchell Marsh’s Super Giants descend on Hyderabad to face his fellow Australian opener Travis Head.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c0b18fe4b068f5e1cee92e-1775114679928&amp;imwidth=720" />
   </programme>
-  <programme start="20260405235000 +1000" stop="20260406051000 +1000" channel="4k.501.kayo.501">
+  <programme start="20260405235000 +1000" stop="20260406051000 +1000" channel="4k.571.kayo.571">
     <title lang="en">Indian Premier League: Royal Challengers Bengaluru vs Chennai Super Kings</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Virat Kohli started the season off with a bang and now faces the Super Kings for Southern supremacy.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c0b193e4b02294161104fa-1775113845532&amp;imwidth=720" />
   </programme>
-  <programme start="20260405130000 +1000" stop="20260405181000 +1000" channel="4k.503.kayo.503">
+  <programme start="20260405130000 +1000" stop="20260405181000 +1000" channel="4k.573.kayo.573">
     <title lang="en">: International Series Japan FR</title>
     <desc lang="en">Final round action of the International Series Japan from Caledonian Golf Club.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c4ca88e4b082ea23a9ef7b-1774579262240&amp;imwidth=720" />
   </programme>
-  <programme start="20260406000000 +1000" stop="20260406091000 +1000" channel="4k.503.kayo.503">
+  <programme start="20260406000000 +1000" stop="20260406091000 +1000" channel="4k.573.kayo.573">
     <title lang="en">: Texas Open FR</title>
     <desc lang="en">Final round action of the Texas Open from the Oaks Golf Course.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c4a426e4b068f5e1ceea7d-1774913740849&amp;imwidth=720" />
   </programme>
-  <programme start="20260406010000 +1000" stop="20260406030000 +1000" channel="4k.503.kayo.503">
+  <programme start="20260406010000 +1000" stop="20260406030000 +1000" channel="4k.573.kayo.573">
     <title lang="en">: Texas Open FR Featured Groups</title>
     <desc lang="en">Final round action of the Texas Open from the Oaks Golf Course.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c5cbf8e4b0229416110684-1774997795448&amp;imwidth=720" />
   </programme>
-  <programme start="20260406070000 +1000" stop="20260406121000 +1000" channel="4k.5.kayo.505">
+  <programme start="20260406070000 +1000" stop="20260406121000 +1000" channel="4k.575.kayo.575">
     <title lang="en">: Aramco Championship FR</title>
     <desc lang="en">Final round action of the Aramco Championship from Shadow Creek Golf Club.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c5d443e4b06e51723a4467-1774572696608&amp;imwidth=720" />
   </programme>
-  <programme start="20260405133000 +1000" stop="20260405165500 +1000" channel="4k.5.kayo.505">
+  <programme start="20260405133000 +1000" stop="20260405165500 +1000" channel="4k.575.kayo.575">
     <title lang="en">Suncorp Super Netball: NSW Swifts vs West Coast Fever</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">After back-to-back one goal losses the Swifts look to turn their fortunes around as they host the Fever in Sydney.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c5da82e4b082ea23a9efa1-1774574250593&amp;imwidth=720" />
   </programme>
-  <programme start="20260405154500 +1000" stop="20260405185500 +1000" channel="4k.5.kayo.505">
+  <programme start="20260405154500 +1000" stop="20260405185500 +1000" channel="4k.575.kayo.575">
     <title lang="en">Suncorp Super Netball: Melbourne Vixens vs Sunshine Coast Lightning</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">The Vixens look to remain undefeated as they host the Lightning in Melbourne.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c5dab0e4b0304346eb35df-1774574294238&amp;imwidth=720" />
   </programme>
-  <programme start="20260406041000 +1000" stop="20260406080000 +1000" channel="4k.5.kayo.505">
+  <programme start="20260406041000 +1000" stop="20260406080000 +1000" channel="4k.575.kayo.575">
     <title lang="en">: Miami Final Day</title>
     <desc lang="en">Final day action from the Global Champions Tour in Miami.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69ca0364e4b0c3ec16e7ddf4-1774846970786&amp;imwidth=720" />
   </programme>
-  <programme start="20260406140000 +1000" stop="20260406194000 +1000" channel="4k.1.kayo.504">
+  <programme start="20260406140000 +1000" stop="20260406194000 +1000" channel="4k.574.kayo.574">
     <title lang="en">AFL: Hawthorn Hawks vs Geelong Cats</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Fox Footy brings you all the build up and fallout to one of the seasons biggest fixtures, in the traditional Easter Monday clash.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bb5cb3e4b06c9c729057e5-1774914936599&amp;imwidth=720" />
   </programme>
-  <programme start="20260406133500 +1000" stop="20260406164000 +1000" channel="4k.2.kayo.502">
+  <programme start="20260406133500 +1000" stop="20260406164000 +1000" channel="4k.572.kayo.572">
     <title lang="en">NSW Cup: Parramatta vs Western Suburbs</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">The New South Wales Cup expands to 14 teams with the introduction of Melbourne Storm. The sides provide depth &amp; rising stars for the NRL.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c5e708e4b0304346eb35ee-1774936449624&amp;imwidth=720" />
   </programme>
-  <programme start="20260406153000 +1000" stop="20260406192500 +1000" channel="4k.2.kayo.502">
+  <programme start="20260406153000 +1000" stop="20260406192500 +1000" channel="4k.572.kayo.572">
     <title lang="en">Premiership: Parramatta vs Wests Tigers</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Round 5 concludes with the 12th edition of this Easter Monday rivalry. The hosts hold the edge 6-5 after last year's victory.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bc61dce4b0f6049e105dd0-1775005813080&amp;imwidth=720" />
   </programme>
-  <programme start="20260406235000 +1000" stop="20260407051000 +1000" channel="4k.501.kayo.501">
+  <programme start="20260406235000 +1000" stop="20260407051000 +1000" channel="4k.571.kayo.571">
     <title lang="en">Indian Premier League: Kolkata Knight Riders vs Punjab Kings</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Cameron Green’s Knight Riders face Cooper Connolly and the Kings in an epic clash of Australian young guns.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c0b36ce4b0304346eb3454-1775113995023&amp;imwidth=720" />
   </programme>
-  <programme start="20260407030000 +1000" stop="20260407074000 +1000" channel="4k.5.kayo.505">
+  <programme start="20260407030000 +1000" stop="20260407074000 +1000" channel="4k.575.kayo.575">
     <title lang="en">: Pairs Cup Week 3</title>
     <desc lang="en">The 2026 Ultimate Pool Pairs Cup continues with Week Three action.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c9b299e4b0a6242bae0d26-1774826383955&amp;imwidth=720" />
   </programme>
-  <programme start="20260407235000 +1000" stop="20260408051000 +1000" channel="4k.501.kayo.501">
+  <programme start="20260407235000 +1000" stop="20260408051000 +1000" channel="4k.571.kayo.571">
     <title lang="en">Indian Premier League: Rajasthan Royals vs Mumbai Indians</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Two top teams go head-to-head as Hardik Pandya and Rohit Sharma’s Mumbai looks to conquer the pink fortress.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c0b371e4b082096d2aa2c1-1774910250252&amp;imwidth=720" />
   </programme>
-  <programme start="20260408235000 +1000" stop="20260409051000 +1000" channel="4k.501.kayo.501">
+  <programme start="20260408235000 +1000" stop="20260409051000 +1000" channel="4k.571.kayo.571">
     <title lang="en">Indian Premier League: Delhi Capitals vs Gujarat Titans</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Shubman Gill leads the Titans against a Capitals side desperate for a home win</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c0b375e4b0304346eb3455-1774912558692&amp;imwidth=720" />
   </programme>
-  <programme start="20260409040000 +1000" stop="20260409071000 +1000" channel="4k.503.kayo.503">
+  <programme start="20260409040000 +1000" stop="20260409071000 +1000" channel="4k.573.kayo.573">
     <title lang="en">: The Masters Par 3 Contest</title>
     <desc lang="en">On the eve of the Masters, the cherished Par 3 contest takes place from Augusta National.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69cdc1f6e4b04267e7395724-1775092245137&amp;imwidth=720" />
   </programme>
-  <programme start="20260409183000 +1000" stop="20260410001000 +1000" channel="4k.1.kayo.504">
+  <programme start="20260409183000 +1000" stop="20260410001000 +1000" channel="4k.574.kayo.574">
     <title lang="en">AFL: Adelaide Crows vs Carlton Blues</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Round 5 begins with the Blues travelling to face the Crows.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bc68bee4b0f6049e105de4-1773955633868&amp;imwidth=720" />
   </programme>
-  <programme start="20260409183000 +1000" stop="20260409232000 +1000" channel="4k.2.kayo.502">
+  <programme start="20260409183000 +1000" stop="20260409232000 +1000" channel="4k.572.kayo.572">
     <title lang="en">Premiership: Canterbury vs Penrith</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Watch Round 6 of the NRL on Kayo.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bc663ee4b0ea7c2d11105b-1773955054017&amp;imwidth=720" />
   </programme>
-  <programme start="20260409235000 +1000" stop="20260410061000 +1000" channel="4k.501.kayo.501">
+  <programme start="20260409235000 +1000" stop="20260410061000 +1000" channel="4k.571.kayo.571">
     <title lang="en">Indian Premier League: Kolkata Knight Riders vs Lucknow Super Giants</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Cameron Green and the Knight Riders host Mitchell Marsh in a massive clash of Aussies at Eden Gardens.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69cafbc0e4b0e4e9bd5ecfdc-1775114084580&amp;imwidth=720" />
   </programme>
-  <programme start="20260409230000 +1000" stop="20260410041000 +1000" channel="4k.503.kayo.503">
+  <programme start="20260409230000 +1000" stop="20260410041000 +1000" channel="4k.573.kayo.573">
     <title lang="en">: The Masters Round 1 Morning</title>
     <desc lang="en">Featured Groups: First round action of the Masters from Augusta National.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69cd9ae8e4b006f503f77783-1775082251075&amp;imwidth=720" />
   </programme>
-  <programme start="20260410004500 +1000" stop="20260410091000 +1000" channel="4k.5.kayo.505">
+  <programme start="20260410004500 +1000" stop="20260410091000 +1000" channel="4k.575.kayo.575">
     <title lang="en">: The Masters Amen Corner Round 1</title>
     <desc lang="en">Live action from three of the most iconic holes in golf, holes 11, 12 &amp; 13 at Augusta National.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69cdbe6ae4b04267e7395721-1775091355327&amp;imwidth=720" />
   </programme>
-  <programme start="20260410014500 +1000" stop="20260410101000 +1000" channel="4k.506kayo.506">
+  <programme start="20260410014500 +1000" stop="20260410101000 +1000" channel="4k.576,kayo.576">
     <title lang="en">: The Masters Holes 15 &amp; 16 Round 1</title>
     <desc lang="en">Don't miss a moment from the 15th &amp; 16th holes across the 90th Masters.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69cdc27fe4b04267e7395726-1775092423152&amp;imwidth=720" />
   </programme>
-  <programme start="20260410030000 +1000" stop="20260410104000 +1000" channel="4k.503.kayo.503">
+  <programme start="20260410030000 +1000" stop="20260410104000 +1000" channel="4k.573.kayo.573">
     <title lang="en">: The Masters Round 1</title>
     <desc lang="en">First round action of the Masters from Augusta National.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69cdbabfe4b04267e7395720-1775090383089&amp;imwidth=720" />
   </programme>
-  <programme start="20260410183000 +1000" stop="20260411001000 +1000" channel="4k.1.kayo.504">
+  <programme start="20260410183000 +1000" stop="20260411001000 +1000" channel="4k.574.kayo.574">
     <title lang="en">AFL: Collingwood Magpies vs Fremantle Dockers</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">The Pies host the Dockers in Round 5.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bc68cee4b020ac73a74246-1773955640313&amp;imwidth=720" />
   </programme>
-  <programme start="20260410170000 +1000" stop="20260410210500 +1000" channel="4k.2.kayo.502">
+  <programme start="20260410170000 +1000" stop="20260410210500 +1000" channel="4k.572.kayo.572">
     <title lang="en">Premiership: St George Illawarra vs Manly</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Watch Round 6 of the NRL on Kayo.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bc6647e4b0f6049e105ddc-1773955059057&amp;imwidth=720" />
   </programme>
-  <programme start="20260410195500 +1000" stop="20260411000500 +1000" channel="4k.2.kayo.502">
+  <programme start="20260410195500 +1000" stop="20260411000500 +1000" channel="4k.572.kayo.572">
     <title lang="en">Premiership: Brisbane vs North Queensland</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Watch Round 6 of the NRL on Kayo.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bc664ee4b082fa59448ada-1773955065088&amp;imwidth=720" />
   </programme>
-  <programme start="20260410235000 +1000" stop="20260411061000 +1000" channel="4k.501.kayo.501">
+  <programme start="20260410235000 +1000" stop="20260411061000 +1000" channel="4k.571.kayo.571">
     <title lang="en">Indian Premier League: Rajasthan Royals vs Royal Challengers Bengaluru</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Ravindra Jadeja and the Royals look to halt Virat Kohli’s hot scoring streak in a Guwahati showdown.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69cafe56e4b0a3c818d00bd5-1775114219064&amp;imwidth=720" />
   </programme>
-  <programme start="20260410113000 +1000" stop="20260410152000 +1000" channel="4k.506kayo.506">
+  <programme start="20260410113000 +1000" stop="20260410152000 +1000" channel="4k.576,kayo.576">
     <title lang="en">: Taupo</title>
     <desc lang="en">The roar of Supercars will echo through the Taupo International Motorsport Park for the first round of The NZ Double Header with cars on track for practice.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69cda675e4b04267e7395712-1775085271337&amp;imwidth=720" />
   </programme>
-  <programme start="20260411073000 +1000" stop="20260411111200 +1000" channel="4k.506kayo.506">
+  <programme start="20260411073000 +1000" stop="20260411111200 +1000" channel="4k.576,kayo.576">
     <title lang="en">: Taupo</title>
     <desc lang="en">Qualifying for Races 8 and 9 begin on Day 2 of action at Taupo International Motorsport Park.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69cda6c1e4b006f503f77791-1775085566547&amp;imwidth=720" />
   </programme>
-  <programme start="20260410230000 +1000" stop="20260411041000 +1000" channel="4k.503.kayo.503">
+  <programme start="20260410230000 +1000" stop="20260411041000 +1000" channel="4k.573.kayo.573">
     <title lang="en">: The Masters Round 2 Morning</title>
     <desc lang="en">Featured Groups: Second round action of the Masters from Augusta National.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69cda19fe4b049fc27de7c97-1775084014669&amp;imwidth=720" />
   </programme>
-  <programme start="20260411004500 +1000" stop="20260411091000 +1000" channel="4k.5.kayo.505">
+  <programme start="20260411004500 +1000" stop="20260411091000 +1000" channel="4k.575.kayo.575">
     <title lang="en">: The Masters Amen Corner Round 2</title>
     <desc lang="en">Live action from three of the most iconic holes in golf, holes 11, 12 &amp; 13 at Augusta National.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69cdbf1ae4b04267e7395722-1775091562037&amp;imwidth=720" />
   </programme>
-  <programme start="20260411014500 +1000" stop="20260411084000 +1000" channel="4k.506kayo.506">
+  <programme start="20260411014500 +1000" stop="20260411084000 +1000" channel="4k.576,kayo.576">
     <title lang="en">: The Masters Holes 15 &amp; 16 Round 2</title>
     <desc lang="en">Don't miss a moment from the 15th &amp; 16th holes across the 90th Masters.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69cdc1e6e4b049fc27de7cba-1775092246028&amp;imwidth=720" />
   </programme>
-  <programme start="20260411030000 +1000" stop="20260411104000 +1000" channel="4k.503.kayo.503">
+  <programme start="20260411030000 +1000" stop="20260411104000 +1000" channel="4k.573.kayo.573">
     <title lang="en">: The Masters Round 2</title>
     <desc lang="en">Second round action of the Masters from Augusta National.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69cdba27e4b006f503f777a2-1775090275284&amp;imwidth=720" />
   </programme>
-  <programme start="20260411120000 +1000" stop="20260411164500 +1000" channel="4k.503.kayo.503">
+  <programme start="20260411120000 +1000" stop="20260411164500 +1000" channel="4k.573.kayo.573">
     <title lang="en">AFL: North Melbourne Kangaroos vs Brisbane Lions</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">The Lions travel to face the Roos in Round 5.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bc68d6e4b08e801b5892a6-1773955645481&amp;imwidth=720" />
   </programme>
-  <programme start="20260411123000 +1000" stop="20260411171000 +1000" channel="4k.1.kayo.504">
+  <programme start="20260411123000 +1000" stop="20260411171000 +1000" channel="4k.574.kayo.574">
     <title lang="en">AFL: Essendon Bombers vs Melbourne Demons</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">The Bombers and Dees collide in Round 5.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bc68dee4b08e801b5892a7-1773955650697&amp;imwidth=720" />
   </programme>
-  <programme start="20260411160000 +1000" stop="20260411204000 +1000" channel="4k.1.kayo.504">
+  <programme start="20260411160000 +1000" stop="20260411204000 +1000" channel="4k.574.kayo.574">
     <title lang="en">AFL: Sydney Swans vs Gold Coast Suns</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">The Swans welcome the Suns to the SCG in Round 5.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bc68e4e4b082fa59448ae6-1773955655252&amp;imwidth=720" />
   </programme>
-  <programme start="20260411191500 +1000" stop="20260412001000 +1000" channel="4k.1.kayo.504">
+  <programme start="20260411191500 +1000" stop="20260412001000 +1000" channel="4k.574.kayo.574">
     <title lang="en">AFL: Hawthorn Hawks vs Western Bulldogs</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">The Hawks and Dogs face off in Round 5.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bc68ebe4b0f6049e105de5-1773955662301&amp;imwidth=720" />
   </programme>
-  <programme start="20260411143000 +1000" stop="20260411180500 +1000" channel="4k.2.kayo.502">
+  <programme start="20260411143000 +1000" stop="20260411180500 +1000" channel="4k.572.kayo.572">
     <title lang="en">Premiership: South Sydney vs Canberra</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Watch Round 6 of the NRL on Kayo.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bc6656e4b0ea7c2d11105d-1773959523163&amp;imwidth=720" />
   </programme>
-  <programme start="20260411165500 +1000" stop="20260411203500 +1000" channel="4k.2.kayo.502">
+  <programme start="20260411165500 +1000" stop="20260411203500 +1000" channel="4k.572.kayo.572">
     <title lang="en">Premiership: Cronulla vs Sydney Roosters</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Watch Round 6 of the NRL on Kayo.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bc665de4b0f6049e105ddd-1773955120062&amp;imwidth=720" />
   </programme>
-  <programme start="20260411192500 +1000" stop="20260411235000 +1000" channel="4k.2.kayo.502">
+  <programme start="20260411192500 +1000" stop="20260411235000 +1000" channel="4k.572.kayo.572">
     <title lang="en">Premiership: Melbourne vs Warriors</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Watch Round 6 of the NRL on Kayo.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bc6666e4b020ac73a7423d-1773955126190&amp;imwidth=720" />
   </programme>
-  <programme start="20260411195000 +1000" stop="20260412011000 +1000" channel="4k.501.kayo.501">
+  <programme start="20260411195000 +1000" stop="20260412011000 +1000" channel="4k.571.kayo.571">
     <title lang="en">Indian Premier League: Punjab Kings vs Sunrisers Hyderabad</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Cooper Connolly aims to outshine Travis Head as the Kings host the Sunrisers.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69cafec5e4b0e4e9bd5ecfdf-1775114312347&amp;imwidth=720" />
   </programme>
-  <programme start="20260411235000 +1000" stop="20260412051000 +1000" channel="4k.501.kayo.501">
+  <programme start="20260411235000 +1000" stop="20260412051000 +1000" channel="4k.571.kayo.571">
     <title lang="en">Indian Premier League: Chennai Super Kings vs Delhi Capitals</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Super Kings take on Capitals at MA Chidambaram Stadium, Chennai.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69cb00c3e4b023b63cd0b891-1774911731140&amp;imwidth=720" />
   </programme>
-  <programme start="20260411100200 +1000" stop="20260411143000 +1000" channel="4k.506kayo.506">
+  <programme start="20260411100200 +1000" stop="20260411143000 +1000" channel="4k.576,kayo.576">
     <title lang="en">: Taupo Super 440 Race 8</title>
     <desc lang="en">Brodie Kostecki leads the Championship standings heading into the first sprint race of the weekend with Cam Waters and Broc Feeney hot on his tail.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69cda6cae4b0c5cfde5e0658-1775085573401&amp;imwidth=720" />
   </programme>
-  <programme start="20260411132000 +1000" stop="20260411165500 +1000" channel="4k.506kayo.506">
+  <programme start="20260411132000 +1000" stop="20260411165500 +1000" channel="4k.576,kayo.576">
     <title lang="en">: Taupo Super 440 Race 9</title>
     <desc lang="en">The second sprint race of the weekend begins from Taupo with more points up for grabs.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69cda6d7e4b07ddf699644d0-1775085579428&amp;imwidth=720" />
   </programme>
-  <programme start="20260412070000 +1000" stop="20260412114200 +1000" channel="4k.506kayo.506">
+  <programme start="20260412070000 +1000" stop="20260412114200 +1000" channel="4k.576,kayo.576">
     <title lang="en">: Taupo</title>
     <desc lang="en">The Supercars fire up at the Taupo International Motorsport Park as all the drivers eye off pole position when qualifying begins.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69cda6e2e4b05e143c478f46-1775085585725&amp;imwidth=720" />
   </programme>
-  <programme start="20260412090000 +1000" stop="20260412131000 +1000" channel="4k.5.kayo.505">
+  <programme start="20260412090000 +1000" stop="20260412131000 +1000" channel="4k.575.kayo.575">
     <title lang="en">: NASCAR Bristol</title>
     <desc lang="en">The 2026 Auto Parts Series moves into its ninth round in Tennessee.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69cb3e23e4b08950b202e40b-1774927586243&amp;imwidth=720" />
   </programme>
-  <programme start="20260412000000 +1000" stop="20260412025500 +1000" channel="4k.5.kayo.505">
+  <programme start="20260412000000 +1000" stop="20260412025500 +1000" channel="4k.575.kayo.575">
     <title lang="en">: The Masters On The Range Round 3</title>
     <desc lang="en">Go on the range at Augusta National ahead of The Masters, with interviews and analysis from the world's best.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69cdcf58e4b0c1f4e2f91c12-1775095700429&amp;imwidth=720" />
   </programme>
-  <programme start="20260412000000 +1000" stop="20260412031000 +1000" channel="4k.503.kayo.503">
+  <programme start="20260412000000 +1000" stop="20260412031000 +1000" channel="4k.573.kayo.573">
     <title lang="en">: The Masters Round 3 Morning</title>
     <desc lang="en">Featured Groups: Third round action of the Masters from Augusta National.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69cda357e4b07ddf699644c9-1775084401061&amp;imwidth=720" />
   </programme>
-  <programme start="20260412014500 +1000" stop="20260412091000 +1000" channel="4k.5.kayo.505">
+  <programme start="20260412014500 +1000" stop="20260412091000 +1000" channel="4k.575.kayo.575">
     <title lang="en">: The Masters Amen Corner Round 3</title>
     <desc lang="en">Live action from three of the most iconic holes in golf, holes 11, 12 &amp; 13 at Augusta National.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69cdbfc5e4b0c1f4e2f91bfa-1775091682696&amp;imwidth=720" />
   </programme>
-  <programme start="20260412020000 +1000" stop="20260412101000 +1000" channel="4k.503.kayo.503">
+  <programme start="20260412020000 +1000" stop="20260412101000 +1000" channel="4k.573.kayo.573">
     <title lang="en">: The Masters Round 3</title>
     <desc lang="en">Third round action of the Masters from Augusta National.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69cdb967e4b049fc27de7cac-1775090104354&amp;imwidth=720" />
   </programme>
-  <programme start="20260412023000 +1000" stop="20260412081000 +1000" channel="4k.506kayo.506">
+  <programme start="20260412023000 +1000" stop="20260412081000 +1000" channel="4k.576,kayo.576">
     <title lang="en">: The Masters Holes 15 &amp; 16 Round 3</title>
     <desc lang="en">Don't miss a moment from the 15th &amp; 16th holes across the 90th Masters.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69cdc116e4b0dc8b9ee84ede-1775092118943&amp;imwidth=720" />
   </programme>
-  <programme start="20260411163000 +1000" stop="20260411195500 +1000" channel="4k.5.kayo.505">
+  <programme start="20260411163000 +1000" stop="20260411195500 +1000" channel="4k.575.kayo.575">
     <title lang="en">Suncorp Super Netball: NSW Swifts vs Melbourne Vixens</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">The Swifts host the Vixens in Sydney.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69cdca2be4b04267e7395730-1775094364390&amp;imwidth=720" />
   </programme>
-  <programme start="20260411184500 +1000" stop="20260411215500 +1000" channel="4k.5.kayo.505">
+  <programme start="20260411184500 +1000" stop="20260411215500 +1000" channel="4k.575.kayo.575">
     <title lang="en">Suncorp Super Netball: Adelaide Thunderbirds vs Giants Netball</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">The Thunderbirds host the Giants in Adelaide.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69cdca9de4b0c1f4e2f91c0b-1775094495162&amp;imwidth=720" />
   </programme>
-  <programme start="20260412123000 +1000" stop="20260412161000 +1000" channel="4k.1.kayo.504">
+  <programme start="20260412123000 +1000" stop="20260412161000 +1000" channel="4k.574.kayo.574">
     <title lang="en">AFL: Geelong Cats vs West Coast Eagles</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">The Eagles travel to the Cattery to face Geelong in Round 5.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bc68f1e4b08e801b5892a8-1773955667442&amp;imwidth=720" />
   </programme>
-  <programme start="20260412150000 +1000" stop="20260412201000 +1000" channel="4k.1.kayo.504">
+  <programme start="20260412150000 +1000" stop="20260412201000 +1000" channel="4k.574.kayo.574">
     <title lang="en">AFL: Greater Western Sydney Giants vs Richmond Tigers</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">The Giants and Tigers meet in Round 5.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bc6900e4b04ab0b9db12a9-1773955673825&amp;imwidth=720" />
   </programme>
-  <programme start="20260412181500 +1000" stop="20260413001000 +1000" channel="4k.1.kayo.504">
+  <programme start="20260412181500 +1000" stop="20260413001000 +1000" channel="4k.574.kayo.574">
     <title lang="en">AFL: Port Adelaide Power vs St Kilda Saints</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Round 5 concludes with the Power taking on the Saints.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bc690be4b08e801b5892a9-1773968885357&amp;imwidth=720" />
   </programme>
-  <programme start="20260412130000 +1000" stop="20260412170500 +1000" channel="4k.2.kayo.502">
+  <programme start="20260412130000 +1000" stop="20260412170500 +1000" channel="4k.572.kayo.572">
     <title lang="en">Premiership: Parramatta vs Gold Coast Titans</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Watch Round 6 of the NRL on Kayo.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bc666fe4b08e801b5892a1-1773955130826&amp;imwidth=720" />
   </programme>
-  <programme start="20260412155500 +1000" stop="20260412192500 +1000" channel="4k.2.kayo.502">
+  <programme start="20260412155500 +1000" stop="20260412192500 +1000" channel="4k.572.kayo.572">
     <title lang="en">Premiership: Wests Tigers vs Newcastle</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Watch Round 6 of the NRL on Kayo.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bc6681e4b0f6049e105dde-1773955240091&amp;imwidth=720" />
   </programme>
-  <programme start="20260412215800 +1000" stop="20260413011000 +1000" channel="4k.2.kayo.502">
+  <programme start="20260412215800 +1000" stop="20260413011000 +1000" channel="4k.572.kayo.572">
     <title lang="en">: Wakefield v Wigan</title>
     <desc lang="en">Quarter Final of the Challenge Cup from DIY Kitchens Stadium.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69cb36a3e4b04ff07077cff5-1774928373592&amp;imwidth=720" />
   </programme>
-  <programme start="20260412195000 +1000" stop="20260413011000 +1000" channel="4k.501.kayo.501">
+  <programme start="20260412195000 +1000" stop="20260413011000 +1000" channel="4k.571.kayo.571">
     <title lang="en">Indian Premier League: Lucknow Super Giants vs Gujarat Titans</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Super Giants take on Titans at Ekana Cricket Stadium, Lucknow.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69cb0117e4b0a3c818d00bda-1774911872428&amp;imwidth=720" />
   </programme>
-  <programme start="20260412235000 +1000" stop="20260413051000 +1000" channel="4k.501.kayo.501">
+  <programme start="20260412235000 +1000" stop="20260413051000 +1000" channel="4k.571.kayo.571">
     <title lang="en">Indian Premier League: Mumbai Indians vs Royal Challengers Bengaluru</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Mumbai take on Challengers at Wankhede Stadium, Mumbai.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69cb0262e4b023b63cd0b892-1774912189802&amp;imwidth=720" />
   </programme>
-  <programme start="20260412103200 +1000" stop="20260412123900 +1000" channel="4k.506kayo.506">
+  <programme start="20260412103200 +1000" stop="20260412123900 +1000" channel="4k.576,kayo.576">
     <title lang="en">: Taupo</title>
     <desc lang="en">Pole position is up for grabs in the Top 10 Shootout, which will set the grid for Race 10 at Taupo International Motorsport Park.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69cda6eee4b0c1f4e2f91bee-1775085590589&amp;imwidth=720" />
   </programme>
-  <programme start="20260412112900 +1000" stop="20260412164000 +1000" channel="4k.506kayo.506">
+  <programme start="20260412112900 +1000" stop="20260412164000 +1000" channel="4k.576,kayo.576">
     <title lang="en">: Taupo Super 440 Race 10</title>
     <desc lang="en">A high-stakes Sunday showdown over 200km as drivers race for the Jason Richards Memorial Trophy.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69cda6f7e4b006f503f77794-1775085597206&amp;imwidth=720" />
   </programme>
-  <programme start="20260413040000 +1000" stop="20260413094000 +1000" channel="4k.506kayo.506">
+  <programme start="20260413040000 +1000" stop="20260413094000 +1000" channel="4k.576,kayo.576">
     <title lang="en">: NASCAR Bristol</title>
     <desc lang="en">The 2026 Cup Series moves into its eighth round in Tennessee.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69cb3ce6e4b08950b202e40a-1774927184849&amp;imwidth=720" />
   </programme>
-  <programme start="20260413000000 +1000" stop="20260413025500 +1000" channel="4k.5.kayo.505">
+  <programme start="20260413000000 +1000" stop="20260413025500 +1000" channel="4k.575.kayo.575">
     <title lang="en">: The Masters On The Range Final Round</title>
     <desc lang="en">Go on the range at Augusta National ahead of The Masters, with interviews and analysis from the world's best.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69cdd00fe4b049fc27de7cca-1775095926701&amp;imwidth=720" />
   </programme>
-  <programme start="20260413000000 +1000" stop="20260413031000 +1000" channel="4k.503.kayo.503">
+  <programme start="20260413000000 +1000" stop="20260413031000 +1000" channel="4k.573.kayo.573">
     <title lang="en">: The Masters Final Round Morning</title>
     <desc lang="en">Featured Groups: Final round action of the Masters from Augusta National.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69cdb83ce4b04267e739571b-1775106185706&amp;imwidth=720" />
   </programme>
-  <programme start="20260413014500 +1000" stop="20260413091000 +1000" channel="4k.5.kayo.505">
+  <programme start="20260413014500 +1000" stop="20260413091000 +1000" channel="4k.575.kayo.575">
     <title lang="en">: The Masters Amen Corner Final Round</title>
     <desc lang="en">Live action from three of the most iconic holes in golf, holes 11, 12 &amp; 13 at Augusta National.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69cdc038e4b0c1f4e2f91bfb-1775091852139&amp;imwidth=720" />
   </programme>
-  <programme start="20260413020000 +1000" stop="20260413101000 +1000" channel="4k.503.kayo.503">
+  <programme start="20260413020000 +1000" stop="20260413101000 +1000" channel="4k.573.kayo.573">
     <title lang="en">: The Masters Final Round</title>
     <desc lang="en">Final round action of the Masters from Augusta National.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69cdb8e4e4b0a465f0b6ffe4-1775089963171&amp;imwidth=720" />
   </programme>
-  <programme start="20260412133000 +1000" stop="20260412165500 +1000" channel="4k.5.kayo.505">
+  <programme start="20260412133000 +1000" stop="20260412165500 +1000" channel="4k.575.kayo.575">
     <title lang="en">Suncorp Super Netball: Sunshine Coast Lightning vs Mavericks</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">The Lightning host the Mavericks on the Sunshine Coast.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69cdcaf9e4b049fc27de7cc6-1775094595658&amp;imwidth=720" />
   </programme>
-  <programme start="20260412154500 +1000" stop="20260412184000 +1000" channel="4k.5.kayo.505">
+  <programme start="20260412154500 +1000" stop="20260412184000 +1000" channel="4k.575.kayo.575">
     <title lang="en">Suncorp Super Netball: West Coast Fever vs Queensland Firebirds</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">The Fever host the Firebirds at RAC Arena.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69cdcb5ee4b0c1f4e2f91c10-1775094756286&amp;imwidth=720" />
   </programme>
-  <programme start="20260413235000 +1000" stop="20260414051000 +1000" channel="4k.501.kayo.501">
+  <programme start="20260413235000 +1000" stop="20260414051000 +1000" channel="4k.571.kayo.571">
     <title lang="en">Indian Premier League: Sunrisers Hyderabad vs Rajasthan Royals</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Sunrisers take on Royals at Rajiv Gandhi International Stadium, Hyderabad.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69cd96abe4b049fc27de7c92-1775081158924&amp;imwidth=720" />
   </programme>
-  <programme start="20260414235000 +1000" stop="20260415051000 +1000" channel="4k.501.kayo.501">
+  <programme start="20260414235000 +1000" stop="20260415051000 +1000" channel="4k.571.kayo.571">
     <title lang="en">Indian Premier League: Chennai Super Kings vs Kolkata Knight Riders</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Super Kings take on Knight Riders at MA Chidambaram Stadium, Chennai.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69cd96e2e4b07ddf2edd21f3-1775081224820&amp;imwidth=720" />
   </programme>
-  <programme start="20260415235000 +1000" stop="20260416051000 +1000" channel="4k.501.kayo.501">
+  <programme start="20260415235000 +1000" stop="20260416051000 +1000" channel="4k.571.kayo.571">
     <title lang="en">Indian Premier League: Royal Challengers Bengaluru vs Lucknow Super Giants</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Challengers take on Super Giants at M. Chinnaswamy Stadium, Bengaluru.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69cd972ee4b0c1f4e2f91bde-1775081306058&amp;imwidth=720" />
   </programme>
-  <programme start="20260416183000 +1000" stop="20260417001000 +1000" channel="4k.1.kayo.504">
+  <programme start="20260416183000 +1000" stop="20260417001000 +1000" channel="4k.574.kayo.574">
     <title lang="en">AFL: Carlton Blues vs Collingwood Magpies</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">One of footy's fiercest rivalries kicks off Round 6.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bc6d0fe4b082fa59448af5-1775021152225&amp;imwidth=720" />
   </programme>
-  <programme start="20260416183000 +1000" stop="20260416232000 +1000" channel="4k.2.kayo.502">
+  <programme start="20260416183000 +1000" stop="20260416232000 +1000" channel="4k.572.kayo.572">
     <title lang="en">Premiership: North Queensland vs Manly</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Watch Round 7 of the NRL on Kayo.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bc6b86e4b082fa59448aee-1773956622080&amp;imwidth=720" />
   </programme>
-  <programme start="20260417183000 +1000" stop="20260418002500 +1000" channel="4k.1.kayo.504">
+  <programme start="20260417183000 +1000" stop="20260418002500 +1000" channel="4k.574.kayo.574">
     <title lang="en">AFL: Geelong Cats vs Western Bulldogs</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">The Cats and Dogs face off in Round 6.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bc6d41e4b06830f3f20b20-1775018673626&amp;imwidth=720" />
   </programme>
-  <programme start="20260417190000 +1000" stop="20260418001000 +1000" channel="4k.503.kayo.503">
+  <programme start="20260417190000 +1000" stop="20260418001000 +1000" channel="4k.573.kayo.573">
     <title lang="en">AFL: Sydney Swans vs Greater Western Sydney Giants</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">The Swans meet the Giants in another battle of the bridge.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bc6d1ee4b00bd0dbefc0f6-1773957654008&amp;imwidth=720" />
   </programme>
-  <programme start="20260417170000 +1000" stop="20260417210500 +1000" channel="4k.2.kayo.502">
+  <programme start="20260417170000 +1000" stop="20260417210500 +1000" channel="4k.572.kayo.572">
     <title lang="en">Premiership: Canberra vs Melbourne</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Watch Round 7 of the NRL on Kayo.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bc6b8de4b08e801b5892af-1773956626999&amp;imwidth=720" />
   </programme>
-  <programme start="20260417195500 +1000" stop="20260418000500 +1000" channel="4k.2.kayo.502">
+  <programme start="20260417195500 +1000" stop="20260418000500 +1000" channel="4k.572.kayo.572">
     <title lang="en">Premiership: Dolphins vs Penrith</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Watch Round 7 of the NRL on Kayo.</desc>
