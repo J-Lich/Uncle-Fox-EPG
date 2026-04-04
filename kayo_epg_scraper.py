@@ -11,12 +11,12 @@ import re
 # 1. Channels Configuration:
 # Updated to only include the channels you specified.
 CHANNELS_CONFIG = {
-    "501": {"id_num": "4k.kayo", "display_name": "4K Kayo 501"},
-    "502": {"id_num": "4k.kayo", "display_name": "4K Kayo 502"},
-    "503": {"id_num": "4k.kayo", "display_name": "4K Kayo 503"},
-    "504": {"id_num": "4k.kayo", "display_name": "4K Kayo 504"},
-    "505": {"id_num": "4k.kayo", "display_name": "4K Kayo 505"},
-    "506": {"id_num": "4k.kayo", "display_name": "4K Kayo 506"},
+    "501": {"id_num": "4k.501.kayo", "display_name": "4K Kayo 501"},
+    "502": {"id_num": "4k.2.kayo", "display_name": "Kayo UHD 2 (Footy 2)"},
+    "503": {"id_num": "4k.503.kayo", "display_name": "4K Kayo 503"},
+    "504": {"id_num": "4k.1.kayo", "display_name": "Kayo UHD 1 (Footy 1)"},
+    "505": {"id_num": "4k.5.kayo", "display_name": "Kayo UHD 5 (Netball)"},
+    "506": {"id_num": "4k.506kayo", "display_name": "4K Kayo 506"},
     }
 
 
