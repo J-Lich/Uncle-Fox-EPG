@@ -143,7 +143,6 @@ def fetch_epg_data():
                                     print(f"      ✓ Thumbnail found: {thumbnail_url}")
                                 else:
                                     print(f"      - No thumbnail found for event {event_id}")
-                        
                                                         
                                 try:
                                     event_response = requests.get(event_detail_url, headers=headers)
@@ -169,6 +168,8 @@ def fetch_epg_data():
 
                                 except requests.exceptions.RequestException as e:
                                     print(f"    - Could not fetch details for event {event_id}. Using summary. Error: {e}")
+                                    if thumbnail_url:
+                                        event_summary['thumbnailUrl'] = thumbnail_url
                                     aggregated_data["channelEventsByTag"][channel_tag].append(event_summary)
                                     processed_event_ids.add(event_id)
 
