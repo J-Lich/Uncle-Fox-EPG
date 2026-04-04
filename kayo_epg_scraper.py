@@ -208,6 +208,7 @@ def convert_to_xmltv(events_data):
 
             if "images" in content_display and "heroPortrait_m2" in content_display["images"]:
                 img_url = content_display["images"]["heroPortrait_m2"].replace('${WIDTH}', '720')
+                img_url = re.sub(r'[&?]location=[^&]*', '', img_url)
                 ET.SubElement(programme_el, "icon", {"src": img_url})
 
             processed_asset_ids.add(asset_id)
