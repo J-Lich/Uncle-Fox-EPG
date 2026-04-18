@@ -24,6 +24,47 @@
     <display-name>4K Kayo 506</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
   </channel>
+  <programme start="20260420235000 +1000" stop="20260421051000 +1000" channel="4k.501.kayo.501">
+    <title lang="en">Indian Premier League: Gujarat Titans vs Mumbai Indians</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">Titans take on Mumbai at Narendra Modi Stadium, Ahmedabad.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69d846f4e4b093a0b56ac2f8-1775782167966&amp;imwidth=720" />
+  </programme>
+  <programme start="20260421030000 +1000" stop="20260421084000 +1000" channel="4k.5.kayo.505">
+    <title lang="en">: Pairs Cup Week 5</title>
+    <desc lang="en">The 2026 Ultimate Pool Pairs Cup continues with Week Five action.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69dd8dd3e4b012d79ca8a2e7-1776127505081&amp;imwidth=720" />
+  </programme>
+  <programme start="20260421235000 +1000" stop="20260422051000 +1000" channel="4k.501.kayo.501">
+    <title lang="en">Indian Premier League: Sunrisers Hyderabad vs Delhi Capitals</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">Sunrisers take on Capitals at Rajiv Gandhi International Stadium, Hyderabad.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69d846fee4b0a62a1436b3f9-1775782180422&amp;imwidth=720" />
+  </programme>
+  <programme start="20260422235000 +1000" stop="20260423051000 +1000" channel="4k.501.kayo.501">
+    <title lang="en">Indian Premier League: Lucknow Super Giants vs Rajasthan Royals</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">Super Giants take on Royals at Ekana Cricket Stadium, Lucknow.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69d84709e4b04267ef2906cc-1775782201195&amp;imwidth=720" />
+  </programme>
+  <programme start="20260423183000 +1000" stop="20260424001000 +1000" channel="4k.1.kayo.504">
+    <title lang="en">AFL: Western Bulldogs vs Sydney Swans</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">The Dogs host the Swans to get Round 7 underway.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c3600ae4b0304346eb3506-1774413135683&amp;imwidth=720" />
+  </programme>
+  <programme start="20260423183000 +1000" stop="20260423231000 +1000" channel="4k.2.kayo.502">
+    <title lang="en">Premiership: Wests Tigers vs Canberra</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">Watch Round 8 of the NRL on Kayo.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bc7281e4b020ac73a7425a-1773958429601&amp;imwidth=720" />
+  </programme>
+  <programme start="20260423235000 +1000" stop="20260424051000 +1000" channel="4k.501.kayo.501">
+    <title lang="en">Indian Premier League: Mumbai Indians vs Chennai Super Kings</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">Mumbai take on Super Kings at Wankhede Stadium, Mumbai.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69d849abe4b04cbe585d5d70-1775783708620&amp;imwidth=720" />
+  </programme>
   <programme start="20260424183000 +1000" stop="20260425002500 +1000" channel="4k.1.kayo.504">
     <title lang="en">AFL: Richmond Tigers vs Melbourne Demons</title>
     <sub-title lang="en">2026</sub-title>
@@ -40,12 +81,100 @@
     <title lang="en">Premiership: Brisbane vs Canterbury</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Watch Round 8 of the NRL on Kayo.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bc7292e4b082fa59448b00-1773958416436&amp;imwidth=720" />
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bc7292e4b082fa59448b00-1776150791665&amp;imwidth=720" />
   </programme>
   <programme start="20260424235000 +1000" stop="20260425051000 +1000" channel="4k.501.kayo.501">
     <title lang="en">Indian Premier League: Royal Challengers Bengaluru vs Gujarat Titans</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Challengers take on Titans at M. Chinnaswamy Stadium, Bengaluru.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69d849b6e4b0ceb61e25c458-1775783711667&amp;imwidth=720" />
+  </programme>
+  <programme start="20260425113000 +1000" stop="20260425161000 +1000" channel="4k.1.kayo.504">
+    <title lang="en">AFL: Hawthorn Hawks vs Gold Coast Suns</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">The Hawks welcome the Suns in Round 7.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c36020e4b082096d2aa359-1774413070136&amp;imwidth=720" />
+  </programme>
+  <programme start="20260425150000 +1000" stop="20260425191000 +1000" channel="4k.1.kayo.504">
+    <title lang="en">AFL: Essendon Bombers vs Collingwood Magpies</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">Old rivals collide as the Bombers take on the Pies.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c3602ae4b082096d2aa35a-1774413153657&amp;imwidth=720" />
+  </programme>
+  <programme start="20260425180000 +1000" stop="20260425224000 +1000" channel="4k.1.kayo.504">
+    <title lang="en">AFL: Port Adelaide Power vs Geelong Cats</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">The Power host the Cats in Round 7.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c36078e4b082096d2aa35d-1774413166242&amp;imwidth=720" />
+  </programme>
+  <programme start="20260425200000 +1000" stop="20260426001000 +1000" channel="4k.503.kayo.503">
+    <title lang="en">AFL: Fremantle Dockers vs Carlton Blues</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">The Blues travel to Perth to take on the Dockers.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c36035e4b082096d2aa35b-1774413212072&amp;imwidth=720" />
+  </programme>
+  <programme start="20260425150000 +1000" stop="20260425190500 +1000" channel="4k.2.kayo.502">
+    <title lang="en">Premiership: St George Illawarra vs Sydney Roosters</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">Watch Round 8 of the NRL on Kayo.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bc729ee4b082e790223f19-1776150666363&amp;imwidth=720" />
+  </programme>
+  <programme start="20260425175500 +1000" stop="20260425211000 +1000" channel="4k.2.kayo.502">
+    <title lang="en">Premiership: Warriors vs Dolphins</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">Watch Round 8 of the NRL on Kayo.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bc72a5e4b08ff3d4463175-1773958405779&amp;imwidth=720" />
+  </programme>
+  <programme start="20260425200000 +1000" stop="20260426002500 +1000" channel="4k.2.kayo.502">
+    <title lang="en">Premiership: Melbourne vs South Sydney</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">Watch Round 8 of the NRL on Kayo.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bc72afe4b082e790223f1a-1773958401065&amp;imwidth=720" />
+  </programme>
+  <programme start="20260425195000 +1000" stop="20260426011000 +1000" channel="4k.501.kayo.501">
+    <title lang="en">Indian Premier League: Delhi Capitals vs Punjab Kings</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">Capitals take on Punjab Kings at Arun Jaitley Stadium, Delhi.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69d849c0e4b04a55e8163256-1775783717544&amp;imwidth=720" />
+  </programme>
+  <programme start="20260426050000 +1000" stop="20260426101000 +1000" channel="4k.506kayo.506">
+    <title lang="en">: NASCAR Talladega</title>
+    <desc lang="en">The 2026 Auto Parts Series moves into its eleventh round in Talladega.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69ddb153e4b012d79ca8a2f6-1776136785622&amp;imwidth=720" />
+  </programme>
+  <programme start="20260426123000 +1000" stop="20260426172000 +1000" channel="4k.1.kayo.504">
+    <title lang="en">AFL: St Kilda Saints vs West Coast Eagles</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">The Saints welcome the Eagles in Round 7.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c3603de4b02294161105c9-1774413178563&amp;imwidth=720" />
+  </programme>
+  <programme start="20260426150000 +1000" stop="20260426191000 +1000" channel="4k.503.kayo.503">
+    <title lang="en">AFL: Brisbane Lions vs Adelaide Crows</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">Last year's premiers and minor premiers collide in Brisbane.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c36043e4b0304346eb3508-1774413225525&amp;imwidth=720" />
+  </programme>
+  <programme start="20260426161000 +1000" stop="20260426212500 +1000" channel="4k.1.kayo.504">
+    <title lang="en">AFL: Greater Western Sydney Giants vs North Melbourne Kangaroos</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">The Giants host the Roos to close out Round 7.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c36050e4b051b3f1a6fbbc-1774413956092&amp;imwidth=720" />
+  </programme>
+  <programme start="20260426130500 +1000" stop="20260426170500 +1000" channel="4k.2.kayo.502">
+    <title lang="en">Premiership: Newcastle vs Penrith</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">Watch Round 8 of the NRL on Kayo.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bc72b9e4b0ae86798fd554-1776150649991&amp;imwidth=720" />
+  </programme>
+  <programme start="20260426155500 +1000" stop="20260426192500 +1000" channel="4k.2.kayo.502">
+    <title lang="en">Premiership: Manly vs Parramatta</title>
+    <sub-title lang="en">2026</sub-title>
+    <desc lang="en">Watch Round 8 of the NRL on Kayo.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bc72c2e4b08e801b5892bc-1773958379500&amp;imwidth=720" />
+  </programme>
+  <programme start="20260427040000 +1000" stop="20260427101000 +1000" channel="4k.506kayo.506">
+    <title lang="en">: NASCAR Talladega</title>
+    <desc lang="en">The 2026 Cup Series moves into its tenth round at Talladega Superspeedway.</desc>
+    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69ddb3ade4b0dad431754bfb-1776137360413&amp;imwidth=720" />
   </programme>
 </tv>
