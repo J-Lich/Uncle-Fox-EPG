@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <tv generator-info-name="Kayo EPG Scraper">
-  <channel id="4k.501.kayo.501">
-    <display-name>4K Kayo 501</display-name>
+  <channel id="4k.6.kayo.501">
+    <display-name>Kayo UHD 6 (Cricket)</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.501.png" />
   </channel>
   <channel id="4k.2.kayo.502">
     <display-name>Kayo UHD 2 (Footy 2)</display-name>
-    <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.502.png" />
+    <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.504.png" />
   </channel>
-  <channel id="4k.503.kayo.503">
-    <display-name>4K Kayo 503</display-name>
-    <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
+  <channel id="4k.3.kayo.503">
+    <display-name>Kayo UHD 3 (League)</display-name>
+    <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.502.png" />
   </channel>
   <channel id="4k.1.kayo.504">
     <display-name>Kayo UHD 1 (Footy 1)</display-name>
@@ -18,11 +18,11 @@
   </channel>
   <channel id="4k.5.kayo.505">
     <display-name>Kayo UHD 5 (Netball)</display-name>
-    <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
+    <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.505.png" />
   </channel>
-  <channel id="4k.506kayo.506">
-    <display-name>4K Kayo 506</display-name>
-    <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png" />
+  <channel id="4k.4.kayo.506">
+    <display-name>Kayo UHD 4 (F1)</display-name>
+    <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.506.png" />
   </channel>
   <programme start="20260424183000 +1000" stop="20260425002500 +1000" channel="4k.1.kayo.504">
     <title lang="en">AFL: Richmond Tigers vs Melbourne Demons</title>
@@ -42,7 +42,7 @@
     <desc lang="en">Watch Round 8 of the NRL on Kayo.</desc>
     <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bc7292e4b082fa59448b00-1773958416436&amp;imwidth=720" />
   </programme>
-  <programme start="20260424235000 +1000" stop="20260425051000 +1000" channel="4k.501.kayo.501">
+  <programme start="20260424235000 +1000" stop="20260425051000 +1000" channel="4k.6.kayo.501">
     <title lang="en">Indian Premier League: Royal Challengers Bengaluru vs Gujarat Titans</title>
     <sub-title lang="en">2026</sub-title>
     <desc lang="en">Challengers take on Titans at M. Chinnaswamy Stadium, Bengaluru.</desc>
