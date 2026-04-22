@@ -11,12 +11,12 @@ import re
 # 1. Channels Configuration:
 # Updated to only include the channels you specified.
 CHANNELS_CONFIG = {
-    "501": {"id_num": "4k.501.kayo", "display_name": "4K Kayo 501"},
+    "501": {"id_num": "4k.6.kayo", "display_name": "Kayo UHD 6 (Cricket)"},
     "502": {"id_num": "4k.2.kayo", "display_name": "Kayo UHD 2 (Footy 2)"},
-    "503": {"id_num": "4k.503.kayo", "display_name": "4K Kayo 503"},
+    "503": {"id_num": "4k.3.kayo", "display_name": "Kayo UHD 3 (League)"},
     "504": {"id_num": "4k.1.kayo", "display_name": "Kayo UHD 1 (Footy 1)"},
     "505": {"id_num": "4k.5.kayo", "display_name": "Kayo UHD 5 (Netball)"},
-    "506": {"id_num": "4k.506kayo", "display_name": "4K Kayo 506"},
+    "506": {"id_num": "4k.4.kayo", "display_name": "Kayo UHD 4 (F1)"},
     }
 
 
@@ -38,12 +38,12 @@ TOTAL_DAYS_TO_FETCH = 14
 # 3. Icon Mapping (for Channels):
 # Icons are mapped using the keys from CHANNELS_CONFIG.
 ICON_MAP = {
-    "501": "https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.501.png",
-    "502": "https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.502.png",
-    "503": "https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png",
-    "504": "https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.504.png",
-    "505": "https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png",
-    "506": "https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png",
+    "501": "https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.501.png", # Cricket
+    "502": "https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.504.png", # Footy 2
+    "503": "https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.502.png", # League
+    "504": "https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.504.png", # Footy 1
+    "505": "https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.505.png", # Netball
+    "506": "https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.506.png", # F1
 }
 DEFAULT_ICON = "https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.50X.png"
 
