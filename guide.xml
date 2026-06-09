@@ -28,174 +28,25 @@
     <display-name>FOX 507</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/FOX%20Sports%20More.png" />
   </channel>
-  <programme start="20260609010000 +1000" stop="20260609040000 +1000" channel="501.FS1">
-    <title lang="en">Live: Test: ENG v NZL 1st Test Day 5</title>
-    <sub-title lang="en">ENG v NZL 1st Test Day 5</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260609040000 +1000" stop="20260609042000 +1000" channel="501.FS1">
-    <title lang="en">Test Mini ENG v NZL: 1st Test Day 4</title>
-    <sub-title lang="en">1st Test Day 4</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/jyeggj.png?maxheight=213&amp;limit=12464e7cce06ff0570e0a1067682395857b60867" />
-  </programme>
-  <programme start="20260609042000 +1000" stop="20260609044000 +1000" channel="501.FS1">
-    <title lang="en">Test Mini IND v AFG: Day 2</title>
-    <sub-title lang="en">Day 2</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6kavig.png?maxheight=213&amp;limit=15d0489c81c5213a9b2970a6bf561f61126ef2b8" />
-  </programme>
-  <programme start="20260609044000 +1000" stop="20260609050000 +1000" channel="501.FS1">
-    <title lang="en">Test Mini ENG v NZL: 1st Test Day 4</title>
-    <sub-title lang="en">1st Test Day 4</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/jyeggj.png?maxheight=213&amp;limit=12464e7cce06ff0570e0a1067682395857b60867" />
-  </programme>
-  <programme start="20260609050000 +1000" stop="20260609052000 +1000" channel="501.FS1">
-    <title lang="en">Test Mini IND v AFG: Day 2</title>
-    <sub-title lang="en">Day 2</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6kavig.png?maxheight=213&amp;limit=15d0489c81c5213a9b2970a6bf561f61126ef2b8" />
-  </programme>
-  <programme start="20260609052000 +1000" stop="20260609062000 +1000" channel="501.FS1">
-    <title lang="en">ODI: BANG v AUS Game 1</title>
-    <sub-title lang="en">BANG v AUS Game 1</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7y2di.png?maxheight=213&amp;limit=c3fde36cdef84bb5e565abff2291e701390f518c" />
-  </programme>
-  <programme start="20260609062000 +1000" stop="20260609072000 +1000" channel="501.FS1">
-    <title lang="en">ODI: BANG v AUS Game 2</title>
-    <sub-title lang="en">BANG v AUS Game 2</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7y2di.png?maxheight=213&amp;limit=c3fde36cdef84bb5e565abff2291e701390f518c" />
-  </programme>
-  <programme start="20260609072000 +1000" stop="20260609082000 +1000" channel="501.FS1">
-    <title lang="en">ODI: BANG v AUS Game 3</title>
-    <sub-title lang="en">BANG v AUS Game 3</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7y2di.png?maxheight=213&amp;limit=c3fde36cdef84bb5e565abff2291e701390f518c" />
-  </programme>
-  <programme start="20260609082000 +1000" stop="20260609084000 +1000" channel="501.FS1">
-    <title lang="en">Test Mini IND v AFG: Day 3</title>
-    <sub-title lang="en">Day 3</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/mo2gud.png?maxheight=213&amp;limit=b909b7b3d7d5a0f9811dc364b3f0677d249d07ee" />
-  </programme>
-  <programme start="20260609084000 +1000" stop="20260609090000 +1000" channel="501.FS1">
-    <title lang="en">Test Mini ENG v NZL: 1st Test Day 4</title>
-    <sub-title lang="en">1st Test Day 4</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/jyeggj.png?maxheight=213&amp;limit=12464e7cce06ff0570e0a1067682395857b60867" />
-  </programme>
-  <programme start="20260609090000 +1000" stop="20260609092000 +1000" channel="501.FS1">
-    <title lang="en">Test Mini IND v AFG: Day 3</title>
-    <sub-title lang="en">Day 3</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/mo2gud.png?maxheight=213&amp;limit=b909b7b3d7d5a0f9811dc364b3f0677d249d07ee" />
-  </programme>
-  <programme start="20260609092000 +1000" stop="20260609102000 +1000" channel="501.FS1">
-    <title lang="en">ODI: BANG v AUS Game 1</title>
-    <sub-title lang="en">BANG v AUS Game 1</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7y2di.png?maxheight=213&amp;limit=c3fde36cdef84bb5e565abff2291e701390f518c" />
-  </programme>
-  <programme start="20260609102000 +1000" stop="20260609104000 +1000" channel="501.FS1">
-    <title lang="en">Test Mini IND v AFG: Day 3</title>
-    <sub-title lang="en">Day 3</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/mo2gud.png?maxheight=213&amp;limit=b909b7b3d7d5a0f9811dc364b3f0677d249d07ee" />
-  </programme>
-  <programme start="20260609104000 +1000" stop="20260609110000 +1000" channel="501.FS1">
-    <title lang="en">Test Mini ENG v NZL: 1st Test Day 5</title>
-    <sub-title lang="en">1st Test Day 5</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/esb8g4.png?maxheight=213&amp;limit=d7c3c54d17e9ad2f65d02a126b1fa9b092463539" />
-  </programme>
-  <programme start="20260609110000 +1000" stop="20260609112000 +1000" channel="501.FS1">
-    <title lang="en">Test Mini IND v AFG: Day 3</title>
-    <sub-title lang="en">Day 3</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/mo2gud.png?maxheight=213&amp;limit=b909b7b3d7d5a0f9811dc364b3f0677d249d07ee" />
-  </programme>
-  <programme start="20260609112000 +1000" stop="20260609122000 +1000" channel="501.FS1">
-    <title lang="en">Test: ENG v NZL 1st Test Day 5</title>
-    <sub-title lang="en">ENG v NZL 1st Test Day 5</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/arr1t1.png?maxheight=213&amp;limit=8d57013719a345b90682912db5f0e5dcf3c2bcff" />
-  </programme>
-  <programme start="20260609122000 +1000" stop="20260609124000 +1000" channel="501.FS1">
-    <title lang="en">Test Mini IND v AFG: Day 3</title>
-    <sub-title lang="en">Day 3</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/mo2gud.png?maxheight=213&amp;limit=b909b7b3d7d5a0f9811dc364b3f0677d249d07ee" />
-  </programme>
-  <programme start="20260609124000 +1000" stop="20260609130000 +1000" channel="501.FS1">
-    <title lang="en">Test Mini ENG v NZL: 1st Test Day 5</title>
-    <sub-title lang="en">1st Test Day 5</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/esb8g4.png?maxheight=213&amp;limit=d7c3c54d17e9ad2f65d02a126b1fa9b092463539" />
-  </programme>
-  <programme start="20260609130000 +1000" stop="20260609132000 +1000" channel="501.FS1">
-    <title lang="en">Test Mini IND v AFG: Day 3</title>
-    <sub-title lang="en">Day 3</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/mo2gud.png?maxheight=213&amp;limit=b909b7b3d7d5a0f9811dc364b3f0677d249d07ee" />
-  </programme>
-  <programme start="20260609132000 +1000" stop="20260609142000 +1000" channel="501.FS1">
-    <title lang="en">ODI: BANG v AUS Game 2</title>
-    <sub-title lang="en">BANG v AUS Game 2</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7y2di.png?maxheight=213&amp;limit=c3fde36cdef84bb5e565abff2291e701390f518c" />
-  </programme>
-  <programme start="20260609142000 +1000" stop="20260609150000 +1000" channel="501.FS1">
-    <title lang="en">Live: Pre Game: BAN v AUS</title>
-    <sub-title lang="en">BAN v AUS</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260609150000 +1000" stop="20260609183000 +1000" channel="501.FS1">
-    <title lang="en">Live: ODI: BAN v AUS Game 1</title>
-    <sub-title lang="en">BAN v AUS Game 1</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260609183000 +1000" stop="20260609190000 +1000" channel="501.FS1">
-    <title lang="en">Live: Lunch Break: BAN v AUS</title>
-    <sub-title lang="en">BAN v AUS</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260609190000 +1000" stop="20260609225000 +1000" channel="501.FS1">
-    <title lang="en">Live: ODI: BAN v AUS Game 1 IN2</title>
-    <sub-title lang="en">BAN v AUS Game 1 IN2</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260609225000 +1000" stop="20260609235000 +1000" channel="501.FS1">
-    <title lang="en">Test: ENG v NZL 1st Test</title>
-    <sub-title lang="en">ENG v NZL 1st Test</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7wad6.png?maxheight=213&amp;limit=27b0152ba631336b1e8afb03305a905f7a021d6d" />
-  </programme>
   <programme start="20260609235000 +1000" stop="20260610001000 +1000" channel="501.FS1">
     <title lang="en">ODI Mini BAN v AUS: Game 1</title>
     <sub-title lang="en">Game 1</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/qnxudw.png?maxheight=213&amp;limit=f62fa4ca272bb3c5d81264a2a8e96ece648dc20d" />
   </programme>
   <programme start="20260610001000 +1000" stop="20260610003000 +1000" channel="501.FS1">
     <title lang="en">ODI Mini PAK v AUS: Game 3</title>
     <sub-title lang="en">Game 3</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/b57sv1.png?maxheight=213&amp;limit=1ce8f782189b7e6c7ab11ce9efff3bbbdf9a1ba9" />
   </programme>
   <programme start="20260610003000 +1000" stop="20260610005000 +1000" channel="501.FS1">
     <title lang="en">ODI Mini BAN v AUS: Game 1</title>
     <sub-title lang="en">Game 1</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/qnxudw.png?maxheight=213&amp;limit=f62fa4ca272bb3c5d81264a2a8e96ece648dc20d" />
   </programme>
   <programme start="20260610005000 +1000" stop="20260610015000 +1000" channel="501.FS1">
     <title lang="en">ODI: BAN v AUS Game 1</title>
     <sub-title lang="en">BAN v AUS Game 1</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7y2di.png?maxheight=213&amp;limit=c3fde36cdef84bb5e565abff2291e701390f518c" />
   </programme>
   <programme start="20260610015000 +1000" stop="20260610025000 +1000" channel="501.FS1">
     <title lang="en">Test: ENG v NZL 1st Test</title>
@@ -2273,6 +2124,7 @@
     <title lang="en">ODI Mini IND v AFG</title>
     <sub-title lang="en">Game 3</sub-title>
     <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/17/placeholder-16x9-beam.png?maxheight=213&amp;limit=b106f50a28388844395afd87e0d3a2d7883f4460" />
   </programme>
   <programme start="20260621091000 +1000" stop="20260621093000 +1000" channel="501.FS1">
     <title lang="en">T20 Mini BAN v AUS</title>
@@ -2302,6 +2154,7 @@
     <title lang="en">ODI Mini IND v AFG</title>
     <sub-title lang="en">Game 3</sub-title>
     <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/17/placeholder-16x9-beam.png?maxheight=213&amp;limit=b106f50a28388844395afd87e0d3a2d7883f4460" />
   </programme>
   <programme start="20260621113000 +1000" stop="20260621123000 +1000" channel="501.FS1">
     <title lang="en">Test: ENG v NZL 2nd Test Day 4</title>
@@ -2331,6 +2184,7 @@
     <title lang="en">ODI Mini IND v AFG</title>
     <sub-title lang="en">Game 3</sub-title>
     <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/17/placeholder-16x9-beam.png?maxheight=213&amp;limit=b106f50a28388844395afd87e0d3a2d7883f4460" />
   </programme>
   <programme start="20260621143000 +1000" stop="20260621153000 +1000" channel="501.FS1">
     <title lang="en">T20: BAN v AUS Game 2</title>
@@ -2392,188 +2246,239 @@
     <sub-title lang="en">ENG v NZL 2nd Test Day 5</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20260609023000 +1000" stop="20260609030000 +1000" channel="502.SP2">
-    <title lang="en">NRL: Bulldogs v Eels</title>
-    <sub-title lang="en">Bulldogs v Eels</sub-title>
+  <programme start="20260622004000 +1000" stop="20260622010000 +1000" channel="501.FS1">
+    <title lang="en">Live: Tea Break: ENG v NZL</title>
+    <sub-title lang="en">ENG v NZL</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20260609030000 +1000" stop="20260609040000 +1000" channel="502.SP2">
-    <title lang="en">NRL: Raiders v Roosters</title>
-    <sub-title lang="en">Raiders v Roosters</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/rjbqys.png?maxheight=213&amp;limit=4b735758722b2e7e9339eb4d9cfca1305041f178" />
-  </programme>
-  <programme start="20260609040000 +1000" stop="20260609050000 +1000" channel="502.SP2">
-    <title lang="en">NRL: Cowboys v Dolphins</title>
-    <sub-title lang="en">Cowboys v Dolphins</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/79g2lu.png?maxheight=213&amp;limit=4486ac90a47346b5d699a5290d5cd48148b6f610" />
-  </programme>
-  <programme start="20260609050000 +1000" stop="20260609060000 +1000" channel="502.SP2">
-    <title lang="en">NRL: Broncos v Titans</title>
-    <sub-title lang="en">Broncos v Titans</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/w97iyj.png?maxheight=213&amp;limit=f24fe257d7b5e068d00111ebbed8e1112335f692" />
-  </programme>
-  <programme start="20260609060000 +1000" stop="20260609070000 +1000" channel="502.SP2">
-    <title lang="en">NRL: Wests Tigers v Panthers</title>
-    <sub-title lang="en">Wests Tigers v Panthers</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/g7y1es.png?maxheight=213&amp;limit=7ead727adaf3b3e2378525d841e844774f879c26" />
-  </programme>
-  <programme start="20260609070000 +1000" stop="20260609080000 +1000" channel="502.SP2">
-    <title lang="en">NRL 360</title>
-    <sub-title lang="en">Episode 46</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/366rlp.jpg?maxheight=213&amp;limit=ac74986f98b2c5edce09a9423735a61109411e69" />
-  </programme>
-  <programme start="20260609080000 +1000" stop="20260609083000 +1000" channel="502.SP2">
-    <title lang="en">NRL: Bulldogs v Eels</title>
-    <sub-title lang="en">Bulldogs v Eels</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/4sut8b.png?maxheight=213&amp;limit=618c0533407a0ec24fa4edc027572a6ab1c8c055" />
-  </programme>
-  <programme start="20260609083000 +1000" stop="20260609090000 +1000" channel="502.SP2">
-    <title lang="en">The League Lounge</title>
-    <sub-title lang="en">Episode 15</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/vb72js.png?maxheight=213&amp;limit=4860e29c325472b4c9c96f6f3a3d0ab3aa58ae47" />
-  </programme>
-  <programme start="20260609090000 +1000" stop="20260609100000 +1000" channel="502.SP2">
-    <title lang="en">NRL 360</title>
-    <sub-title lang="en">Episode 46</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/366rlp.jpg?maxheight=213&amp;limit=ac74986f98b2c5edce09a9423735a61109411e69" />
-  </programme>
-  <programme start="20260609100000 +1000" stop="20260609102000 +1000" channel="502.SP2">
-    <title lang="en">NSW Cup: Round 14 Bulldogs v Eels</title>
-    <sub-title lang="en">Round 14 Bulldogs v Eels</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/ys8wt1.png?maxheight=213&amp;limit=3a34ce716479df300baba59f2dc2a9e3058c23a5" />
-  </programme>
-  <programme start="20260609102000 +1000" stop="20260609112000 +1000" channel="502.SP2">
-    <title lang="en">NRL 360</title>
-    <sub-title lang="en">Episode 46</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/366rlp.jpg?maxheight=213&amp;limit=ac74986f98b2c5edce09a9423735a61109411e69" />
-  </programme>
-  <programme start="20260609112000 +1000" stop="20260609114000 +1000" channel="502.SP2">
-    <title lang="en">NRL Mini: CBY v PAR</title>
-    <sub-title lang="en">CBY v PAR</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/l61ll7.png?maxheight=213&amp;limit=67d710df95e007e1fdb8701647a1cc771f0bc178" />
-  </programme>
-  <programme start="20260609114000 +1000" stop="20260609124000 +1000" channel="502.SP2">
-    <title lang="en">NRL 360</title>
-    <sub-title lang="en">Episode 46</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/366rlp.jpg?maxheight=213&amp;limit=ac74986f98b2c5edce09a9423735a61109411e69" />
-  </programme>
-  <programme start="20260609124000 +1000" stop="20260609130000 +1000" channel="502.SP2">
-    <title lang="en">NRL Mini: MAN v SOU</title>
-    <sub-title lang="en">MAN v SOU</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/5y9hyj.png?maxheight=213&amp;limit=a6077d9c49fc13f6b142b487ff4894c29d6cb2fc" />
-  </programme>
-  <programme start="20260609130000 +1000" stop="20260609140000 +1000" channel="502.SP2">
-    <title lang="en">NRL 360</title>
-    <sub-title lang="en">Episode 46</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/366rlp.jpg?maxheight=213&amp;limit=ac74986f98b2c5edce09a9423735a61109411e69" />
-  </programme>
-  <programme start="20260609140000 +1000" stop="20260609143000 +1000" channel="502.SP2">
-    <title lang="en">The League Lounge</title>
-    <sub-title lang="en">Episode 15</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/vb72js.png?maxheight=213&amp;limit=4860e29c325472b4c9c96f6f3a3d0ab3aa58ae47" />
-  </programme>
-  <programme start="20260609143000 +1000" stop="20260609153000 +1000" channel="502.SP2">
-    <title lang="en">NRL 360</title>
-    <sub-title lang="en">Episode 46</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/366rlp.jpg?maxheight=213&amp;limit=ac74986f98b2c5edce09a9423735a61109411e69" />
-  </programme>
-  <programme start="20260609153000 +1000" stop="20260609160000 +1000" channel="502.SP2">
-    <title lang="en">NRL: Bulldogs v Eels</title>
-    <sub-title lang="en">Bulldogs v Eels</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/4sut8b.png?maxheight=213&amp;limit=618c0533407a0ec24fa4edc027572a6ab1c8c055" />
-  </programme>
-  <programme start="20260609160000 +1000" stop="20260609170000 +1000" channel="502.SP2">
-    <title lang="en">NRL 360</title>
-    <sub-title lang="en">Episode 46</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/366rlp.jpg?maxheight=213&amp;limit=ac74986f98b2c5edce09a9423735a61109411e69" />
-  </programme>
-  <programme start="20260609170000 +1000" stop="20260609180000 +1000" channel="502.SP2">
-    <title lang="en">Live: The Run Home with Scope and Fletch</title>
-    <sub-title lang="en">Episode 19</sub-title>
+  <programme start="20260622010000 +1000" stop="20260622040000 +1000" channel="501.FS1">
+    <title lang="en">Live: Test: ENG v NZL 2nd Test Day 5</title>
+    <sub-title lang="en">ENG v NZL 2nd Test Day 5</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20260609180000 +1000" stop="20260609183000 +1000" channel="502.SP2">
-    <title lang="en">Live: NRL Tonight</title>
-    <sub-title lang="en">Episode 74</sub-title>
+  <programme start="20260622040000 +1000" stop="20260622042000 +1000" channel="501.FS1">
+    <title lang="en">T20 Mini BAN v AUS</title>
+    <sub-title lang="en">Game 2</sub-title>
     <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/17/placeholder-16x9-beam.png?maxheight=213&amp;limit=b106f50a28388844395afd87e0d3a2d7883f4460" />
   </programme>
-  <programme start="20260609183000 +1000" stop="20260609193000 +1000" channel="502.SP2">
-    <title lang="en">Live: NRL 360</title>
-    <sub-title lang="en">Episode 47</sub-title>
+  <programme start="20260622042000 +1000" stop="20260622044000 +1000" channel="501.FS1">
+    <title lang="en">T20 Mini BAN v AUS</title>
+    <sub-title lang="en">Game 3</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/366rlp.jpg?maxheight=213&amp;limit=ac74986f98b2c5edce09a9423735a61109411e69" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/17/placeholder-16x9-beam.png?maxheight=213&amp;limit=b106f50a28388844395afd87e0d3a2d7883f4460" />
   </programme>
-  <programme start="20260609193000 +1000" stop="20260609200000 +1000" channel="502.SP2">
-    <title lang="en">Face-To-Face on Fox: Paul Vautin Part 3</title>
-    <sub-title lang="en">Paul Vautin Part 3</sub-title>
+  <programme start="20260622044000 +1000" stop="20260622050000 +1000" channel="501.FS1">
+    <title lang="en">Test Mini ENG v NZL: 2nd Test Day 4</title>
+    <sub-title lang="en">2nd Test Day 4</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6furqu.png?maxheight=213&amp;limit=149ec7aa8379e65faf9a8ce267c2f02622fe437d" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6ckaa.png?maxheight=213&amp;limit=14372a257a0a32a06e7b0379d79b6f6c9f593728" />
   </programme>
-  <programme start="20260609200000 +1000" stop="20260609210000 +1000" channel="502.SP2">
-    <title lang="en">NRL 360</title>
-    <sub-title lang="en">Episode 47</sub-title>
+  <programme start="20260622050000 +1000" stop="20260622060000 +1000" channel="501.FS1">
+    <title lang="en">T20: BAN v AUS Game 3</title>
+    <sub-title lang="en">BAN v AUS Game 3</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/366rlp.jpg?maxheight=213&amp;limit=ac74986f98b2c5edce09a9423735a61109411e69" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/xaq7ke.png?maxheight=213&amp;limit=2dae2d80123324fb1b4a4d5345abec68c9e37ece" />
   </programme>
-  <programme start="20260609210000 +1000" stop="20260609213000 +1000" channel="502.SP2">
-    <title lang="en">Face-To-Face on Fox: Paul Vautin Part 3</title>
-    <sub-title lang="en">Paul Vautin Part 3</sub-title>
+  <programme start="20260622060000 +1000" stop="20260622062000 +1000" channel="501.FS1">
+    <title lang="en">T20 Mini BAN v AUS</title>
+    <sub-title lang="en">Game 2</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6furqu.png?maxheight=213&amp;limit=149ec7aa8379e65faf9a8ce267c2f02622fe437d" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/17/placeholder-16x9-beam.png?maxheight=213&amp;limit=b106f50a28388844395afd87e0d3a2d7883f4460" />
   </programme>
-  <programme start="20260609213000 +1000" stop="20260609223000 +1000" channel="502.SP2">
-    <title lang="en">NRL 360</title>
-    <sub-title lang="en">Episode 47</sub-title>
+  <programme start="20260622062000 +1000" stop="20260622064000 +1000" channel="501.FS1">
+    <title lang="en">T20 Mini BAN v AUS</title>
+    <sub-title lang="en">Game 3</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/366rlp.jpg?maxheight=213&amp;limit=ac74986f98b2c5edce09a9423735a61109411e69" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/17/placeholder-16x9-beam.png?maxheight=213&amp;limit=b106f50a28388844395afd87e0d3a2d7883f4460" />
   </programme>
-  <programme start="20260609223000 +1000" stop="20260609230000 +1000" channel="502.SP2">
-    <title lang="en">Face-To-Face on Fox: Paul Vautin Part 3</title>
-    <sub-title lang="en">Paul Vautin Part 3</sub-title>
+  <programme start="20260622064000 +1000" stop="20260622070000 +1000" channel="501.FS1">
+    <title lang="en">Test Mini ENG v NZL: 2nd Test Day 4</title>
+    <sub-title lang="en">2nd Test Day 4</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6furqu.png?maxheight=213&amp;limit=149ec7aa8379e65faf9a8ce267c2f02622fe437d" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6ckaa.png?maxheight=213&amp;limit=14372a257a0a32a06e7b0379d79b6f6c9f593728" />
+  </programme>
+  <programme start="20260622070000 +1000" stop="20260622080000 +1000" channel="501.FS1">
+    <title lang="en">T20: BAN v AUS Game 3</title>
+    <sub-title lang="en">BAN v AUS Game 3</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/xaq7ke.png?maxheight=213&amp;limit=2dae2d80123324fb1b4a4d5345abec68c9e37ece" />
+  </programme>
+  <programme start="20260622080000 +1000" stop="20260622082000 +1000" channel="501.FS1">
+    <title lang="en">T20 Mini BAN v AUS</title>
+    <sub-title lang="en">Game 2</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/17/placeholder-16x9-beam.png?maxheight=213&amp;limit=b106f50a28388844395afd87e0d3a2d7883f4460" />
+  </programme>
+  <programme start="20260622082000 +1000" stop="20260622084000 +1000" channel="501.FS1">
+    <title lang="en">T20 Mini BAN v AUS</title>
+    <sub-title lang="en">Game 3</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/17/placeholder-16x9-beam.png?maxheight=213&amp;limit=b106f50a28388844395afd87e0d3a2d7883f4460" />
+  </programme>
+  <programme start="20260622084000 +1000" stop="20260622090000 +1000" channel="501.FS1">
+    <title lang="en">Test Mini ENG v NZL: 2nd Test Day 4</title>
+    <sub-title lang="en">2nd Test Day 4</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6ckaa.png?maxheight=213&amp;limit=14372a257a0a32a06e7b0379d79b6f6c9f593728" />
+  </programme>
+  <programme start="20260622090000 +1000" stop="20260622100000 +1000" channel="501.FS1">
+    <title lang="en">T20: BAN v AUS Game 3</title>
+    <sub-title lang="en">BAN v AUS Game 3</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/xaq7ke.png?maxheight=213&amp;limit=2dae2d80123324fb1b4a4d5345abec68c9e37ece" />
+  </programme>
+  <programme start="20260622100000 +1000" stop="20260622102000 +1000" channel="501.FS1">
+    <title lang="en">T20 Mini BAN v AUS</title>
+    <sub-title lang="en">Game 2</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/17/placeholder-16x9-beam.png?maxheight=213&amp;limit=b106f50a28388844395afd87e0d3a2d7883f4460" />
+  </programme>
+  <programme start="20260622102000 +1000" stop="20260622104000 +1000" channel="501.FS1">
+    <title lang="en">Test Mini ENG v NZL: 2nd Test Day 5</title>
+    <sub-title lang="en">2nd Test Day 5</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6ckaa.png?maxheight=213&amp;limit=14372a257a0a32a06e7b0379d79b6f6c9f593728" />
+  </programme>
+  <programme start="20260622104000 +1000" stop="20260622110000 +1000" channel="501.FS1">
+    <title lang="en">T20 Mini BAN v AUS</title>
+    <sub-title lang="en">Game 3</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/17/placeholder-16x9-beam.png?maxheight=213&amp;limit=b106f50a28388844395afd87e0d3a2d7883f4460" />
+  </programme>
+  <programme start="20260622110000 +1000" stop="20260622120000 +1000" channel="501.FS1">
+    <title lang="en">Test: ENG v NZL 2nd Test Day 5</title>
+    <sub-title lang="en">ENG v NZL 2nd Test Day 5</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7wad6.png?maxheight=213&amp;limit=27b0152ba631336b1e8afb03305a905f7a021d6d" />
+  </programme>
+  <programme start="20260622120000 +1000" stop="20260622122000 +1000" channel="501.FS1">
+    <title lang="en">T20 Mini BAN v AUS</title>
+    <sub-title lang="en">Game 3</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/17/placeholder-16x9-beam.png?maxheight=213&amp;limit=b106f50a28388844395afd87e0d3a2d7883f4460" />
+  </programme>
+  <programme start="20260622122000 +1000" stop="20260622124000 +1000" channel="501.FS1">
+    <title lang="en">T20 Mini BAN v AUS</title>
+    <sub-title lang="en">Game 1</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/17/placeholder-16x9-beam.png?maxheight=213&amp;limit=b106f50a28388844395afd87e0d3a2d7883f4460" />
+  </programme>
+  <programme start="20260622124000 +1000" stop="20260622130000 +1000" channel="501.FS1">
+    <title lang="en">T20 Mini BAN v AUS</title>
+    <sub-title lang="en">Game 2</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/17/placeholder-16x9-beam.png?maxheight=213&amp;limit=b106f50a28388844395afd87e0d3a2d7883f4460" />
+  </programme>
+  <programme start="20260622130000 +1000" stop="20260622140000 +1000" channel="501.FS1">
+    <title lang="en">T20: BAN v AUS Game 3</title>
+    <sub-title lang="en">BAN v AUS Game 3</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/xaq7ke.png?maxheight=213&amp;limit=2dae2d80123324fb1b4a4d5345abec68c9e37ece" />
+  </programme>
+  <programme start="20260622140000 +1000" stop="20260622142000 +1000" channel="501.FS1">
+    <title lang="en">Test Mini ENG v NZL: 2nd Test Day 5</title>
+    <sub-title lang="en">2nd Test Day 5</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6ckaa.png?maxheight=213&amp;limit=14372a257a0a32a06e7b0379d79b6f6c9f593728" />
+  </programme>
+  <programme start="20260622142000 +1000" stop="20260622144000 +1000" channel="501.FS1">
+    <title lang="en">T20 Mini BAN v AUS</title>
+    <sub-title lang="en">Game 3</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/17/placeholder-16x9-beam.png?maxheight=213&amp;limit=b106f50a28388844395afd87e0d3a2d7883f4460" />
+  </programme>
+  <programme start="20260622144000 +1000" stop="20260622150000 +1000" channel="501.FS1">
+    <title lang="en">Test Mini ENG v NZL: 2nd Test Day 5</title>
+    <sub-title lang="en">2nd Test Day 5</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6ckaa.png?maxheight=213&amp;limit=14372a257a0a32a06e7b0379d79b6f6c9f593728" />
+  </programme>
+  <programme start="20260622150000 +1000" stop="20260622160000 +1000" channel="501.FS1">
+    <title lang="en">T20: BAN v AUS Game 3</title>
+    <sub-title lang="en">BAN v AUS Game 3</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/xaq7ke.png?maxheight=213&amp;limit=2dae2d80123324fb1b4a4d5345abec68c9e37ece" />
+  </programme>
+  <programme start="20260622160000 +1000" stop="20260622162000 +1000" channel="501.FS1">
+    <title lang="en">Test Mini ENG v NZL: 2nd Test Day 5</title>
+    <sub-title lang="en">2nd Test Day 5</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6ckaa.png?maxheight=213&amp;limit=14372a257a0a32a06e7b0379d79b6f6c9f593728" />
+  </programme>
+  <programme start="20260622162000 +1000" stop="20260622164000 +1000" channel="501.FS1">
+    <title lang="en">T20 Mini BAN v AUS</title>
+    <sub-title lang="en">Game 3</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/17/placeholder-16x9-beam.png?maxheight=213&amp;limit=b106f50a28388844395afd87e0d3a2d7883f4460" />
+  </programme>
+  <programme start="20260622164000 +1000" stop="20260622170000 +1000" channel="501.FS1">
+    <title lang="en">Test Mini ENG v NZL: 2nd Test Day 5</title>
+    <sub-title lang="en">2nd Test Day 5</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6ckaa.png?maxheight=213&amp;limit=14372a257a0a32a06e7b0379d79b6f6c9f593728" />
+  </programme>
+  <programme start="20260622170000 +1000" stop="20260622180000 +1000" channel="501.FS1">
+    <title lang="en">T20: BAN v AUS Game 3</title>
+    <sub-title lang="en">BAN v AUS Game 3</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/xaq7ke.png?maxheight=213&amp;limit=2dae2d80123324fb1b4a4d5345abec68c9e37ece" />
+  </programme>
+  <programme start="20260622180000 +1000" stop="20260622190000 +1000" channel="501.FS1">
+    <title lang="en">ODI: IND v AFG Game 3</title>
+    <sub-title lang="en">IND v AFG Game 3</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7y2di.png?maxheight=213&amp;limit=c3fde36cdef84bb5e565abff2291e701390f518c" />
+  </programme>
+  <programme start="20260622190000 +1000" stop="20260622200000 +1000" channel="501.FS1">
+    <title lang="en">T20: BAN v AUS Game 3</title>
+    <sub-title lang="en">BAN v AUS Game 3</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/xaq7ke.png?maxheight=213&amp;limit=2dae2d80123324fb1b4a4d5345abec68c9e37ece" />
+  </programme>
+  <programme start="20260622200000 +1000" stop="20260622210000 +1000" channel="501.FS1">
+    <title lang="en">Test: ENG v NZL 2nd Test</title>
+    <sub-title lang="en">ENG v NZL 2nd Test</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7wad6.png?maxheight=213&amp;limit=27b0152ba631336b1e8afb03305a905f7a021d6d" />
+  </programme>
+  <programme start="20260622210000 +1000" stop="20260622220000 +1000" channel="501.FS1">
+    <title lang="en">T20: BAN v AUS Game 3</title>
+    <sub-title lang="en">BAN v AUS Game 3</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/xaq7ke.png?maxheight=213&amp;limit=2dae2d80123324fb1b4a4d5345abec68c9e37ece" />
+  </programme>
+  <programme start="20260622220000 +1000" stop="20260622230000 +1000" channel="501.FS1">
+    <title lang="en">Test: ENG v NZL 2nd Test</title>
+    <sub-title lang="en">ENG v NZL 2nd Test</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7wad6.png?maxheight=213&amp;limit=27b0152ba631336b1e8afb03305a905f7a021d6d" />
+  </programme>
+  <programme start="20260622230000 +1000" stop="20260623000000 +1000" channel="501.FS1">
+    <title lang="en">T20: BAN v AUS Game 3</title>
+    <sub-title lang="en">BAN v AUS Game 3</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/xaq7ke.png?maxheight=213&amp;limit=2dae2d80123324fb1b4a4d5345abec68c9e37ece" />
   </programme>
   <programme start="20260609230000 +1000" stop="20260610000000 +1000" channel="502.SP2">
     <title lang="en">NRL 360</title>
     <sub-title lang="en">Episode 47</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/366rlp.jpg?maxheight=213&amp;limit=ac74986f98b2c5edce09a9423735a61109411e69" />
   </programme>
   <programme start="20260610000000 +1000" stop="20260610003000 +1000" channel="502.SP2">
     <title lang="en">Face-To-Face on Fox: Paul Vautin Part 3</title>
     <sub-title lang="en">Paul Vautin Part 3</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6furqu.png?maxheight=213&amp;limit=149ec7aa8379e65faf9a8ce267c2f02622fe437d" />
   </programme>
   <programme start="20260610003000 +1000" stop="20260610013000 +1000" channel="502.SP2">
     <title lang="en">NRL 360</title>
     <sub-title lang="en">Episode 47</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/366rlp.jpg?maxheight=213&amp;limit=ac74986f98b2c5edce09a9423735a61109411e69" />
   </programme>
   <programme start="20260610013000 +1000" stop="20260610020000 +1000" channel="502.SP2">
     <title lang="en">Face-To-Face on Fox: Paul Vautin Part 3</title>
     <sub-title lang="en">Paul Vautin Part 3</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6furqu.png?maxheight=213&amp;limit=149ec7aa8379e65faf9a8ce267c2f02622fe437d" />
   </programme>
   <programme start="20260610020000 +1000" stop="20260610030000 +1000" channel="502.SP2">
     <title lang="en">NRL: Sharks v Dragons</title>
@@ -4293,8 +4198,8 @@
     <desc lang="en" />
   </programme>
   <programme start="20260620124000 +1000" stop="20260620143000 +1000" channel="502.SP2">
-    <title lang="en">Live: NSW Cup: Round 16 WS Magpies v Sea</title>
-    <sub-title lang="en">Round 16 WS Magpies v Sea Eagles</sub-title>
+    <title lang="en">Live: NSW Cup: R16 MAG v MAN</title>
+    <sub-title lang="en">R16 MAG v MAN</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20260620143000 +1000" stop="20260620150000 +1000" channel="502.SP2">
@@ -4391,8 +4296,8 @@
     <desc lang="en" />
   </programme>
   <programme start="20260621050000 +1000" stop="20260621071000 +1000" channel="502.SP2">
-    <title lang="en">Live: ESL: Castleford v Toulouse Olympiq</title>
-    <sub-title lang="en">Castleford v Toulouse Olympique</sub-title>
+    <title lang="en">Live: ESL: Castleford v Olympique</title>
+    <sub-title lang="en">Castleford v Olympique</sub-title>
     <desc lang="en" />
   </programme>
   <programme start="20260621071000 +1000" stop="20260621081000 +1000" channel="502.SP2">
@@ -4456,6 +4361,7 @@
     <title lang="en">Live: NRL: Warriors v Cowboys</title>
     <sub-title lang="en">Warriors v Cowboys</sub-title>
     <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/v4nc6i.png?maxheight=213&amp;limit=c85ad95d00421e63386973190738d4cb9e6aa372" />
   </programme>
   <programme start="20260621155500 +1000" stop="20260621160500 +1000" channel="502.SP2">
     <title lang="en">Live: NRL Sunday Ticket</title>
@@ -4466,6 +4372,7 @@
     <title lang="en">Live: NRL: Storm v Raiders</title>
     <sub-title lang="en">Storm v Raiders</sub-title>
     <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/v4nc6i.png?maxheight=213&amp;limit=c85ad95d00421e63386973190738d4cb9e6aa372" />
   </programme>
   <programme start="20260621180000 +1000" stop="20260621181500 +1000" channel="502.SP2">
     <title lang="en">Live: NRL Sunday Ticket</title>
@@ -4476,6 +4383,7 @@
     <title lang="en">Live: NRL: Roosters v Sharks</title>
     <sub-title lang="en">Roosters v Sharks</sub-title>
     <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/v4nc6i.png?maxheight=213&amp;limit=c85ad95d00421e63386973190738d4cb9e6aa372" />
   </programme>
   <programme start="20260621201000 +1000" stop="20260621211000 +1000" channel="502.SP2">
     <title lang="en">Live: Sunday Night with Matty Johns</title>
@@ -4490,6 +4398,7 @@
     <title lang="en">NRL Mini: WAR v NQL</title>
     <sub-title lang="en">WAR v NQL</sub-title>
     <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8c6np4.png?maxheight=213&amp;limit=d0b0d5f96600b66b02b550885b55dce4ef7218c5" />
   </programme>
   <programme start="20260621213100 +1000" stop="20260621223200 +1000" channel="502.SP2">
     <title lang="en">Sunday Night with Matty Johns</title>
@@ -4520,115 +4429,239 @@
     <sub-title lang="en">St Helens v Huddersfield</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20260609023000 +1000" stop="20260609043000 +1000" channel="503.FS3">
-    <title lang="en">USPGA: Phoenix Open Final Round</title>
-    <sub-title lang="en">Phoenix Open Final Round</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/ocq20z.png?maxheight=213&amp;limit=84ba8b9ec2225760959d81dc67f85a98e6a906e8" />
-  </programme>
-  <programme start="20260609043000 +1000" stop="20260609063000 +1000" channel="503.FS3">
-    <title lang="en">USPGA: Pebble Beach Pro-Am Final Round</title>
-    <sub-title lang="en">Pebble Beach Pro-Am Final Round</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/t1yst6.png?maxheight=213&amp;limit=7ecabbcb15b0e1df08cc6970444bc47bac105cf7" />
-  </programme>
-  <programme start="20260609063000 +1000" stop="20260609083000 +1000" channel="503.FS3">
-    <title lang="en">USPGA: The Memorial Tournament FR</title>
-    <sub-title lang="en">The Memorial Tournament FR</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/bt01z0.png?maxheight=213&amp;limit=c5692c64f287a44c26db6f3fdf164daab4b7bc6c" />
-  </programme>
-  <programme start="20260609083000 +1000" stop="20260609090000 +1000" channel="503.FS3">
-    <title lang="en">Rory McIlroy: Melbourne Sandbelt</title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/9x7aur.png?maxheight=213&amp;limit=133485c60caa78ca0b17152ca87834daef3fbda5" />
-  </programme>
-  <programme start="20260609090000 +1000" stop="20260609100000 +1000" channel="503.FS3">
-    <title lang="en">Golf: USPGA: The Memorial</title>
-    <sub-title lang="en">The Memorial</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/p0svgo.png?maxheight=213&amp;limit=2850fe7a97f4354051e8f3f99adaddd6dde51f81" />
-  </programme>
-  <programme start="20260609100000 +1000" stop="20260609120000 +1000" channel="503.FS3">
-    <title lang="en">Golf: US Women's Open: Final Round</title>
-    <sub-title lang="en">Final Round</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/qmohcy.png?maxheight=213&amp;limit=43e70fc994f21fbf20db24c6e3ec624367eaa7f2" />
-  </programme>
-  <programme start="20260609120000 +1000" stop="20260609130000 +1000" channel="503.FS3">
-    <title lang="en">Golf: USPGA: The Memorial</title>
-    <sub-title lang="en">The Memorial</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/p0svgo.png?maxheight=213&amp;limit=2850fe7a97f4354051e8f3f99adaddd6dde51f81" />
-  </programme>
-  <programme start="20260609130000 +1000" stop="20260609133000 +1000" channel="503.FS3">
-    <title lang="en">How Good is Golf: Southern Golf Club</title>
-    <sub-title lang="en">Southern Golf Club</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/argoq2.png?maxheight=213&amp;limit=a502f37330a79afc1e07fce948527a5a66caf4aa" />
-  </programme>
-  <programme start="20260609133000 +1000" stop="20260609135000 +1000" channel="503.FS3">
-    <title lang="en">Cricket: Test Mini IND v AFG: Day 3</title>
-    <sub-title lang="en">Day 3</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/mo2gud.png?maxheight=213&amp;limit=b909b7b3d7d5a0f9811dc364b3f0677d249d07ee" />
-  </programme>
-  <programme start="20260609135000 +1000" stop="20260609160000 +1000" channel="503.FS3">
-    <title lang="en">Live: Test: IND v AFG Day 4</title>
-    <sub-title lang="en">IND v AFG Day 4</sub-title>
+  <programme start="20260622000000 +1000" stop="20260622020000 +1000" channel="502.SP2">
+    <title lang="en">Live: ESL: St Helens v Huddersfield</title>
+    <sub-title lang="en">St Helens v Huddersfield</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20260609160000 +1000" stop="20260609163000 +1000" channel="503.FS3">
-    <title lang="en">Test Mini AUS v IND</title>
-    <sub-title lang="en">2024/25 4th Test</sub-title>
+  <programme start="20260622020000 +1000" stop="20260622030000 +1000" channel="502.SP2">
+    <title lang="en">NRL: Warriors v Cowboys</title>
+    <sub-title lang="en">Warriors v Cowboys</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/6d622.png?maxheight=213&amp;limit=f1c288d3a020e02ec8934d0692091537f973227b" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/v4nc6i.png?maxheight=213&amp;limit=c85ad95d00421e63386973190738d4cb9e6aa372" />
   </programme>
-  <programme start="20260609163000 +1000" stop="20260609183500 +1000" channel="503.FS3">
-    <title lang="en">Live: Test: IND v AFG Day 4</title>
-    <sub-title lang="en">IND v AFG Day 4</sub-title>
+  <programme start="20260622030000 +1000" stop="20260622040000 +1000" channel="502.SP2">
+    <title lang="en">NRL: Storm v Raiders</title>
+    <sub-title lang="en">Storm v Raiders</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/v4nc6i.png?maxheight=213&amp;limit=c85ad95d00421e63386973190738d4cb9e6aa372" />
+  </programme>
+  <programme start="20260622040000 +1000" stop="20260622050000 +1000" channel="502.SP2">
+    <title lang="en">NRL: Roosters v Sharks</title>
+    <sub-title lang="en">Roosters v Sharks</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/v4nc6i.png?maxheight=213&amp;limit=c85ad95d00421e63386973190738d4cb9e6aa372" />
+  </programme>
+  <programme start="20260622050000 +1000" stop="20260622060000 +1000" channel="502.SP2">
+    <title lang="en">NRL: Warriors v Cowboys</title>
+    <sub-title lang="en">Warriors v Cowboys</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/v4nc6i.png?maxheight=213&amp;limit=c85ad95d00421e63386973190738d4cb9e6aa372" />
+  </programme>
+  <programme start="20260622060000 +1000" stop="20260622070000 +1000" channel="502.SP2">
+    <title lang="en">NRL: Storm v Raiders</title>
+    <sub-title lang="en">Storm v Raiders</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/v4nc6i.png?maxheight=213&amp;limit=c85ad95d00421e63386973190738d4cb9e6aa372" />
+  </programme>
+  <programme start="20260622070000 +1000" stop="20260622080000 +1000" channel="502.SP2">
+    <title lang="en">Sunday Night with Matty Johns</title>
+    <sub-title lang="en">Episode 16</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/xvo9o.png?maxheight=213&amp;limit=9ad8828309e752addaf08f11d5a88c6fb7909396" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260622080000 +1000" stop="20260622082000 +1000" channel="502.SP2">
+    <title lang="en">NRL Mini: NEW v SGI</title>
+    <sub-title lang="en">NEW v SGI</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8c6np4.png?maxheight=213&amp;limit=d0b0d5f96600b66b02b550885b55dce4ef7218c5" />
+  </programme>
+  <programme start="20260622082000 +1000" stop="20260622084000 +1000" channel="502.SP2">
+    <title lang="en">NRL Mini: WST v DOL</title>
+    <sub-title lang="en">WST v DOL</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8c6np4.png?maxheight=213&amp;limit=d0b0d5f96600b66b02b550885b55dce4ef7218c5" />
+  </programme>
+  <programme start="20260622084000 +1000" stop="20260622090000 +1000" channel="502.SP2">
+    <title lang="en">NRL Mini: GLD v PEN</title>
+    <sub-title lang="en">GLD v PEN</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8c6np4.png?maxheight=213&amp;limit=d0b0d5f96600b66b02b550885b55dce4ef7218c5" />
+  </programme>
+  <programme start="20260622090000 +1000" stop="20260622092000 +1000" channel="502.SP2">
+    <title lang="en">NRL Mini: CBY v MAN</title>
+    <sub-title lang="en">CBY v MAN</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8c6np4.png?maxheight=213&amp;limit=d0b0d5f96600b66b02b550885b55dce4ef7218c5" />
+  </programme>
+  <programme start="20260622092000 +1000" stop="20260622094000 +1000" channel="502.SP2">
+    <title lang="en">NRL Mini: WAR v NQL</title>
+    <sub-title lang="en">WAR v NQL</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8c6np4.png?maxheight=213&amp;limit=d0b0d5f96600b66b02b550885b55dce4ef7218c5" />
+  </programme>
+  <programme start="20260622094000 +1000" stop="20260622100000 +1000" channel="502.SP2">
+    <title lang="en">NRL Mini: MEL v CAN</title>
+    <sub-title lang="en">MEL v CAN</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8c6np4.png?maxheight=213&amp;limit=d0b0d5f96600b66b02b550885b55dce4ef7218c5" />
+  </programme>
+  <programme start="20260622100000 +1000" stop="20260622110000 +1000" channel="502.SP2">
+    <title lang="en">Sunday Night with Matty Johns</title>
+    <sub-title lang="en">Episode 16</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/xvo9o.png?maxheight=213&amp;limit=9ad8828309e752addaf08f11d5a88c6fb7909396" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260622110000 +1000" stop="20260622112000 +1000" channel="502.SP2">
+    <title lang="en">NRL Mini: SYD v CRO</title>
+    <sub-title lang="en">SYD v CRO</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8c6np4.png?maxheight=213&amp;limit=d0b0d5f96600b66b02b550885b55dce4ef7218c5" />
+  </programme>
+  <programme start="20260622112000 +1000" stop="20260622114000 +1000" channel="502.SP2">
+    <title lang="en">NRL Mini: NEW v SGI</title>
+    <sub-title lang="en">NEW v SGI</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8c6np4.png?maxheight=213&amp;limit=d0b0d5f96600b66b02b550885b55dce4ef7218c5" />
+  </programme>
+  <programme start="20260622114000 +1000" stop="20260622120000 +1000" channel="502.SP2">
+    <title lang="en">NRL Mini: WST v DOL</title>
+    <sub-title lang="en">WST v DOL</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8c6np4.png?maxheight=213&amp;limit=d0b0d5f96600b66b02b550885b55dce4ef7218c5" />
+  </programme>
+  <programme start="20260622120000 +1000" stop="20260622124000 +1000" channel="502.SP2">
+    <title lang="en">Live: Boxing: Paro v Crocker Presser</title>
+    <sub-title lang="en">Paro v Crocker Presser</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20260609183500 +1000" stop="20260609185500 +1000" channel="503.FS3">
-    <title lang="en">Cricket: Test Mini ENG v NZL: T1 D1</title>
-    <sub-title lang="en">T1 D1</sub-title>
+  <programme start="20260622124000 +1000" stop="20260622130000 +1000" channel="502.SP2">
+    <title lang="en">NRL Mini: SYD v CRO</title>
+    <sub-title lang="en">SYD v CRO</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/n7e5h2.png?maxheight=213&amp;limit=82df309363a8fb6e254ee2c27e7eac0d22a6d7ee" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8c6np4.png?maxheight=213&amp;limit=d0b0d5f96600b66b02b550885b55dce4ef7218c5" />
   </programme>
-  <programme start="20260609185500 +1000" stop="20260609213000 +1000" channel="503.FS3">
-    <title lang="en">Live: Test: IND v AFG Day 4</title>
-    <sub-title lang="en">IND v AFG Day 4</sub-title>
+  <programme start="20260622130000 +1000" stop="20260622132000 +1000" channel="502.SP2">
+    <title lang="en">NRL Mini: GLD v PEN</title>
+    <sub-title lang="en">GLD v PEN</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8c6np4.png?maxheight=213&amp;limit=d0b0d5f96600b66b02b550885b55dce4ef7218c5" />
+  </programme>
+  <programme start="20260622132000 +1000" stop="20260622134000 +1000" channel="502.SP2">
+    <title lang="en">NRL Mini: CBY v MAN</title>
+    <sub-title lang="en">CBY v MAN</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8c6np4.png?maxheight=213&amp;limit=d0b0d5f96600b66b02b550885b55dce4ef7218c5" />
+  </programme>
+  <programme start="20260622134000 +1000" stop="20260622140000 +1000" channel="502.SP2">
+    <title lang="en">NRL Mini: WAR v NQL</title>
+    <sub-title lang="en">WAR v NQL</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8c6np4.png?maxheight=213&amp;limit=d0b0d5f96600b66b02b550885b55dce4ef7218c5" />
+  </programme>
+  <programme start="20260622140000 +1000" stop="20260622150000 +1000" channel="502.SP2">
+    <title lang="en">Sunday Night with Matty Johns</title>
+    <sub-title lang="en">Episode 16</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/xvo9o.png?maxheight=213&amp;limit=9ad8828309e752addaf08f11d5a88c6fb7909396" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260622150000 +1000" stop="20260622152000 +1000" channel="502.SP2">
+    <title lang="en">NRL Mini: MEL v CAN</title>
+    <sub-title lang="en">MEL v CAN</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8c6np4.png?maxheight=213&amp;limit=d0b0d5f96600b66b02b550885b55dce4ef7218c5" />
+  </programme>
+  <programme start="20260622152000 +1000" stop="20260622154000 +1000" channel="502.SP2">
+    <title lang="en">NRL Mini: SYD v CRO</title>
+    <sub-title lang="en">SYD v CRO</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8c6np4.png?maxheight=213&amp;limit=d0b0d5f96600b66b02b550885b55dce4ef7218c5" />
+  </programme>
+  <programme start="20260622154000 +1000" stop="20260622160000 +1000" channel="502.SP2">
+    <title lang="en">NRL Mini: NEW v SGI</title>
+    <sub-title lang="en">NEW v SGI</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8c6np4.png?maxheight=213&amp;limit=d0b0d5f96600b66b02b550885b55dce4ef7218c5" />
+  </programme>
+  <programme start="20260622160000 +1000" stop="20260622170000 +1000" channel="502.SP2">
+    <title lang="en">Sunday Night with Matty Johns</title>
+    <sub-title lang="en">Episode 16</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/xvo9o.png?maxheight=213&amp;limit=9ad8828309e752addaf08f11d5a88c6fb7909396" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260622170000 +1000" stop="20260622180000 +1000" channel="502.SP2">
+    <title lang="en">Live: The Run Home with Scope and Fletch</title>
+    <sub-title lang="en">Episode 24</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20260609213000 +1000" stop="20260609220000 +1000" channel="503.FS3">
-    <title lang="en">How Good is Golf: Nudgee Golf Club</title>
-    <sub-title lang="en">Nudgee Golf Club</sub-title>
+  <programme start="20260622180000 +1000" stop="20260622183000 +1000" channel="502.SP2">
+    <title lang="en">Live: NRL Tonight</title>
+    <sub-title lang="en">Episode 83</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/argoq2.png?maxheight=213&amp;limit=a502f37330a79afc1e07fce948527a5a66caf4aa" />
   </programme>
-  <programme start="20260609220000 +1000" stop="20260609223000 +1000" channel="503.FS3">
-    <title lang="en">Golf: KLM Open</title>
-    <sub-title lang="en">KLM Open</sub-title>
+  <programme start="20260622183000 +1000" stop="20260622193000 +1000" channel="502.SP2">
+    <title lang="en">Live: NRL 360</title>
+    <sub-title lang="en">Episode 52</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/w1w3gb.png?maxheight=213&amp;limit=a94df70ef85fe5f4ab1248fabd7ca2bf6dd8bf55" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/366rlp.jpg?maxheight=213&amp;limit=ac74986f98b2c5edce09a9423735a61109411e69" />
   </programme>
-  <programme start="20260609223000 +1000" stop="20260609233000 +1000" channel="503.FS3">
-    <title lang="en">Golf: USPGA: The Memorial</title>
-    <sub-title lang="en">The Memorial</sub-title>
+  <programme start="20260622193000 +1000" stop="20260622200000 +1000" channel="502.SP2">
+    <title lang="en">Matty &amp; Cronk</title>
+    <sub-title lang="en">Episode 15</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/p0svgo.png?maxheight=213&amp;limit=2850fe7a97f4354051e8f3f99adaddd6dde51f81" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/hapgph.png?maxheight=213&amp;limit=7ba539ffdf244b72fead948e3a196bfc34e798a5" />
+  </programme>
+  <programme start="20260622200000 +1000" stop="20260622210000 +1000" channel="502.SP2">
+    <title lang="en">NRL 360</title>
+    <sub-title lang="en">Episode 52</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/366rlp.jpg?maxheight=213&amp;limit=ac74986f98b2c5edce09a9423735a61109411e69" />
+  </programme>
+  <programme start="20260622210000 +1000" stop="20260622213000 +1000" channel="502.SP2">
+    <title lang="en">Matty &amp; Cronk</title>
+    <sub-title lang="en">Episode 15</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/hapgph.png?maxheight=213&amp;limit=7ba539ffdf244b72fead948e3a196bfc34e798a5" />
+  </programme>
+  <programme start="20260622213000 +1000" stop="20260622223000 +1000" channel="502.SP2">
+    <title lang="en">NRL 360</title>
+    <sub-title lang="en">Episode 52</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/366rlp.jpg?maxheight=213&amp;limit=ac74986f98b2c5edce09a9423735a61109411e69" />
+  </programme>
+  <programme start="20260622223000 +1000" stop="20260622230000 +1000" channel="502.SP2">
+    <title lang="en">Matty &amp; Cronk</title>
+    <sub-title lang="en">Episode 15</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/hapgph.png?maxheight=213&amp;limit=7ba539ffdf244b72fead948e3a196bfc34e798a5" />
+  </programme>
+  <programme start="20260622230000 +1000" stop="20260623000000 +1000" channel="502.SP2">
+    <title lang="en">NRL 360</title>
+    <sub-title lang="en">Episode 52</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/366rlp.jpg?maxheight=213&amp;limit=ac74986f98b2c5edce09a9423735a61109411e69" />
   </programme>
   <programme start="20260609233000 +1000" stop="20260610000000 +1000" channel="503.FS3">
     <title lang="en">How Good is Golf: Nudgee Golf Club</title>
     <sub-title lang="en">Nudgee Golf Club</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/argoq2.png?maxheight=213&amp;limit=a502f37330a79afc1e07fce948527a5a66caf4aa" />
   </programme>
   <programme start="20260610000000 +1000" stop="20260610020000 +1000" channel="503.FS3">
     <title lang="en">Golf: Catalunya Championship Final Round</title>
     <sub-title lang="en">Catalunya Championship Final Round</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/nd122l.png?maxheight=213&amp;limit=fba8ade3d2f28687c008d531a05e8689d7478d41" />
   </programme>
   <programme start="20260610020000 +1000" stop="20260610040000 +1000" channel="503.FS3">
     <title lang="en">Golf: Soudal Open Final Round</title>
@@ -4667,8 +4700,8 @@
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/w1w3gb.png?maxheight=213&amp;limit=a94df70ef85fe5f4ab1248fabd7ca2bf6dd8bf55" />
   </programme>
   <programme start="20260610095500 +1000" stop="20260610115500 +1000" channel="503.FS3">
-    <title lang="en">USPGA: The Memorial Tournament FR</title>
-    <sub-title lang="en">The Memorial Tournament FR</sub-title>
+    <title lang="en">USPGA: The Memorial Tournament FD</title>
+    <sub-title lang="en">The Memorial Tournament FD</sub-title>
     <desc lang="en" />
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/bt01z0.png?maxheight=213&amp;limit=c5692c64f287a44c26db6f3fdf164daab4b7bc6c" />
   </programme>
@@ -4697,8 +4730,8 @@
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/argoq2.png?maxheight=213&amp;limit=a502f37330a79afc1e07fce948527a5a66caf4aa" />
   </programme>
   <programme start="20260610152500 +1000" stop="20260610172500 +1000" channel="503.FS3">
-    <title lang="en">USPGA: The Memorial Tournament FR</title>
-    <sub-title lang="en">The Memorial Tournament FR</sub-title>
+    <title lang="en">USPGA: The Memorial Tournament FD</title>
+    <sub-title lang="en">The Memorial Tournament FD</sub-title>
     <desc lang="en" />
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/bt01z0.png?maxheight=213&amp;limit=c5692c64f287a44c26db6f3fdf164daab4b7bc6c" />
   </programme>
@@ -5613,7 +5646,7 @@
     <title lang="en">Live: AFL: St Kilda v Western Bulldogs</title>
     <sub-title lang="en">St Kilda v Western Bulldogs</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/6g2jo.jpg?maxheight=213&amp;limit=863de90091604ad319fdd83ae6a2f715825e6324" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/dpg9xw.png?maxheight=213&amp;limit=821aea21d5c043f182a118e426cd1bd1de6cd97e" />
   </programme>
   <programme start="20260621175000 +1000" stop="20260621180000 +1000" channel="503.FS3">
     <title lang="en">Live: AFL: AFL Post Game</title>
@@ -5646,145 +5679,88 @@
     <title lang="en">Live: Sport Special</title>
     <desc lang="en" />
   </programme>
-  <programme start="20260609023000 +1000" stop="20260609033000 +1000" channel="504.FAF">
-    <title lang="en">AFL 360</title>
-    <sub-title lang="en">Episode 43</sub-title>
+  <programme start="20260622010000 +1000" stop="20260622090000 +1000" channel="503.FS3">
+    <title lang="en">Live: Golf: US Open: Final Round</title>
+    <sub-title lang="en">Final Round</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/c4e43r.png?maxheight=213&amp;limit=603f188a4fa8b5b2b331f5e0776f1228d00202cb" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6gu30.png?maxheight=213&amp;limit=5299b632c71e25145fcca760e7ca2ccf9bffcf2c" />
   </programme>
-  <programme start="20260609033000 +1000" stop="20260609043000 +1000" channel="504.FAF">
-    <title lang="en">On the Couch</title>
-    <sub-title lang="en">Episode 15</sub-title>
+  <programme start="20260622090000 +1000" stop="20260622110000 +1000" channel="503.FS3">
+    <title lang="en">Live: Golf: Live from the US Open: Final</title>
+    <sub-title lang="en">Final Round</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/pyr5o7.png?maxheight=213&amp;limit=dbdd6578e0680b780dbd936655970346e2118ed2" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/bui5z.png?maxheight=213&amp;limit=43804bb6bf0acb7cb52902810686bde98cdf45b9" />
   </programme>
-  <programme start="20260609043000 +1000" stop="20260609053000 +1000" channel="504.FAF">
-    <title lang="en">AFL 360</title>
-    <sub-title lang="en">Episode 43</sub-title>
+  <programme start="20260622110000 +1000" stop="20260622111500 +1000" channel="503.FS3">
+    <title lang="en">Sport Special</title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/c4e43r.png?maxheight=213&amp;limit=603f188a4fa8b5b2b331f5e0776f1228d00202cb" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/63izb.jpg?maxheight=213&amp;limit=96373cde532bc2be6626c92725c6763020a19042" />
   </programme>
-  <programme start="20260609053000 +1000" stop="20260609063000 +1000" channel="504.FAF">
-    <title lang="en">On the Couch</title>
-    <sub-title lang="en">Episode 15</sub-title>
+  <programme start="20260622111500 +1000" stop="20260622131500 +1000" channel="503.FS3">
+    <title lang="en">Golf: US Open: Final Round</title>
+    <sub-title lang="en">Final Round</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/pyr5o7.png?maxheight=213&amp;limit=dbdd6578e0680b780dbd936655970346e2118ed2" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6gu30.png?maxheight=213&amp;limit=5299b632c71e25145fcca760e7ca2ccf9bffcf2c" />
   </programme>
-  <programme start="20260609063000 +1000" stop="20260609090300 +1000" channel="504.FAF">
-    <title lang="en">AFL: Collingwood v Melbourne</title>
-    <sub-title lang="en">Collingwood v Melbourne</sub-title>
+  <programme start="20260622131500 +1000" stop="20260622144500 +1000" channel="503.FS3">
+    <title lang="en">Golf: Live from the US Open: Final Round</title>
+    <sub-title lang="en">Final Round</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/f08nc6.png?maxheight=213&amp;limit=d3f7d7dd3b43023e8e3a080f0d02151a1afbeddd" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/bui5z.png?maxheight=213&amp;limit=43804bb6bf0acb7cb52902810686bde98cdf45b9" />
   </programme>
-  <programme start="20260609090300 +1000" stop="20260609100300 +1000" channel="504.FAF">
-    <title lang="en">AFL 360</title>
-    <sub-title lang="en">Episode 43</sub-title>
+  <programme start="20260622144500 +1000" stop="20260622150000 +1000" channel="503.FS3">
+    <title lang="en">Sport Special</title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/c4e43r.png?maxheight=213&amp;limit=603f188a4fa8b5b2b331f5e0776f1228d00202cb" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/63izb.jpg?maxheight=213&amp;limit=96373cde532bc2be6626c92725c6763020a19042" />
   </programme>
-  <programme start="20260609100300 +1000" stop="20260609110300 +1000" channel="504.FAF">
-    <title lang="en">On the Couch</title>
-    <sub-title lang="en">Episode 15</sub-title>
+  <programme start="20260622150000 +1000" stop="20260622170000 +1000" channel="503.FS3">
+    <title lang="en">Golf: US Open: Final Round</title>
+    <sub-title lang="en">Final Round</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/pyr5o7.png?maxheight=213&amp;limit=dbdd6578e0680b780dbd936655970346e2118ed2" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6gu30.png?maxheight=213&amp;limit=5299b632c71e25145fcca760e7ca2ccf9bffcf2c" />
   </programme>
-  <programme start="20260609110300 +1000" stop="20260609120300 +1000" channel="504.FAF">
-    <title lang="en">AFL 360</title>
-    <sub-title lang="en">Episode 43</sub-title>
+  <programme start="20260622170000 +1000" stop="20260622183000 +1000" channel="503.FS3">
+    <title lang="en">Golf: Live from the US Open: Final Round</title>
+    <sub-title lang="en">Final Round</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/c4e43r.png?maxheight=213&amp;limit=603f188a4fa8b5b2b331f5e0776f1228d00202cb" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/bui5z.png?maxheight=213&amp;limit=43804bb6bf0acb7cb52902810686bde98cdf45b9" />
   </programme>
-  <programme start="20260609120300 +1000" stop="20260609130300 +1000" channel="504.FAF">
-    <title lang="en">On the Couch</title>
-    <sub-title lang="en">Episode 15</sub-title>
+  <programme start="20260622183000 +1000" stop="20260622190000 +1000" channel="503.FS3">
+    <title lang="en">Sport Special</title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/pyr5o7.png?maxheight=213&amp;limit=dbdd6578e0680b780dbd936655970346e2118ed2" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/63izb.jpg?maxheight=213&amp;limit=96373cde532bc2be6626c92725c6763020a19042" />
   </programme>
-  <programme start="20260609130300 +1000" stop="20260609140300 +1000" channel="504.FAF">
-    <title lang="en">AFL 360</title>
-    <sub-title lang="en">Episode 43</sub-title>
+  <programme start="20260622190000 +1000" stop="20260622210000 +1000" channel="503.FS3">
+    <title lang="en">Golf: US Open: Final Round</title>
+    <sub-title lang="en">Final Round</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/c4e43r.png?maxheight=213&amp;limit=603f188a4fa8b5b2b331f5e0776f1228d00202cb" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6gu30.png?maxheight=213&amp;limit=5299b632c71e25145fcca760e7ca2ccf9bffcf2c" />
   </programme>
-  <programme start="20260609140300 +1000" stop="20260609150300 +1000" channel="504.FAF">
-    <title lang="en">On the Couch</title>
-    <sub-title lang="en">Episode 15</sub-title>
+  <programme start="20260622210000 +1000" stop="20260622223000 +1000" channel="503.FS3">
+    <title lang="en">Golf: Live from the US Open: Final Round</title>
+    <sub-title lang="en">Final Round</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/pyr5o7.png?maxheight=213&amp;limit=dbdd6578e0680b780dbd936655970346e2118ed2" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/bui5z.png?maxheight=213&amp;limit=43804bb6bf0acb7cb52902810686bde98cdf45b9" />
   </programme>
-  <programme start="20260609150300 +1000" stop="20260609152300 +1000" channel="504.FAF">
-    <title lang="en">AFL Mini: Round 13 GC v BRI</title>
-    <sub-title lang="en">Round 13 GC v BRI</sub-title>
+  <programme start="20260622223000 +1000" stop="20260622224500 +1000" channel="503.FS3">
+    <title lang="en">Sport Special</title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/awnxjj.png?maxheight=213&amp;limit=1f1b2a3f49b47425565f1be49a60a2f85005a85e" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/63izb.jpg?maxheight=213&amp;limit=96373cde532bc2be6626c92725c6763020a19042" />
   </programme>
-  <programme start="20260609152300 +1000" stop="20260609154300 +1000" channel="504.FAF">
-    <title lang="en">AFL Mini: Round 13 WC v PA</title>
-    <sub-title lang="en">Round 13 WC v PA</sub-title>
+  <programme start="20260622224500 +1000" stop="20260623004500 +1000" channel="503.FS3">
+    <title lang="en">Golf: US Open: Final Round</title>
+    <sub-title lang="en">Final Round</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/92g98w.png?maxheight=213&amp;limit=ca87b0ce7176083d1a57e9d02ebe59f13d7c77b9" />
-  </programme>
-  <programme start="20260609154300 +1000" stop="20260609160300 +1000" channel="504.FAF">
-    <title lang="en">AFL Mini: Round 13 SYD v STK</title>
-    <sub-title lang="en">Round 13 SYD v STK</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/blegzt.png?maxheight=213&amp;limit=1deb79660269a7c8c3b54e86161cc53591d70a23" />
-  </programme>
-  <programme start="20260609160300 +1000" stop="20260609162300 +1000" channel="504.FAF">
-    <title lang="en">AFL Mini: Round 13 ESS v CAR</title>
-    <sub-title lang="en">Round 13 ESS v CAR</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/tqjpzm.png?maxheight=213&amp;limit=fcf4bb4cfbf36f3a5be7e2acbe7be5b9072948c7" />
-  </programme>
-  <programme start="20260609162300 +1000" stop="20260609164300 +1000" channel="504.FAF">
-    <title lang="en">AFL Mini: Round 13 COL v MEL</title>
-    <sub-title lang="en">Round 13 COL v MEL</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260609164300 +1000" stop="20260609170300 +1000" channel="504.FAF">
-    <title lang="en">AFL Mini: Round 13 ADE v GEE</title>
-    <sub-title lang="en">Round 13 ADE v GEE</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/c2o2hb.png?maxheight=213&amp;limit=a75df8f563c987777180305882613f66a240f2d1" />
-  </programme>
-  <programme start="20260609170300 +1000" stop="20260609180300 +1000" channel="504.FAF">
-    <title lang="en">AFL 360</title>
-    <sub-title lang="en">Episode 43</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/c4e43r.png?maxheight=213&amp;limit=603f188a4fa8b5b2b331f5e0776f1228d00202cb" />
-  </programme>
-  <programme start="20260609180300 +1000" stop="20260609183000 +1000" channel="504.FAF">
-    <title lang="en">AFL Tonight</title>
-    <sub-title lang="en">Episode 69</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260609183000 +1000" stop="20260609193000 +1000" channel="504.FAF">
-    <title lang="en">Live: AFL 360</title>
-    <sub-title lang="en">Episode 44</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/c4e43r.png?maxheight=213&amp;limit=603f188a4fa8b5b2b331f5e0776f1228d00202cb" />
-  </programme>
-  <programme start="20260609193000 +1000" stop="20260609213000 +1000" channel="504.FAF">
-    <title lang="en">Live: AFL Hall of Fame</title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/89z40a.png?maxheight=213&amp;limit=214a60203a3d2b708b13c53cf96a158f4a022719" />
-  </programme>
-  <programme start="20260609213000 +1000" stop="20260609223000 +1000" channel="504.FAF">
-    <title lang="en">AFL 360</title>
-    <sub-title lang="en">Episode 44</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/c4e43r.png?maxheight=213&amp;limit=603f188a4fa8b5b2b331f5e0776f1228d00202cb" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6gu30.png?maxheight=213&amp;limit=5299b632c71e25145fcca760e7ca2ccf9bffcf2c" />
   </programme>
   <programme start="20260609223000 +1000" stop="20260610003000 +1000" channel="504.FAF">
     <title lang="en">AFL Hall of Fame</title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/89z40a.png?maxheight=213&amp;limit=214a60203a3d2b708b13c53cf96a158f4a022719" />
   </programme>
   <programme start="20260610003000 +1000" stop="20260610013000 +1000" channel="504.FAF">
     <title lang="en">AFL 360</title>
     <sub-title lang="en">Episode 44</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/c4e43r.png?maxheight=213&amp;limit=603f188a4fa8b5b2b331f5e0776f1228d00202cb" />
   </programme>
   <programme start="20260610013000 +1000" stop="20260610033000 +1000" channel="504.FAF">
     <title lang="en">AFL Hall of Fame</title>
@@ -6237,6 +6213,7 @@
     <title lang="en">Live: VFL: Southport v Sydney</title>
     <sub-title lang="en">Southport v Sydney</sub-title>
     <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/b2jor.png?maxheight=213&amp;limit=e3f50b5e2299056c72203ff77155001695e60788" />
   </programme>
   <programme start="20260613124000 +1000" stop="20260613131500 +1000" channel="504.FAF">
     <title lang="en">Live: Super Saturday</title>
@@ -6576,7 +6553,7 @@
     <title lang="en">Live: On the Couch</title>
     <sub-title lang="en">Episode 16</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/8iay1.png?maxheight=213&amp;limit=3cfc178a6a84d2dd37bb1d61bb80c074732a33f0" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/pyr5o7.png?maxheight=213&amp;limit=dbdd6578e0680b780dbd936655970346e2118ed2" />
   </programme>
   <programme start="20260615203000 +1000" stop="20260615213000 +1000" channel="504.FAF">
     <title lang="en">AFL 360</title>
@@ -6588,7 +6565,7 @@
     <title lang="en">On the Couch</title>
     <sub-title lang="en">Episode 16</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/8iay1.png?maxheight=213&amp;limit=3cfc178a6a84d2dd37bb1d61bb80c074732a33f0" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/pyr5o7.png?maxheight=213&amp;limit=dbdd6578e0680b780dbd936655970346e2118ed2" />
   </programme>
   <programme start="20260615223000 +1000" stop="20260615233000 +1000" channel="504.FAF">
     <title lang="en">AFL 360</title>
@@ -6600,7 +6577,7 @@
     <title lang="en">On the Couch</title>
     <sub-title lang="en">Episode 16</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/8iay1.png?maxheight=213&amp;limit=3cfc178a6a84d2dd37bb1d61bb80c074732a33f0" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/pyr5o7.png?maxheight=213&amp;limit=dbdd6578e0680b780dbd936655970346e2118ed2" />
   </programme>
   <programme start="20260616003000 +1000" stop="20260616013000 +1000" channel="504.FAF">
     <title lang="en">AFL 360</title>
@@ -6612,7 +6589,7 @@
     <title lang="en">On the Couch</title>
     <sub-title lang="en">Episode 16</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/8iay1.png?maxheight=213&amp;limit=3cfc178a6a84d2dd37bb1d61bb80c074732a33f0" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/pyr5o7.png?maxheight=213&amp;limit=dbdd6578e0680b780dbd936655970346e2118ed2" />
   </programme>
   <programme start="20260616023000 +1000" stop="20260616033000 +1000" channel="504.FAF">
     <title lang="en">AFL 360</title>
@@ -6624,7 +6601,7 @@
     <title lang="en">On the Couch</title>
     <sub-title lang="en">Episode 16</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/8iay1.png?maxheight=213&amp;limit=3cfc178a6a84d2dd37bb1d61bb80c074732a33f0" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/pyr5o7.png?maxheight=213&amp;limit=dbdd6578e0680b780dbd936655970346e2118ed2" />
   </programme>
   <programme start="20260616043000 +1000" stop="20260616053000 +1000" channel="504.FAF">
     <title lang="en">AFL 360</title>
@@ -6636,7 +6613,7 @@
     <title lang="en">On the Couch</title>
     <sub-title lang="en">Episode 16</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/8iay1.png?maxheight=213&amp;limit=3cfc178a6a84d2dd37bb1d61bb80c074732a33f0" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/pyr5o7.png?maxheight=213&amp;limit=dbdd6578e0680b780dbd936655970346e2118ed2" />
   </programme>
   <programme start="20260616063000 +1000" stop="20260616090300 +1000" channel="504.FAF">
     <title lang="en">AFL: Port Adelaide v Sydney</title>
@@ -6654,7 +6631,7 @@
     <title lang="en">On the Couch</title>
     <sub-title lang="en">Episode 16</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/8iay1.png?maxheight=213&amp;limit=3cfc178a6a84d2dd37bb1d61bb80c074732a33f0" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/pyr5o7.png?maxheight=213&amp;limit=dbdd6578e0680b780dbd936655970346e2118ed2" />
   </programme>
   <programme start="20260616110300 +1000" stop="20260616120300 +1000" channel="504.FAF">
     <title lang="en">AFL 360</title>
@@ -6666,7 +6643,7 @@
     <title lang="en">On the Couch</title>
     <sub-title lang="en">Episode 16</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/8iay1.png?maxheight=213&amp;limit=3cfc178a6a84d2dd37bb1d61bb80c074732a33f0" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/pyr5o7.png?maxheight=213&amp;limit=dbdd6578e0680b780dbd936655970346e2118ed2" />
   </programme>
   <programme start="20260616130300 +1000" stop="20260616140300 +1000" channel="504.FAF">
     <title lang="en">AFL 360</title>
@@ -6678,7 +6655,7 @@
     <title lang="en">On the Couch</title>
     <sub-title lang="en">Episode 16</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/8iay1.png?maxheight=213&amp;limit=3cfc178a6a84d2dd37bb1d61bb80c074732a33f0" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/pyr5o7.png?maxheight=213&amp;limit=dbdd6578e0680b780dbd936655970346e2118ed2" />
   </programme>
   <programme start="20260616150300 +1000" stop="20260616152300 +1000" channel="504.FAF">
     <title lang="en">AFL Mini: Round 14 WB v ADE</title>
@@ -6732,7 +6709,7 @@
     <title lang="en">Live: AFL 360</title>
     <sub-title lang="en">Episode 47</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bme6w.jpg?maxheight=213&amp;limit=a8952a399507d535862855158ae0dd2754e2a5d3" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/c4e43r.png?maxheight=213&amp;limit=603f188a4fa8b5b2b331f5e0776f1228d00202cb" />
   </programme>
   <programme start="20260616193000 +1000" stop="20260616200000 +1000" channel="504.FAF">
     <title lang="en">Live: Midweek Tackle</title>
@@ -6744,7 +6721,7 @@
     <title lang="en">AFL 360</title>
     <sub-title lang="en">Episode 47</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bme6w.jpg?maxheight=213&amp;limit=a8952a399507d535862855158ae0dd2754e2a5d3" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/c4e43r.png?maxheight=213&amp;limit=603f188a4fa8b5b2b331f5e0776f1228d00202cb" />
   </programme>
   <programme start="20260616210000 +1000" stop="20260616213000 +1000" channel="504.FAF">
     <title lang="en">Midweek Tackle</title>
@@ -6756,7 +6733,7 @@
     <title lang="en">AFL 360</title>
     <sub-title lang="en">Episode 47</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bme6w.jpg?maxheight=213&amp;limit=a8952a399507d535862855158ae0dd2754e2a5d3" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/c4e43r.png?maxheight=213&amp;limit=603f188a4fa8b5b2b331f5e0776f1228d00202cb" />
   </programme>
   <programme start="20260616223000 +1000" stop="20260616230000 +1000" channel="504.FAF">
     <title lang="en">Midweek Tackle</title>
@@ -6768,7 +6745,7 @@
     <title lang="en">AFL 360</title>
     <sub-title lang="en">Episode 47</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bme6w.jpg?maxheight=213&amp;limit=a8952a399507d535862855158ae0dd2754e2a5d3" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/c4e43r.png?maxheight=213&amp;limit=603f188a4fa8b5b2b331f5e0776f1228d00202cb" />
   </programme>
   <programme start="20260617000000 +1000" stop="20260617003000 +1000" channel="504.FAF">
     <title lang="en">Midweek Tackle</title>
@@ -6780,7 +6757,7 @@
     <title lang="en">AFL 360</title>
     <sub-title lang="en">Episode 47</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bme6w.jpg?maxheight=213&amp;limit=a8952a399507d535862855158ae0dd2754e2a5d3" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/c4e43r.png?maxheight=213&amp;limit=603f188a4fa8b5b2b331f5e0776f1228d00202cb" />
   </programme>
   <programme start="20260617013000 +1000" stop="20260617020000 +1000" channel="504.FAF">
     <title lang="en">Midweek Tackle</title>
@@ -6792,7 +6769,7 @@
     <title lang="en">AFL 360</title>
     <sub-title lang="en">Episode 47</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bme6w.jpg?maxheight=213&amp;limit=a8952a399507d535862855158ae0dd2754e2a5d3" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/c4e43r.png?maxheight=213&amp;limit=603f188a4fa8b5b2b331f5e0776f1228d00202cb" />
   </programme>
   <programme start="20260617030000 +1000" stop="20260617033000 +1000" channel="504.FAF">
     <title lang="en">Midweek Tackle</title>
@@ -6804,7 +6781,7 @@
     <title lang="en">AFL 360</title>
     <sub-title lang="en">Episode 47</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bme6w.jpg?maxheight=213&amp;limit=a8952a399507d535862855158ae0dd2754e2a5d3" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/c4e43r.png?maxheight=213&amp;limit=603f188a4fa8b5b2b331f5e0776f1228d00202cb" />
   </programme>
   <programme start="20260617043000 +1000" stop="20260617050000 +1000" channel="504.FAF">
     <title lang="en">Midweek Tackle</title>
@@ -6816,7 +6793,7 @@
     <title lang="en">AFL 360</title>
     <sub-title lang="en">Episode 47</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bme6w.jpg?maxheight=213&amp;limit=a8952a399507d535862855158ae0dd2754e2a5d3" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/c4e43r.png?maxheight=213&amp;limit=603f188a4fa8b5b2b331f5e0776f1228d00202cb" />
   </programme>
   <programme start="20260617060000 +1000" stop="20260617063000 +1000" channel="504.FAF">
     <title lang="en">Midweek Tackle</title>
@@ -6834,7 +6811,7 @@
     <title lang="en">AFL 360</title>
     <sub-title lang="en">Episode 47</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bme6w.jpg?maxheight=213&amp;limit=a8952a399507d535862855158ae0dd2754e2a5d3" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/c4e43r.png?maxheight=213&amp;limit=603f188a4fa8b5b2b331f5e0776f1228d00202cb" />
   </programme>
   <programme start="20260617100300 +1000" stop="20260617103300 +1000" channel="504.FAF">
     <title lang="en">Midweek Tackle</title>
@@ -6846,7 +6823,7 @@
     <title lang="en">AFL 360</title>
     <sub-title lang="en">Episode 47</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bme6w.jpg?maxheight=213&amp;limit=a8952a399507d535862855158ae0dd2754e2a5d3" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/c4e43r.png?maxheight=213&amp;limit=603f188a4fa8b5b2b331f5e0776f1228d00202cb" />
   </programme>
   <programme start="20260617113300 +1000" stop="20260617120300 +1000" channel="504.FAF">
     <title lang="en">Midweek Tackle</title>
@@ -6858,7 +6835,7 @@
     <title lang="en">AFL 360</title>
     <sub-title lang="en">Episode 47</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bme6w.jpg?maxheight=213&amp;limit=a8952a399507d535862855158ae0dd2754e2a5d3" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/c4e43r.png?maxheight=213&amp;limit=603f188a4fa8b5b2b331f5e0776f1228d00202cb" />
   </programme>
   <programme start="20260617130300 +1000" stop="20260617133300 +1000" channel="504.FAF">
     <title lang="en">Midweek Tackle</title>
@@ -6870,7 +6847,7 @@
     <title lang="en">AFL 360</title>
     <sub-title lang="en">Episode 47</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bme6w.jpg?maxheight=213&amp;limit=a8952a399507d535862855158ae0dd2754e2a5d3" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/c4e43r.png?maxheight=213&amp;limit=603f188a4fa8b5b2b331f5e0776f1228d00202cb" />
   </programme>
   <programme start="20260617143300 +1000" stop="20260617150300 +1000" channel="504.FAF">
     <title lang="en">Midweek Tackle</title>
@@ -6918,7 +6895,7 @@
     <title lang="en">AFL 360</title>
     <sub-title lang="en">Episode 47</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bme6w.jpg?maxheight=213&amp;limit=a8952a399507d535862855158ae0dd2754e2a5d3" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/c4e43r.png?maxheight=213&amp;limit=603f188a4fa8b5b2b331f5e0776f1228d00202cb" />
   </programme>
   <programme start="20260617180300 +1000" stop="20260617183000 +1000" channel="504.FAF">
     <title lang="en">AFL Tonight</title>
@@ -6929,102 +6906,103 @@
     <title lang="en">Live: AFL 360</title>
     <sub-title lang="en">Episode 48</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bme6w.jpg?maxheight=213&amp;limit=a8952a399507d535862855158ae0dd2754e2a5d3" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/c4e43r.png?maxheight=213&amp;limit=603f188a4fa8b5b2b331f5e0776f1228d00202cb" />
   </programme>
   <programme start="20260617193000 +1000" stop="20260617200000 +1000" channel="504.FAF">
     <title lang="en">Live: First Crack Preview</title>
     <sub-title lang="en">Episode 15</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/17/placeholder-16x9-beam.png?maxheight=213&amp;limit=b106f50a28388844395afd87e0d3a2d7883f4460" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8oj0w3.png?maxheight=213&amp;limit=13dc7524e17174b59756ee1b6012f0f8acf1fb0e" />
   </programme>
   <programme start="20260617200000 +1000" stop="20260617210000 +1000" channel="504.FAF">
     <title lang="en">AFL 360</title>
     <sub-title lang="en">Episode 48</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bme6w.jpg?maxheight=213&amp;limit=a8952a399507d535862855158ae0dd2754e2a5d3" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/c4e43r.png?maxheight=213&amp;limit=603f188a4fa8b5b2b331f5e0776f1228d00202cb" />
   </programme>
   <programme start="20260617210000 +1000" stop="20260617213000 +1000" channel="504.FAF">
     <title lang="en">First Crack Preview</title>
     <sub-title lang="en">Episode 15</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/17/placeholder-16x9-beam.png?maxheight=213&amp;limit=b106f50a28388844395afd87e0d3a2d7883f4460" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8oj0w3.png?maxheight=213&amp;limit=13dc7524e17174b59756ee1b6012f0f8acf1fb0e" />
   </programme>
   <programme start="20260617213000 +1000" stop="20260617223000 +1000" channel="504.FAF">
     <title lang="en">AFL 360</title>
     <sub-title lang="en">Episode 48</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bme6w.jpg?maxheight=213&amp;limit=a8952a399507d535862855158ae0dd2754e2a5d3" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/c4e43r.png?maxheight=213&amp;limit=603f188a4fa8b5b2b331f5e0776f1228d00202cb" />
   </programme>
   <programme start="20260617223000 +1000" stop="20260617230000 +1000" channel="504.FAF">
     <title lang="en">First Crack Preview</title>
     <sub-title lang="en">Episode 15</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/17/placeholder-16x9-beam.png?maxheight=213&amp;limit=b106f50a28388844395afd87e0d3a2d7883f4460" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8oj0w3.png?maxheight=213&amp;limit=13dc7524e17174b59756ee1b6012f0f8acf1fb0e" />
   </programme>
   <programme start="20260617230000 +1000" stop="20260618000000 +1000" channel="504.FAF">
     <title lang="en">AFL 360</title>
     <sub-title lang="en">Episode 48</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bme6w.jpg?maxheight=213&amp;limit=a8952a399507d535862855158ae0dd2754e2a5d3" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/c4e43r.png?maxheight=213&amp;limit=603f188a4fa8b5b2b331f5e0776f1228d00202cb" />
   </programme>
   <programme start="20260618000000 +1000" stop="20260618003000 +1000" channel="504.FAF">
     <title lang="en">First Crack Preview</title>
     <sub-title lang="en">Episode 15</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/17/placeholder-16x9-beam.png?maxheight=213&amp;limit=b106f50a28388844395afd87e0d3a2d7883f4460" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8oj0w3.png?maxheight=213&amp;limit=13dc7524e17174b59756ee1b6012f0f8acf1fb0e" />
   </programme>
   <programme start="20260618003000 +1000" stop="20260618013000 +1000" channel="504.FAF">
     <title lang="en">AFL 360</title>
     <sub-title lang="en">Episode 48</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bme6w.jpg?maxheight=213&amp;limit=a8952a399507d535862855158ae0dd2754e2a5d3" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/c4e43r.png?maxheight=213&amp;limit=603f188a4fa8b5b2b331f5e0776f1228d00202cb" />
   </programme>
   <programme start="20260618013000 +1000" stop="20260618020000 +1000" channel="504.FAF">
     <title lang="en">First Crack Preview</title>
     <sub-title lang="en">Episode 15</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/17/placeholder-16x9-beam.png?maxheight=213&amp;limit=b106f50a28388844395afd87e0d3a2d7883f4460" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8oj0w3.png?maxheight=213&amp;limit=13dc7524e17174b59756ee1b6012f0f8acf1fb0e" />
   </programme>
   <programme start="20260618020000 +1000" stop="20260618030000 +1000" channel="504.FAF">
     <title lang="en">AFL 360</title>
     <sub-title lang="en">Episode 48</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bme6w.jpg?maxheight=213&amp;limit=a8952a399507d535862855158ae0dd2754e2a5d3" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/c4e43r.png?maxheight=213&amp;limit=603f188a4fa8b5b2b331f5e0776f1228d00202cb" />
   </programme>
   <programme start="20260618030000 +1000" stop="20260618033000 +1000" channel="504.FAF">
     <title lang="en">First Crack Preview</title>
     <sub-title lang="en">Episode 15</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/17/placeholder-16x9-beam.png?maxheight=213&amp;limit=b106f50a28388844395afd87e0d3a2d7883f4460" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8oj0w3.png?maxheight=213&amp;limit=13dc7524e17174b59756ee1b6012f0f8acf1fb0e" />
   </programme>
   <programme start="20260618033000 +1000" stop="20260618043000 +1000" channel="504.FAF">
     <title lang="en">AFL 360</title>
     <sub-title lang="en">Episode 48</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bme6w.jpg?maxheight=213&amp;limit=a8952a399507d535862855158ae0dd2754e2a5d3" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/c4e43r.png?maxheight=213&amp;limit=603f188a4fa8b5b2b331f5e0776f1228d00202cb" />
   </programme>
   <programme start="20260618043000 +1000" stop="20260618050000 +1000" channel="504.FAF">
     <title lang="en">First Crack Preview</title>
     <sub-title lang="en">Episode 15</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/17/placeholder-16x9-beam.png?maxheight=213&amp;limit=b106f50a28388844395afd87e0d3a2d7883f4460" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8oj0w3.png?maxheight=213&amp;limit=13dc7524e17174b59756ee1b6012f0f8acf1fb0e" />
   </programme>
   <programme start="20260618050000 +1000" stop="20260618060000 +1000" channel="504.FAF">
     <title lang="en">AFL 360</title>
     <sub-title lang="en">Episode 48</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bme6w.jpg?maxheight=213&amp;limit=a8952a399507d535862855158ae0dd2754e2a5d3" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/c4e43r.png?maxheight=213&amp;limit=603f188a4fa8b5b2b331f5e0776f1228d00202cb" />
   </programme>
   <programme start="20260618060000 +1000" stop="20260618063000 +1000" channel="504.FAF">
     <title lang="en">First Crack Preview</title>
     <sub-title lang="en">Episode 15</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/17/placeholder-16x9-beam.png?maxheight=213&amp;limit=b106f50a28388844395afd87e0d3a2d7883f4460" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8oj0w3.png?maxheight=213&amp;limit=13dc7524e17174b59756ee1b6012f0f8acf1fb0e" />
   </programme>
   <programme start="20260618063000 +1000" stop="20260618085500 +1000" channel="504.FAF">
     <title lang="en">VFL: Southport v Sydney</title>
     <sub-title lang="en">Southport v Sydney</sub-title>
     <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/b2jor.png?maxheight=213&amp;limit=e3f50b5e2299056c72203ff77155001695e60788" />
   </programme>
   <programme start="20260618085500 +1000" stop="20260618091500 +1000" channel="504.FAF">
     <title lang="en">AFL Mini: Round 14 STK v GWS</title>
@@ -7036,49 +7014,49 @@
     <title lang="en">AFL 360</title>
     <sub-title lang="en">Episode 48</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bme6w.jpg?maxheight=213&amp;limit=a8952a399507d535862855158ae0dd2754e2a5d3" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/c4e43r.png?maxheight=213&amp;limit=603f188a4fa8b5b2b331f5e0776f1228d00202cb" />
   </programme>
   <programme start="20260618101500 +1000" stop="20260618104500 +1000" channel="504.FAF">
     <title lang="en">First Crack Preview</title>
     <sub-title lang="en">Episode 15</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/17/placeholder-16x9-beam.png?maxheight=213&amp;limit=b106f50a28388844395afd87e0d3a2d7883f4460" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8oj0w3.png?maxheight=213&amp;limit=13dc7524e17174b59756ee1b6012f0f8acf1fb0e" />
   </programme>
   <programme start="20260618104500 +1000" stop="20260618114500 +1000" channel="504.FAF">
     <title lang="en">AFL 360</title>
     <sub-title lang="en">Episode 48</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bme6w.jpg?maxheight=213&amp;limit=a8952a399507d535862855158ae0dd2754e2a5d3" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/c4e43r.png?maxheight=213&amp;limit=603f188a4fa8b5b2b331f5e0776f1228d00202cb" />
   </programme>
   <programme start="20260618114500 +1000" stop="20260618121500 +1000" channel="504.FAF">
     <title lang="en">First Crack Preview</title>
     <sub-title lang="en">Episode 15</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/17/placeholder-16x9-beam.png?maxheight=213&amp;limit=b106f50a28388844395afd87e0d3a2d7883f4460" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8oj0w3.png?maxheight=213&amp;limit=13dc7524e17174b59756ee1b6012f0f8acf1fb0e" />
   </programme>
   <programme start="20260618121500 +1000" stop="20260618131500 +1000" channel="504.FAF">
     <title lang="en">AFL 360</title>
     <sub-title lang="en">Episode 48</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bme6w.jpg?maxheight=213&amp;limit=a8952a399507d535862855158ae0dd2754e2a5d3" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/c4e43r.png?maxheight=213&amp;limit=603f188a4fa8b5b2b331f5e0776f1228d00202cb" />
   </programme>
   <programme start="20260618131500 +1000" stop="20260618134500 +1000" channel="504.FAF">
     <title lang="en">First Crack Preview</title>
     <sub-title lang="en">Episode 15</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/17/placeholder-16x9-beam.png?maxheight=213&amp;limit=b106f50a28388844395afd87e0d3a2d7883f4460" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8oj0w3.png?maxheight=213&amp;limit=13dc7524e17174b59756ee1b6012f0f8acf1fb0e" />
   </programme>
   <programme start="20260618134500 +1000" stop="20260618144500 +1000" channel="504.FAF">
     <title lang="en">AFL 360</title>
     <sub-title lang="en">Episode 48</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bme6w.jpg?maxheight=213&amp;limit=a8952a399507d535862855158ae0dd2754e2a5d3" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/c4e43r.png?maxheight=213&amp;limit=603f188a4fa8b5b2b331f5e0776f1228d00202cb" />
   </programme>
   <programme start="20260618144500 +1000" stop="20260618151500 +1000" channel="504.FAF">
     <title lang="en">First Crack Preview</title>
     <sub-title lang="en">Episode 15</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/17/placeholder-16x9-beam.png?maxheight=213&amp;limit=b106f50a28388844395afd87e0d3a2d7883f4460" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8oj0w3.png?maxheight=213&amp;limit=13dc7524e17174b59756ee1b6012f0f8acf1fb0e" />
   </programme>
   <programme start="20260618151500 +1000" stop="20260618154500 +1000" channel="504.FAF">
     <title lang="en">AFL Classic Matches</title>
@@ -7088,7 +7066,7 @@
     <title lang="en">First Crack Preview</title>
     <sub-title lang="en">Episode 15</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/17/placeholder-16x9-beam.png?maxheight=213&amp;limit=b106f50a28388844395afd87e0d3a2d7883f4460" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8oj0w3.png?maxheight=213&amp;limit=13dc7524e17174b59756ee1b6012f0f8acf1fb0e" />
   </programme>
   <programme start="20260618161500 +1000" stop="20260618164500 +1000" channel="504.FAF">
     <title lang="en">AFL Classic Matches</title>
@@ -7098,13 +7076,13 @@
     <title lang="en">AFL 360</title>
     <sub-title lang="en">Episode 48</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bme6w.jpg?maxheight=213&amp;limit=a8952a399507d535862855158ae0dd2754e2a5d3" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/c4e43r.png?maxheight=213&amp;limit=603f188a4fa8b5b2b331f5e0776f1228d00202cb" />
   </programme>
   <programme start="20260618174500 +1000" stop="20260618181500 +1000" channel="504.FAF">
     <title lang="en">First Crack Preview</title>
     <sub-title lang="en">Episode 15</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/17/placeholder-16x9-beam.png?maxheight=213&amp;limit=b106f50a28388844395afd87e0d3a2d7883f4460" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8oj0w3.png?maxheight=213&amp;limit=13dc7524e17174b59756ee1b6012f0f8acf1fb0e" />
   </programme>
   <programme start="20260618181500 +1000" stop="20260618183000 +1000" channel="504.FAF">
     <title lang="en">Foxcatcher</title>
@@ -7124,7 +7102,7 @@
     <title lang="en">Live: AFL: Fremantle v Geelong</title>
     <sub-title lang="en">Fremantle v Geelong</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/6g2jo.jpg?maxheight=213&amp;limit=863de90091604ad319fdd83ae6a2f715825e6324" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/dpg9xw.png?maxheight=213&amp;limit=821aea21d5c043f182a118e426cd1bd1de6cd97e" />
   </programme>
   <programme start="20260618224500 +1000" stop="20260618234000 +1000" channel="504.FAF">
     <title lang="en">Live: Thursday Night Footy on Fox</title>
@@ -7139,13 +7117,13 @@
     <title lang="en">AFL: Fremantle v Geelong</title>
     <sub-title lang="en">Fremantle v Geelong</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/6g2jo.jpg?maxheight=213&amp;limit=863de90091604ad319fdd83ae6a2f715825e6324" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/dpg9xw.png?maxheight=213&amp;limit=821aea21d5c043f182a118e426cd1bd1de6cd97e" />
   </programme>
   <programme start="20260619022500 +1000" stop="20260619045500 +1000" channel="504.FAF">
     <title lang="en">AFL: Fremantle v Geelong</title>
     <sub-title lang="en">Fremantle v Geelong</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/6g2jo.jpg?maxheight=213&amp;limit=863de90091604ad319fdd83ae6a2f715825e6324" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/dpg9xw.png?maxheight=213&amp;limit=821aea21d5c043f182a118e426cd1bd1de6cd97e" />
   </programme>
   <programme start="20260619045500 +1000" stop="20260619072500 +1000" channel="504.FAF">
     <title lang="en">VFL: Footscray v Sandringham</title>
@@ -7216,7 +7194,7 @@
     <title lang="en">Live: AFL: Gold Coast v Hawthorn</title>
     <sub-title lang="en">Gold Coast v Hawthorn</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/6g2jo.jpg?maxheight=213&amp;limit=863de90091604ad319fdd83ae6a2f715825e6324" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/dpg9xw.png?maxheight=213&amp;limit=821aea21d5c043f182a118e426cd1bd1de6cd97e" />
   </programme>
   <programme start="20260619221500 +1000" stop="20260619231500 +1000" channel="504.FAF">
     <title lang="en">Live: Friday Night Footy on Fox</title>
@@ -7246,7 +7224,7 @@
     <title lang="en">AFL: Gold Coast v Hawthorn</title>
     <sub-title lang="en">Gold Coast v Hawthorn</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/6g2jo.jpg?maxheight=213&amp;limit=863de90091604ad319fdd83ae6a2f715825e6324" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/dpg9xw.png?maxheight=213&amp;limit=821aea21d5c043f182a118e426cd1bd1de6cd97e" />
   </programme>
   <programme start="20260620032000 +1000" stop="20260620034000 +1000" channel="504.FAF">
     <title lang="en">AFL Mini: Round 15 FRE v GEE</title>
@@ -7257,7 +7235,7 @@
     <title lang="en">AFL: Gold Coast v Hawthorn</title>
     <sub-title lang="en">Gold Coast v Hawthorn</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/6g2jo.jpg?maxheight=213&amp;limit=863de90091604ad319fdd83ae6a2f715825e6324" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/dpg9xw.png?maxheight=213&amp;limit=821aea21d5c043f182a118e426cd1bd1de6cd97e" />
   </programme>
   <programme start="20260620061000 +1000" stop="20260620063000 +1000" channel="504.FAF">
     <title lang="en">AFL Mini: Round 15 GC v HAW</title>
@@ -7268,7 +7246,7 @@
     <title lang="en">AFL: Gold Coast v Hawthorn</title>
     <sub-title lang="en">Gold Coast v Hawthorn</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/6g2jo.jpg?maxheight=213&amp;limit=863de90091604ad319fdd83ae6a2f715825e6324" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/dpg9xw.png?maxheight=213&amp;limit=821aea21d5c043f182a118e426cd1bd1de6cd97e" />
   </programme>
   <programme start="20260620090000 +1000" stop="20260620093000 +1000" channel="504.FAF">
     <title lang="en">AFL Classic Matches</title>
@@ -7278,7 +7256,7 @@
     <title lang="en">AFL: Gold Coast v Hawthorn</title>
     <sub-title lang="en">Gold Coast v Hawthorn</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/6g2jo.jpg?maxheight=213&amp;limit=863de90091604ad319fdd83ae6a2f715825e6324" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/dpg9xw.png?maxheight=213&amp;limit=821aea21d5c043f182a118e426cd1bd1de6cd97e" />
   </programme>
   <programme start="20260620120000 +1000" stop="20260620123000 +1000" channel="504.FAF">
     <title lang="en">In The Back Pocket</title>
@@ -7293,7 +7271,7 @@
     <title lang="en">Live: AFL: Adelaide v Melbourne</title>
     <sub-title lang="en">Adelaide v Melbourne</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/6g2jo.jpg?maxheight=213&amp;limit=863de90091604ad319fdd83ae6a2f715825e6324" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/dpg9xw.png?maxheight=213&amp;limit=821aea21d5c043f182a118e426cd1bd1de6cd97e" />
   </programme>
   <programme start="20260620155000 +1000" stop="20260620160000 +1000" channel="504.FAF">
     <title lang="en">Live: Super Saturday</title>
@@ -7308,7 +7286,7 @@
     <title lang="en">Live: AFL: GWS v Carlton</title>
     <sub-title lang="en">GWS v Carlton</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/6g2jo.jpg?maxheight=213&amp;limit=863de90091604ad319fdd83ae6a2f715825e6324" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/dpg9xw.png?maxheight=213&amp;limit=821aea21d5c043f182a118e426cd1bd1de6cd97e" />
   </programme>
   <programme start="20260620185000 +1000" stop="20260620190000 +1000" channel="504.FAF">
     <title lang="en">Live: Super Saturday</title>
@@ -7324,7 +7302,7 @@
     <title lang="en">Live: AFL: Collingwood v Port Adelaide</title>
     <sub-title lang="en">Collingwood v Port Adelaide</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/6g2jo.jpg?maxheight=213&amp;limit=863de90091604ad319fdd83ae6a2f715825e6324" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/dpg9xw.png?maxheight=213&amp;limit=821aea21d5c043f182a118e426cd1bd1de6cd97e" />
   </programme>
   <programme start="20260620221000 +1000" stop="20260620234000 +1000" channel="504.FAF">
     <title lang="en">Live: Super Saturday</title>
@@ -7349,7 +7327,7 @@
     <title lang="en">AFL: Collingwood v Port Adelaide</title>
     <sub-title lang="en">Collingwood v Port Adelaide</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/6g2jo.jpg?maxheight=213&amp;limit=863de90091604ad319fdd83ae6a2f715825e6324" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/dpg9xw.png?maxheight=213&amp;limit=821aea21d5c043f182a118e426cd1bd1de6cd97e" />
   </programme>
   <programme start="20260621031000 +1000" stop="20260621033000 +1000" channel="504.FAF">
     <title lang="en">AFL Mini: Round 15 ADE v MEL</title>
@@ -7360,7 +7338,7 @@
     <title lang="en">AFL: GWS v Carlton</title>
     <sub-title lang="en">GWS v Carlton</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/6g2jo.jpg?maxheight=213&amp;limit=863de90091604ad319fdd83ae6a2f715825e6324" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/dpg9xw.png?maxheight=213&amp;limit=821aea21d5c043f182a118e426cd1bd1de6cd97e" />
   </programme>
   <programme start="20260621060000 +1000" stop="20260621062000 +1000" channel="504.FAF">
     <title lang="en">AFL Mini: Round 15 COL v PA</title>
@@ -7371,7 +7349,7 @@
     <title lang="en">AFL: Adelaide v Melbourne</title>
     <sub-title lang="en">Adelaide v Melbourne</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/6g2jo.jpg?maxheight=213&amp;limit=863de90091604ad319fdd83ae6a2f715825e6324" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/dpg9xw.png?maxheight=213&amp;limit=821aea21d5c043f182a118e426cd1bd1de6cd97e" />
   </programme>
   <programme start="20260621085000 +1000" stop="20260621091000 +1000" channel="504.FAF">
     <title lang="en">AFL Mini: Round 15 ADE v MEL</title>
@@ -7392,7 +7370,7 @@
     <title lang="en">AFL: GWS v Carlton</title>
     <sub-title lang="en">GWS v Carlton</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/6g2jo.jpg?maxheight=213&amp;limit=863de90091604ad319fdd83ae6a2f715825e6324" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/dpg9xw.png?maxheight=213&amp;limit=821aea21d5c043f182a118e426cd1bd1de6cd97e" />
   </programme>
   <programme start="20260621122000 +1000" stop="20260621123000 +1000" channel="504.FAF">
     <title lang="en">In The Back Pocket</title>
@@ -7417,7 +7395,7 @@
     <title lang="en">Live: AFL: St Kilda v Western Bulldogs</title>
     <sub-title lang="en">St Kilda v Western Bulldogs</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/6g2jo.jpg?maxheight=213&amp;limit=863de90091604ad319fdd83ae6a2f715825e6324" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/dpg9xw.png?maxheight=213&amp;limit=821aea21d5c043f182a118e426cd1bd1de6cd97e" />
   </programme>
   <programme start="20260621175000 +1000" stop="20260621180000 +1000" channel="504.FAF">
     <title lang="en">Live: Sunday Ticket</title>
@@ -7428,151 +7406,205 @@
     <title lang="en">Live: Bounce</title>
     <sub-title lang="en">Episode 15</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/9v235.jpg?maxheight=213&amp;limit=9d9361e3c46a195bf14854a65d2e0f94b254b46e" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/io41xi.png?maxheight=213&amp;limit=71c5d504fd7fbb0513604e056ab3569a164f08bc" />
   </programme>
   <programme start="20260621190000 +1000" stop="20260621200000 +1000" channel="504.FAF">
     <title lang="en">Live: First Crack</title>
     <sub-title lang="en">Episode 13</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/17/placeholder-16x9-beam.png?maxheight=213&amp;limit=b106f50a28388844395afd87e0d3a2d7883f4460" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/hu7bg6.png?maxheight=213&amp;limit=6014e243e608f43d38ea9eb940de2f0406afaac4" />
   </programme>
   <programme start="20260621200000 +1000" stop="20260621210000 +1000" channel="504.FAF">
     <title lang="en">Bounce</title>
     <sub-title lang="en">Episode 15</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/9v235.jpg?maxheight=213&amp;limit=9d9361e3c46a195bf14854a65d2e0f94b254b46e" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/io41xi.png?maxheight=213&amp;limit=71c5d504fd7fbb0513604e056ab3569a164f08bc" />
   </programme>
   <programme start="20260621210000 +1000" stop="20260621220000 +1000" channel="504.FAF">
     <title lang="en">First Crack</title>
     <sub-title lang="en">Episode 13</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/17/placeholder-16x9-beam.png?maxheight=213&amp;limit=b106f50a28388844395afd87e0d3a2d7883f4460" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/hu7bg6.png?maxheight=213&amp;limit=6014e243e608f43d38ea9eb940de2f0406afaac4" />
   </programme>
   <programme start="20260621220000 +1000" stop="20260621230000 +1000" channel="504.FAF">
     <title lang="en">Bounce</title>
     <sub-title lang="en">Episode 15</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/9v235.jpg?maxheight=213&amp;limit=9d9361e3c46a195bf14854a65d2e0f94b254b46e" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/io41xi.png?maxheight=213&amp;limit=71c5d504fd7fbb0513604e056ab3569a164f08bc" />
   </programme>
   <programme start="20260621230000 +1000" stop="20260622000000 +1000" channel="504.FAF">
     <title lang="en">First Crack</title>
     <sub-title lang="en">Episode 13</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/17/placeholder-16x9-beam.png?maxheight=213&amp;limit=b106f50a28388844395afd87e0d3a2d7883f4460" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/hu7bg6.png?maxheight=213&amp;limit=6014e243e608f43d38ea9eb940de2f0406afaac4" />
   </programme>
-  <programme start="20260609010000 +1000" stop="20260609030000 +1000" channel="505.FSP">
-    <title lang="en">F1: Monaco Race</title>
-    <sub-title lang="en">Monaco Race</sub-title>
+  <programme start="20260622000000 +1000" stop="20260622010000 +1000" channel="504.FAF">
+    <title lang="en">First Crack</title>
+    <sub-title lang="en">Episode 13</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/hu7bg6.png?maxheight=213&amp;limit=6014e243e608f43d38ea9eb940de2f0406afaac4" />
+  </programme>
+  <programme start="20260622010000 +1000" stop="20260622020000 +1000" channel="504.FAF">
+    <title lang="en">Bounce</title>
+    <sub-title lang="en">Episode 15</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/io41xi.png?maxheight=213&amp;limit=71c5d504fd7fbb0513604e056ab3569a164f08bc" />
+  </programme>
+  <programme start="20260622020000 +1000" stop="20260622030000 +1000" channel="504.FAF">
+    <title lang="en">First Crack</title>
+    <sub-title lang="en">Episode 13</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/hu7bg6.png?maxheight=213&amp;limit=6014e243e608f43d38ea9eb940de2f0406afaac4" />
+  </programme>
+  <programme start="20260622030000 +1000" stop="20260622040000 +1000" channel="504.FAF">
+    <title lang="en">Bounce</title>
+    <sub-title lang="en">Episode 15</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/io41xi.png?maxheight=213&amp;limit=71c5d504fd7fbb0513604e056ab3569a164f08bc" />
+  </programme>
+  <programme start="20260622040000 +1000" stop="20260622050000 +1000" channel="504.FAF">
+    <title lang="en">First Crack</title>
+    <sub-title lang="en">Episode 13</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/hu7bg6.png?maxheight=213&amp;limit=6014e243e608f43d38ea9eb940de2f0406afaac4" />
+  </programme>
+  <programme start="20260622050000 +1000" stop="20260622060000 +1000" channel="504.FAF">
+    <title lang="en">Bounce</title>
+    <sub-title lang="en">Episode 15</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/io41xi.png?maxheight=213&amp;limit=71c5d504fd7fbb0513604e056ab3569a164f08bc" />
+  </programme>
+  <programme start="20260622060000 +1000" stop="20260622083300 +1000" channel="504.FAF">
+    <title lang="en">AFL: St Kilda v Western Bulldogs</title>
+    <sub-title lang="en">St Kilda v Western Bulldogs</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/dpg9xw.png?maxheight=213&amp;limit=821aea21d5c043f182a118e426cd1bd1de6cd97e" />
+  </programme>
+  <programme start="20260622083300 +1000" stop="20260622093300 +1000" channel="504.FAF">
+    <title lang="en">Bounce</title>
+    <sub-title lang="en">Episode 15</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/io41xi.png?maxheight=213&amp;limit=71c5d504fd7fbb0513604e056ab3569a164f08bc" />
+  </programme>
+  <programme start="20260622093300 +1000" stop="20260622103300 +1000" channel="504.FAF">
+    <title lang="en">First Crack</title>
+    <sub-title lang="en">Episode 13</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/hu7bg6.png?maxheight=213&amp;limit=6014e243e608f43d38ea9eb940de2f0406afaac4" />
+  </programme>
+  <programme start="20260622103300 +1000" stop="20260622113300 +1000" channel="504.FAF">
+    <title lang="en">Bounce</title>
+    <sub-title lang="en">Episode 15</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/io41xi.png?maxheight=213&amp;limit=71c5d504fd7fbb0513604e056ab3569a164f08bc" />
+  </programme>
+  <programme start="20260622113300 +1000" stop="20260622123300 +1000" channel="504.FAF">
+    <title lang="en">First Crack</title>
+    <sub-title lang="en">Episode 13</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/hu7bg6.png?maxheight=213&amp;limit=6014e243e608f43d38ea9eb940de2f0406afaac4" />
+  </programme>
+  <programme start="20260622123300 +1000" stop="20260622125300 +1000" channel="504.FAF">
+    <title lang="en">AFL Mini: Round 15 FRE v GEE</title>
+    <sub-title lang="en">Round 15 FRE v GEE</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20260609030000 +1000" stop="20260609063000 +1000" channel="505.FSP">
-    <title lang="en">Live: Ultimate Pool Pairs Cup: Week 11</title>
-    <sub-title lang="en">Week 11</sub-title>
+  <programme start="20260622125300 +1000" stop="20260622131300 +1000" channel="504.FAF">
+    <title lang="en">AFL Mini: Round 15 GC v HAW</title>
+    <sub-title lang="en">Round 15 GC v HAW</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20260609063000 +1000" stop="20260609070000 +1000" channel="505.FSP">
-    <title lang="en">MotoGP: Hungary Sprint Race</title>
-    <sub-title lang="en">Hungary Sprint Race</sub-title>
+  <programme start="20260622131300 +1000" stop="20260622133300 +1000" channel="504.FAF">
+    <title lang="en">AFL Mini: Round 15 ADE v MEL</title>
+    <sub-title lang="en">Round 15 ADE v MEL</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20260609070000 +1000" stop="20260609080000 +1000" channel="505.FSP">
-    <title lang="en">MotoGP: Hungary Race</title>
-    <sub-title lang="en">Hungary Race</sub-title>
+  <programme start="20260622133300 +1000" stop="20260622135300 +1000" channel="504.FAF">
+    <title lang="en">AFL Mini: Round 15 GWS v CAR</title>
+    <sub-title lang="en">Round 15 GWS v CAR</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20260609080000 +1000" stop="20260609083000 +1000" channel="505.FSP">
-    <title lang="en">F1 Mini: Monaco</title>
-    <sub-title lang="en">Monaco</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/w5atqi.png?maxheight=213&amp;limit=b102398c61cb4753ec083f60e5610c9c28ae3669" />
-  </programme>
-  <programme start="20260609083000 +1000" stop="20260609103000 +1000" channel="505.FSP">
-    <title lang="en">Darts: Nordic Masters Final Day</title>
-    <sub-title lang="en">Nordic Masters Final Day</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6y6vi.png?maxheight=213&amp;limit=23c66e0b7cff5890a6d2e19bf4ecb2b7613ea4ad" />
-  </programme>
-  <programme start="20260609103000 +1000" stop="20260609105000 +1000" channel="505.FSP">
-    <title lang="en">Super Netball Mini: R13 SWI v THU</title>
-    <sub-title lang="en">R13 SWI v THU</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/ju1e6g.png?maxheight=213&amp;limit=33ab30ce6ce5b9112bcc35c1b4b0acf3531027fe" />
-  </programme>
-  <programme start="20260609105000 +1000" stop="20260609111000 +1000" channel="505.FSP">
-    <title lang="en">Super Netball Mini: R13 FIR v LIG</title>
-    <sub-title lang="en">R13 FIR v LIG</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/or4taq.png?maxheight=213&amp;limit=16516f051cd8896278582c1889a9f5776c8ca5cd" />
-  </programme>
-  <programme start="20260609111000 +1000" stop="20260609113000 +1000" channel="505.FSP">
-    <title lang="en">Super Netball Mini: R13 VIX v MAV</title>
-    <sub-title lang="en">R13 VIX v MAV</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/47m3o9.png?maxheight=213&amp;limit=5215c6bde3063de796614af187a7649ab76c5b28" />
-  </programme>
-  <programme start="20260609113000 +1000" stop="20260609115000 +1000" channel="505.FSP">
-    <title lang="en">Super Netball Mini: R13 GIA v FEV</title>
-    <sub-title lang="en">R13 GIA v FEV</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/xby9b0.png?maxheight=213&amp;limit=df8ba5b3e9c4b787394fb1f065a984354072d37e" />
-  </programme>
-  <programme start="20260609115000 +1000" stop="20260609123000 +1000" channel="505.FSP">
-    <title lang="en">PIVOT</title>
-    <sub-title lang="en">Round 13</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/kmofcd.png?maxheight=213&amp;limit=7d8371de39440936bfb000ba5f313e4b789fab34" />
-  </programme>
-  <programme start="20260609123000 +1000" stop="20260609133000 +1000" channel="505.FSP">
-    <title lang="en">Pro Bull Riders Australia</title>
-    <sub-title lang="en">Episode 5</sub-title>
+  <programme start="20260622135300 +1000" stop="20260622141300 +1000" channel="504.FAF">
+    <title lang="en">AFL Mini: Round 15 COL v PA</title>
+    <sub-title lang="en">Round 15 COL v PA</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20260609133000 +1000" stop="20260609153000 +1000" channel="505.FSP">
-    <title lang="en">F1: Monaco Race</title>
-    <sub-title lang="en">Monaco Race</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/bewyvk.png?maxheight=213&amp;limit=3780816971f79182d2d7163b98f820f176ffcbdf" />
-  </programme>
-  <programme start="20260609153000 +1000" stop="20260609170000 +1000" channel="505.FSP">
-    <title lang="en">SailGP: New York Day 2</title>
-    <sub-title lang="en">New York Day 2</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/wpszo6.png?maxheight=213&amp;limit=f2260e0437eed5e048a7e369a21f4c99158e87c2" />
-  </programme>
-  <programme start="20260609170000 +1000" stop="20260609173000 +1000" channel="505.FSP">
-    <title lang="en">Golf: KLM Open</title>
-    <sub-title lang="en">KLM Open</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/w1w3gb.png?maxheight=213&amp;limit=a94df70ef85fe5f4ab1248fabd7ca2bf6dd8bf55" />
-  </programme>
-  <programme start="20260609173000 +1000" stop="20260609183000 +1000" channel="505.FSP">
-    <title lang="en">The Bowls Show</title>
-    <sub-title lang="en">Episode 4</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/pp1yci.png?maxheight=213&amp;limit=fb8813e9e425c447f0d1064edf026eafbab9c450" />
-  </programme>
-  <programme start="20260609183000 +1000" stop="20260609193000 +1000" channel="505.FSP">
-    <title lang="en">Countdown: UFC Freedom 250</title>
-    <sub-title lang="en">UFC Freedom 250</sub-title>
+  <programme start="20260622141300 +1000" stop="20260622143300 +1000" channel="504.FAF">
+    <title lang="en">AFL Mini: Round 15 RIC v NM</title>
+    <sub-title lang="en">Round 15 RIC v NM</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20260609193000 +1000" stop="20260609203000 +1000" channel="505.FSP">
-    <title lang="en">Golf: USPGA: The Memorial</title>
-    <sub-title lang="en">The Memorial</sub-title>
+  <programme start="20260622143300 +1000" stop="20260622145300 +1000" channel="504.FAF">
+    <title lang="en">AFL Mini: Round 15 STK v WB</title>
+    <sub-title lang="en">Round 15 STK v WB</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/p0svgo.png?maxheight=213&amp;limit=2850fe7a97f4354051e8f3f99adaddd6dde51f81" />
   </programme>
-  <programme start="20260609203000 +1000" stop="20260609210000 +1000" channel="505.FSP">
-    <title lang="en">How Good is Golf: Nudgee Golf Club</title>
-    <sub-title lang="en">Nudgee Golf Club</sub-title>
+  <programme start="20260622145300 +1000" stop="20260622151300 +1000" channel="504.FAF">
+    <title lang="en">AFL Mini: Round 15 FRE v GEE</title>
+    <sub-title lang="en">Round 15 FRE v GEE</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/argoq2.png?maxheight=213&amp;limit=a502f37330a79afc1e07fce948527a5a66caf4aa" />
   </programme>
-  <programme start="20260609210000 +1000" stop="20260609230000 +1000" channel="505.FSP">
-    <title lang="en">F1: Monaco Race</title>
-    <sub-title lang="en">Monaco Race</sub-title>
+  <programme start="20260622151300 +1000" stop="20260622153300 +1000" channel="504.FAF">
+    <title lang="en">AFL Mini: Round 15 GC v HAW</title>
+    <sub-title lang="en">Round 15 GC v HAW</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/bewyvk.png?maxheight=213&amp;limit=3780816971f79182d2d7163b98f820f176ffcbdf" />
+  </programme>
+  <programme start="20260622153300 +1000" stop="20260622160300 +1000" channel="504.FAF">
+    <title lang="en">AFL Classic Matches</title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20260622160300 +1000" stop="20260622170300 +1000" channel="504.FAF">
+    <title lang="en">Bounce</title>
+    <sub-title lang="en">Episode 15</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/io41xi.png?maxheight=213&amp;limit=71c5d504fd7fbb0513604e056ab3569a164f08bc" />
+  </programme>
+  <programme start="20260622170300 +1000" stop="20260622180300 +1000" channel="504.FAF">
+    <title lang="en">First Crack</title>
+    <sub-title lang="en">Episode 13</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/hu7bg6.png?maxheight=213&amp;limit=6014e243e608f43d38ea9eb940de2f0406afaac4" />
+  </programme>
+  <programme start="20260622180300 +1000" stop="20260622183000 +1000" channel="504.FAF">
+    <title lang="en">AFL Tonight</title>
+    <sub-title lang="en">Episode 76</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20260622183000 +1000" stop="20260622193000 +1000" channel="504.FAF">
+    <title lang="en">Live: AFL 360</title>
+    <sub-title lang="en">Episode 49</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bme6w.jpg?maxheight=213&amp;limit=a8952a399507d535862855158ae0dd2754e2a5d3" />
+  </programme>
+  <programme start="20260622193000 +1000" stop="20260622203000 +1000" channel="504.FAF">
+    <title lang="en">Live: On the Couch</title>
+    <sub-title lang="en">Episode 17</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/8iay1.png?maxheight=213&amp;limit=3cfc178a6a84d2dd37bb1d61bb80c074732a33f0" />
+  </programme>
+  <programme start="20260622203000 +1000" stop="20260622213000 +1000" channel="504.FAF">
+    <title lang="en">AFL 360</title>
+    <sub-title lang="en">Episode 49</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bme6w.jpg?maxheight=213&amp;limit=a8952a399507d535862855158ae0dd2754e2a5d3" />
+  </programme>
+  <programme start="20260622213000 +1000" stop="20260622223000 +1000" channel="504.FAF">
+    <title lang="en">On the Couch</title>
+    <sub-title lang="en">Episode 17</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/8iay1.png?maxheight=213&amp;limit=3cfc178a6a84d2dd37bb1d61bb80c074732a33f0" />
+  </programme>
+  <programme start="20260622223000 +1000" stop="20260622233000 +1000" channel="504.FAF">
+    <title lang="en">AFL 360</title>
+    <sub-title lang="en">Episode 49</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bme6w.jpg?maxheight=213&amp;limit=a8952a399507d535862855158ae0dd2754e2a5d3" />
+  </programme>
+  <programme start="20260622233000 +1000" stop="20260623003000 +1000" channel="504.FAF">
+    <title lang="en">On the Couch</title>
+    <sub-title lang="en">Episode 17</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/8iay1.png?maxheight=213&amp;limit=3cfc178a6a84d2dd37bb1d61bb80c074732a33f0" />
   </programme>
   <programme start="20260609230000 +1000" stop="20260610000000 +1000" channel="505.FSP">
     <title lang="en">Countdown: UFC Freedom 250</title>
@@ -7603,7 +7635,6 @@
     <title lang="en">F1: Monaco Race</title>
     <sub-title lang="en">Monaco Race</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/bewyvk.png?maxheight=213&amp;limit=3780816971f79182d2d7163b98f820f176ffcbdf" />
   </programme>
   <programme start="20260610060000 +1000" stop="20260610080000 +1000" channel="505.FSP">
     <title lang="en">Darts: Nordic Masters Final Day</title>
@@ -7651,7 +7682,6 @@
     <title lang="en">F1: Monaco Race</title>
     <sub-title lang="en">Monaco Race</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/bewyvk.png?maxheight=213&amp;limit=3780816971f79182d2d7163b98f820f176ffcbdf" />
   </programme>
   <programme start="20260610133000 +1000" stop="20260610143000 +1000" channel="505.FSP">
     <title lang="en">MotoGP: Hungary Race</title>
@@ -7803,8 +7833,8 @@
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/kmofcd.png?maxheight=213&amp;limit=7d8371de39440936bfb000ba5f313e4b789fab34" />
   </programme>
   <programme start="20260611080000 +1000" stop="20260611100000 +1000" channel="505.FSP">
-    <title lang="en">USPGA: The Memorial Tournament FR</title>
-    <sub-title lang="en">The Memorial Tournament FR</sub-title>
+    <title lang="en">USPGA: The Memorial Tournament FD</title>
+    <sub-title lang="en">The Memorial Tournament FD</sub-title>
     <desc lang="en" />
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/bt01z0.png?maxheight=213&amp;limit=c5692c64f287a44c26db6f3fdf164daab4b7bc6c" />
   </programme>
@@ -7836,7 +7866,6 @@
     <title lang="en">F1: Monaco Race</title>
     <sub-title lang="en">Monaco Race</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/bewyvk.png?maxheight=213&amp;limit=3780816971f79182d2d7163b98f820f176ffcbdf" />
   </programme>
   <programme start="20260611173000 +1000" stop="20260611183000 +1000" channel="505.FSP">
     <title lang="en">PSA Squash Tour</title>
@@ -8360,7 +8389,6 @@
     <title lang="en">The Bowls Show</title>
     <sub-title lang="en">Episode 5</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/pp1yci.png?maxheight=213&amp;limit=fb8813e9e425c447f0d1064edf026eafbab9c450" />
   </programme>
   <programme start="20260616183000 +1000" stop="20260616203000 +1000" channel="505.FSP">
     <title lang="en">USPGA: RBC Canadian Open FR</title>
@@ -8450,7 +8478,6 @@
     <title lang="en">The Bowls Show</title>
     <sub-title lang="en">Episode 5</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/pp1yci.png?maxheight=213&amp;limit=fb8813e9e425c447f0d1064edf026eafbab9c450" />
   </programme>
   <programme start="20260617090000 +1000" stop="20260617092000 +1000" channel="505.FSP">
     <title lang="en">Super Netball Mini: R14 LIG v THU</title>
@@ -8504,7 +8531,6 @@
     <title lang="en">The Bowls Show</title>
     <sub-title lang="en">Episode 5</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/pp1yci.png?maxheight=213&amp;limit=fb8813e9e425c447f0d1064edf026eafbab9c450" />
   </programme>
   <programme start="20260617160000 +1000" stop="20260617170000 +1000" channel="505.FSP">
     <title lang="en">Golf: PGA Tour Champions</title>
@@ -8606,7 +8632,6 @@
     <title lang="en">The Bowls Show</title>
     <sub-title lang="en">Episode 5</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/pp1yci.png?maxheight=213&amp;limit=fb8813e9e425c447f0d1064edf026eafbab9c450" />
   </programme>
   <programme start="20260618113000 +1000" stop="20260618163000 +1000" channel="505.FSP">
     <title lang="en">Live: Australian Open Bowls: Day 1</title>
@@ -8655,7 +8680,6 @@
     <title lang="en">The Bowls Show</title>
     <sub-title lang="en">Episode 5</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/pp1yci.png?maxheight=213&amp;limit=fb8813e9e425c447f0d1064edf026eafbab9c450" />
   </programme>
   <programme start="20260618210000 +1000" stop="20260618220000 +1000" channel="505.FSP">
     <title lang="en">Australian Open Bowls: Day 1</title>
@@ -8899,176 +8923,173 @@
     <title lang="en">T20: BAN v AUS Game 3</title>
     <sub-title lang="en">BAN v AUS Game 3</sub-title>
     <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/xaq7ke.png?maxheight=213&amp;limit=2dae2d80123324fb1b4a4d5345abec68c9e37ece" />
   </programme>
-  <programme start="20260609023000 +1000" stop="20260609030000 +1000" channel="506.SPS">
-    <title lang="en">MotoGP After the Flag: Hungary</title>
-    <sub-title lang="en">Hungary</sub-title>
+  <programme start="20260622000000 +1000" stop="20260622010000 +1000" channel="505.FSP">
+    <title lang="en">Australian Open Bowls: Day 1</title>
+    <sub-title lang="en">Day 1</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7mq5t.png?maxheight=213&amp;limit=fe5d7c177fb95c9d802b85d324b22a5386a276bf" />
+  </programme>
+  <programme start="20260622010000 +1000" stop="20260622020000 +1000" channel="505.FSP">
+    <title lang="en">Australian Open Bowls: Final Day</title>
+    <sub-title lang="en">Final Day</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7mq5t.png?maxheight=213&amp;limit=fe5d7c177fb95c9d802b85d324b22a5386a276bf" />
+  </programme>
+  <programme start="20260622020000 +1000" stop="20260622023000 +1000" channel="505.FSP">
+    <title lang="en">MotoGP Mini: Czechia</title>
+    <sub-title lang="en">Czechia</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/61q3w.png?maxheight=213&amp;limit=f23229a5026fd901792e6b6291c5af3d21967363" />
+  </programme>
+  <programme start="20260622023000 +1000" stop="20260622033000 +1000" channel="505.FSP">
+    <title lang="en">Supercars Darwin</title>
     <desc lang="en" />
   </programme>
-  <programme start="20260609030000 +1000" stop="20260609040000 +1000" channel="506.SPS">
-    <title lang="en">Motorsport: NASCAR Cup Highlights</title>
-    <sub-title lang="en">Michigan</sub-title>
+  <programme start="20260622033000 +1000" stop="20260622050000 +1000" channel="505.FSP">
+    <title lang="en">SailGP: Canada Day 1</title>
+    <sub-title lang="en">Canada Day 1</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7ej07.png?maxheight=213&amp;limit=c9cc324098a886a73002b8e40ef1e758ed252af7" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/64rvf1.png?maxheight=213&amp;limit=72f4b008f1c30fa944cc67c194e54568b68992f6" />
   </programme>
-  <programme start="20260609040000 +1000" stop="20260609060000 +1000" channel="506.SPS">
-    <title lang="en">Darts: Nordic Masters Final Day</title>
-    <sub-title lang="en">Nordic Masters Final Day</sub-title>
+  <programme start="20260622050000 +1000" stop="20260622063000 +1000" channel="505.FSP">
+    <title lang="en">Live: SailGP: Canada Day 1</title>
+    <sub-title lang="en">Canada Day 1</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6y6vi.png?maxheight=213&amp;limit=23c66e0b7cff5890a6d2e19bf4ecb2b7613ea4ad" />
   </programme>
-  <programme start="20260609060000 +1000" stop="20260609062000 +1000" channel="506.SPS">
-    <title lang="en">Super Netball Mini: R13 SWI v THU</title>
-    <sub-title lang="en">R13 SWI v THU</sub-title>
+  <programme start="20260622063000 +1000" stop="20260622073000 +1000" channel="505.FSP">
+    <title lang="en">Australian Open Bowls: Day 1</title>
+    <sub-title lang="en">Day 1</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/ju1e6g.png?maxheight=213&amp;limit=33ab30ce6ce5b9112bcc35c1b4b0acf3531027fe" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7mq5t.png?maxheight=213&amp;limit=fe5d7c177fb95c9d802b85d324b22a5386a276bf" />
   </programme>
-  <programme start="20260609062000 +1000" stop="20260609064000 +1000" channel="506.SPS">
-    <title lang="en">Super Netball Mini: R13 FIR v LIG</title>
-    <sub-title lang="en">R13 FIR v LIG</sub-title>
+  <programme start="20260622073000 +1000" stop="20260622083000 +1000" channel="505.FSP">
+    <title lang="en">Australian Open Bowls: Final Day</title>
+    <sub-title lang="en">Final Day</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/or4taq.png?maxheight=213&amp;limit=16516f051cd8896278582c1889a9f5776c8ca5cd" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7mq5t.png?maxheight=213&amp;limit=fe5d7c177fb95c9d802b85d324b22a5386a276bf" />
   </programme>
-  <programme start="20260609064000 +1000" stop="20260609070000 +1000" channel="506.SPS">
-    <title lang="en">Super Netball Mini: R13 VIX v MAV</title>
-    <sub-title lang="en">R13 VIX v MAV</sub-title>
+  <programme start="20260622083000 +1000" stop="20260622090000 +1000" channel="505.FSP">
+    <title lang="en">Super Netball Mini</title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/47m3o9.png?maxheight=213&amp;limit=5215c6bde3063de796614af187a7649ab76c5b28" />
   </programme>
-  <programme start="20260609070000 +1000" stop="20260609072000 +1000" channel="506.SPS">
-    <title lang="en">Super Netball Mini: R13 GIA v FEV</title>
-    <sub-title lang="en">R13 GIA v FEV</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/xby9b0.png?maxheight=213&amp;limit=df8ba5b3e9c4b787394fb1f065a984354072d37e" />
-  </programme>
-  <programme start="20260609072000 +1000" stop="20260609080000 +1000" channel="506.SPS">
+  <programme start="20260622090000 +1000" stop="20260622094000 +1000" channel="505.FSP">
     <title lang="en">PIVOT</title>
-    <sub-title lang="en">Round 13</sub-title>
+    <sub-title lang="en">Round 14</sub-title>
     <desc lang="en" />
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/kmofcd.png?maxheight=213&amp;limit=7d8371de39440936bfb000ba5f313e4b789fab34" />
   </programme>
-  <programme start="20260609080000 +1000" stop="20260609090000 +1000" channel="506.SPS">
-    <title lang="en">Motorsport: NASCAR Cup Highlights</title>
-    <sub-title lang="en">Michigan</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7ej07.png?maxheight=213&amp;limit=c9cc324098a886a73002b8e40ef1e758ed252af7" />
-  </programme>
-  <programme start="20260609090000 +1000" stop="20260609100000 +1000" channel="506.SPS">
-    <title lang="en">F2: Monaco Feature Race</title>
-    <sub-title lang="en">Monaco Feature Race</sub-title>
+  <programme start="20260622094000 +1000" stop="20260622104000 +1000" channel="505.FSP">
+    <title lang="en">Undefined: E1 World Championship Highlig</title>
+    <sub-title lang="en">Dubrovnik</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20260609100000 +1000" stop="20260609120000 +1000" channel="506.SPS">
-    <title lang="en">F1: Monaco Race</title>
-    <sub-title lang="en">Monaco Race</sub-title>
+  <programme start="20260622104000 +1000" stop="20260622110000 +1000" channel="505.FSP">
+    <title lang="en">General Sport: Sport Special</title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/bewyvk.png?maxheight=213&amp;limit=3780816971f79182d2d7163b98f820f176ffcbdf" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/63izb.jpg?maxheight=213&amp;limit=96373cde532bc2be6626c92725c6763020a19042" />
   </programme>
-  <programme start="20260609120000 +1000" stop="20260609130000 +1000" channel="506.SPS">
-    <title lang="en">F1 Chequered Flag: Monaco</title>
-    <sub-title lang="en">Monaco</sub-title>
+  <programme start="20260622110000 +1000" stop="20260622113000 +1000" channel="505.FSP">
+    <title lang="en">How Good is Golf: Nudgee Golf Club</title>
+    <sub-title lang="en">Nudgee Golf Club</sub-title>
     <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/argoq2.png?maxheight=213&amp;limit=a502f37330a79afc1e07fce948527a5a66caf4aa" />
   </programme>
-  <programme start="20260609130000 +1000" stop="20260609132000 +1000" channel="506.SPS">
-    <title lang="en">F2 Chasing the Dream: Canada</title>
-    <sub-title lang="en">Canada</sub-title>
+  <programme start="20260622113000 +1000" stop="20260622120000 +1000" channel="505.FSP">
+    <title lang="en">How Good is Golf: Pennant Hills</title>
+    <sub-title lang="en">Pennant Hills</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/9xcnp.png?maxheight=213&amp;limit=965479fe74da8a345ff6e3ba7d6015418e7638a4" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/argoq2.png?maxheight=213&amp;limit=a502f37330a79afc1e07fce948527a5a66caf4aa" />
   </programme>
-  <programme start="20260609132000 +1000" stop="20260609142000 +1000" channel="506.SPS">
-    <title lang="en">Motorsport: NASCAR Cup Highlights</title>
-    <sub-title lang="en">Michigan</sub-title>
+  <programme start="20260622120000 +1000" stop="20260622140000 +1000" channel="505.FSP">
+    <title lang="en">Golf: USLPGA: Meijer LPGA Classic Final</title>
+    <sub-title lang="en">Meijer LPGA Classic Final Round</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7ej07.png?maxheight=213&amp;limit=c9cc324098a886a73002b8e40ef1e758ed252af7" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/jc9c2j.png?maxheight=213&amp;limit=cedb2dc8c6727fe6139ced6df448817136aa6aed" />
   </programme>
-  <programme start="20260609142000 +1000" stop="20260609152000 +1000" channel="506.SPS">
-    <title lang="en">Moto2: Grand Prix of Hungary</title>
-    <sub-title lang="en">Grand Prix of Hungary</sub-title>
+  <programme start="20260622140000 +1000" stop="20260622153000 +1000" channel="505.FSP">
+    <title lang="en">SailGP: Canada Day 1</title>
+    <sub-title lang="en">Canada Day 1</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/sc8ms8.png?maxheight=213&amp;limit=04690226c4cb0c7fc3a68fa17ff2e428adda8c08" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/64rvf1.png?maxheight=213&amp;limit=72f4b008f1c30fa944cc67c194e54568b68992f6" />
   </programme>
-  <programme start="20260609152000 +1000" stop="20260609155000 +1000" channel="506.SPS">
-    <title lang="en">MotoGP: Hungary Sprint Race</title>
-    <sub-title lang="en">Hungary Sprint Race</sub-title>
+  <programme start="20260622153000 +1000" stop="20260622170000 +1000" channel="505.FSP">
+    <title lang="en">SailGP: Canada Day 2</title>
+    <sub-title lang="en">Canada Day 2</sub-title>
     <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/64rvf1.png?maxheight=213&amp;limit=72f4b008f1c30fa944cc67c194e54568b68992f6" />
   </programme>
-  <programme start="20260609155000 +1000" stop="20260609165000 +1000" channel="506.SPS">
-    <title lang="en">MotoGP: Hungary Race</title>
-    <sub-title lang="en">Hungary Race</sub-title>
+  <programme start="20260622170000 +1000" stop="20260622172000 +1000" channel="505.FSP">
+    <title lang="en">Supercars Mini: Darwin Race 17</title>
+    <sub-title lang="en">Darwin Race 17</sub-title>
     <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/1y6in3.png?maxheight=213&amp;limit=1a3a1d3fb01d6e9200e76a64c607984e8258cbbe" />
   </programme>
-  <programme start="20260609165000 +1000" stop="20260609172000 +1000" channel="506.SPS">
-    <title lang="en">MotoGP After the Flag: Hungary</title>
-    <sub-title lang="en">Hungary</sub-title>
+  <programme start="20260622172000 +1000" stop="20260622174000 +1000" channel="505.FSP">
+    <title lang="en">Supercars Mini: Darwin Race 17</title>
+    <sub-title lang="en">Darwin Race 17</sub-title>
     <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/1y6in3.png?maxheight=213&amp;limit=1a3a1d3fb01d6e9200e76a64c607984e8258cbbe" />
   </programme>
-  <programme start="20260609172000 +1000" stop="20260609181000 +1000" channel="506.SPS">
-    <title lang="en">Motorsport: Isle of Man TT</title>
-    <sub-title lang="en">Supersport Race 1</sub-title>
+  <programme start="20260622174000 +1000" stop="20260622180000 +1000" channel="505.FSP">
+    <title lang="en">Supercars Mini: Darwin Race 17</title>
+    <sub-title lang="en">Darwin Race 17</sub-title>
     <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/1y6in3.png?maxheight=213&amp;limit=1a3a1d3fb01d6e9200e76a64c607984e8258cbbe" />
   </programme>
-  <programme start="20260609181000 +1000" stop="20260609190000 +1000" channel="506.SPS">
-    <title lang="en">Motorsport: Isle of Man TT</title>
-    <sub-title lang="en">Mid-Week Highlights</sub-title>
-    <desc lang="en" />
-  </programme>
-  <programme start="20260609190000 +1000" stop="20260609193000 +1000" channel="506.SPS">
-    <title lang="en">F1 Mini: Monaco</title>
-    <sub-title lang="en">Monaco</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/w5atqi.png?maxheight=213&amp;limit=b102398c61cb4753ec083f60e5610c9c28ae3669" />
-  </programme>
-  <programme start="20260609193000 +1000" stop="20260609200000 +1000" channel="506.SPS">
-    <title lang="en">MotoGP: Hungary Sprint Race</title>
-    <sub-title lang="en">Hungary Sprint Race</sub-title>
+  <programme start="20260622180000 +1000" stop="20260622183000 +1000" channel="505.FSP">
+    <title lang="en">Supercars Trackside</title>
     <desc lang="en" />
   </programme>
-  <programme start="20260609200000 +1000" stop="20260609210000 +1000" channel="506.SPS">
-    <title lang="en">MotoGP: Hungary Race</title>
-    <sub-title lang="en">Hungary Race</sub-title>
+  <programme start="20260622183000 +1000" stop="20260622185000 +1000" channel="505.FSP">
+    <title lang="en">Super Netball Mini</title>
     <desc lang="en" />
   </programme>
-  <programme start="20260609210000 +1000" stop="20260609220000 +1000" channel="506.SPS">
-    <title lang="en">Moto2: Grand Prix of Hungary</title>
-    <sub-title lang="en">Grand Prix of Hungary</sub-title>
+  <programme start="20260622185000 +1000" stop="20260622192000 +1000" channel="505.FSP">
+    <title lang="en">Super Netball Mini</title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/sc8ms8.png?maxheight=213&amp;limit=04690226c4cb0c7fc3a68fa17ff2e428adda8c08" />
+  </programme>
+  <programme start="20260622192000 +1000" stop="20260622200000 +1000" channel="505.FSP">
+    <title lang="en">PIVOT</title>
+    <sub-title lang="en">Round 14</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/kmofcd.png?maxheight=213&amp;limit=7d8371de39440936bfb000ba5f313e4b789fab34" />
+  </programme>
+  <programme start="20260622200000 +1000" stop="20260623003000 +1000" channel="505.FSP">
+    <title lang="en">Live: Championship League of Snooker</title>
+    <sub-title lang="en">Day 1 Day Session</sub-title>
+    <desc lang="en" />
   </programme>
   <programme start="20260609220000 +1000" stop="20260610000000 +1000" channel="506.SPS">
     <title lang="en">Darts: Nordic Masters Final Day</title>
     <sub-title lang="en">Nordic Masters Final Day</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6y6vi.png?maxheight=213&amp;limit=23c66e0b7cff5890a6d2e19bf4ecb2b7613ea4ad" />
   </programme>
   <programme start="20260610000000 +1000" stop="20260610002000 +1000" channel="506.SPS">
     <title lang="en">Super Netball Mini: R13 SWI v THU</title>
     <sub-title lang="en">R13 SWI v THU</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/ju1e6g.png?maxheight=213&amp;limit=33ab30ce6ce5b9112bcc35c1b4b0acf3531027fe" />
   </programme>
   <programme start="20260610002000 +1000" stop="20260610004000 +1000" channel="506.SPS">
     <title lang="en">Super Netball Mini: R13 FIR v LIG</title>
     <sub-title lang="en">R13 FIR v LIG</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/or4taq.png?maxheight=213&amp;limit=16516f051cd8896278582c1889a9f5776c8ca5cd" />
   </programme>
   <programme start="20260610004000 +1000" stop="20260610010000 +1000" channel="506.SPS">
     <title lang="en">Super Netball Mini: R13 VIX v MAV</title>
     <sub-title lang="en">R13 VIX v MAV</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/47m3o9.png?maxheight=213&amp;limit=5215c6bde3063de796614af187a7649ab76c5b28" />
   </programme>
   <programme start="20260610010000 +1000" stop="20260610012000 +1000" channel="506.SPS">
     <title lang="en">Super Netball Mini: R13 GIA v FEV</title>
     <sub-title lang="en">R13 GIA v FEV</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/xby9b0.png?maxheight=213&amp;limit=df8ba5b3e9c4b787394fb1f065a984354072d37e" />
   </programme>
   <programme start="20260610012000 +1000" stop="20260610020000 +1000" channel="506.SPS">
     <title lang="en">PIVOT</title>
     <sub-title lang="en">Round 13</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/kmofcd.png?maxheight=213&amp;limit=7d8371de39440936bfb000ba5f313e4b789fab34" />
   </programme>
   <programme start="20260610020000 +1000" stop="20260610033000 +1000" channel="506.SPS">
     <title lang="en">SailGP: New York Day 1</title>
@@ -9239,7 +9260,6 @@
     <title lang="en">F1: Monaco Race</title>
     <sub-title lang="en">Monaco Race</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/bewyvk.png?maxheight=213&amp;limit=3780816971f79182d2d7163b98f820f176ffcbdf" />
   </programme>
   <programme start="20260611080000 +1000" stop="20260611090000 +1000" channel="506.SPS">
     <title lang="en">MotorRacing 360</title>
@@ -9453,7 +9473,6 @@
     <title lang="en">F1: Monaco Race</title>
     <sub-title lang="en">Monaco Race</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/bewyvk.png?maxheight=213&amp;limit=3780816971f79182d2d7163b98f820f176ffcbdf" />
   </programme>
   <programme start="20260612193000 +1000" stop="20260612203000 +1000" channel="506.SPS">
     <title lang="en">MotorRacing 360</title>
@@ -10543,6 +10562,7 @@
     <title lang="en">Live: Supercars Trackside: Darwin Review</title>
     <sub-title lang="en">Darwin Review</sub-title>
     <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/70on7k.png?maxheight=213&amp;limit=4c80e9784236a0d56b4a5b7fdb7bd2738dd31917" />
   </programme>
   <programme start="20260621173500 +1000" stop="20260621180000 +1000" channel="506.SPS">
     <title lang="en">Live: MotoGP: Czechia Warm Up</title>
@@ -10568,6 +10588,7 @@
     <title lang="en">Live: Moto2: Grand Prix of Czechia</title>
     <sub-title lang="en">Grand Prix of Czechia</sub-title>
     <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/sc8ms8.png?maxheight=213&amp;limit=04690226c4cb0c7fc3a68fa17ff2e428adda8c08" />
   </programme>
   <programme start="20260621211500 +1000" stop="20260621215800 +1000" channel="506.SPS">
     <title lang="en">Live: MotoGP: The Grid</title>
@@ -10578,6 +10599,7 @@
     <title lang="en">Live: MotoGP: Czechia Race</title>
     <sub-title lang="en">Czechia Race</sub-title>
     <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/9vaws.png?maxheight=213&amp;limit=ec29e5e10bb3b9b1521a2407e047b8156cf82b48" />
   </programme>
   <programme start="20260621231500 +1000" stop="20260621233000 +1000" channel="506.SPS">
     <title lang="en">MotoGP: Inside Ducati</title>
@@ -10587,87 +10609,169 @@
     <title lang="en">Supercars Darwin</title>
     <desc lang="en" />
   </programme>
-  <programme start="20260608223000 +1000" stop="20260609030000 +1000" channel="507.FSS">
-    <title lang="en">Live: Surfing: WSL: El Salvador Day 4</title>
-    <sub-title lang="en">El Salvador Day 4</sub-title>
+  <programme start="20260622003000 +1000" stop="20260622013000 +1000" channel="506.SPS">
+    <title lang="en">Supercars Trackside: Darwin Review</title>
+    <sub-title lang="en">Darwin Review</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/70on7k.png?maxheight=213&amp;limit=4c80e9784236a0d56b4a5b7fdb7bd2738dd31917" />
+  </programme>
+  <programme start="20260622013000 +1000" stop="20260622020000 +1000" channel="506.SPS">
+    <title lang="en">MotoGP Mini: Czechia</title>
+    <sub-title lang="en">Czechia</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/61q3w.png?maxheight=213&amp;limit=f23229a5026fd901792e6b6291c5af3d21967363" />
+  </programme>
+  <programme start="20260622020000 +1000" stop="20260622030000 +1000" channel="506.SPS">
+    <title lang="en">Motorsport: NASCAR Auto Parts Highlights</title>
+    <sub-title lang="en">San Diego</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/ipxkgl.png?maxheight=213&amp;limit=8f03ea34461b4c80c7662287d9fa4ac252248171" />
+  </programme>
+  <programme start="20260622030000 +1000" stop="20260622060000 +1000" channel="506.SPS">
+    <title lang="en">Live: Golf: USLPGA: Meijer LPGA Classic</title>
+    <sub-title lang="en">Meijer LPGA Classic Final Round</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/jc9c2j.png?maxheight=213&amp;limit=cedb2dc8c6727fe6139ced6df448817136aa6aed" />
+  </programme>
+  <programme start="20260622060000 +1000" stop="20260622070000 +1000" channel="506.SPS">
+    <title lang="en">Supercars Darwin</title>
     <desc lang="en" />
   </programme>
-  <programme start="20260609030000 +1000" stop="20260609080000 +1000" channel="507.FSS">
-    <title lang="en">Live: Surfing: WSL: El Salvador Day 4</title>
-    <sub-title lang="en">El Salvador Day 4</sub-title>
+  <programme start="20260622070000 +1000" stop="20260622080000 +1000" channel="506.SPS">
+    <title lang="en">Supercars Trackside: Darwin Review</title>
+    <sub-title lang="en">Darwin Review</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/70on7k.png?maxheight=213&amp;limit=4c80e9784236a0d56b4a5b7fdb7bd2738dd31917" />
+  </programme>
+  <programme start="20260622080000 +1000" stop="20260622090000 +1000" channel="506.SPS">
+    <title lang="en">Moto2: Grand Prix of Czechia</title>
+    <sub-title lang="en">Grand Prix of Czechia</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/sc8ms8.png?maxheight=213&amp;limit=04690226c4cb0c7fc3a68fa17ff2e428adda8c08" />
+  </programme>
+  <programme start="20260622090000 +1000" stop="20260622093000 +1000" channel="506.SPS">
+    <title lang="en">MotoGP: Czechia Sprint Race</title>
+    <sub-title lang="en">Czechia Sprint Race</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/9l4ug.png?maxheight=213&amp;limit=4b289bb1568a050d544bf196b03dd34597b42c63" />
+  </programme>
+  <programme start="20260622093000 +1000" stop="20260622103000 +1000" channel="506.SPS">
+    <title lang="en">MotoGP: Czechia Race</title>
+    <sub-title lang="en">Czechia Race</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/9vaws.png?maxheight=213&amp;limit=ec29e5e10bb3b9b1521a2407e047b8156cf82b48" />
+  </programme>
+  <programme start="20260622103000 +1000" stop="20260622120000 +1000" channel="506.SPS">
+    <title lang="en">SailGP: Canada Day 2</title>
+    <sub-title lang="en">Canada Day 2</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/64rvf1.png?maxheight=213&amp;limit=72f4b008f1c30fa944cc67c194e54568b68992f6" />
+  </programme>
+  <programme start="20260622120000 +1000" stop="20260622123000 +1000" channel="506.SPS">
+    <title lang="en">Porsche Supercup Series</title>
+    <sub-title lang="en">Rnd 2 Spain</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6z50s.png?maxheight=213&amp;limit=6aa399dabd2e7603913959fe63b0413153bd3bff" />
+  </programme>
+  <programme start="20260622123000 +1000" stop="20260622125000 +1000" channel="506.SPS">
+    <title lang="en">Supercars Mini: Darwin Race 17</title>
+    <sub-title lang="en">Darwin Race 17</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/1y6in3.png?maxheight=213&amp;limit=1a3a1d3fb01d6e9200e76a64c607984e8258cbbe" />
+  </programme>
+  <programme start="20260622125000 +1000" stop="20260622131000 +1000" channel="506.SPS">
+    <title lang="en">Supercars Mini: Darwin Race 18</title>
+    <sub-title lang="en">Darwin Race 18</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/1y6in3.png?maxheight=213&amp;limit=1a3a1d3fb01d6e9200e76a64c607984e8258cbbe" />
+  </programme>
+  <programme start="20260622131000 +1000" stop="20260622133000 +1000" channel="506.SPS">
+    <title lang="en">Supercars Mini: Darwin Race 19</title>
+    <sub-title lang="en">Darwin Race 19</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/1y6in3.png?maxheight=213&amp;limit=1a3a1d3fb01d6e9200e76a64c607984e8258cbbe" />
+  </programme>
+  <programme start="20260622133000 +1000" stop="20260622143000 +1000" channel="506.SPS">
+    <title lang="en">Supercars Trackside: Darwin Review</title>
+    <sub-title lang="en">Darwin Review</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/70on7k.png?maxheight=213&amp;limit=4c80e9784236a0d56b4a5b7fdb7bd2738dd31917" />
+  </programme>
+  <programme start="20260622143000 +1000" stop="20260622153000 +1000" channel="506.SPS">
+    <title lang="en">Moto2: Grand Prix of Czechia</title>
+    <sub-title lang="en">Grand Prix of Czechia</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/sc8ms8.png?maxheight=213&amp;limit=04690226c4cb0c7fc3a68fa17ff2e428adda8c08" />
+  </programme>
+  <programme start="20260622153000 +1000" stop="20260622160000 +1000" channel="506.SPS">
+    <title lang="en">MotoGP: Czechia Sprint Race</title>
+    <sub-title lang="en">Czechia Sprint Race</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/9l4ug.png?maxheight=213&amp;limit=4b289bb1568a050d544bf196b03dd34597b42c63" />
+  </programme>
+  <programme start="20260622160000 +1000" stop="20260622170000 +1000" channel="506.SPS">
+    <title lang="en">MotoGP: Czechia Race</title>
+    <sub-title lang="en">Czechia Race</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/9vaws.png?maxheight=213&amp;limit=ec29e5e10bb3b9b1521a2407e047b8156cf82b48" />
+  </programme>
+  <programme start="20260622170000 +1000" stop="20260622173000 +1000" channel="506.SPS">
+    <title lang="en">MotoGP After the Flag: Czechia</title>
+    <sub-title lang="en">Czechia</sub-title>
     <desc lang="en" />
   </programme>
-  <programme start="20260609080000 +1000" stop="20260609093000 +1000" channel="507.FSS">
-    <title lang="en">SailGP: New York Day 1</title>
-    <sub-title lang="en">New York Day 1</sub-title>
+  <programme start="20260622173000 +1000" stop="20260622183000 +1000" channel="506.SPS">
+    <title lang="en">Motorsport: NASCAR Auto Parts Highlights</title>
+    <sub-title lang="en">San Diego</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/r5tw4q.png?maxheight=213&amp;limit=9a4b75d96347bb62480692a9017c1b82f997d114" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/ipxkgl.png?maxheight=213&amp;limit=8f03ea34461b4c80c7662287d9fa4ac252248171" />
   </programme>
-  <programme start="20260609093000 +1000" stop="20260609110000 +1000" channel="507.FSS">
-    <title lang="en">SailGP: New York Day 2</title>
-    <sub-title lang="en">New York Day 2</sub-title>
+  <programme start="20260622183000 +1000" stop="20260622193000 +1000" channel="506.SPS">
+    <title lang="en">Motorsport: NASCAR Cup Highlights</title>
+    <sub-title lang="en">San Diego</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/wpszo6.png?maxheight=213&amp;limit=f2260e0437eed5e048a7e369a21f4c99158e87c2" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7ej07.png?maxheight=213&amp;limit=c9cc324098a886a73002b8e40ef1e758ed252af7" />
   </programme>
-  <programme start="20260609110000 +1000" stop="20260609130000 +1000" channel="507.FSS">
-    <title lang="en">Darts: Nordic Masters Final Day</title>
-    <sub-title lang="en">Nordic Masters Final Day</sub-title>
+  <programme start="20260622193000 +1000" stop="20260622195000 +1000" channel="506.SPS">
+    <title lang="en">Supercars Mini: Darwin Race 17</title>
+    <sub-title lang="en">Darwin Race 17</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6y6vi.png?maxheight=213&amp;limit=23c66e0b7cff5890a6d2e19bf4ecb2b7613ea4ad" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/1y6in3.png?maxheight=213&amp;limit=1a3a1d3fb01d6e9200e76a64c607984e8258cbbe" />
   </programme>
-  <programme start="20260609130000 +1000" stop="20260609150000 +1000" channel="507.FSS">
-    <title lang="en">Golf: PGA Tour Champions</title>
-    <sub-title lang="en">American Family Final Round</sub-title>
+  <programme start="20260622195000 +1000" stop="20260622201000 +1000" channel="506.SPS">
+    <title lang="en">Supercars Mini: Darwin Race 18</title>
+    <sub-title lang="en">Darwin Race 18</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/9w4f8.png?maxheight=213&amp;limit=995b496a9afa26bb6803933b1cdb2b99a6aef3fb" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/1y6in3.png?maxheight=213&amp;limit=1a3a1d3fb01d6e9200e76a64c607984e8258cbbe" />
   </programme>
-  <programme start="20260609150000 +1000" stop="20260609170000 +1000" channel="507.FSS">
-    <title lang="en">Golf: Korn Ferry Tour</title>
-    <sub-title lang="en">BMW Pro-AM Final Round</sub-title>
+  <programme start="20260622201000 +1000" stop="20260622203000 +1000" channel="506.SPS">
+    <title lang="en">Supercars Mini: Darwin Race 19</title>
+    <sub-title lang="en">Darwin Race 19</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7vdu5.png?maxheight=213&amp;limit=557c0cf81fb9f4cc04ba0597b7b14a5097809d2f" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/1y6in3.png?maxheight=213&amp;limit=1a3a1d3fb01d6e9200e76a64c607984e8258cbbe" />
   </programme>
-  <programme start="20260609170000 +1000" stop="20260609190000 +1000" channel="507.FSS">
-    <title lang="en">USPGA: The Memorial Tournament FR</title>
-    <sub-title lang="en">The Memorial Tournament FR</sub-title>
+  <programme start="20260622203000 +1000" stop="20260622213000 +1000" channel="506.SPS">
+    <title lang="en">Supercars Trackside: Darwin Review</title>
+    <sub-title lang="en">Darwin Review</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/bt01z0.png?maxheight=213&amp;limit=c5692c64f287a44c26db6f3fdf164daab4b7bc6c" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/70on7k.png?maxheight=213&amp;limit=4c80e9784236a0d56b4a5b7fdb7bd2738dd31917" />
   </programme>
-  <programme start="20260609190000 +1000" stop="20260609210000 +1000" channel="507.FSS">
-    <title lang="en">Darts: Nordic Masters Final Day</title>
-    <sub-title lang="en">Nordic Masters Final Day</sub-title>
+  <programme start="20260622213000 +1000" stop="20260622223000 +1000" channel="506.SPS">
+    <title lang="en">MotoGP: Czechia Race</title>
+    <sub-title lang="en">Czechia Race</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6y6vi.png?maxheight=213&amp;limit=23c66e0b7cff5890a6d2e19bf4ecb2b7613ea4ad" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/9vaws.png?maxheight=213&amp;limit=ec29e5e10bb3b9b1521a2407e047b8156cf82b48" />
   </programme>
-  <programme start="20260609210000 +1000" stop="20260609212000 +1000" channel="507.FSS">
-    <title lang="en">Super Netball Mini: R13 SWI v THU</title>
-    <sub-title lang="en">R13 SWI v THU</sub-title>
+  <programme start="20260622223000 +1000" stop="20260622230000 +1000" channel="506.SPS">
+    <title lang="en">MotoGP After the Flag: Czechia</title>
+    <sub-title lang="en">Czechia</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/ju1e6g.png?maxheight=213&amp;limit=33ab30ce6ce5b9112bcc35c1b4b0acf3531027fe" />
   </programme>
-  <programme start="20260609212000 +1000" stop="20260609214000 +1000" channel="507.FSS">
-    <title lang="en">Super Netball Mini: R13 FIR v LIG</title>
-    <sub-title lang="en">R13 FIR v LIG</sub-title>
+  <programme start="20260622230000 +1000" stop="20260623000000 +1000" channel="506.SPS">
+    <title lang="en">Motorsport: NASCAR Cup Highlights</title>
+    <sub-title lang="en">San Diego</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/or4taq.png?maxheight=213&amp;limit=16516f051cd8896278582c1889a9f5776c8ca5cd" />
-  </programme>
-  <programme start="20260609214000 +1000" stop="20260609220000 +1000" channel="507.FSS">
-    <title lang="en">Super Netball Mini: R13 VIX v MAV</title>
-    <sub-title lang="en">R13 VIX v MAV</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/47m3o9.png?maxheight=213&amp;limit=5215c6bde3063de796614af187a7649ab76c5b28" />
-  </programme>
-  <programme start="20260609220000 +1000" stop="20260609222000 +1000" channel="507.FSS">
-    <title lang="en">Super Netball Mini: R13 GIA v FEV</title>
-    <sub-title lang="en">R13 GIA v FEV</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/xby9b0.png?maxheight=213&amp;limit=df8ba5b3e9c4b787394fb1f065a984354072d37e" />
-  </programme>
-  <programme start="20260609222000 +1000" stop="20260609223000 +1000" channel="507.FSS">
-    <title lang="en">My Game: Tiger Woods</title>
-    <sub-title lang="en">My Driving</sub-title>
-    <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6mz88.png?maxheight=213&amp;limit=d8e73b491877c1d5c4cd367d0dfcac4cb047c9f9" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7ej07.png?maxheight=213&amp;limit=c9cc324098a886a73002b8e40ef1e758ed252af7" />
   </programme>
   <programme start="20260609223000 +1000" stop="20260610030000 +1000" channel="507.FSS">
     <title lang="en">Live: Surfing: WSL: El Salvador Day 5</title>
@@ -10680,8 +10784,8 @@
     <desc lang="en" />
   </programme>
   <programme start="20260610080000 +1000" stop="20260610100000 +1000" channel="507.FSS">
-    <title lang="en">USPGA: The Memorial Tournament FR</title>
-    <sub-title lang="en">The Memorial Tournament FR</sub-title>
+    <title lang="en">USPGA: The Memorial Tournament FD</title>
+    <sub-title lang="en">The Memorial Tournament FD</sub-title>
     <desc lang="en" />
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/bt01z0.png?maxheight=213&amp;limit=c5692c64f287a44c26db6f3fdf164daab4b7bc6c" />
   </programme>
@@ -10694,7 +10798,6 @@
     <title lang="en">The Bowls Show</title>
     <sub-title lang="en">Episode 4</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/pp1yci.png?maxheight=213&amp;limit=fb8813e9e425c447f0d1064edf026eafbab9c450" />
   </programme>
   <programme start="20260610120000 +1000" stop="20260610133000 +1000" channel="507.FSS">
     <title lang="en">SailGP: New York Day 1</title>
@@ -10729,7 +10832,6 @@
     <title lang="en">The Bowls Show</title>
     <sub-title lang="en">Episode 4</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/pp1yci.png?maxheight=213&amp;limit=fb8813e9e425c447f0d1064edf026eafbab9c450" />
   </programme>
   <programme start="20260610180000 +1000" stop="20260610190000 +1000" channel="507.FSS">
     <title lang="en">Golf: USPGA: The Memorial</title>
@@ -10911,7 +11013,6 @@
     <title lang="en">F1: Monaco Race</title>
     <sub-title lang="en">Monaco Race</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/bewyvk.png?maxheight=213&amp;limit=3780816971f79182d2d7163b98f820f176ffcbdf" />
   </programme>
   <programme start="20260612120000 +1000" stop="20260612123000 +1000" channel="507.FSS">
     <title lang="en">F1: Paddock Uncut</title>
@@ -11420,7 +11521,6 @@
     <title lang="en">The Bowls Show</title>
     <sub-title lang="en">Episode 5</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/pp1yci.png?maxheight=213&amp;limit=fb8813e9e425c447f0d1064edf026eafbab9c450" />
   </programme>
   <programme start="20260617075500 +1000" stop="20260617085500 +1000" channel="507.FSS">
     <title lang="en">Golf: Asian PGA Tour Highlights</title>
@@ -11450,7 +11550,6 @@
     <title lang="en">The Bowls Show</title>
     <sub-title lang="en">Episode 5</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/pp1yci.png?maxheight=213&amp;limit=fb8813e9e425c447f0d1064edf026eafbab9c450" />
   </programme>
   <programme start="20260617125500 +1000" stop="20260617135500 +1000" channel="507.FSS">
     <title lang="en">Golf: Asian PGA Tour Highlights</title>
@@ -11498,7 +11597,6 @@
     <title lang="en">The Bowls Show</title>
     <sub-title lang="en">Episode 5</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/pp1yci.png?maxheight=213&amp;limit=fb8813e9e425c447f0d1064edf026eafbab9c450" />
   </programme>
   <programme start="20260617175000 +1000" stop="20260618020000 +1000" channel="507.FSS">
     <title lang="en">Live: ODI: IND v AFG Game 2</title>
@@ -11516,7 +11614,6 @@
     <title lang="en">The Bowls Show</title>
     <sub-title lang="en">Episode 5</sub-title>
     <desc lang="en" />
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/pp1yci.png?maxheight=213&amp;limit=fb8813e9e425c447f0d1064edf026eafbab9c450" />
   </programme>
   <programme start="20260618050000 +1000" stop="20260618060000 +1000" channel="507.FSS">
     <title lang="en">Pro Bull Riders Australia</title>
@@ -11808,6 +11905,66 @@
   <programme start="20260621200000 +1000" stop="20260622050000 +1000" channel="507.FSS">
     <title lang="en">Live: Surfing: WSL: Rio Day 3</title>
     <sub-title lang="en">Rio Day 3</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20260622050000 +1000" stop="20260622093000 +1000" channel="507.FSS">
+    <title lang="en">Live: Motorsport: NASCAR Cup Series</title>
+    <sub-title lang="en">San Diego</sub-title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20260622093000 +1000" stop="20260622113000 +1000" channel="507.FSS">
+    <title lang="en">F1: Barcelona Race</title>
+    <sub-title lang="en">Barcelona Race</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/b207rv.png?maxheight=213&amp;limit=a104d3958474036a6ccc922d4ce8552c31bffd16" />
+  </programme>
+  <programme start="20260622113000 +1000" stop="20260622123000 +1000" channel="507.FSS">
+    <title lang="en">Australian Open Bowls: Day 1</title>
+    <sub-title lang="en">Day 1</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7mq5t.png?maxheight=213&amp;limit=fe5d7c177fb95c9d802b85d324b22a5386a276bf" />
+  </programme>
+  <programme start="20260622123000 +1000" stop="20260622133000 +1000" channel="507.FSS">
+    <title lang="en">Australian Open Bowls: Final Day</title>
+    <sub-title lang="en">Final Day</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7mq5t.png?maxheight=213&amp;limit=fe5d7c177fb95c9d802b85d324b22a5386a276bf" />
+  </programme>
+  <programme start="20260622133000 +1000" stop="20260622135000 +1000" channel="507.FSS">
+    <title lang="en">Super Netball Mini</title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20260622135000 +1000" stop="20260622141000 +1000" channel="507.FSS">
+    <title lang="en">Super Netball Mini</title>
+    <desc lang="en" />
+  </programme>
+  <programme start="20260622141000 +1000" stop="20260622145000 +1000" channel="507.FSS">
+    <title lang="en">PIVOT</title>
+    <sub-title lang="en">Round 14</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/kmofcd.png?maxheight=213&amp;limit=7d8371de39440936bfb000ba5f313e4b789fab34" />
+  </programme>
+  <programme start="20260622145000 +1000" stop="20260622165000 +1000" channel="507.FSS">
+    <title lang="en">Golf: USLPGA: Meijer LPGA Classic Final</title>
+    <sub-title lang="en">Meijer LPGA Classic Final Round</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/jc9c2j.png?maxheight=213&amp;limit=cedb2dc8c6727fe6139ced6df448817136aa6aed" />
+  </programme>
+  <programme start="20260622165000 +1000" stop="20260622182000 +1000" channel="507.FSS">
+    <title lang="en">SailGP: Canada Day 1</title>
+    <sub-title lang="en">Canada Day 1</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/64rvf1.png?maxheight=213&amp;limit=72f4b008f1c30fa944cc67c194e54568b68992f6" />
+  </programme>
+  <programme start="20260622182000 +1000" stop="20260622200000 +1000" channel="507.FSS">
+    <title lang="en">SailGP: Canada Day 2</title>
+    <sub-title lang="en">Canada Day 2</sub-title>
+    <desc lang="en" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/64rvf1.png?maxheight=213&amp;limit=72f4b008f1c30fa944cc67c194e54568b68992f6" />
+  </programme>
+  <programme start="20260622200000 +1000" stop="20260623050000 +1000" channel="507.FSS">
+    <title lang="en">Live: Surfing: WSL: Rio Day 4</title>
+    <sub-title lang="en">Rio Day 4</sub-title>
     <desc lang="en" />
   </programme>
 </tv>
