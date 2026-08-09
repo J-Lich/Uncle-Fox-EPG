@@ -6540,35 +6540,11 @@
       <value>UNRATED</value>
     </rating>
   </programme>
-  <channel id="SkySp.F1.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1306.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1306.png" />
+  <channel id="SkySp.Fball.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3939.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3939.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp F1</display-name>
-  </channel>
-  <channel id="SkySp.Cricket.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1302.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1302.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp Cricket</display-name>
-  </channel>
-  <channel id="TNT.Sports.2.HD.uk">
-    <icon src="https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png" />
-    <icon src="https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png" />
-    <url>http://www.tvguide.co.uk</url>
-    <display-name lang="en">TNT Sports 2 HD</display-name>
-  </channel>
-  <channel id="SkySp.Tennis.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1284.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1284.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp Tennis HD</display-name>
-  </channel>
-  <channel id="TNT.Sports.1.HD.uk">
-    <icon src="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" />
-    <icon src="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" />
-    <url>http://www.tvguide.co.uk</url>
-    <display-name lang="en">TNT Sports 1 HD</display-name>
+    <display-name lang="en">SkySp Fball HD</display-name>
   </channel>
   <channel id="TNT.Sports.3.HD.uk">
     <icon src="https://tv.assets.pressassociation.io/75c9df5d-d2d8-5d04-92ac-d9973c082c72.png" />
@@ -6576,11 +6552,47 @@
     <url>http://www.tvguide.co.uk</url>
     <display-name lang="en">TNT Sports 3 HD</display-name>
   </channel>
-  <channel id="SkySp.Fball.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3939.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3939.png" />
+  <channel id="SkySp.Tennis.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1284.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1284.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp Fball HD</display-name>
+    <display-name lang="en">SkySp Tennis HD</display-name>
+  </channel>
+  <channel id="TNT.Sports.2.HD.uk">
+    <icon src="https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png" />
+    <icon src="https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png" />
+    <url>http://www.tvguide.co.uk</url>
+    <display-name lang="en">TNT Sports 2 HD</display-name>
+  </channel>
+  <channel id="SkySp.Golf.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1322.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1322.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySp Golf</display-name>
+  </channel>
+  <channel id="SkySp.Fball.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3838.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3838.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySp Fball</display-name>
+  </channel>
+  <channel id="SkySp.Cricket.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1302.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1302.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySp Cricket</display-name>
+  </channel>
+  <channel id="SkySp.F1.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1306.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1306.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySp F1</display-name>
+  </channel>
+  <channel id="TNT.Sports.1.HD.uk">
+    <icon src="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" />
+    <icon src="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" />
+    <url>http://www.tvguide.co.uk</url>
+    <display-name lang="en">TNT Sports 1 HD</display-name>
   </channel>
   <channel id="SkySp.Racing.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1354.png" />
@@ -6593,205 +6605,6 @@
     <url>http://www.tvguide.co.uk</url>
     <display-name lang="en">TNT Sports 4 HD</display-name>
   </channel>
-  <channel id="SkySp.Fball.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3838.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3838.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp Fball</display-name>
-  </channel>
-  <channel id="SkySp.Golf.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1322.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1322.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp Golf</display-name>
-  </channel>
-  <programme channel="SkySp.Cricket.uk" start="20260807003000 +0000" stop="20260807004500 +0000">
-    <title lang="en">Women's The Hundred M23</title>
-    <desc lang="en">On the brink of Women's Hundred elimination, London Spirit meet rivals from the capital MI London. A win over their visitors would be a big boost to Spirit's slim play-off chances. (06.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f753453a-1f42-49fd-9b30-75062b7ebf80/16-9" />
-    <episode-num system="onscreen">08</episode-num>
-  </programme>
-  <programme channel="SkySp.Cricket.uk" start="20260807004500 +0000" stop="20260807010000 +0000">
-    <title lang="en">Men's The Hundred M23</title>
-    <desc lang="en">MI London return to action with a short trip to Lord's to face rivals London Spirit. The visitors recorded victory over the Super Giants previously - their third in five games. (06.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/2e72395e-d582-44aa-87b6-9390289af1dc/16-9" />
-    <episode-num system="onscreen">08</episode-num>
-  </programme>
-  <programme channel="SkySp.Cricket.uk" start="20260807010000 +0000" stop="20260807041500 +0000">
-    <title lang="en">The Hundred</title>
-    <desc lang="en">On the brink of Women's Hundred elimination, London Spirit meet rivals from the capital MI London. A win over their winless visitors would be a big boost to Spirit's slim play-off chances.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/bc0484c9-174a-4929-afc6-507a655666db/16-9" />
-    <episode-num system="xmltv_ns">.22.</episode-num>
-  </programme>
-  <programme channel="SkySp.Cricket.uk" start="20260807041500 +0000" stop="20260807043000 +0000">
-    <title lang="en">ICC Men's T20 WC: ENG v AUS 2010</title>
-    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit England's victorious 2010 final against old rivals Australia.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/1d4f50a7-1dfe-457c-8faf-2054224640eb/16-9" />
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.Cricket.uk" start="20260807043000 +0000" stop="20260807044500 +0000">
-    <title lang="en">ICC Men's T20 WC: IND v AUS 2016</title>
-    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit a match between India and Australia in 2016.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/8521a8fa-8f80-4d00-95e0-ee7d9fbf8718/16-9" />
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.Cricket.uk" start="20260807044500 +0000" stop="20260807050000 +0000">
-    <title lang="en">Men's The Hundred M14</title>
-    <desc lang="en">The top two in the Men's Hundred, Manchester Super Giants and Trent Rockets, meet at Old Trafford. The Super Giants' winning start came to an end at the hands of the SunRisers. (31.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/63887390-fbca-4c74-8927-05a37018604d/16-9" />
-    <episode-num system="onscreen">07</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.Cricket.uk" start="20260807050000 +0000" stop="20260807081500 +0000">
-    <title lang="en">The Hundred</title>
-    <desc lang="en">On the brink of Women's Hundred elimination, London Spirit meet rivals from the capital MI London. A win over their winless visitors would be a big boost to Spirit's slim play-off chances.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/bc0484c9-174a-4929-afc6-507a655666db/16-9" />
-    <episode-num system="xmltv_ns">.22.</episode-num>
-  </programme>
-  <programme channel="SkySp.Cricket.uk" start="20260807081500 +0000" stop="20260807083000 +0000">
-    <title lang="en">Women's The Hundred M22</title>
-    <desc lang="en">Trent Rockets face Birmingham Phoenix in the Women's Hundred. (05.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/461fdfaa-59c9-4f91-bba8-0d651890a748/16-9" />
-    <episode-num system="onscreen">08</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.Cricket.uk" start="20260807083000 +0000" stop="20260807084500 +0000">
-    <title lang="en">Women's The Hundred M19</title>
-    <desc lang="en">The Women's Hundred table toppers Southern Brave go again as Lauren Bell and co face Welsh Fire at Sophia Gardens in Cardiff. Brave look to maintain their perfect record so far. (03.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/72818a43-18ef-40e3-9498-a2d46c7f7e57/16-9" />
-    <episode-num system="onscreen">08</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.Cricket.uk" start="20260807084500 +0000" stop="20260807090000 +0000">
-    <title lang="en">Men's The Hundred M21</title>
-    <desc lang="en">Joe Root and Welsh Fire head to Manchester looking to inflict a fourth consecutive defeat upon the Super Giants, whose latest slip came at the Oval in a 45-run loss to MI London. (05.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/661d5354-865f-40f2-9cd7-fe504b545242/16-9" />
-    <episode-num system="onscreen">08</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.Cricket.uk" start="20260807090000 +0000" stop="20260807091500 +0000">
-    <title lang="en">Women's The Hundred M23</title>
-    <desc lang="en">On the brink of Women's Hundred elimination, London Spirit meet rivals from the capital MI London. A win over their visitors would be a big boost to Spirit's slim play-off chances. (06.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f753453a-1f42-49fd-9b30-75062b7ebf80/16-9" />
-    <episode-num system="onscreen">08</episode-num>
-  </programme>
-  <programme channel="SkySp.Cricket.uk" start="20260807091500 +0000" stop="20260807093000 +0000">
-    <title lang="en">Men's The Hundred M23</title>
-    <desc lang="en">MI London return to action with a short trip to Lord's to face rivals London Spirit. The visitors recorded victory over the Super Giants previously - their third in five games. (06.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/2e72395e-d582-44aa-87b6-9390289af1dc/16-9" />
-    <episode-num system="onscreen">08</episode-num>
-  </programme>
-  <programme channel="SkySp.Cricket.uk" start="20260807093000 +0000" stop="20260807094500 +0000">
-    <title lang="en">Women's The Hundred M22</title>
-    <desc lang="en">Trent Rockets face Birmingham Phoenix in the Women's Hundred. (05.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/461fdfaa-59c9-4f91-bba8-0d651890a748/16-9" />
-    <episode-num system="onscreen">08</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.Cricket.uk" start="20260807094500 +0000" stop="20260807131500 +0000">
-    <title lang="en">Men's The Hundred</title>
-    <desc lang="en">MI London return to action with a short trip to Lord's to face rivals London Spirit. The visitors recorded victory over the Super Giants previously - their third in five games.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/2dfb839b-0596-4182-a70c-a11665134b9d/16-9" />
-    <episode-num system="xmltv_ns">.22.</episode-num>
-  </programme>
-  <programme channel="SkySp.Cricket.uk" start="20260807131500 +0000" stop="20260807133000 +0000">
-    <title lang="en">Women's The Hundred M23</title>
-    <desc lang="en">On the brink of Women's Hundred elimination, London Spirit meet rivals from the capital MI London. A win over their visitors would be a big boost to Spirit's slim play-off chances. (06.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f753453a-1f42-49fd-9b30-75062b7ebf80/16-9" />
-    <episode-num system="onscreen">08</episode-num>
-  </programme>
-  <programme channel="SkySp.Cricket.uk" start="20260807133000 +0000" stop="20260807134500 +0000">
-    <title lang="en">Men's The Hundred M23</title>
-    <desc lang="en">MI London return to action with a short trip to Lord's to face rivals London Spirit. The visitors recorded victory over the Super Giants previously - their third in five games. (06.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/2e72395e-d582-44aa-87b6-9390289af1dc/16-9" />
-    <episode-num system="onscreen">08</episode-num>
-  </programme>
-  <programme channel="SkySp.Cricket.uk" start="20260807134500 +0000" stop="20260807170000 +0000">
-    <title lang="en">Live: The Hundred</title>
-    <desc lang="en">With qualification still a possibility for SunRisers after a crucial Annabel Sutherland-inspired win over Spirit, can the visitors pick up another crucial victory against Phoenix.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/4fffc1b3-82d9-4436-9e4b-5fbd86169ab9/16-9" />
-    <episode-num system="xmltv_ns">.23.</episode-num>
-  </programme>
-  <programme channel="SkySp.Cricket.uk" start="20260807170000 +0000" stop="20260807203000 +0000">
-    <title lang="en">Live: The Hundred</title>
-    <desc lang="en">Birmingham Phoenix face Leeds in the Men's Hundred. Last time out against Spirit, SunRisers came out on top in the Hundred's highest-scoring game ever - including their total of 241.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/c23fe739-dc20-4e39-83b1-d995610d800c/16-9" />
-    <episode-num system="xmltv_ns">.23.</episode-num>
-  </programme>
-  <programme channel="SkySp.Cricket.uk" start="20260807203000 +0000" stop="20260807204500 +0000">
-    <title lang="en">Women's The Hundred M24</title>
-    <desc lang="en">With qualification still a possibility for SunRisers after a crucial Annabel Sutherland-inspired win over Spirit, can the visitors pick up another crucial victory against Phoenix? (07.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/0e91624d-1f3a-4f21-be5f-50037e2b3236/16-9" />
-    <episode-num system="onscreen">08</episode-num>
-  </programme>
-  <programme channel="SkySp.Cricket.uk" start="20260807204500 +0000" stop="20260807210000 +0000">
-    <title lang="en">Men's The Hundred M24</title>
-    <desc lang="en">Birmingham face Leeds in the Men's Hundred. Last time out against Spirit, SunRisers came out on top in the Hundred's highest-scoring game ever - including their total of 241. (07.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/72f530ec-ae5a-4803-8ac8-e25853e728a3/16-9" />
-    <episode-num system="onscreen">08</episode-num>
-  </programme>
-  <programme channel="SkySp.Cricket.uk" start="20260807210000 +0000" stop="20260808003000 +0000">
-    <title lang="en">The Hundred</title>
-    <desc lang="en">Birmingham Phoenix face Leeds in the Men's Hundred. Last time out against Spirit, SunRisers came out on top in the Hundred's highest-scoring game ever - including their total of 241.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://images.metadata.sky.com/pd-image/c23fe739-dc20-4e39-83b1-d995610d800c/16-9" />
-    <episode-num system="xmltv_ns">.23.</episode-num>
-  </programme>
   <programme channel="SkySp.Cricket.uk" start="20260808003000 +0000" stop="20260808004500 +0000">
     <title lang="en">Women's The Hundred M24</title>
     <desc lang="en">With qualification still a possibility for SunRisers after a crucial Annabel Sutherland-inspired win over Spirit, can the visitors pick up another crucial victory against Phoenix? (07.</desc>
@@ -6917,7 +6730,7 @@
   </programme>
   <programme channel="SkySp.Cricket.uk" start="20260808094500 +0000" stop="20260808130000 +0000">
     <title lang="en">Live: The Hundred</title>
-    <desc lang="en">MI London take on Trent Rockets in the Women's Hundred.</desc>
+    <desc lang="en">Trent Rockets, the team to beat in the Women's Hundred this year, head to the Oval searching for a fifth consecutive win. Hosts MI London ended their wait for a win previously.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/164d89d9-7211-4e7f-b3d0-c26f773b7891/16-9" />
@@ -6925,7 +6738,7 @@
   </programme>
   <programme channel="SkySp.Cricket.uk" start="20260808130000 +0000" stop="20260808163000 +0000">
     <title lang="en">Live: The Hundred</title>
-    <desc lang="en">MI London and Trent Rockets clash in the Men's Hundred.</desc>
+    <desc lang="en">The Hundred's form side Trent Rockets attempt to extend their lead at the summit with a visit to the Oval to face MI London - also on a fine run of form, winning their last two.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/645f3538-61e1-49e1-9c07-e11039c98743/16-9" />
@@ -6933,7 +6746,7 @@
   </programme>
   <programme channel="SkySp.Cricket.uk" start="20260808163000 +0000" stop="20260808200000 +0000">
     <title lang="en">Live: The Hundred</title>
-    <desc lang="en">In the Men's Hundred, Southern Brave face Manchester Super Giants.</desc>
+    <desc lang="en">In the Men's Hundred, Southern Brave face Manchester Super Giants, whose star batter Jos Buttler became the leading run scorer in T20 history in his team's win over Welsh Fire previously.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/ea3fc1d6-4fdb-447d-b95d-c08581df754e/16-9" />
@@ -6941,7 +6754,7 @@
   </programme>
   <programme channel="SkySp.Cricket.uk" start="20260808200000 +0000" stop="20260808201500 +0000">
     <title lang="en">Women's The Hundred M25</title>
-    <desc lang="en">MI London take on Trent Rockets in the Women's Hundred.</desc>
+    <desc lang="en">Trent Rockets, the team to beat in the Women's Hundred this year, head to the Oval searching for a fifth consecutive win. Hosts MI London ended their wait for a win previously.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/956047f4-b008-4cee-b6bd-7d4d85262403/16-9" />
@@ -6949,7 +6762,7 @@
   </programme>
   <programme channel="SkySp.Cricket.uk" start="20260808201500 +0000" stop="20260808203000 +0000">
     <title lang="en">Women's The Hundred M26</title>
-    <desc lang="en">In the Women's Hundred, Southern Brave play Manchester Super Giants.</desc>
+    <desc lang="en">In the Women's Hundred, second meets third as Lauren Bell's Southern Brave and Sophie Ecclestone's Manchester Super Giants collide in Southampton. Both sides come from defeat.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/7c9ce57a-5100-44f2-9a96-8911e12fd6e2/16-9" />
@@ -6957,7 +6770,7 @@
   </programme>
   <programme channel="SkySp.Cricket.uk" start="20260808203000 +0000" stop="20260808204500 +0000">
     <title lang="en">Men's The Hundred M25</title>
-    <desc lang="en">MI London face Trent Rockets in the Men's Hundred.</desc>
+    <desc lang="en">The Hundred's form side Trent Rockets attempt to extend their lead at the summit with a visit to the Oval to face MI London - also on a fine run of form, winning their last two.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/1e9e5cb7-c277-42a8-a7fa-d2570b546e30/16-9" />
@@ -6965,7 +6778,7 @@
   </programme>
   <programme channel="SkySp.Cricket.uk" start="20260808204500 +0000" stop="20260808210000 +0000">
     <title lang="en">Men's The Hundred M26</title>
-    <desc lang="en">In the Men's Hundred, Southern Brave face Manchester Super Giants.</desc>
+    <desc lang="en">In the Men's Hundred, Southern Brave face Manchester Super Giants, whose star batter Jos Buttler became the leading run scorer in T20 history in his team's win over Welsh Fire.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/e1e2eb33-eda2-414b-9adf-72f786e66a6c/16-9" />
@@ -6973,7 +6786,7 @@
   </programme>
   <programme channel="SkySp.Cricket.uk" start="20260808210000 +0000" stop="20260809003000 +0000">
     <title lang="en">The Hundred</title>
-    <desc lang="en">MI London and Trent Rockets clash in the Men's Hundred.</desc>
+    <desc lang="en">The Hundred's form side Trent Rockets attempt to extend their lead at the summit with a visit to the Oval to face MI London - also on a fine run of form, winning their last two.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/645f3538-61e1-49e1-9c07-e11039c98743/16-9" />
@@ -6981,7 +6794,7 @@
   </programme>
   <programme channel="SkySp.Cricket.uk" start="20260809003000 +0000" stop="20260809004500 +0000">
     <title lang="en">Men's The Hundred M25</title>
-    <desc lang="en">MI London face Trent Rockets in the Men's Hundred.</desc>
+    <desc lang="en">The Hundred's form side Trent Rockets attempt to extend their lead at the summit with a visit to the Oval to face MI London - also on a fine run of form, winning their last two.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/1e9e5cb7-c277-42a8-a7fa-d2570b546e30/16-9" />
@@ -6989,7 +6802,7 @@
   </programme>
   <programme channel="SkySp.Cricket.uk" start="20260809004500 +0000" stop="20260809010000 +0000">
     <title lang="en">Men's The Hundred M26</title>
-    <desc lang="en">In the Men's Hundred, Southern Brave face Manchester Super Giants.</desc>
+    <desc lang="en">In the Men's Hundred, Southern Brave face Manchester Super Giants, whose star batter Jos Buttler became the leading run scorer in T20 history in his team's win over Welsh Fire.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/e1e2eb33-eda2-414b-9adf-72f786e66a6c/16-9" />
@@ -6997,7 +6810,7 @@
   </programme>
   <programme channel="SkySp.Cricket.uk" start="20260809010000 +0000" stop="20260809041500 +0000">
     <title lang="en">The Hundred</title>
-    <desc lang="en">MI London take on Trent Rockets in the Women's Hundred.</desc>
+    <desc lang="en">Trent Rockets, the team to beat in the Women's Hundred this year, head to the Oval searching for a fifth consecutive win. Hosts MI London ended their wait for a win previously.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/164d89d9-7211-4e7f-b3d0-c26f773b7891/16-9" />
@@ -7036,7 +6849,7 @@
   </programme>
   <programme channel="SkySp.Cricket.uk" start="20260809050000 +0000" stop="20260809081500 +0000">
     <title lang="en">The Hundred</title>
-    <desc lang="en">In the Women's Hundred, Southern Brave play Manchester Super Giants.</desc>
+    <desc lang="en">In the Women's Hundred, second meets third as Lauren Bell's Southern Brave and Sophie Ecclestone's Manchester Super Giants collide in Southampton. Both sides come from defeat.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/a85a4231-5389-4d25-97dd-c2339672e0a6/16-9" />
@@ -7066,7 +6879,7 @@
   </programme>
   <programme channel="SkySp.Cricket.uk" start="20260809084500 +0000" stop="20260809090000 +0000">
     <title lang="en">Women's The Hundred M25</title>
-    <desc lang="en">MI London take on Trent Rockets in the Women's Hundred.</desc>
+    <desc lang="en">Trent Rockets, the team to beat in the Women's Hundred this year, head to the Oval searching for a fifth consecutive win. Hosts MI London ended their wait for a win previously.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/956047f4-b008-4cee-b6bd-7d4d85262403/16-9" />
@@ -7074,7 +6887,7 @@
   </programme>
   <programme channel="SkySp.Cricket.uk" start="20260809090000 +0000" stop="20260809091500 +0000">
     <title lang="en">Women's The Hundred M26</title>
-    <desc lang="en">In the Women's Hundred, Southern Brave play Manchester Super Giants.</desc>
+    <desc lang="en">In the Women's Hundred, second meets third as Lauren Bell's Southern Brave and Sophie Ecclestone's Manchester Super Giants collide in Southampton. Both sides come from defeat.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/7c9ce57a-5100-44f2-9a96-8911e12fd6e2/16-9" />
@@ -7082,7 +6895,7 @@
   </programme>
   <programme channel="SkySp.Cricket.uk" start="20260809091500 +0000" stop="20260809093000 +0000">
     <title lang="en">Men's The Hundred M25</title>
-    <desc lang="en">MI London face Trent Rockets in the Men's Hundred.</desc>
+    <desc lang="en">The Hundred's form side Trent Rockets attempt to extend their lead at the summit with a visit to the Oval to face MI London - also on a fine run of form, winning their last two.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/1e9e5cb7-c277-42a8-a7fa-d2570b546e30/16-9" />
@@ -7090,7 +6903,7 @@
   </programme>
   <programme channel="SkySp.Cricket.uk" start="20260809093000 +0000" stop="20260809094500 +0000">
     <title lang="en">Men's The Hundred M26</title>
-    <desc lang="en">In the Men's Hundred, Southern Brave face Manchester Super Giants.</desc>
+    <desc lang="en">In the Men's Hundred, Southern Brave face Manchester Super Giants, whose star batter Jos Buttler became the leading run scorer in T20 history in his team's win over Welsh Fire.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Cricket</category>
     <icon src="https://images.metadata.sky.com/pd-image/e1e2eb33-eda2-414b-9adf-72f786e66a6c/16-9" />
@@ -7341,276 +7154,186 @@
     <icon src="https://images.metadata.sky.com/pd-image/2a6399ea-2927-4403-872c-4c1bf178e32f/16-9" />
     <episode-num system="xmltv_ns">.28.</episode-num>
   </programme>
-  <programme channel="SkySp.F1.uk" start="20260807000000 +0000" stop="20260807010000 +0000">
-    <title lang="en">F1 Explained...</title>
-    <desc lang="en">A round-up of the F1 Explained series, as Sky F1's leading voices unpack the intricacies of the sport.</desc>
+  <programme channel="SkySp.Cricket.uk" start="20260811003000 +0000" stop="20260811004500 +0000">
+    <title lang="en">Women's The Hundred M29</title>
+    <desc lang="en">Trent Rockets face Southern Brave in the Women's Hundred. (10.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/64db3d65-ede9-4639-9467-6de48715f5b7/16-9" />
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0e9f248f-9655-49d0-9e29-ee6154f2a571/16-9" />
+    <episode-num system="onscreen">08</episode-num>
+  </programme>
+  <programme channel="SkySp.Cricket.uk" start="20260811004500 +0000" stop="20260811010000 +0000">
+    <title lang="en">Men's The Hundred M29</title>
+    <desc lang="en">Trent Rockets face Southern Brave in the Men's Hundred. (10.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5ae4a1fb-cd24-4f3b-83b9-b8ba08d2f019/16-9" />
+    <episode-num system="onscreen">08</episode-num>
+  </programme>
+  <programme channel="SkySp.Cricket.uk" start="20260811010000 +0000" stop="20260811041500 +0000">
+    <title lang="en">The Hundred</title>
+    <desc lang="en">Trent Rockets face Southern Brave in the Women's Hundred.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/34f6f8ff-489d-422a-8e9e-134d981c7281/16-9" />
+    <episode-num system="xmltv_ns">.28.</episode-num>
+  </programme>
+  <programme channel="SkySp.Cricket.uk" start="20260811041500 +0000" stop="20260811043000 +0000">
+    <title lang="en">ICC Men's T20 WC: ENG v AUS 2010</title>
+    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit England's victorious 2010 final against old rivals Australia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1d4f50a7-1dfe-457c-8faf-2054224640eb/16-9" />
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.F1.uk" start="20260807010000 +0000" stop="20260807012500 +0000">
-    <title lang="en">The Best of Australia 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the season-opening Australian Grand Prix.</desc>
+  <programme channel="SkySp.Cricket.uk" start="20260811043000 +0000" stop="20260811044500 +0000">
+    <title lang="en">ICC Men's T20 WC: IND v AUS 2016</title>
+    <desc lang="en">Over the years, the ICC Men's T20 World Cup has thrown up a host of classic encounters. Here, revisit a match between India and Australia in 2016.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/4253a97b-6531-4cea-84ce-4bdc48c1a814/16-9" />
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8521a8fa-8f80-4d00-95e0-ee7d9fbf8718/16-9" />
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.F1.uk" start="20260807012500 +0000" stop="20260807020000 +0000">
-    <title lang="en">The Best of Britain 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 British Grand Prix.</desc>
+  <programme channel="SkySp.Cricket.uk" start="20260811044500 +0000" stop="20260811050000 +0000">
+    <title lang="en">Men's The Hundred M14</title>
+    <desc lang="en">The top two in the Men's Hundred, Manchester Super Giants and Trent Rockets, meet at Old Trafford. The Super Giants' winning start came to an end at the hands of the SunRisers. (31.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/96939cb7-53b6-4e9c-b92b-b6326d00ff7d/16-9" />
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.F1.uk" start="20260807020000 +0000" stop="20260807021500 +0000">
-    <title lang="en">The Best of Japan 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Japanese Grand Prix.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/ed59a4b8-0354-4bde-a572-7e8718ea4c7d/16-9" />
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.F1.uk" start="20260807021500 +0000" stop="20260807030000 +0000">
-    <title lang="en">The Best of Miami 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Miami Grand Prix.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/a5efcfb6-dacf-4aa6-979f-4b5947ab2a19/16-9" />
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.F1.uk" start="20260807030000 +0000" stop="20260807032500 +0000">
-    <title lang="en">The Best of Australia 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the season-opening Australian Grand Prix.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/4253a97b-6531-4cea-84ce-4bdc48c1a814/16-9" />
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.F1.uk" start="20260807032500 +0000" stop="20260807040000 +0000">
-    <title lang="en">The Best of Britain 2026</title>
-    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 British Grand Prix.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/96939cb7-53b6-4e9c-b92b-b6326d00ff7d/16-9" />
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.F1.uk" start="20260807040000 +0000" stop="20260807050000 +0000">
-    <title lang="en">F1 Explained...</title>
-    <desc lang="en">A round-up of the F1 Explained series, as Sky F1's leading voices unpack the intricacies of the sport.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/64db3d65-ede9-4639-9467-6de48715f5b7/16-9" />
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.F1.uk" start="20260807050000 +0000" stop="20260807060000 +0000">
-    <title lang="en">F1 2026: The Story So Far...</title>
-    <sub-title lang="en">It's lights out at Silverstone</sub-title>
-    <desc lang="en">Kimi Antonelli and Charles Leclerc form the front row with Lewis Hamilton, chasing a 10th British Grand Prix win, in third. George Russell starts P4. (05.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/b1825960-3b0d-420d-bb99-f9c7624f8668/16-9" />
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/63887390-fbca-4c74-8927-05a37018604d/16-9" />
     <episode-num system="onscreen">07</episode-num>
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.F1.uk" start="20260807060000 +0000" stop="20260807070000 +0000">
-    <title lang="en">F1 2026: The Story So Far...</title>
-    <desc lang="en">It's lights out at Spa for the 2026 Belgian Grand Prix. A year ago, it was Oscar Piastri who prevailed in a wet-dry race, keeping McLaren teammate Lando Norris at bay. (19.</desc>
+  <programme channel="SkySp.Cricket.uk" start="20260811050000 +0000" stop="20260811081500 +0000">
+    <title lang="en">The Hundred</title>
+    <desc lang="en">Trent Rockets face Southern Brave in the Women's Hundred.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/17ee401d-8ff0-4477-af63-ec420459753b/16-9" />
-    <episode-num system="onscreen">07</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/34f6f8ff-489d-422a-8e9e-134d981c7281/16-9" />
+    <episode-num system="xmltv_ns">.28.</episode-num>
   </programme>
-  <programme channel="SkySp.F1.uk" start="20260807070000 +0000" stop="20260807080000 +0000">
-    <title lang="en">F1 2026: The Story So Far...</title>
-    <desc lang="en">It's lights out at the Hungaroring in Budapest for the 2026 Hungarian Grand Prix. (26.</desc>
+  <programme channel="SkySp.Cricket.uk" start="20260811081500 +0000" stop="20260811083000 +0000">
+    <title lang="en">Women's The Hundred M27</title>
+    <desc lang="en">SunRisers Leeds meet Welsh Fire in the Women's Hundred. (09.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/9c9ec2b8-ea38-40b2-8311-5be5654f2171/16-9" />
-    <episode-num system="onscreen">07</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5d4ee5b7-e807-43cb-8d10-28bf8a489148/16-9" />
+    <episode-num system="onscreen">08</episode-num>
   </programme>
-  <programme channel="SkySp.F1.uk" start="20260807080000 +0000" stop="20260807090000 +0000">
-    <title lang="en">Canadian F1 GP Sprint</title>
-    <desc lang="en">Montreal sees the third of six F1 Sprints this season. Polesitter George Russell shares the front row with teammate Kimi Antonelli, while McLaren's Lando Norris lines up third. (23.</desc>
+  <programme channel="SkySp.Cricket.uk" start="20260811083000 +0000" stop="20260811084500 +0000">
+    <title lang="en">Women's The Hundred M28</title>
+    <desc lang="en">London Spirit and Birmingham Phoenix compete in the Women's Hundred. (09.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/bb87055e-023a-47de-ab86-aedf2ee71170/16-9" />
-    <episode-num system="onscreen">05</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/64bdfab5-008f-43c1-8bf8-89129921dbde/16-9" />
+    <episode-num system="onscreen">08</episode-num>
   </programme>
-  <programme channel="SkySp.F1.uk" start="20260807090000 +0000" stop="20260807111500 +0000">
-    <title lang="en">Canadian F1 Grand Prix</title>
-    <desc lang="en">It's lights out for the Canadian Grand Prix. Russell leads a Mercedes front-row lockout with Norris starting third. Piastri and Hamilton round out the top five. (24.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9535798a-8c08-4ec6-b2ba-fd27d5c1cce5/16-9" />
-    <episode-num system="onscreen">05</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.F1.uk" start="20260807111500 +0000" stop="20260807114500 +0000">
-    <title lang="en">Ted's Notebook</title>
-    <desc lang="en">Ted Kravitz is live following the Canadian Grand Prix, as he shares his thoughts on the race while gathering reaction from the paddock.</desc>
+  <programme channel="SkySp.Cricket.uk" start="20260811084500 +0000" stop="20260811090000 +0000">
+    <title lang="en">Men's The Hundred M27</title>
+    <desc lang="en">SunRisers Leeds play Welsh Fire in the Men's Hundred. (09.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/22afd907-662a-4769-88b6-540b3fb4737c/16-9" />
-    <episode-num system="xmltv_ns">.273.</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1234d1cf-28de-42b3-bfdc-aa0791881521/16-9" />
+    <episode-num system="onscreen">08</episode-num>
   </programme>
-  <programme channel="SkySp.F1.uk" start="20260807114500 +0000" stop="20260807120000 +0000">
-    <title lang="en">Ollie Bearman Drives Ayrton Senna'</title>
-    <desc lang="en">Haas' British star Ollie Bearman pilots Ayrton Senna's legendary Lotus in an emotionally charged drive around Silverstone.</desc>
+  <programme channel="SkySp.Cricket.uk" start="20260811090000 +0000" stop="20260811091500 +0000">
+    <title lang="en">Men's The Hundred M28</title>
+    <desc lang="en">London Spirit play Birmingham Phoenix in the Men's Hundred. (09.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/05443205-a6ba-4d8b-b0d7-739c85ade27f/16-9" />
-    <rating system="UK">
-      <value>U</value>
-    </rating>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/52042cc5-459b-4b74-bf9c-afca005b0f67/16-9" />
+    <episode-num system="onscreen">08</episode-num>
   </programme>
-  <programme channel="SkySp.F1.uk" start="20260807120000 +0000" stop="20260807143000 +0000">
-    <title lang="en">Monaco F1 Grand Prix</title>
-    <sub-title lang="en">It's lights out in Monaco</sub-title>
-    <desc lang="en">Kimi Antonelli holds all the cards as Max Verstappen and Lewis Hamilton hope to capitalise off the line. Home favourite Charles Leclerc starts fourth. (07.</desc>
+  <programme channel="SkySp.Cricket.uk" start="20260811091500 +0000" stop="20260811093000 +0000">
+    <title lang="en">Women's The Hundred M22</title>
+    <desc lang="en">Trent Rockets face Birmingham Phoenix in the Women's Hundred. (05.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/85e56973-06b4-4bb4-9e68-ee58013d1e28/16-9" />
-    <episode-num system="onscreen">06</episode-num>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/461fdfaa-59c9-4f91-bba8-0d651890a748/16-9" />
+    <episode-num system="onscreen">08</episode-num>
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.F1.uk" start="20260807143000 +0000" stop="20260807150000 +0000">
-    <title lang="en">The Great British Fish &amp; Chip Challenge</title>
-    <desc lang="en">At their home grand prix, British drivers Lando Norris, George Russell, Ollie Bearman and Arvid Lindblad have a go at making fish and chips.</desc>
+  <programme channel="SkySp.Cricket.uk" start="20260811093000 +0000" stop="20260811094500 +0000">
+    <title lang="en">Women's The Hundred M19</title>
+    <desc lang="en">The Women's Hundred table toppers Southern Brave go again as Lauren Bell and co face Welsh Fire at Sophia Gardens in Cardiff. Brave look to maintain their perfect record so far. (03.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/3b65c2c0-48fa-4f7e-b1d8-6147c6c8b68c/16-9" />
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/72818a43-18ef-40e3-9498-a2d46c7f7e57/16-9" />
+    <episode-num system="onscreen">08</episode-num>
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.F1.uk" start="20260807150000 +0000" stop="20260807160000 +0000">
-    <title lang="en">Canadian F1 GP Highlights</title>
-    <desc lang="en">It's lights out for the Canadian Grand Prix. Russell leads a Mercedes front-row lockout with Norris starting third. Piastri and Hamilton round out the top five. (24.</desc>
+  <programme channel="SkySp.Cricket.uk" start="20260811094500 +0000" stop="20260811131500 +0000">
+    <title lang="en">Men's The Hundred</title>
+    <desc lang="en">Trent Rockets face Southern Brave in the Men's Hundred.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/48c6be08-76c8-4a16-a023-330fc54d5c97/16-9" />
-    <episode-num system="onscreen">05</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2a6399ea-2927-4403-872c-4c1bf178e32f/16-9" />
+    <episode-num system="xmltv_ns">.28.</episode-num>
   </programme>
-  <programme channel="SkySp.F1.uk" start="20260807160000 +0000" stop="20260807170000 +0000">
-    <title lang="en">Monaco F1 GP Highlights</title>
-    <sub-title lang="en">It's lights out in Monaco</sub-title>
-    <desc lang="en">Kimi Antonelli holds all the cards as Max Verstappen and Lewis Hamilton hope to capitalise off the line. Home favourite Charles Leclerc starts fourth. (07.</desc>
+  <programme channel="SkySp.Cricket.uk" start="20260811131500 +0000" stop="20260811133000 +0000">
+    <title lang="en">Women's The Hundred M29</title>
+    <desc lang="en">Trent Rockets face Southern Brave in the Women's Hundred. (10.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/f139f5a5-7eca-4535-93e0-70e33e013fe9/16-9" />
-    <episode-num system="onscreen">06</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0e9f248f-9655-49d0-9e29-ee6154f2a571/16-9" />
+    <episode-num system="onscreen">08</episode-num>
   </programme>
-  <programme channel="SkySp.F1.uk" start="20260807170000 +0000" stop="20260807180000 +0000">
-    <title lang="en">Barcelona F1 GP Highlights</title>
-    <desc lang="en">It's lights out for the Barcelona-Catalunya Grand Prix. Lewis Hamilton makes a first Ferrari front-row start alongside polesitter George Russell. Kimi Antonelli lines up in third. (14.</desc>
+  <programme channel="SkySp.Cricket.uk" start="20260811133000 +0000" stop="20260811134500 +0000">
+    <title lang="en">Men's The Hundred M29</title>
+    <desc lang="en">Trent Rockets face Southern Brave in the Men's Hundred. (10.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/11ce2087-4e43-41ac-8d40-86331181a1ab/16-9" />
-    <episode-num system="onscreen">06</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/5ae4a1fb-cd24-4f3b-83b9-b8ba08d2f019/16-9" />
+    <episode-num system="onscreen">08</episode-num>
   </programme>
-  <programme channel="SkySp.F1.uk" start="20260807180000 +0000" stop="20260807183000 +0000">
-    <title lang="en">Ted's Notebook</title>
-    <desc lang="en">Ted Kravitz is live following the Barcelona-Catalunya Grand Prix, as he shares his thoughts on the race while gathering reactions from the paddock.</desc>
+  <programme channel="SkySp.Cricket.uk" start="20260811134500 +0000" stop="20260811170000 +0000">
+    <title lang="en">Live: The Hundred</title>
+    <desc lang="en">Manchester Super Giants face SunRisers Leeds in the Women's Hundred.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/7ef3d6e0-3210-44c7-9145-de65346d72ae/16-9" />
-    <episode-num system="xmltv_ns">.275.</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9f99faaf-710c-4bb8-8442-0811fff4f2a1/16-9" />
+    <episode-num system="xmltv_ns">.29.</episode-num>
   </programme>
-  <programme channel="SkySp.F1.uk" start="20260807183000 +0000" stop="20260807204500 +0000">
-    <title lang="en">Canadian F1 Grand Prix</title>
-    <desc lang="en">It's lights out for the Canadian Grand Prix. Russell leads a Mercedes front-row lockout with Norris starting third. Piastri and Hamilton round out the top five. (24.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/9535798a-8c08-4ec6-b2ba-fd27d5c1cce5/16-9" />
-    <episode-num system="onscreen">05</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.F1.uk" start="20260807204500 +0000" stop="20260807211500 +0000">
-    <title lang="en">Ted's Notebook</title>
-    <desc lang="en">Ted Kravitz is live following the Canadian Grand Prix, as he shares his thoughts on the race while gathering reaction from the paddock.</desc>
+  <programme channel="SkySp.Cricket.uk" start="20260811170000 +0000" stop="20260811203000 +0000">
+    <title lang="en">Live: The Hundred</title>
+    <desc lang="en">Manchester Super Giants faces SunRisers Leeds in the Men's Hundred.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/22afd907-662a-4769-88b6-540b3fb4737c/16-9" />
-    <episode-num system="xmltv_ns">.273.</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ab2e5b9e-b0eb-4607-acb8-e2b8a2eec583/16-9" />
+    <episode-num system="xmltv_ns">.29.</episode-num>
   </programme>
-  <programme channel="SkySp.F1.uk" start="20260807211500 +0000" stop="20260807213000 +0000">
-    <title lang="en">Ollie Bearman Drives Ayrton Senna'</title>
-    <desc lang="en">Haas' British star Ollie Bearman pilots Ayrton Senna's legendary Lotus in an emotionally charged drive around Silverstone.</desc>
+  <programme channel="SkySp.Cricket.uk" start="20260811203000 +0000" stop="20260811204500 +0000">
+    <title lang="en">Women's The Hundred M30</title>
+    <desc lang="en">Manchester Super Giants face SunRisers Leeds in the Women's Hundred. (11.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/05443205-a6ba-4d8b-b0d7-739c85ade27f/16-9" />
-    <rating system="UK">
-      <value>U</value>
-    </rating>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/22f8a032-b4cd-4d27-9059-f03c50b67320/16-9" />
+    <episode-num system="onscreen">08</episode-num>
   </programme>
-  <programme channel="SkySp.F1.uk" start="20260807213000 +0000" stop="20260807230000 +0000">
-    <title lang="en">Live Indycar Series: Practice</title>
-    <desc lang="en">The NTT IndyCar Series heads to Oregon for the Grand Prix of Portland as race day preparations commence with the opening practice session at Portland International Raceway.</desc>
+  <programme channel="SkySp.Cricket.uk" start="20260811204500 +0000" stop="20260811210000 +0000">
+    <title lang="en">Men's The Hundred M30</title>
+    <desc lang="en">Manchester Super Giants face SunRisers Leeds in the Men's Hundred. (11.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/099b9e99-2e47-4972-834d-dc102b4c97f0/16-9" />
-    <episode-num system="xmltv_ns">.54.</episode-num>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2b388a6e-36b7-4681-852a-1ae0123ffd67/16-9" />
+    <episode-num system="onscreen">08</episode-num>
   </programme>
-  <programme channel="SkySp.F1.uk" start="20260807230000 +0000" stop="20260808000000 +0000">
-    <title lang="en">Barcelona F1 GP Highlights</title>
-    <desc lang="en">It's lights out for the Barcelona-Catalunya Grand Prix. Lewis Hamilton makes a first Ferrari front-row start alongside polesitter George Russell. Kimi Antonelli lines up in third. (14.</desc>
+  <programme channel="SkySp.Cricket.uk" start="20260811210000 +0000" stop="20260812003000 +0000">
+    <title lang="en">The Hundred</title>
+    <desc lang="en">Manchester Super Giants faces SunRisers Leeds in the Men's Hundred.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <icon src="https://images.metadata.sky.com/pd-image/11ce2087-4e43-41ac-8d40-86331181a1ab/16-9" />
-    <episode-num system="onscreen">06</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
+    <category lang="en">Cricket</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ab2e5b9e-b0eb-4607-acb8-e2b8a2eec583/16-9" />
+    <episode-num system="xmltv_ns">.29.</episode-num>
   </programme>
   <programme channel="SkySp.F1.uk" start="20260808000000 +0000" stop="20260808002500 +0000">
     <title lang="en">The Best of Australia 2026</title>
@@ -8407,325 +8130,277 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.Fball.uk" start="20260807014500 +0000" stop="20260807020000 +0000">
-    <title lang="en">EFL P/O 06-07: Derby v Southampton</title>
-    <desc lang="en">A chance to relive some classic matches from the English Football League. Here, a Championship play-off semi-final second leg between Derby and Southampton during the 2006-07 season.</desc>
+  <programme channel="SkySp.F1.uk" start="20260810230000 +0000" stop="20260811000000 +0000">
+    <title lang="en">Austrian F1 GP Highlights</title>
+    <desc lang="en">It's lights out at the Red Bull Ring. George Russell bids to reignite his championship charge from P1 with Charles Leclerc joining the Brit on the front row. (28.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/35977cea-f628-452f-ab02-7364c3164f89/16-9" />
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/bd01d724-7ff3-4ca9-a045-186774a5a984/16-9" />
+    <episode-num system="onscreen">06</episode-num>
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.Fball.uk" start="20260807020000 +0000" stop="20260807023000 +0000">
-    <title lang="en">SPFL 18/19: Celtic v Rangers</title>
-    <desc lang="en">Celtic host rivals Rangers at Celtic Park in the SPFL Ladbrokes Premiership. Celtic can move 13 points clear at the top with a win.</desc>
+  <programme channel="SkySp.F1.uk" start="20260811000000 +0000" stop="20260811010000 +0000">
+    <title lang="en">F1 Explained...</title>
+    <desc lang="en">A round-up of the F1 Explained series, as Sky F1's leading voices unpack the intricacies of the sport.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/de624b40-af24-39ad-a402-596b1ef15a46/16-9" />
-    <episode-num system="xmltv_ns">.4.</episode-num>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/64db3d65-ede9-4639-9467-6de48715f5b7/16-9" />
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.Fball.uk" start="20260807023000 +0000" stop="20260807024500 +0000">
-    <title lang="en">EFL 17/18: N. Forest v Ipswich</title>
-    <desc lang="en">Relive some classic matches in English football. Here, Nottingham Forest look to avoid relegation from the Sky Bet Championship as they face Ipswich Town in May 2017.</desc>
+  <programme channel="SkySp.F1.uk" start="20260811010000 +0000" stop="20260811012500 +0000">
+    <title lang="en">The Best of Australia 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the season-opening Australian Grand Prix.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/0bc87d5f-0856-4351-8769-37d066e3fc83/16-9" />
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4253a97b-6531-4cea-84ce-4bdc48c1a814/16-9" />
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.Fball.uk" start="20260807024500 +0000" stop="20260807030000 +0000">
-    <title lang="en">EFL 12/13: Brentford v Swindon</title>
-    <desc lang="en">Remember some classic matches from English football. Here, Brentford face Swindon Town in May 2013 in the League 1 semi final at Griffin Park.</desc>
+  <programme channel="SkySp.F1.uk" start="20260811012500 +0000" stop="20260811020000 +0000">
+    <title lang="en">The Best of Britain 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 British Grand Prix.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/24a62017-71ff-42c2-a4e5-ed840e2c1e15/16-9" />
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/96939cb7-53b6-4e9c-b92b-b6326d00ff7d/16-9" />
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.Fball.uk" start="20260807030000 +0000" stop="20260807040000 +0000">
-    <title lang="en">EFL Cup 08/09: Man Utd v Spurs</title>
-    <desc lang="en">A look back at the 2009 Carling Cup final at Wembley Stadium. Manchester United and Tottenham battled for the trophy in a game that went all the way to penalties.</desc>
+  <programme channel="SkySp.F1.uk" start="20260811020000 +0000" stop="20260811021500 +0000">
+    <title lang="en">The Best of Japan 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Japanese Grand Prix.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/af8248cd-206a-4af8-bad7-8a0e2f18bc97/16-9" />
-    <episode-num system="xmltv_ns">.1.</episode-num>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ed59a4b8-0354-4bde-a572-7e8718ea4c7d/16-9" />
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.Fball.uk" start="20260807040000 +0000" stop="20260807041500 +0000">
-    <title lang="en">SPFL 23/24: Celtic v Aberdeen</title>
-    <desc lang="en">The reigning league champions Celtic welcome Aberdeen to Parkhead for a match in the Scottish Premiership. Celtic dominated in a 3-0 away win against Ross County last weekend. (12.</desc>
+  <programme channel="SkySp.F1.uk" start="20260811021500 +0000" stop="20260811030000 +0000">
+    <title lang="en">The Best of Miami 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 Miami Grand Prix.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/1d7ea991-7820-35c9-bc7b-671e997197b6/16-9" />
-    <episode-num system="onscreen">11</episode-num>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a5efcfb6-dacf-4aa6-979f-4b5947ab2a19/16-9" />
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.Fball.uk" start="20260807041500 +0000" stop="20260807043000 +0000">
-    <title lang="en">SPFL 23/24: Ross County v Rangers</title>
-    <desc lang="en">Rangers visit Ross County in the Scottish Premiership. (14.</desc>
+  <programme channel="SkySp.F1.uk" start="20260811030000 +0000" stop="20260811032500 +0000">
+    <title lang="en">The Best of Australia 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the season-opening Australian Grand Prix.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d2faee8a-b1b4-3380-ad5f-b9b7adf326a3/16-9" />
-    <episode-num system="onscreen">04</episode-num>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/4253a97b-6531-4cea-84ce-4bdc48c1a814/16-9" />
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.Fball.uk" start="20260807043000 +0000" stop="20260807044500 +0000">
-    <title lang="en">EFL 12/13: Bradford v Arsenal</title>
-    <desc lang="en">A look at some of the greatest matches from English football. Here, League 2 side Bradford City take on Premier League giants Arsenal in the Football League Cup in December 2012.</desc>
+  <programme channel="SkySp.F1.uk" start="20260811032500 +0000" stop="20260811040000 +0000">
+    <title lang="en">The Best of Britain 2026</title>
+    <desc lang="en">A round-up of the leading stories and features with Sky's Formula 1 presenters during the 2026 British Grand Prix.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/b3a04602-f21f-4f02-9f3e-196da007bdef/16-9" />
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/96939cb7-53b6-4e9c-b92b-b6326d00ff7d/16-9" />
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.Fball.uk" start="20260807044500 +0000" stop="20260807050000 +0000">
-    <title lang="en">EFL 16/17: Derby v Hull City</title>
-    <desc lang="en">A chance to relive a classic match from the EFL. Here, Derby County and Hull City go head-to-head in a thrilling encounter back in 2017.</desc>
+  <programme channel="SkySp.F1.uk" start="20260811040000 +0000" stop="20260811050000 +0000">
+    <title lang="en">F1 Explained...</title>
+    <desc lang="en">A round-up of the F1 Explained series, as Sky F1's leading voices unpack the intricacies of the sport.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/abc1e196-fe45-4783-9d13-7bb37c7bbd81/16-9" />
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/64db3d65-ede9-4639-9467-6de48715f5b7/16-9" />
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.Fball.uk" start="20260807050000 +0000" stop="20260807060000 +0000">
-    <title lang="en">EFL Play-Off Final: League 2 21/22</title>
-    <desc lang="en">Promotion awaits as Mansfield Town take on Port Vale in the Sky Bet League 2 Play-Off final at Wembley. Who will secure their place next season in England's third tier.</desc>
+  <programme channel="SkySp.F1.uk" start="20260811050000 +0000" stop="20260811060000 +0000">
+    <title lang="en">F1 2026: The Story So Far...</title>
+    <sub-title lang="en">It's lights out at Suzuka</sub-title>
+    <desc lang="en">Back-to-back poleman Kimi Antonelli leads a third consecutive Mercedes one-two as Oscar Piastri starts P3. Lando Norris separates the Ferraris in fifth. (29.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/eef55f06-d017-4822-801b-2051e28b6789/16-9" />
-    <episode-num system="xmltv_ns">.598.</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.Fball.uk" start="20260807060000 +0000" stop="20260807070000 +0000">
-    <title lang="en">EFL Play-Off Final: League 1 21/22</title>
-    <desc lang="en">After a long, gruelling Sky Bet League 1 campaign - the play-off final has arrived at Wembley Stadium. Will it be Sunderland or Wycombe who secure promotion to the Championship.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/9c8cfecb-ebd1-46d9-83cc-c074987fcdef/16-9" />
-    <episode-num system="xmltv_ns">.597.</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.Fball.uk" start="20260807070000 +0000" stop="20260807080000 +0000">
-    <title lang="en">EFL Play-Off Final: C'Ship 21/22</title>
-    <desc lang="en">After 46 games and a two-legged semi-final, it all comes down to this - the Sky Bet Championship Play-Off Final. One place remains in the Premier League, will it be Huddersfield or Forest.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/ebbaea27-7fbf-446f-9e79-305f93a633c9/16-9" />
-    <episode-num system="xmltv_ns">.599.</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.Fball.uk" start="20260807080000 +0000" stop="20260807083000 +0000">
-    <title lang="en">SPFL 24/25: Rangers v Celtic</title>
-    <desc lang="en">The last Old Firm derby of the 2024-25 Scottish Premiership season sees Rangers host newly crowned champions Celtic. Will Brendan Rodgers' side continue their celebrations at Ibrox? (04.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/6122ae5a-3ea0-4fc5-a3b1-31cee1461bb4/16-9" />
-    <episode-num system="onscreen">05</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.Fball.uk" start="20260807083000 +0000" stop="20260807084500 +0000">
-    <title lang="en">EFL 17/18: Derby County v Leeds</title>
-    <desc lang="en">A chance to relive a classic match from the EFL. Here, Derby County take on Marcelo Bielsa's Leeds United at Pride Park in a Championship match that saw five goals.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/129cded8-be8a-4652-8c03-f5d30079044d/16-9" />
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.Fball.uk" start="20260807084500 +0000" stop="20260807090000 +0000">
-    <title lang="en">EFL 17/18: West Brom v Leeds Utd</title>
-    <desc lang="en">A chance to relive a classic match from the EFL. Here, West Brom take on Leeds United at The Hawthorns in a high-scoring Championship match that saw one side dominate.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/05b82640-a09f-4c00-a330-34f61fd71e39/16-9" />
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.Fball.uk" start="20260807090000 +0000" stop="20260807110000 +0000">
-    <title lang="en">Retro EFL Cup 15: Chelsea v Spurs</title>
-    <desc lang="en">A chance to relive a classic encounter as Chelsea and Tottenham Hotspur meet at Wembley in the final of the 2014-15 League Cup. The sides last met at this stage in the 2007-08 final.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/8fc7758f-15f0-4c1e-be1a-9be4a0a0b315/16-9" />
-    <episode-num system="xmltv_ns">.28.</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.Fball.uk" start="20260807110000 +0000" stop="20260807120000 +0000">
-    <title lang="en">League Two Playoff Final: 2025-26</title>
-    <desc lang="en">The EFL play-offs conclude at Wembley Stadium with Notts County and Salford City competing for the last remaining spot in next season's third tier. (25.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/0213d62d-de5a-4d90-bfdc-f0102e31728e/16-9" />
-    <episode-num system="onscreen">05</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.Fball.uk" start="20260807120000 +0000" stop="20260807130000 +0000">
-    <title lang="en">League One Playoff Final: 2025-26</title>
-    <desc lang="en">In the Sky Bet League One play-off final, Bolton Wanderers and Stockport County compete under the Wembley arch for a place in the second tier next season. (24.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/2ba5a0c9-678c-43d5-9f5f-a97741215f98/16-9" />
-    <episode-num system="onscreen">05</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.Fball.uk" start="20260807130000 +0000" stop="20260807140000 +0000">
-    <title lang="en">C'Ship Playoff Final: 2025-26</title>
-    <desc lang="en">The last remaining spot in next season's Premier League is decided at Wembley as Hull and Middlesbrough contest one of football's richest games - the Championship play-off final. (23.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/c1c379de-fcb0-4880-a0c3-4d87f2028488/16-9" />
-    <episode-num system="onscreen">05</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.Fball.uk" start="20260807140000 +0000" stop="20260807143000 +0000">
-    <title lang="en">SPFL 25/26: Celtic v Rangers</title>
-    <desc lang="en">Having kept Celtic in the hunt, the steadying presence of a 74-year-old Martin O'Neill pits his side against Old Firm rivals Rangers in a bid to keep leaders Hearts within reach. (10.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d1fd0e9b-9eb4-44b9-9863-a329b6944a1d/16-9" />
-    <episode-num system="onscreen">05</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.Fball.uk" start="20260807143000 +0000" stop="20260807150000 +0000">
-    <title lang="en">EFL Cup 25/26 Semi-Final 1st Leg</title>
-    <desc lang="en">The current Carabao Cup holders Newcastle host the first leg of this two-legged semi-final against Pep Guardiola's Manchester City at St James' Park. (13.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/3c830274-09c8-461b-b2d2-12c6fdc70f5f/16-9" />
-    <episode-num system="onscreen">01</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.Fball.uk" start="20260807150000 +0000" stop="20260807153000 +0000">
-    <title lang="en">EFL Cup 25/26 Semi-Final 1st Leg</title>
-    <desc lang="en">New Chelsea boss Liam Rosenior occupies the Stamford Bridge dugout for the first time as his side take on Arsenal in the first leg of this EFL Cup semi-final. (14.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/9e5c501a-d5b5-4a6d-984a-7c76d71b7a44/16-9" />
-    <episode-num system="onscreen">01</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.Fball.uk" start="20260807153000 +0000" stop="20260807160000 +0000">
-    <title lang="en">EFL Cup 25/26 Semi-Final 2nd Leg</title>
-    <desc lang="en">Trailing 3-2 on aggregate, Liam Rosenior's Chelsea head to the Emirates Stadium for the second leg of this two-legged Carabao Cup semi-final clash with Mikel Arteta's Arsenal. (03.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/0f6e2dc1-3119-4e43-9eb4-8894e01dee8a/16-9" />
-    <episode-num system="onscreen">02</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.Fball.uk" start="20260807160000 +0000" stop="20260807163000 +0000">
-    <title lang="en">EFL Cup 25/26 Semi-Final 2nd Leg</title>
-    <desc lang="en">Two goals up and in firm control of this EFL Cup semi-final tie, Manchester City look to finish off the holders Newcastle and join Premier League title rivals Arsenal at Wembley. (04.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/95ffaa2e-bc06-4295-817e-c49238be8038/16-9" />
-    <episode-num system="onscreen">02</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.Fball.uk" start="20260807163000 +0000" stop="20260807173000 +0000">
-    <title lang="en">EFL Cup 25/26: Arsenal v Man City</title>
-    <desc lang="en">For Arsenal and Manchester City, the Premier League title becomes secondary as the fate of the season's first piece of silverware is decided in the Carabao Cup final at Wembley. (22.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/a95ff71c-6229-4dcd-9689-3b01f53e1700/16-9" />
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d2a2fcd3-b487-4d3c-ae1e-892acd00baad/16-9" />
     <episode-num system="onscreen">03</episode-num>
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.Fball.uk" start="20260807173000 +0000" stop="20260807180000 +0000">
-    <title lang="en">EFL Cup Best Goals: 2025/26</title>
-    <desc lang="en">From the Toughsheet Community Stadium all the way to Wembley, revisit the finest strikes from each round of the 2025-26 Carabao Cup.</desc>
+  <programme channel="SkySp.F1.uk" start="20260811060000 +0000" stop="20260811070000 +0000">
+    <title lang="en">F1 2026: The Story So Far...</title>
+    <desc lang="en">World champion Lando Norris lines up in pole for the second F1 Sprint of the campaign. Championship leader Kimi Antonelli joins the Brit on the front row, with Oscar Piastri third. (02.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/328c3a2d-98fc-4aed-beeb-566ecf69a246/16-9" />
-    <episode-num system="xmltv_ns">.17.</episode-num>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/9400c252-7d7d-4c6b-99ec-11020f3fc5a5/16-9" />
+    <episode-num system="onscreen">05</episode-num>
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.Fball.uk" start="20260807180000 +0000" stop="20260807214500 +0000">
-    <title lang="en">Live EFL Cup: M'boro v Wrexham</title>
-    <desc lang="en">In an all-Championship tie from the opening round of the Carabao Cup, Middlesbrough welcome Wrexham to the Riverside Stadium.</desc>
+  <programme channel="SkySp.F1.uk" start="20260811070000 +0000" stop="20260811080000 +0000">
+    <title lang="en">F1 2026: The Story So Far...</title>
+    <desc lang="en">It's lights out for the Miami Grand Prix. Kimi Antonelli, polesitter for a third consecutive race, has Max Verstappen for company on the front row, while Charles Leclerc starts P3. (03.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/bdcddfc7-57c3-461c-8b64-2b1d44b4adac/16-9" />
-    <episode-num system="xmltv_ns">.0.</episode-num>
-  </programme>
-  <programme channel="SkySp.Fball.uk" start="20260807214500 +0000" stop="20260807224500 +0000">
-    <title lang="en">Championship Season Review 25/26</title>
-    <desc lang="en">An in-depth review of the 2025-26 Sky Bet Championship season.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/546de5a2-09e7-4302-8aa0-35711ca7ced4/16-9" />
-    <episode-num system="xmltv_ns">.18.</episode-num>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a6ad9c66-ab82-47c9-9fa2-3865e57dbb57/16-9" />
+    <episode-num system="onscreen">05</episode-num>
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.Fball.uk" start="20260807224500 +0000" stop="20260807231500 +0000">
-    <title lang="en">Scottish Premiership Round Up Show</title>
-    <desc lang="en">A round-up of the Scottish Premiership action from the latest round of fixtures in the 2026-2027 season.</desc>
+  <programme channel="SkySp.F1.uk" start="20260811080000 +0000" stop="20260811090000 +0000">
+    <title lang="en">Monaco F1 GP Highlights</title>
+    <sub-title lang="en">It's lights out in Monaco</sub-title>
+    <desc lang="en">Kimi Antonelli holds all the cards as Max Verstappen and Lewis Hamilton hope to capitalise off the line. Home favourite Charles Leclerc starts fourth. (07.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/852327be-6c8e-486c-9c80-31944241e852/16-9" />
-    <episode-num system="xmltv_ns">.0.</episode-num>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f139f5a5-7eca-4535-93e0-70e33e013fe9/16-9" />
+    <episode-num system="onscreen">06</episode-num>
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.Fball.uk" start="20260807231500 +0000" stop="20260808011500 +0000">
-    <title lang="en">Retro C'Ship 00: B'burn v Man City</title>
-    <desc lang="en">A chance to relive a classic clash from the second tier from over the years. Here, back in 2000, Blackburn Rovers and Manchester City go head-to-head in a memorable First Division clash.</desc>
+  <programme channel="SkySp.F1.uk" start="20260811090000 +0000" stop="20260811111500 +0000">
+    <title lang="en">Barcelona F1 Grand Prix</title>
+    <desc lang="en">It's lights out for the Barcelona-Catalunya Grand Prix. Lewis Hamilton makes a first Ferrari front-row start alongside polesitter George Russell. Kimi Antonelli lines up in third. (14.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/15682025-6234-4b3f-937b-51691c3d420c/16-9" />
-    <episode-num system="xmltv_ns">.54.</episode-num>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/fb6a1498-f2db-4bb3-ae72-d9f48cec7b0e/16-9" />
+    <episode-num system="onscreen">06</episode-num>
     <rating system="UK">
       <value>U</value>
     </rating>
+  </programme>
+  <programme channel="SkySp.F1.uk" start="20260811111500 +0000" stop="20260811114500 +0000">
+    <title lang="en">Ted's Notebook</title>
+    <desc lang="en">Ted Kravitz is live following the Barcelona-Catalunya Grand Prix, as he shares his thoughts on the race while gathering reactions from the paddock.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7ef3d6e0-3210-44c7-9145-de65346d72ae/16-9" />
+    <episode-num system="xmltv_ns">.275.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.F1.uk" start="20260811114500 +0000" stop="20260811120000 +0000">
+    <title lang="en">Ollie Bearman Drives Ayrton Senna'</title>
+    <desc lang="en">Haas' British star Ollie Bearman pilots Ayrton Senna's legendary Lotus in an emotionally charged drive around Silverstone.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/05443205-a6ba-4d8b-b0d7-739c85ade27f/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.F1.uk" start="20260811120000 +0000" stop="20260811141500 +0000">
+    <title lang="en">Austrian F1 Grand Prix</title>
+    <desc lang="en">It's lights out at the Red Bull Ring. George Russell bids to reignite his championship charge from P1 with Charles Leclerc joining the Brit on the front row. (28.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1c311098-eedd-437d-8089-dd0868b456b5/16-9" />
+    <episode-num system="onscreen">06</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.F1.uk" start="20260811141500 +0000" stop="20260811143000 +0000">
+    <title lang="en">Ollie Bearman Drives Ayrton Senna'</title>
+    <desc lang="en">Haas' British star Ollie Bearman pilots Ayrton Senna's legendary Lotus in an emotionally charged drive around Silverstone.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/05443205-a6ba-4d8b-b0d7-739c85ade27f/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.F1.uk" start="20260811143000 +0000" stop="20260811153000 +0000">
+    <title lang="en">Barcelona F1 GP Highlights</title>
+    <desc lang="en">It's lights out for the Barcelona-Catalunya Grand Prix. Lewis Hamilton makes a first Ferrari front-row start alongside polesitter George Russell. Kimi Antonelli lines up in third. (14.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/11ce2087-4e43-41ac-8d40-86331181a1ab/16-9" />
+    <episode-num system="onscreen">06</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.F1.uk" start="20260811153000 +0000" stop="20260811163000 +0000">
+    <title lang="en">Austrian F1 GP Highlights</title>
+    <desc lang="en">It's lights out at the Red Bull Ring. George Russell bids to reignite his championship charge from P1 with Charles Leclerc joining the Brit on the front row. (28.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/bd01d724-7ff3-4ca9-a045-186774a5a984/16-9" />
+    <episode-num system="onscreen">06</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.F1.uk" start="20260811163000 +0000" stop="20260811173000 +0000">
+    <title lang="en">British F1 GP Highlights</title>
+    <sub-title lang="en">It's lights out at Silverstone</sub-title>
+    <desc lang="en">Kimi Antonelli and Charles Leclerc form the front row with Lewis Hamilton, chasing a 10th British Grand Prix win, in third. George Russell starts P4. (05.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/b1825960-3b0d-420d-bb99-f9c7624f8668/16-9" />
+    <episode-num system="onscreen">07</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.F1.uk" start="20260811173000 +0000" stop="20260811194500 +0000">
+    <title lang="en">Barcelona F1 Grand Prix</title>
+    <desc lang="en">It's lights out for the Barcelona-Catalunya Grand Prix. Lewis Hamilton makes a first Ferrari front-row start alongside polesitter George Russell. Kimi Antonelli lines up in third. (14.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/fb6a1498-f2db-4bb3-ae72-d9f48cec7b0e/16-9" />
+    <episode-num system="onscreen">06</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.F1.uk" start="20260811194500 +0000" stop="20260811200000 +0000">
+    <title lang="en">The Cornwall Air Ambulance</title>
+    <desc lang="en">Sky F1's Karun Chandhok looks at how F1 teams are helping the Cornwall Air Ambulance save lives.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c7246bbf-9c57-4f4a-912c-30284cfcc59e/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.F1.uk" start="20260811200000 +0000" stop="20260811210000 +0000">
+    <title lang="en">Indycar Highlights</title>
+    <desc lang="en">It's NTT IndyCar Series race day in Oregon as the field of 2026 drivers line-up on the starting grid ahead of the Grand Prix of Portland at Portland International Raceway. (09.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3c680c94-3c56-403e-8f7e-83c06cc25190/16-9" />
+    <episode-num system="onscreen">08</episode-num>
+  </programme>
+  <programme channel="SkySp.F1.uk" start="20260811210000 +0000" stop="20260811220000 +0000">
+    <title lang="en">Barcelona F1 GP Highlights</title>
+    <desc lang="en">It's lights out for the Barcelona-Catalunya Grand Prix. Lewis Hamilton makes a first Ferrari front-row start alongside polesitter George Russell. Kimi Antonelli lines up in third. (14.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/11ce2087-4e43-41ac-8d40-86331181a1ab/16-9" />
+    <episode-num system="onscreen">06</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.F1.uk" start="20260811220000 +0000" stop="20260811230000 +0000">
+    <title lang="en">Indycar Highlights</title>
+    <desc lang="en">It's NTT IndyCar Series race day in Oregon as the field of 2026 drivers line-up on the starting grid ahead of the Grand Prix of Portland at Portland International Raceway. (09.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3c680c94-3c56-403e-8f7e-83c06cc25190/16-9" />
+    <episode-num system="onscreen">08</episode-num>
   </programme>
   <programme channel="SkySp.Fball.uk" start="20260808011500 +0000" stop="20260808021500 +0000">
     <title lang="en">Henrik Larsson - 20 Years On</title>
@@ -9569,6 +9244,9 @@
     <category lang="en">Football</category>
     <icon src="https://images.metadata.sky.com/pd-image/f8fae4d5-279b-49f4-9310-1e3f815355d8/16-9" />
     <episode-num system="onscreen">08</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
   </programme>
   <programme channel="SkySp.Fball.uk" start="20260810113000 +0000" stop="20260810120000 +0000">
     <title lang="en">EFL Cup Highlights</title>
@@ -9712,176 +9390,97 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.Fball.HD.uk" start="20260807014500 +0000" stop="20260807020000 +0000">
-    <title lang="en">EFL P/O 06-07: Derby v Southampton</title>
-    <desc lang="en">A chance to relive some classic matches from the English Football League. Here, a Championship play-off semi-final second leg between Derby and Southampton during the 2006-07 season.</desc>
+  <programme channel="SkySp.Fball.uk" start="20260810230000 +0000" stop="20260810233000 +0000">
+    <title lang="en">EFL Cup Highlights</title>
+    <desc lang="en">League One Plymouth Argyle entertain League Two side Exeter City at Home Park in the opening round of the 2026-27 Carabao Cup. (10.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/35977cea-f628-452f-ab02-7364c3164f89/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/7c736784-9e04-49d7-ab55-7fc3f08d0090/16-9" />
+    <episode-num system="onscreen">08</episode-num>
+  </programme>
+  <programme channel="SkySp.Fball.uk" start="20260810233000 +0000" stop="20260811000000 +0000">
+    <title lang="en">EFL Cup Highlights</title>
+    <desc lang="en">In a first-round match-up from the 26-27 Carabao Cup, Championship side Southampton travel to Colchester United's JobServe Community Stadium.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ffff00c2-bb71-4707-9131-cb203f1d3e89/16-9" />
+    <episode-num system="onscreen">08</episode-num>
+  </programme>
+  <programme channel="SkySp.Fball.uk" start="20260811000000 +0000" stop="20260811020000 +0000">
+    <title lang="en">Retro C'Ship 12: B'pool v West Ham</title>
+    <desc lang="en">A chance to relive a classic match from the Championship. Here the play-off final from the 2011-12 campaign, as Blackpool and West Ham meet at Wembley.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/52f71502-71dd-4678-a15d-44f22db7f0cb/16-9" />
+    <episode-num system="xmltv_ns">.57.</episode-num>
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.Fball.HD.uk" start="20260807020000 +0000" stop="20260807023000 +0000">
-    <title lang="en">SPFL 18/19: Celtic v Rangers</title>
-    <desc lang="en">Celtic host rivals Rangers at Celtic Park in the SPFL Ladbrokes Premiership. Celtic can move 13 points clear at the top with a win.</desc>
+  <programme channel="SkySp.Fball.uk" start="20260811020000 +0000" stop="20260811030000 +0000">
+    <title lang="en">150 Years of the Edinburgh Derby</title>
+    <desc lang="en">To mark the 150th anniversary of one of the oldest rivalries in world football, look back at the origins, key moments with club legends and the tumultuous takeover bid in 1990.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/de624b40-af24-39ad-a402-596b1ef15a46/16-9" />
-    <episode-num system="xmltv_ns">.4.</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/ea5e8e8e-3962-4f07-a0c2-a6e3f9b9e763/16-9" />
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.Fball.HD.uk" start="20260807023000 +0000" stop="20260807024500 +0000">
-    <title lang="en">EFL 17/18: N. Forest v Ipswich</title>
-    <desc lang="en">Relive some classic matches in English football. Here, Nottingham Forest look to avoid relegation from the Sky Bet Championship as they face Ipswich Town in May 2017.</desc>
+  <programme channel="SkySp.Fball.uk" start="20260811030000 +0000" stop="20260811040000 +0000">
+    <title lang="en">EFL Cup 14/15: Chelsea v Spurs</title>
+    <desc lang="en">A look back at some famous matches from yesteryear. Here, Chelsea face Tottenham Hotspur in the final of the Capital One Cup at Wembley Stadium in 2015.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/0bc87d5f-0856-4351-8769-37d066e3fc83/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/56dd1236-1ac5-4be2-a5e3-dd60c6997657/16-9" />
+    <episode-num system="xmltv_ns">.16.</episode-num>
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.Fball.HD.uk" start="20260807024500 +0000" stop="20260807030000 +0000">
-    <title lang="en">EFL 12/13: Brentford v Swindon</title>
-    <desc lang="en">Remember some classic matches from English football. Here, Brentford face Swindon Town in May 2013 in the League 1 semi final at Griffin Park.</desc>
+  <programme channel="SkySp.Fball.uk" start="20260811040000 +0000" stop="20260811041500 +0000">
+    <title lang="en">SPFL 22/23: Dundee Utd v Dundee</title>
+    <desc lang="en">The Dundee derby arrives as Dundee United meet Dundee at Tannadice Park in the cinch Premiership. The visitors are still looking for their first league win here.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/24a62017-71ff-42c2-a4e5-ed840e2c1e15/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/da71e040-0a3a-4df5-83d0-2b8c765da23e/16-9" />
+    <episode-num system="xmltv_ns">.8.</episode-num>
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.Fball.HD.uk" start="20260807030000 +0000" stop="20260807040000 +0000">
-    <title lang="en">EFL Cup 08/09: Man Utd v Spurs</title>
-    <desc lang="en">A look back at the 2009 Carling Cup final at Wembley Stadium. Manchester United and Tottenham battled for the trophy in a game that went all the way to penalties.</desc>
+  <programme channel="SkySp.Fball.uk" start="20260811041500 +0000" stop="20260811043000 +0000">
+    <title lang="en">SPFL 24/25: Dundee Utd v Dundee</title>
+    <desc lang="en">On the opening weekend of the Scottish Premiership season, a Dundee derby unfolds as Jim Goodwin's Tangerines mark their top flight return by hosting neighbours Dundee at Tannadice. (04.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/af8248cd-206a-4af8-bad7-8a0e2f18bc97/16-9" />
-    <episode-num system="xmltv_ns">.1.</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/870fa1ee-c254-34d7-941e-4892f45f27db/16-9" />
+    <episode-num system="onscreen">08</episode-num>
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.Fball.HD.uk" start="20260807040000 +0000" stop="20260807041500 +0000">
-    <title lang="en">SPFL 23/24: Celtic v Aberdeen</title>
-    <desc lang="en">The reigning league champions Celtic welcome Aberdeen to Parkhead for a match in the Scottish Premiership. Celtic dominated in a 3-0 away win against Ross County last weekend. (12.</desc>
+  <programme channel="SkySp.Fball.uk" start="20260811043000 +0000" stop="20260811044500 +0000">
+    <title lang="en">EFL 21/22: Coventry City v Fulham</title>
+    <desc lang="en">In October 2021, Coventry took Fulham to the sword, putting four past the travelling west Londoners who eventually went on to secure Premier League promotion.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/1d7ea991-7820-35c9-bc7b-671e997197b6/16-9" />
-    <episode-num system="onscreen">11</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/65846c3f-9e39-44bd-b2a9-0a8a26e02923/16-9" />
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.Fball.HD.uk" start="20260807041500 +0000" stop="20260807043000 +0000">
-    <title lang="en">SPFL 23/24: Ross County v Rangers</title>
-    <desc lang="en">Rangers visit Ross County in the Scottish Premiership. (14.</desc>
+  <programme channel="SkySp.Fball.uk" start="20260811044500 +0000" stop="20260811050000 +0000">
+    <title lang="en">EFL 21/22: Blackburn v Fulham</title>
+    <desc lang="en">In a Sky Bet Championship encounter to remember for the visitors - and one to forget for the hosts - the travelling Fulham put seven unanswered goals past a hapless Blackburn at Ewood Park.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d2faee8a-b1b4-3380-ad5f-b9b7adf326a3/16-9" />
-    <episode-num system="onscreen">04</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/f9e5233c-ebb4-4489-935c-0c79de41cd48/16-9" />
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.Fball.HD.uk" start="20260807043000 +0000" stop="20260807044500 +0000">
-    <title lang="en">EFL 12/13: Bradford v Arsenal</title>
-    <desc lang="en">A look at some of the greatest matches from English football. Here, League 2 side Bradford City take on Premier League giants Arsenal in the Football League Cup in December 2012.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/b3a04602-f21f-4f02-9f3e-196da007bdef/16-9" />
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.Fball.HD.uk" start="20260807044500 +0000" stop="20260807050000 +0000">
-    <title lang="en">EFL 16/17: Derby v Hull City</title>
-    <desc lang="en">A chance to relive a classic match from the EFL. Here, Derby County and Hull City go head-to-head in a thrilling encounter back in 2017.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/abc1e196-fe45-4783-9d13-7bb37c7bbd81/16-9" />
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.Fball.HD.uk" start="20260807050000 +0000" stop="20260807060000 +0000">
-    <title lang="en">EFL Play-Off Final: League 2 21/22</title>
-    <desc lang="en">Promotion awaits as Mansfield Town take on Port Vale in the Sky Bet League 2 Play-Off final at Wembley. Who will secure their place next season in England's third tier.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/eef55f06-d017-4822-801b-2051e28b6789/16-9" />
-    <episode-num system="xmltv_ns">.598.</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.Fball.HD.uk" start="20260807060000 +0000" stop="20260807070000 +0000">
-    <title lang="en">EFL Play-Off Final: League 1 21/22</title>
-    <desc lang="en">After a long, gruelling Sky Bet League 1 campaign - the play-off final has arrived at Wembley Stadium. Will it be Sunderland or Wycombe who secure promotion to the Championship.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/9c8cfecb-ebd1-46d9-83cc-c074987fcdef/16-9" />
-    <episode-num system="xmltv_ns">.597.</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.Fball.HD.uk" start="20260807070000 +0000" stop="20260807080000 +0000">
-    <title lang="en">EFL Play-Off Final: C'Ship 21/22</title>
-    <desc lang="en">After 46 games and a two-legged semi-final, it all comes down to this - the Sky Bet Championship Play-Off Final. One place remains in the Premier League, will it be Huddersfield or Forest.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/ebbaea27-7fbf-446f-9e79-305f93a633c9/16-9" />
-    <episode-num system="xmltv_ns">.599.</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.Fball.HD.uk" start="20260807080000 +0000" stop="20260807083000 +0000">
-    <title lang="en">SPFL 24/25: Rangers v Celtic</title>
-    <desc lang="en">The last Old Firm derby of the 2024-25 Scottish Premiership season sees Rangers host newly crowned champions Celtic. Will Brendan Rodgers' side continue their celebrations at Ibrox? (04.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/6122ae5a-3ea0-4fc5-a3b1-31cee1461bb4/16-9" />
-    <episode-num system="onscreen">05</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.Fball.HD.uk" start="20260807083000 +0000" stop="20260807084500 +0000">
-    <title lang="en">EFL 17/18: Derby County v Leeds</title>
-    <desc lang="en">A chance to relive a classic match from the EFL. Here, Derby County take on Marcelo Bielsa's Leeds United at Pride Park in a Championship match that saw five goals.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/129cded8-be8a-4652-8c03-f5d30079044d/16-9" />
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.Fball.HD.uk" start="20260807084500 +0000" stop="20260807090000 +0000">
-    <title lang="en">EFL 17/18: West Brom v Leeds Utd</title>
-    <desc lang="en">A chance to relive a classic match from the EFL. Here, West Brom take on Leeds United at The Hawthorns in a high-scoring Championship match that saw one side dominate.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/05b82640-a09f-4c00-a330-34f61fd71e39/16-9" />
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.Fball.HD.uk" start="20260807090000 +0000" stop="20260807110000 +0000">
-    <title lang="en">Retro EFL Cup 15: Chelsea v Spurs</title>
-    <desc lang="en">A chance to relive a classic encounter as Chelsea and Tottenham Hotspur meet at Wembley in the final of the 2014-15 League Cup. The sides last met at this stage in the 2007-08 final.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/8fc7758f-15f0-4c1e-be1a-9be4a0a0b315/16-9" />
-    <episode-num system="xmltv_ns">.28.</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.Fball.HD.uk" start="20260807110000 +0000" stop="20260807120000 +0000">
+  <programme channel="SkySp.Fball.uk" start="20260811050000 +0000" stop="20260811060000 +0000">
     <title lang="en">League Two Playoff Final: 2025-26</title>
     <desc lang="en">The EFL play-offs conclude at Wembley Stadium with Notts County and Salford City competing for the last remaining spot in next season's third tier. (25.</desc>
     <category lang="en">Sports</category>
@@ -9892,7 +9491,7 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.Fball.HD.uk" start="20260807120000 +0000" stop="20260807130000 +0000">
+  <programme channel="SkySp.Fball.uk" start="20260811060000 +0000" stop="20260811070000 +0000">
     <title lang="en">League One Playoff Final: 2025-26</title>
     <desc lang="en">In the Sky Bet League One play-off final, Bolton Wanderers and Stockport County compete under the Wembley arch for a place in the second tier next season. (24.</desc>
     <category lang="en">Sports</category>
@@ -9903,7 +9502,7 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.Fball.HD.uk" start="20260807130000 +0000" stop="20260807140000 +0000">
+  <programme channel="SkySp.Fball.uk" start="20260811070000 +0000" stop="20260811080000 +0000">
     <title lang="en">C'Ship Playoff Final: 2025-26</title>
     <desc lang="en">The last remaining spot in next season's Premier League is decided at Wembley as Hull and Middlesbrough contest one of football's richest games - the Championship play-off final. (23.</desc>
     <category lang="en">Sports</category>
@@ -9914,120 +9513,216 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.Fball.HD.uk" start="20260807140000 +0000" stop="20260807143000 +0000">
-    <title lang="en">SPFL 25/26: Celtic v Rangers</title>
-    <desc lang="en">Having kept Celtic in the hunt, the steadying presence of a 74-year-old Martin O'Neill pits his side against Old Firm rivals Rangers in a bid to keep leaders Hearts within reach. (10.</desc>
+  <programme channel="SkySp.Fball.uk" start="20260811080000 +0000" stop="20260811083000 +0000">
+    <title lang="en">SPFL 25/26: Rangers v Celtic</title>
+    <desc lang="en">Old Firm rivals Rangers and Celtic - both competing with leaders Hearts for the title - collide on derby day at Ibrox in a pivotal Scottish Premiership contest. (01.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/d1fd0e9b-9eb4-44b9-9863-a329b6944a1d/16-9" />
-    <episode-num system="onscreen">05</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.Fball.HD.uk" start="20260807143000 +0000" stop="20260807150000 +0000">
-    <title lang="en">EFL Cup 25/26 Semi-Final 1st Leg</title>
-    <desc lang="en">The current Carabao Cup holders Newcastle host the first leg of this two-legged semi-final against Pep Guardiola's Manchester City at St James' Park. (13.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/3c830274-09c8-461b-b2d2-12c6fdc70f5f/16-9" />
-    <episode-num system="onscreen">01</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.Fball.HD.uk" start="20260807150000 +0000" stop="20260807153000 +0000">
-    <title lang="en">EFL Cup 25/26 Semi-Final 1st Leg</title>
-    <desc lang="en">New Chelsea boss Liam Rosenior occupies the Stamford Bridge dugout for the first time as his side take on Arsenal in the first leg of this EFL Cup semi-final. (14.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/9e5c501a-d5b5-4a6d-984a-7c76d71b7a44/16-9" />
-    <episode-num system="onscreen">01</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.Fball.HD.uk" start="20260807153000 +0000" stop="20260807160000 +0000">
-    <title lang="en">EFL Cup 25/26 Semi-Final 2nd Leg</title>
-    <desc lang="en">Trailing 3-2 on aggregate, Liam Rosenior's Chelsea head to the Emirates Stadium for the second leg of this two-legged Carabao Cup semi-final clash with Mikel Arteta's Arsenal. (03.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/0f6e2dc1-3119-4e43-9eb4-8894e01dee8a/16-9" />
-    <episode-num system="onscreen">02</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.Fball.HD.uk" start="20260807160000 +0000" stop="20260807163000 +0000">
-    <title lang="en">EFL Cup 25/26 Semi-Final 2nd Leg</title>
-    <desc lang="en">Two goals up and in firm control of this EFL Cup semi-final tie, Manchester City look to finish off the holders Newcastle and join Premier League title rivals Arsenal at Wembley. (04.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/95ffaa2e-bc06-4295-817e-c49238be8038/16-9" />
-    <episode-num system="onscreen">02</episode-num>
-    <rating system="UK">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme channel="SkySp.Fball.HD.uk" start="20260807163000 +0000" stop="20260807173000 +0000">
-    <title lang="en">EFL Cup 25/26: Arsenal v Man City</title>
-    <desc lang="en">For Arsenal and Manchester City, the Premier League title becomes secondary as the fate of the season's first piece of silverware is decided in the Carabao Cup final at Wembley. (22.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/a95ff71c-6229-4dcd-9689-3b01f53e1700/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/37892d2b-826c-4441-9b0d-a68e02e09570/16-9" />
     <episode-num system="onscreen">03</episode-num>
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.Fball.HD.uk" start="20260807173000 +0000" stop="20260807180000 +0000">
-    <title lang="en">EFL Cup Best Goals: 2025/26</title>
-    <desc lang="en">From the Toughsheet Community Stadium all the way to Wembley, revisit the finest strikes from each round of the 2025-26 Carabao Cup.</desc>
+  <programme channel="SkySp.Fball.uk" start="20260811083000 +0000" stop="20260811084500 +0000">
+    <title lang="en">EFL 21/22: Coventry City v Fulham</title>
+    <desc lang="en">In October 2021, Coventry took Fulham to the sword, putting four past the travelling west Londoners who eventually went on to secure Premier League promotion.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/328c3a2d-98fc-4aed-beeb-566ecf69a246/16-9" />
-    <episode-num system="xmltv_ns">.17.</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/65846c3f-9e39-44bd-b2a9-0a8a26e02923/16-9" />
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.Fball.HD.uk" start="20260807180000 +0000" stop="20260807214500 +0000">
-    <title lang="en">Live EFL Cup: M'boro v Wrexham</title>
-    <desc lang="en">In an all-Championship tie from the opening round of the Carabao Cup, Middlesbrough welcome Wrexham to the Riverside Stadium.</desc>
+  <programme channel="SkySp.Fball.uk" start="20260811084500 +0000" stop="20260811090000 +0000">
+    <title lang="en">EFL 21/22: Blackburn v Fulham</title>
+    <desc lang="en">In a Sky Bet Championship encounter to remember for the visitors - and one to forget for the hosts - the travelling Fulham put seven unanswered goals past a hapless Blackburn at Ewood Park.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/bdcddfc7-57c3-461c-8b64-2b1d44b4adac/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/f9e5233c-ebb4-4489-935c-0c79de41cd48/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.uk" start="20260811090000 +0000" stop="20260811110000 +0000">
+    <title lang="en">SPFL Greatest: Motherwell v Hibs</title>
+    <desc lang="en">A chance to look back at the highest scoring game of the SPL era. Motherwell and Hibernian meet at Fir Park in May 2010 in a 12-goal thriller.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/59365908-1f8c-4dcf-acc8-808fbc066c62/16-9" />
+    <episode-num system="xmltv_ns">.37.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.uk" start="20260811110000 +0000" stop="20260811120000 +0000">
+    <title lang="en">Championship Season Review 13/14</title>
+    <desc lang="en">A season review of the 2013-2014 season in the Sky Bet Championship, with a look at all of the biggest stories and key matches from across the season.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e3ebd4b4-6ceb-4e5b-b2f1-19647189562f/16-9" />
     <episode-num system="xmltv_ns">.0.</episode-num>
-  </programme>
-  <programme channel="SkySp.Fball.HD.uk" start="20260807214500 +0000" stop="20260807224500 +0000">
-    <title lang="en">Championship Season Review 25/26</title>
-    <desc lang="en">An in-depth review of the 2025-26 Sky Bet Championship season.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/546de5a2-09e7-4302-8aa0-35711ca7ced4/16-9" />
-    <episode-num system="xmltv_ns">.18.</episode-num>
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.Fball.HD.uk" start="20260807224500 +0000" stop="20260807231500 +0000">
-    <title lang="en">Scottish Premiership Round Up Show</title>
-    <desc lang="en">A round-up of the Scottish Premiership action from the latest round of fixtures in the 2026-2027 season.</desc>
+  <programme channel="SkySp.Fball.uk" start="20260811120000 +0000" stop="20260811130000 +0000">
+    <title lang="en">Championship Season Review 14/15</title>
+    <desc lang="en">A season review of the 2014-2015 Sky Bet Championship season, with a look at all of the biggest stories and key matches from another eventful year.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/852327be-6c8e-486c-9c80-31944241e852/16-9" />
+    <icon src="https://images.metadata.sky.com/pd-image/43a3c7a4-8ed4-425f-994a-d6a0f9dd05ac/16-9" />
+    <episode-num system="xmltv_ns">.1.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.uk" start="20260811130000 +0000" stop="20260811140000 +0000">
+    <title lang="en">Championship Season Review 15/16</title>
+    <desc lang="en">A review of the 2015-2016 Sky Bet Championship season, with a look at all of the biggest stories and key matches from another eventful year.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f24a3234-5183-44f1-9b7c-d1ed82feb946/16-9" />
     <episode-num system="xmltv_ns">.0.</episode-num>
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.Fball.HD.uk" start="20260807231500 +0000" stop="20260808011500 +0000">
-    <title lang="en">Retro C'Ship 00: B'burn v Man City</title>
-    <desc lang="en">A chance to relive a classic clash from the second tier from over the years. Here, back in 2000, Blackburn Rovers and Manchester City go head-to-head in a memorable First Division clash.</desc>
+  <programme channel="SkySp.Fball.uk" start="20260811140000 +0000" stop="20260811143000 +0000">
+    <title lang="en">C'Ship Playoff SF: 2025-26</title>
+    <desc lang="en">Hull and Millwall get the Sky Bet Championship play-offs underway with an opening-leg contest at the MKM Stadium. Hull snuck in with final-day victory over Norwich last Saturday. (08.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8895efcc-5a01-487d-98bc-9706b6bc054b/16-9" />
+    <episode-num system="onscreen">05</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.uk" start="20260811143000 +0000" stop="20260811150000 +0000">
+    <title lang="en">C'Ship Playoff SF: 2025-26</title>
+    <desc lang="en">Aiming to bounce back to the Premier League at the first time of asking, Southampton's Sky Bet Championship play-off campaign starts away to Kim Hellberg's Middlesbrough. (09.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f7b200a1-6021-4195-9824-1fa453ecde5f/16-9" />
+    <episode-num system="onscreen">05</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.uk" start="20260811150000 +0000" stop="20260811153000 +0000">
+    <title lang="en">C'Ship Playoff SF: 2025-26</title>
+    <desc lang="en">Millwall and Hull's finely poised Sky Bet Championship play-off semi-final enters its second leg at the Den. The two played out a goalless draw last Friday. (11.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/25ba2076-2475-417b-9afb-809d6e10e134/16-9" />
+    <episode-num system="onscreen">05</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.uk" start="20260811153000 +0000" stop="20260811160000 +0000">
+    <title lang="en">C'Ship Playoff SF: 2025-26</title>
+    <desc lang="en">A St Mary's decider gets underway in the Sky Bet Championship play-offs as Southampton entertain Middlesbrough following last Saturday's opening-leg stalemate. (12.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f4c02b4a-6e79-48a1-a124-61d10f89b58f/16-9" />
+    <episode-num system="onscreen">05</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.uk" start="20260811160000 +0000" stop="20260811170000 +0000">
+    <title lang="en">C'Ship Playoff Final: 2025-26</title>
+    <desc lang="en">The last remaining spot in next season's Premier League is decided at Wembley as Hull and Middlesbrough contest one of football's richest games - the Championship play-off final. (23.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <icon src="https://images.metadata.sky.com/pd-image/15682025-6234-4b3f-937b-51691c3d420c/16-9" />
-    <episode-num system="xmltv_ns">.54.</episode-num>
+    <icon src="https://images.metadata.sky.com/pd-image/c1c379de-fcb0-4880-a0c3-4d87f2028488/16-9" />
+    <episode-num system="onscreen">05</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.uk" start="20260811170000 +0000" stop="20260811173000 +0000">
+    <title lang="en">League Two Playoff SF: 2025-26</title>
+    <desc lang="en">The opening leg of a Sky Bet League Two play-off semi-final between Grimsby Town and Salford City at Blundell Park. Grimsby completed a league double over their opponents here. (10.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f8f67ff1-275a-416e-a8c8-c3cdee8808cf/16-9" />
+    <episode-num system="onscreen">05</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.uk" start="20260811173000 +0000" stop="20260811180000 +0000">
+    <title lang="en">League Two Playoff SF: 2025-26</title>
+    <desc lang="en">A Sky Bet League Two play-off semi-final first leg between Chesterfield and Notts County. Chesterfield defeated Notts County both home and away during the league campaign. (10.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ec182611-c034-41ce-835c-36ee4d57df17/16-9" />
+    <episode-num system="onscreen">05</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.uk" start="20260811180000 +0000" stop="20260811183000 +0000">
+    <title lang="en">League Two Playoff SF: 2025-26</title>
+    <desc lang="en">In the second leg of this Sky Bet League Two play-off semi-final, Salford City bring home a 2-1 advantage over Grimsby to the Peninsula Stadium. (15.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/779bd321-e8d1-4107-9b15-085334f43f86/16-9" />
+    <episode-num system="onscreen">05</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.uk" start="20260811183000 +0000" stop="20260811190000 +0000">
+    <title lang="en">League Two Playoff SF: 2025-26</title>
+    <desc lang="en">The second leg of a Sky Bet League Two play-off semi-final between Notts County and Chesterfield at Meadow Lane. The visitors hold the advantage after winning 1-0 on Sunday. (15.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/72d10ae0-4d66-4150-8856-d1069a50e18c/16-9" />
+    <episode-num system="onscreen">05</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.uk" start="20260811190000 +0000" stop="20260811200000 +0000">
+    <title lang="en">EFL Preview Show</title>
+    <desc lang="en">With the English Football League season set to begin this weekend, look ahead to the 2026-27 seasons across the Championship and Leagues One and Two.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ce9dc599-938c-4d8a-9106-b2c9c5416cd5/16-9" />
+    <episode-num system="xmltv_ns">.166.</episode-num>
+  </programme>
+  <programme channel="SkySp.Fball.uk" start="20260811200000 +0000" stop="20260811210000 +0000">
+    <title lang="en">League Two Playoff Final: 2025-26</title>
+    <desc lang="en">The EFL play-offs conclude at Wembley Stadium with Notts County and Salford City competing for the last remaining spot in next season's third tier. (25.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0213d62d-de5a-4d90-bfdc-f0102e31728e/16-9" />
+    <episode-num system="onscreen">05</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.uk" start="20260811210000 +0000" stop="20260811213000 +0000">
+    <title lang="en">League One Playoff SF: 2025-26</title>
+    <desc lang="en">Out to extend a one-goal advantage from Saturday's opening-leg win, can Stockport County complete the job against Stevenage to reach the League One play-off final at Wembley? (13.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/46c9bd0b-7ded-432c-be4e-99f397dc8416/16-9" />
+    <episode-num system="onscreen">05</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.uk" start="20260811213000 +0000" stop="20260811220000 +0000">
+    <title lang="en">League One Playoff SF: 2025-26</title>
+    <desc lang="en">Bolton take a one-goal opening-leg lead to the University of Bradford Stadium as the hosts attempt to claw their way back into this Sky Bet League One play-off semi-final. (14.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8d0dafda-0d35-4c43-b637-0e4721e1bd09/16-9" />
+    <episode-num system="onscreen">05</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.uk" start="20260811220000 +0000" stop="20260811230000 +0000">
+    <title lang="en">League One Playoff Final: 2025-26</title>
+    <desc lang="en">In the Sky Bet League One play-off final, Bolton Wanderers and Stockport County compete under the Wembley arch for a place in the second tier next season. (24.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2ba5a0c9-678c-43d5-9f5f-a97741215f98/16-9" />
+    <episode-num system="onscreen">05</episode-num>
     <rating system="UK">
       <value>U</value>
     </rating>
@@ -10874,6 +10569,9 @@
     <category lang="en">Football</category>
     <icon src="https://images.metadata.sky.com/pd-image/f8fae4d5-279b-49f4-9310-1e3f815355d8/16-9" />
     <episode-num system="onscreen">08</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
   </programme>
   <programme channel="SkySp.Fball.HD.uk" start="20260810113000 +0000" stop="20260810120000 +0000">
     <title lang="en">EFL Cup Highlights</title>
@@ -11017,135 +10715,339 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.Golf.uk" start="20260807020000 +0000" stop="20260807030000 +0000">
-    <title lang="en">Wyndham Championship 2022 Hlts</title>
-    <desc lang="en">Highlights from the 2022 Wyndham Championship at Sedgefield Country Club, North Carolina. Kevin Kisner prevailed as winner here in 2021 after playoff victory.</desc>
+  <programme channel="SkySp.Fball.HD.uk" start="20260810230000 +0000" stop="20260810233000 +0000">
+    <title lang="en">EFL Cup Highlights</title>
+    <desc lang="en">League One Plymouth Argyle entertain League Two side Exeter City at Home Park in the opening round of the 2026-27 Carabao Cup. (10.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/57c5b631-c57b-4472-a699-c5690ed4657b/16-9" />
-    <episode-num system="xmltv_ns">.135.</episode-num>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7c736784-9e04-49d7-ab55-7fc3f08d0090/16-9" />
+    <episode-num system="onscreen">08</episode-num>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20260810233000 +0000" stop="20260811000000 +0000">
+    <title lang="en">EFL Cup Highlights</title>
+    <desc lang="en">In a first-round match-up from the 26-27 Carabao Cup, Championship side Southampton travel to Colchester United's JobServe Community Stadium.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ffff00c2-bb71-4707-9131-cb203f1d3e89/16-9" />
+    <episode-num system="onscreen">08</episode-num>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20260811000000 +0000" stop="20260811020000 +0000">
+    <title lang="en">Retro C'Ship 12: B'pool v West Ham</title>
+    <desc lang="en">A chance to relive a classic match from the Championship. Here the play-off final from the 2011-12 campaign, as Blackpool and West Ham meet at Wembley.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/52f71502-71dd-4678-a15d-44f22db7f0cb/16-9" />
+    <episode-num system="xmltv_ns">.57.</episode-num>
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.Golf.uk" start="20260807030000 +0000" stop="20260807040000 +0000">
-    <title lang="en">AIG Women's Open Golf Round 4 Hlts</title>
-    <desc lang="en">The Women's Open comes to a conclusion at Royal Lytham &amp; St Annes. With Yealimi Noh in the box seat, Charley Hull and Lottie Woad attempt to mount a final-day push for Major glory. (02.</desc>
+  <programme channel="SkySp.Fball.HD.uk" start="20260811020000 +0000" stop="20260811030000 +0000">
+    <title lang="en">150 Years of the Edinburgh Derby</title>
+    <desc lang="en">To mark the 150th anniversary of one of the oldest rivalries in world football, look back at the origins, key moments with club legends and the tumultuous takeover bid in 1990.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/70a1957e-0731-4d66-ac06-645da204ba7e/16-9" />
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ea5e8e8e-3962-4f07-a0c2-a6e3f9b9e763/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20260811030000 +0000" stop="20260811040000 +0000">
+    <title lang="en">EFL Cup 14/15: Chelsea v Spurs</title>
+    <desc lang="en">A look back at some famous matches from yesteryear. Here, Chelsea face Tottenham Hotspur in the final of the Capital One Cup at Wembley Stadium in 2015.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/56dd1236-1ac5-4be2-a5e3-dd60c6997657/16-9" />
+    <episode-num system="xmltv_ns">.16.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20260811040000 +0000" stop="20260811041500 +0000">
+    <title lang="en">SPFL 22/23: Dundee Utd v Dundee</title>
+    <desc lang="en">The Dundee derby arrives as Dundee United meet Dundee at Tannadice Park in the cinch Premiership. The visitors are still looking for their first league win here.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/da71e040-0a3a-4df5-83d0-2b8c765da23e/16-9" />
+    <episode-num system="xmltv_ns">.8.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20260811041500 +0000" stop="20260811043000 +0000">
+    <title lang="en">SPFL 24/25: Dundee Utd v Dundee</title>
+    <desc lang="en">On the opening weekend of the Scottish Premiership season, a Dundee derby unfolds as Jim Goodwin's Tangerines mark their top flight return by hosting neighbours Dundee at Tannadice. (04.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/870fa1ee-c254-34d7-941e-4892f45f27db/16-9" />
     <episode-num system="onscreen">08</episode-num>
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.Golf.uk" start="20260807040000 +0000" stop="20260807043000 +0000">
-    <title lang="en">School of Golf</title>
-    <desc lang="en">The School of Golf offers tips and tricks on how to improve your golfing game. Here, look at how to make adjustments to your backswing. Ep 20.</desc>
+  <programme channel="SkySp.Fball.HD.uk" start="20260811043000 +0000" stop="20260811044500 +0000">
+    <title lang="en">EFL 21/22: Coventry City v Fulham</title>
+    <desc lang="en">In October 2021, Coventry took Fulham to the sword, putting four past the travelling west Londoners who eventually went on to secure Premier League promotion.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/c2e01083-e5a6-4b7c-92b8-7efa7adb1db8/16-9" />
-    <episode-num system="xmltv_ns">11.19.</episode-num>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/65846c3f-9e39-44bd-b2a9-0a8a26e02923/16-9" />
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.Golf.uk" start="20260807043000 +0000" stop="20260807050000 +0000">
-    <title lang="en">School of Golf</title>
-    <desc lang="en">The School of Golf offers tips and tricks on how to improve your golfing game. Here, learn how to emulate professional players to refine your technique. Ep 21.</desc>
+  <programme channel="SkySp.Fball.HD.uk" start="20260811044500 +0000" stop="20260811050000 +0000">
+    <title lang="en">EFL 21/22: Blackburn v Fulham</title>
+    <desc lang="en">In a Sky Bet Championship encounter to remember for the visitors - and one to forget for the hosts - the travelling Fulham put seven unanswered goals past a hapless Blackburn at Ewood Park.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/32182051-d7af-49ec-bcbe-e65095ddf646/16-9" />
-    <episode-num system="xmltv_ns">11.20.</episode-num>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f9e5233c-ebb4-4489-935c-0c79de41cd48/16-9" />
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.Golf.uk" start="20260807050000 +0000" stop="20260807053000 +0000">
-    <title lang="en">HotelPlanner Tour Golf Highlights</title>
-    <desc lang="en">Highlights from the Infortar Estonian Challenge during the 2026 season of the HotelPlanner Tour, the second tier of men's professional golf in Europe.</desc>
+  <programme channel="SkySp.Fball.HD.uk" start="20260811050000 +0000" stop="20260811060000 +0000">
+    <title lang="en">League Two Playoff Final: 2025-26</title>
+    <desc lang="en">The EFL play-offs conclude at Wembley Stadium with Notts County and Salford City competing for the last remaining spot in next season's third tier. (25.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/51609a5c-bd5a-4e2f-b259-16699a6680d0/16-9" />
-    <episode-num system="xmltv_ns">.17.</episode-num>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0213d62d-de5a-4d90-bfdc-f0102e31728e/16-9" />
+    <episode-num system="onscreen">05</episode-num>
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.Golf.uk" start="20260807053000 +0000" stop="20260807060000 +0000">
-    <title lang="en">PGA Tour Champions Learning Centre</title>
-    <desc lang="en">From instruction tips for your game, to fitness advice and lifestyle lessons, hear from the best on the circuit in PGA Tour Champions Learning Centre.</desc>
+  <programme channel="SkySp.Fball.HD.uk" start="20260811060000 +0000" stop="20260811070000 +0000">
+    <title lang="en">League One Playoff Final: 2025-26</title>
+    <desc lang="en">In the Sky Bet League One play-off final, Bolton Wanderers and Stockport County compete under the Wembley arch for a place in the second tier next season. (24.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/80987582-1f9d-4e86-8d51-6591a9754856/16-9" />
-    <episode-num system="xmltv_ns">.31.</episode-num>
-  </programme>
-  <programme channel="SkySp.Golf.uk" start="20260807060000 +0000" stop="20260807100000 +0000">
-    <title lang="en">Ladies European Tour Golf</title>
-    <desc lang="en">Day one of the PIF London Championship at Centurion Club in St Albans. With a $2 million prize fund on the line, the 120-player field get their tournaments underway.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/942b0d2d-1165-45fc-8e49-2f37d2966866/16-9" />
-    <episode-num system="xmltv_ns">.41.</episode-num>
-  </programme>
-  <programme channel="SkySp.Golf.uk" start="20260807100000 +0000" stop="20260807101500 +0000">
-    <title lang="en">My Icon: Catriona Matthew</title>
-    <desc lang="en">In a special edition of My Icon to mark International Women's Day, Scottish golfer and Major champion Catriona Matthew looks at the personalities that have inspired her in her career.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/23f56603-b5dd-4301-833c-ba5adc0cd570/16-9" />
-    <episode-num system="xmltv_ns">3.3.</episode-num>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2ba5a0c9-678c-43d5-9f5f-a97741215f98/16-9" />
+    <episode-num system="onscreen">05</episode-num>
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.Golf.uk" start="20260807101500 +0000" stop="20260807104500 +0000">
-    <title lang="en">HotelPlanner Tour Golf Highlights</title>
-    <desc lang="en">Highlights from the Infortar Estonian Challenge during the 2026 season of the HotelPlanner Tour, the second tier of men's professional golf in Europe.</desc>
+  <programme channel="SkySp.Fball.HD.uk" start="20260811070000 +0000" stop="20260811080000 +0000">
+    <title lang="en">C'Ship Playoff Final: 2025-26</title>
+    <desc lang="en">The last remaining spot in next season's Premier League is decided at Wembley as Hull and Middlesbrough contest one of football's richest games - the Championship play-off final. (23.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/51609a5c-bd5a-4e2f-b259-16699a6680d0/16-9" />
-    <episode-num system="xmltv_ns">.17.</episode-num>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c1c379de-fcb0-4880-a0c3-4d87f2028488/16-9" />
+    <episode-num system="onscreen">05</episode-num>
     <rating system="UK">
       <value>U</value>
     </rating>
   </programme>
-  <programme channel="SkySp.Golf.uk" start="20260807104500 +0000" stop="20260807130000 +0000">
-    <title lang="en">Live PGA Tour Golf Early Coverage</title>
-    <desc lang="en">Join the featured groups on the second day of the 2026 Wyndham Championship. Beau Hossler, needing victory to make the FedEx Cup Playoffs, leads after round one.</desc>
+  <programme channel="SkySp.Fball.HD.uk" start="20260811080000 +0000" stop="20260811083000 +0000">
+    <title lang="en">SPFL 25/26: Rangers v Celtic</title>
+    <desc lang="en">Old Firm rivals Rangers and Celtic - both competing with leaders Hearts for the title - collide on derby day at Ibrox in a pivotal Scottish Premiership contest. (01.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/66aeb5b9-9de0-4803-b7c2-0ff964f6dcbd/16-9" />
-    <episode-num system="xmltv_ns">.93.</episode-num>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/37892d2b-826c-4441-9b0d-a68e02e09570/16-9" />
+    <episode-num system="onscreen">03</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
   </programme>
-  <programme channel="SkySp.Golf.uk" start="20260807130000 +0000" stop="20260807170000 +0000">
-    <title lang="en">Live Ladies European Tour Golf</title>
-    <desc lang="en">Day two of the PIF London Championship at Centurion Club in St Albans. Canada's Anna Huang, a three-time LET winner, set the pace on Thursday, firing a round of 67 to go six under.</desc>
+  <programme channel="SkySp.Fball.HD.uk" start="20260811083000 +0000" stop="20260811084500 +0000">
+    <title lang="en">EFL 21/22: Coventry City v Fulham</title>
+    <desc lang="en">In October 2021, Coventry took Fulham to the sword, putting four past the travelling west Londoners who eventually went on to secure Premier League promotion.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/764bfc49-c458-4c6a-89bb-d728253308db/16-9" />
-    <episode-num system="xmltv_ns">.42.</episode-num>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/65846c3f-9e39-44bd-b2a9-0a8a26e02923/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
   </programme>
-  <programme channel="SkySp.Golf.uk" start="20260807170000 +0000" stop="20260807190000 +0000">
-    <title lang="en">Live PGA Tour Golf Early Coverage</title>
-    <desc lang="en">Join the featured groups on the second day of the 2026 Wyndham Championship. Beau Hossler, needing victory to make the FedEx Cup Playoffs, leads after round one.</desc>
+  <programme channel="SkySp.Fball.HD.uk" start="20260811084500 +0000" stop="20260811090000 +0000">
+    <title lang="en">EFL 21/22: Blackburn v Fulham</title>
+    <desc lang="en">In a Sky Bet Championship encounter to remember for the visitors - and one to forget for the hosts - the travelling Fulham put seven unanswered goals past a hapless Blackburn at Ewood Park.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/66aeb5b9-9de0-4803-b7c2-0ff964f6dcbd/16-9" />
-    <episode-num system="xmltv_ns">.93.</episode-num>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f9e5233c-ebb4-4489-935c-0c79de41cd48/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
   </programme>
-  <programme channel="SkySp.Golf.uk" start="20260807190000 +0000" stop="20260807220000 +0000">
-    <title lang="en">Live PGA Tour Golf</title>
-    <desc lang="en">The second day of the 2026 Wyndham Championship. Beau Hossler's bid to reach the FedEx Cup Playoffs began perfectly with an opening-round 61 to claim the lead.</desc>
+  <programme channel="SkySp.Fball.HD.uk" start="20260811090000 +0000" stop="20260811110000 +0000">
+    <title lang="en">SPFL Greatest: Motherwell v Hibs</title>
+    <desc lang="en">A chance to look back at the highest scoring game of the SPL era. Motherwell and Hibernian meet at Fir Park in May 2010 in a 12-goal thriller.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Golf</category>
-    <icon src="https://images.metadata.sky.com/pd-image/5844d79e-a872-4ef0-a8ce-76163b6c65e3/16-9" />
-    <episode-num system="xmltv_ns">.113.</episode-num>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/59365908-1f8c-4dcf-acc8-808fbc066c62/16-9" />
+    <episode-num system="xmltv_ns">.37.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
   </programme>
-  <programme channel="SkySp.Golf.uk" start="20260807220000 +0000" stop="20260808000000 +0000">
-    <title lang="en">The Greatest Solheim</title>
-    <desc lang="en">Take a look back at a dramatic 2019 Solheim Cup from the famous Gleneagles in Scotland, featuring interviews from the key players involved in the drama that saw Europe win back the trophy.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/95a2418b-2bf1-437d-a2dd-82875450edb6/16-9" />
+  <programme channel="SkySp.Fball.HD.uk" start="20260811110000 +0000" stop="20260811120000 +0000">
+    <title lang="en">Championship Season Review 13/14</title>
+    <desc lang="en">A season review of the 2013-2014 season in the Sky Bet Championship, with a look at all of the biggest stories and key matches from across the season.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e3ebd4b4-6ceb-4e5b-b2f1-19647189562f/16-9" />
+    <episode-num system="xmltv_ns">.0.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20260811120000 +0000" stop="20260811130000 +0000">
+    <title lang="en">Championship Season Review 14/15</title>
+    <desc lang="en">A season review of the 2014-2015 Sky Bet Championship season, with a look at all of the biggest stories and key matches from another eventful year.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/43a3c7a4-8ed4-425f-994a-d6a0f9dd05ac/16-9" />
+    <episode-num system="xmltv_ns">.1.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20260811130000 +0000" stop="20260811140000 +0000">
+    <title lang="en">Championship Season Review 15/16</title>
+    <desc lang="en">A review of the 2015-2016 Sky Bet Championship season, with a look at all of the biggest stories and key matches from another eventful year.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/f24a3234-5183-44f1-9b7c-d1ed82feb946/16-9" />
+    <episode-num system="xmltv_ns">.0.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20260811140000 +0000" stop="20260811143000 +0000">
+    <title lang="en">C'Ship Playoff SF: 2025-26</title>
+    <desc lang="en">Hull and Millwall get the Sky Bet Championship play-offs underway with an opening-leg contest at the MKM Stadium. Hull snuck in with final-day victory over Norwich last Saturday. (08.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8895efcc-5a01-487d-98bc-9706b6bc054b/16-9" />
+    <episode-num system="onscreen">05</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20260811143000 +0000" stop="20260811150000 +0000">
+    <title lang="en">C'Ship Playoff SF: 2025-26</title>
+    <desc lang="en">Aiming to bounce back to the Premier League at the first time of asking, Southampton's Sky Bet Championship play-off campaign starts away to Kim Hellberg's Middlesbrough. (09.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f7b200a1-6021-4195-9824-1fa453ecde5f/16-9" />
+    <episode-num system="onscreen">05</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20260811150000 +0000" stop="20260811153000 +0000">
+    <title lang="en">C'Ship Playoff SF: 2025-26</title>
+    <desc lang="en">Millwall and Hull's finely poised Sky Bet Championship play-off semi-final enters its second leg at the Den. The two played out a goalless draw last Friday. (11.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/25ba2076-2475-417b-9afb-809d6e10e134/16-9" />
+    <episode-num system="onscreen">05</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20260811153000 +0000" stop="20260811160000 +0000">
+    <title lang="en">C'Ship Playoff SF: 2025-26</title>
+    <desc lang="en">A St Mary's decider gets underway in the Sky Bet Championship play-offs as Southampton entertain Middlesbrough following last Saturday's opening-leg stalemate. (12.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f4c02b4a-6e79-48a1-a124-61d10f89b58f/16-9" />
+    <episode-num system="onscreen">05</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20260811160000 +0000" stop="20260811170000 +0000">
+    <title lang="en">C'Ship Playoff Final: 2025-26</title>
+    <desc lang="en">The last remaining spot in next season's Premier League is decided at Wembley as Hull and Middlesbrough contest one of football's richest games - the Championship play-off final. (23.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c1c379de-fcb0-4880-a0c3-4d87f2028488/16-9" />
+    <episode-num system="onscreen">05</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20260811170000 +0000" stop="20260811173000 +0000">
+    <title lang="en">League Two Playoff SF: 2025-26</title>
+    <desc lang="en">The opening leg of a Sky Bet League Two play-off semi-final between Grimsby Town and Salford City at Blundell Park. Grimsby completed a league double over their opponents here. (10.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f8f67ff1-275a-416e-a8c8-c3cdee8808cf/16-9" />
+    <episode-num system="onscreen">05</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20260811173000 +0000" stop="20260811180000 +0000">
+    <title lang="en">League Two Playoff SF: 2025-26</title>
+    <desc lang="en">A Sky Bet League Two play-off semi-final first leg between Chesterfield and Notts County. Chesterfield defeated Notts County both home and away during the league campaign. (10.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ec182611-c034-41ce-835c-36ee4d57df17/16-9" />
+    <episode-num system="onscreen">05</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20260811180000 +0000" stop="20260811183000 +0000">
+    <title lang="en">League Two Playoff SF: 2025-26</title>
+    <desc lang="en">In the second leg of this Sky Bet League Two play-off semi-final, Salford City bring home a 2-1 advantage over Grimsby to the Peninsula Stadium. (15.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/779bd321-e8d1-4107-9b15-085334f43f86/16-9" />
+    <episode-num system="onscreen">05</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20260811183000 +0000" stop="20260811190000 +0000">
+    <title lang="en">League Two Playoff SF: 2025-26</title>
+    <desc lang="en">The second leg of a Sky Bet League Two play-off semi-final between Notts County and Chesterfield at Meadow Lane. The visitors hold the advantage after winning 1-0 on Sunday. (15.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/72d10ae0-4d66-4150-8856-d1069a50e18c/16-9" />
+    <episode-num system="onscreen">05</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20260811190000 +0000" stop="20260811200000 +0000">
+    <title lang="en">EFL Preview Show</title>
+    <desc lang="en">With the English Football League season set to begin this weekend, look ahead to the 2026-27 seasons across the Championship and Leagues One and Two.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ce9dc599-938c-4d8a-9106-b2c9c5416cd5/16-9" />
+    <episode-num system="xmltv_ns">.166.</episode-num>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20260811200000 +0000" stop="20260811210000 +0000">
+    <title lang="en">League Two Playoff Final: 2025-26</title>
+    <desc lang="en">The EFL play-offs conclude at Wembley Stadium with Notts County and Salford City competing for the last remaining spot in next season's third tier. (25.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/0213d62d-de5a-4d90-bfdc-f0102e31728e/16-9" />
+    <episode-num system="onscreen">05</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20260811210000 +0000" stop="20260811213000 +0000">
+    <title lang="en">League One Playoff SF: 2025-26</title>
+    <desc lang="en">Out to extend a one-goal advantage from Saturday's opening-leg win, can Stockport County complete the job against Stevenage to reach the League One play-off final at Wembley? (13.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/46c9bd0b-7ded-432c-be4e-99f397dc8416/16-9" />
+    <episode-num system="onscreen">05</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20260811213000 +0000" stop="20260811220000 +0000">
+    <title lang="en">League One Playoff SF: 2025-26</title>
+    <desc lang="en">Bolton take a one-goal opening-leg lead to the University of Bradford Stadium as the hosts attempt to claw their way back into this Sky Bet League One play-off semi-final. (14.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8d0dafda-0d35-4c43-b637-0e4721e1bd09/16-9" />
+    <episode-num system="onscreen">05</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Fball.HD.uk" start="20260811220000 +0000" stop="20260811230000 +0000">
+    <title lang="en">League One Playoff Final: 2025-26</title>
+    <desc lang="en">In the Sky Bet League One play-off final, Bolton Wanderers and Stockport County compete under the Wembley arch for a place in the second tier next season. (24.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2ba5a0c9-678c-43d5-9f5f-a97741215f98/16-9" />
+    <episode-num system="onscreen">05</episode-num>
     <rating system="UK">
       <value>U</value>
     </rating>
@@ -11298,7 +11200,7 @@
   </programme>
   <programme channel="SkySp.Golf.uk" start="20260808120000 +0000" stop="20260808160000 +0000">
     <title lang="en">Live Ladies European Tour Golf</title>
-    <desc lang="en">Day three of the PIF London Championship at Centurion Club in St Albans.</desc>
+    <desc lang="en">Day three of the PIF London Championship at Centurion Club in St Albans. Yesterday, England's Charley Hull closed the gap to leader Anna Huang to just one stroke.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
     <icon src="https://images.metadata.sky.com/pd-image/59013618-9ec8-4c17-b2dc-4f7647b9a252/16-9" />
@@ -11306,7 +11208,7 @@
   </programme>
   <programme channel="SkySp.Golf.uk" start="20260808160000 +0000" stop="20260808170000 +0000">
     <title lang="en">Live PGA Tour Golf Early Coverage</title>
-    <desc lang="en">Join the featured groups on the third day of the 2026 Wyndham Championship. Last year's winner Cameron Young ended a streak of seven runner-up finishes for his first PGA Tour title.</desc>
+    <desc lang="en">Join the featured groups on the third day of the 2026 Wyndham Championship at Sedgefield Country Club - the final event of the PGA Tour's regular season before the FedEx Cup Playoffs.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
     <icon src="https://images.metadata.sky.com/pd-image/820d798e-deba-400f-89ab-8fae9ed43596/16-9" />
@@ -11314,7 +11216,7 @@
   </programme>
   <programme channel="SkySp.Golf.uk" start="20260808170000 +0000" stop="20260808220000 +0000">
     <title lang="en">Live PGA Tour Golf</title>
-    <desc lang="en">The third day of the 2026 Wyndham Championship. Last year's winner Cameron Young ended a streak of seven runner-up finishes for his first PGA Tour title.</desc>
+    <desc lang="en">The third day of the 2026 Wyndham Championship. Maintaining his lead heading into the weekend, Beau Hossler is bidding for a first PGA Tour win and qualification for the FedEx Cup Playoffs.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
     <icon src="https://images.metadata.sky.com/pd-image/33aaec13-5e60-4562-8e2d-409e483743be/16-9" />
@@ -11420,7 +11322,7 @@
   </programme>
   <programme channel="SkySp.Golf.uk" start="20260809060000 +0000" stop="20260809110000 +0000">
     <title lang="en">PGA Tour Golf</title>
-    <desc lang="en">The third day of the 2026 Wyndham Championship. Last year's winner Cameron Young ended a streak of seven runner-up finishes for his first PGA Tour title.</desc>
+    <desc lang="en">The third day of the 2026 Wyndham Championship. Maintaining his lead heading into the weekend, Beau Hossler is bidding for a first PGA Tour win and qualification for the FedEx Cup Playoffs.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
     <icon src="https://images.metadata.sky.com/pd-image/33aaec13-5e60-4562-8e2d-409e483743be/16-9" />
@@ -11679,6 +11581,340 @@
     <category lang="en">Golf</category>
     <icon src="https://images.metadata.sky.com/pd-image/1f5524bf-fb80-4d56-9dd5-14ded42e1462/16-9" />
     <episode-num system="xmltv_ns">.5.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Golf.uk" start="20260810230000 +0000" stop="20260811000000 +0000">
+    <title lang="en">Justin Rose: Chasing Forever</title>
+    <desc lang="en">Chasing the ultimate dream of lifting the Claret Jug, this is Justin Rose's story. Told through four decades of tournament footage, this documentary unpacks his defining moments.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/644f97f1-5253-46b2-bd6f-5ca2b81a3576/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Golf.uk" start="20260811000000 +0000" stop="20260811010000 +0000">
+    <title lang="en">Wyndham Championship 2017 Hlts</title>
+    <desc lang="en">The 2017 Wyndham Championship from Greensboro, North Carolina. Kim Si-woo won this tournament last year - his first win on the PGA Tour.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/2dcb5216-d343-3e24-9704-0967b1b399a6/16-9" />
+    <episode-num system="xmltv_ns">.137.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Golf.uk" start="20260811010000 +0000" stop="20260811020000 +0000">
+    <title lang="en">Wyndham Championship 2022 Hlts</title>
+    <desc lang="en">Highlights from the 2022 Wyndham Championship at Sedgefield Country Club, North Carolina. Kevin Kisner prevailed as winner here in 2021 after playoff victory.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/57c5b631-c57b-4472-a699-c5690ed4657b/16-9" />
+    <episode-num system="xmltv_ns">.135.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Golf.uk" start="20260811020000 +0000" stop="20260811030000 +0000">
+    <title lang="en">Wyndham Championship 2023 Hlts</title>
+    <desc lang="en">Highlights from the PGA Tour's 2023 Wyndham Championship at Sedgefield Country Club in Greensboro, North Carolina. Tom Kim of South Korea stood above the rest here in 2022.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6794e928-3dad-389c-b4c1-0c323ad355ea/16-9" />
+    <episode-num system="xmltv_ns">.161.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Golf.uk" start="20260811030000 +0000" stop="20260811040000 +0000">
+    <title lang="en">Wyndham Championship 2024 Hlts</title>
+    <desc lang="en">Tournament highlights from the 2024 Wyndham Championship, a PGA Tour event held at Sedgefield Country Club. The 44-year-old American Lucas Glover prevailed a year ago.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/318ee86a-d0be-3cdc-b17d-4f157ac42e2d/16-9" />
+    <episode-num system="xmltv_ns">.123.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Golf.uk" start="20260811040000 +0000" stop="20260811050000 +0000">
+    <title lang="en">Wyndham Championship 2025 Hlts</title>
+    <desc lang="en">Tournament highlights from the 2025 Wyndham Championship, held at Sedgefield Country Club in Greensboro, North Carolina. Aaron Rai claimed his first PGA Tour win at this event last season.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1ab96457-f140-46b9-a40d-bb4e6b2c8517/16-9" />
+    <episode-num system="xmltv_ns">.211.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Golf.uk" start="20260811050000 +0000" stop="20260811053000 +0000">
+    <title lang="en">School of Golf</title>
+    <desc lang="en">The School of Golf offers tips and tricks on how to improve your golfing game. Ep 11.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/dbca5b0c-06c2-4ec8-8851-c83f4edeb8d1/16-9" />
+    <episode-num system="xmltv_ns">11.10.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Golf.uk" start="20260811053000 +0000" stop="20260811060000 +0000">
+    <title lang="en">School of Golf</title>
+    <desc lang="en">The School of Golf offers tips and tricks on how to improve your golfing game. Ep 12.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/529071b1-cccc-49f9-8528-2517346d7917/16-9" />
+    <episode-num system="xmltv_ns">11.11.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Golf.uk" start="20260811060000 +0000" stop="20260811063000 +0000">
+    <title lang="en">Playing Lessons: Mina Harigae</title>
+    <desc lang="en">Former and current pros take viewers behind the ropes on the course, discussing such things as shot setup, club selection, and strategy. Here, Mina Harigae delivers the lesson.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/83191813-93c4-403b-935a-e9a7e9f82e69/16-9" />
+    <episode-num system="xmltv_ns">.7.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Golf.uk" start="20260811063000 +0000" stop="20260811070000 +0000">
+    <title lang="en">Playing Lessons: Kamaiu Johnson</title>
+    <desc lang="en">With multiple wins on the APGA Tour, Kamaiu Johnson joins Bones on the course to share his tips and strategies for optimum success.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c974a626-0488-4727-b747-cedc9a16a7f3/16-9" />
+    <episode-num system="xmltv_ns">.1.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Golf.uk" start="20260811070000 +0000" stop="20260811073000 +0000">
+    <title lang="en">Nick Dougherty's Tee Time Tips</title>
+    <desc lang="en">Nick Dougherty returns with another episode of Tee Time Tips.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/59719d36-5d4c-311a-afc8-e66904e1d018/16-9" />
+    <episode-num system="xmltv_ns">.74.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Golf.uk" start="20260811073000 +0000" stop="20260811080000 +0000">
+    <title lang="en">Nick Dougherty's Tee Time Tips</title>
+    <desc lang="en">Sky Sports Golf pundit and former European Tour star Nick Dougherty provides a special set of Tee Time Tips from The 149th Open Championship at Royal St George's Golf Club, England.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/754450f3-a17a-4fbc-bac4-e9c13f448632/16-9" />
+    <episode-num system="xmltv_ns">.67.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Golf.uk" start="20260811080000 +0000" stop="20260811083000 +0000">
+    <title lang="en">Annika Sorenstam - Mental Focus</title>
+    <desc lang="en">The Golf Academy returns with more tips and tricks to help you improve your golfing game. Here, Annika Sorenstam on the way to maintain mental focus.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/6a8a688a-5d64-455c-b94e-141dd9c2638c/16-9" />
+    <episode-num system="xmltv_ns">.56.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Golf.uk" start="20260811083000 +0000" stop="20260811090000 +0000">
+    <title lang="en">Golf Academy: Monty Full Swing</title>
+    <desc lang="en">Professional golfers give advice on how to improve your game across all aspects, from the tee to the green. Here, former European Tour star Colin Montgomerie offers tips on the full swing.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d738bc2b-b76b-4258-9a3d-8b0d40d0e8c7/16-9" />
+    <episode-num system="xmltv_ns">.21.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Golf.uk" start="20260811090000 +0000" stop="20260811100000 +0000">
+    <title lang="en">PGA Tour Golf Highlights</title>
+    <desc lang="en">The final day of the Wyndham Championship at Sedgefield Country Club. Last year's winner Cameron Young ended a streak of seven runner-up finishes for his first PGA Tour title. (09.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a76cb251-071c-4205-b9a3-055f86084b7c/16-9" />
+    <episode-num system="onscreen">08</episode-num>
+  </programme>
+  <programme channel="SkySp.Golf.uk" start="20260811100000 +0000" stop="20260811103000 +0000">
+    <title lang="en">The Golf Fitness Show</title>
+    <desc lang="en">An often-overlooked part of golf, fitness can improve your game in all sorts of ways. The Golf Fitness Show demonstrates the perfect exercises for the course.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/860b3f1e-7f5f-40f6-ba50-6e182affe4fe/16-9" />
+    <episode-num system="xmltv_ns">.41.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Golf.uk" start="20260811103000 +0000" stop="20260811110000 +0000">
+    <title lang="en">Mark Roe's Short Game School</title>
+    <desc lang="en">Former European Tour player Mark Roe travels to Trentino in northern Italy to give tips to the amateur golfer on how to improve their short game.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/e1eb9f5f-3ce9-4fba-b928-1f4454b54b60/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Golf.uk" start="20260811110000 +0000" stop="20260811120000 +0000">
+    <title lang="en">Best of the OpenZone</title>
+    <desc lang="en">Remember the best moments from the 2018 Sky Sports Open Zone, with interviews and golf tips from around the golfing world at The Open at Carnoustie Golf Links.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/1bb76774-3be6-411f-854d-e85a2da279f5/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Golf.uk" start="20260811120000 +0000" stop="20260811123000 +0000">
+    <title lang="en">Best of the Shot Centre</title>
+    <desc lang="en">Enjoy some of the best moments from the Sky Sports Shot Zone.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/18944ecd-fad0-3667-a446-90bc5d654a83/16-9" />
+    <episode-num system="xmltv_ns">.45.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Golf.uk" start="20260811123000 +0000" stop="20260811130000 +0000">
+    <title lang="en">Best of the Sky Zone</title>
+    <desc lang="en">A look at the very best moments from the Sky Zone at the 2019 PGA Championship at Bethpage Black Course.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/7bd05620-8476-4065-867d-c5f5a0544731/16-9" />
+    <episode-num system="xmltv_ns">.24.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Golf.uk" start="20260811130000 +0000" stop="20260811140000 +0000">
+    <title lang="en">Women's Open Masterclass</title>
+    <desc lang="en">Ahead of the year's final women's Major at Carnoustie, join 2018 champion Georgia Hall, Emily Pedersen, Annabel Dimmock and Solheim Cup captain Catriona Matthew for insight into their game.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/8bcd2dd0-5b47-4a36-aea0-e2de3ad78436/16-9" />
+    <episode-num system="xmltv_ns">.4.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Golf.uk" start="20260811140000 +0000" stop="20260811143000 +0000">
+    <title lang="en">School of Golf</title>
+    <desc lang="en">The School of Golf offers tips and tricks on how to improve your golfing game. Ep 11.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/dbca5b0c-06c2-4ec8-8851-c83f4edeb8d1/16-9" />
+    <episode-num system="xmltv_ns">11.10.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Golf.uk" start="20260811143000 +0000" stop="20260811150000 +0000">
+    <title lang="en">School of Golf</title>
+    <desc lang="en">The School of Golf offers tips and tricks on how to improve your golfing game. Ep 13.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/03ffc998-8d33-4ccc-9a95-fe2e59211dcb/16-9" />
+    <episode-num system="xmltv_ns">11.12.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Golf.uk" start="20260811150000 +0000" stop="20260811151500 +0000">
+    <title lang="en">The Improvers</title>
+    <desc lang="en">Sky Sports coaches Simon Holmes and Denis Pugh offer a series of tips aimed at both complete beginners and accomplished players alike.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/c1b5d432-9824-479e-8d8f-9b13d42acd58/16-9" />
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Golf.uk" start="20260811151500 +0000" stop="20260811153000 +0000">
+    <title lang="en">The Improvers</title>
+    <desc lang="en">Sky Sports coaches Simon Holmes and Denis Pugh offer a series of tips aimed at both complete beginners and accomplished players alike.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/3766fd83-e433-4342-be5c-3ac7e93f3310/16-9" />
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Golf.uk" start="20260811153000 +0000" stop="20260811160000 +0000">
+    <title lang="en">Best of the Sky Zone</title>
+    <desc lang="en">Enjoy the best moments and guest appearances from the Sky Zone at The PLAYERS Championship.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/dd367ebc-37ba-4541-b678-98adaa3426e2/16-9" />
+    <episode-num system="xmltv_ns">.18.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Golf.uk" start="20260811160000 +0000" stop="20260811170000 +0000">
+    <title lang="en">PGA Tour Golf Highlights</title>
+    <desc lang="en">The final day of the Wyndham Championship at Sedgefield Country Club. Last year's winner Cameron Young ended a streak of seven runner-up finishes for his first PGA Tour title. (09.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a76cb251-071c-4205-b9a3-055f86084b7c/16-9" />
+    <episode-num system="onscreen">08</episode-num>
+  </programme>
+  <programme channel="SkySp.Golf.uk" start="20260811170000 +0000" stop="20260811180000 +0000">
+    <title lang="en">Ladies European Tour Golf Hlts</title>
+    <desc lang="en">Tournament highlights from the PIF London Championship at Centurion Club in St Albans.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ea0e96fe-ea86-46f5-9880-6b15c43fe1ff/16-9" />
+    <episode-num system="xmltv_ns">.44.</episode-num>
+  </programme>
+  <programme channel="SkySp.Golf.uk" start="20260811180000 +0000" stop="20260811200000 +0000">
+    <title lang="en">Europe! Europe!</title>
+    <desc lang="en">The inside story behind Europe's back-to-back success on home soil in the Solheim and Ryder Cups from the players and captains at the heart of the action.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ae485c1e-0c75-4d96-8783-8b51efd75376/16-9" />
+    <episode-num system="xmltv_ns">.0.</episode-num>
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme channel="SkySp.Golf.uk" start="20260811200000 +0000" stop="20260811210000 +0000">
+    <title lang="en">PGA Tour Golf Highlights</title>
+    <desc lang="en">The final day of the Wyndham Championship at Sedgefield Country Club. Last year's winner Cameron Young ended a streak of seven runner-up finishes for his first PGA Tour title. (09.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/a76cb251-071c-4205-b9a3-055f86084b7c/16-9" />
+    <episode-num system="onscreen">08</episode-num>
+  </programme>
+  <programme channel="SkySp.Golf.uk" start="20260811210000 +0000" stop="20260811220000 +0000">
+    <title lang="en">Ladies European Tour Golf Hlts</title>
+    <desc lang="en">Tournament highlights from the PIF London Championship at Centurion Club in St Albans.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/ea0e96fe-ea86-46f5-9880-6b15c43fe1ff/16-9" />
+    <episode-num system="xmltv_ns">.44.</episode-num>
+  </programme>
+  <programme channel="SkySp.Golf.uk" start="20260811220000 +0000" stop="20260811230000 +0000">
+    <title lang="en">PGA Tour Champions Highlights</title>
+    <desc lang="en">Tournament highlights from the Portugal Invitational - a PGA Tour Champions event held at the Els Club Vilamoura in the Algrave.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+    <icon src="https://images.metadata.sky.com/pd-image/d6cef43a-85bc-4a93-8b85-2b406eb81c9d/16-9" />
+    <episode-num system="xmltv_ns">.13.</episode-num>
     <rating system="UK">
       <value>U</value>
     </rating>
@@ -12368,10 +12604,10 @@
     <icon src="https://tv.assets.pressassociation.io/ae3f32ec-3416-5807-9246-86b7d7c2df16.jpg" />
   </programme>
   <programme channel="TNT.Sports.2.HD.uk" start="20260810120000 +0000" stop="20260810130000 +0000">
-    <title lang="en">Tour de France Women</title>
-    <sub-title lang="en">Action from the ninth stage of the Grand Tour race</sub-title>
-    <desc lang="en">Action from the ninth stage of the Grand Tour race.</desc>
-    <icon src="https://tv.assets.pressassociation.io/3c61b58f-a03a-56cd-a87f-52c3052ce3f3.jpg" />
+    <title lang="en">MLB Highlights</title>
+    <sub-title lang="en">Action from Major League Baseball</sub-title>
+    <desc lang="en">Action from Major League Baseball.</desc>
+    <icon src="https://tv.assets.pressassociation.io/f94143f6-52ae-5d03-9fc8-337e7d48dc51.jpg" />
   </programme>
   <programme channel="TNT.Sports.2.HD.uk" start="20260810130000 +0000" stop="20260810140000 +0000">
     <title lang="en">Men's Cycling Pro Series</title>
@@ -12757,17 +12993,11 @@
     <desc lang="en">West Coast Eagles v Collingwood Magpies (Bounce-up 7.10am). Coverage of the match from Optus Stadium in Perth.</desc>
     <icon src="https://tv.assets.pressassociation.io/f38a8eda-2fd0-52a2-ac77-2e1d282b80d1.jpg" />
   </programme>
-  <programme channel="TNT.Sports.3.HD.uk" start="20260809090000 +0000" stop="20260809093000 +0000">
-    <title lang="en">Premier League Stories</title>
-    <sub-title lang="en">A look at the story of Ipswich Town</sub-title>
-    <desc lang="en">A look at the story of Ipswich Town, from the trailblazing success of Sir Alf Ramsey's league champions to Sir Bobby Robson's unforgettable triumphs.</desc>
-    <icon src="https://tv.assets.pressassociation.io/76747965-fff0-5949-aabf-b46a59ff42f7.jpg" />
-  </programme>
-  <programme channel="TNT.Sports.3.HD.uk" start="20260809093000 +0000" stop="20260809103000 +0000">
-    <title lang="en">Tour de France Women</title>
-    <sub-title lang="en">Action from the eighth stage of the Grand Tour race</sub-title>
-    <desc lang="en">Action from the eighth stage of the Grand Tour race.</desc>
-    <icon src="https://tv.assets.pressassociation.io/c03d36ef-eade-50d9-ba4b-4478a623fb94.jpg" />
+  <programme channel="TNT.Sports.3.HD.uk" start="20260809090000 +0000" stop="20260809103000 +0000">
+    <title lang="en">LIV Golf</title>
+    <sub-title lang="en">Action from the third day of the 11th round of the season</sub-title>
+    <desc lang="en">Action from the third day of the 11th round of the season, which took place at Trump National Golf Club Bedminster in New Jersey.</desc>
+    <icon src="https://tv.assets.pressassociation.io/037eadb5-80c2-5d75-b165-efdd4c25fcb1.jpg" />
   </programme>
   <programme channel="TNT.Sports.3.HD.uk" start="20260809103000 +0000" stop="20260809113000 +0000">
     <title lang="en">Men's Cycling World Tour</title>
@@ -12801,9 +13031,9 @@
   </programme>
   <programme channel="TNT.Sports.3.HD.uk" start="20260809173000 +0000" stop="20260809203000 +0000">
     <title lang="en">Live MLB</title>
-    <sub-title lang="en">New York Yankees v Atlanta Braves (Start-time 6.35pm)</sub-title>
-    <desc lang="en">New York Yankees v Atlanta Braves (Start-time 6.35pm). Coverage of the inter-league match from Yankee Stadium.</desc>
-    <icon src="https://tv.assets.pressassociation.io/4f91d7af-9a0b-56ae-9a00-fc7db9e291da.jpg" />
+    <sub-title lang="en">Philadelphia Phillies v Toronto Blue Jays (Start-time 6.35pm)</sub-title>
+    <desc lang="en">Philadelphia Phillies v Toronto Blue Jays (Start-time 6.35pm). Coverage of the inter-league match at Citizens Bank Park.</desc>
+    <icon src="https://tv.assets.pressassociation.io/5f4ac3ad-d375-547f-98eb-bcf1cbf0ece3.jpg" />
   </programme>
   <programme channel="TNT.Sports.3.HD.uk" start="20260809203000 +0000" stop="20260809233000 +0000">
     <title lang="en">UFC</title>
@@ -12871,17 +13101,17 @@
     <desc lang="en">A behind-the-scenes look at the UEFA Champions League final.</desc>
     <icon src="https://tv.assets.pressassociation.io/bf9fe9dd-bb4f-5fe6-b8c4-620fcd499a80.jpg" />
   </programme>
-  <programme channel="TNT.Sports.3.HD.uk" start="20260810093000 +0000" stop="20260810120000 +0000">
+  <programme channel="TNT.Sports.3.HD.uk" start="20260810093000 +0000" stop="20260810123000 +0000">
     <title lang="en">Live: European Athletics Championships</title>
     <sub-title lang="en">Coverage from the morning session on the first day of the event</sub-title>
     <desc lang="en">Coverage from the morning session on the first day of the event, which takes place at Alexander Stadium in Birmingham.</desc>
     <icon src="https://tv.assets.pressassociation.io/65d04802-6378-5dcd-b959-dd56285705c7.jpg" />
   </programme>
-  <programme channel="TNT.Sports.3.HD.uk" start="20260810120000 +0000" stop="20260810130000 +0000">
-    <title lang="en">MLB Highlights</title>
-    <sub-title lang="en">Action from Major League Baseball</sub-title>
-    <desc lang="en">Action from Major League Baseball.</desc>
-    <icon src="https://tv.assets.pressassociation.io/f94143f6-52ae-5d03-9fc8-337e7d48dc51.jpg" />
+  <programme channel="TNT.Sports.3.HD.uk" start="20260810123000 +0000" stop="20260810130000 +0000">
+    <title lang="en">Premier League Legends</title>
+    <sub-title lang="en">A profile of former Manchester United midfielder Paul Ince</sub-title>
+    <desc lang="en">A profile of former Manchester United, Liverpool and England midfielder Paul Ince.</desc>
+    <icon src="https://tv.assets.pressassociation.io/22fab192-d36f-5242-a3d9-2cbe00588bbd.jpg" />
   </programme>
   <programme channel="TNT.Sports.3.HD.uk" start="20260810130000 +0000" stop="20260810133000 +0000">
     <title lang="en">CPL Highlights</title>
@@ -13716,7 +13946,7 @@
   </programme>
   <programme channel="SkySp.Tennis.HD.uk" start="20260808163000 +0000" stop="20260808203000 +0000">
     <title lang="en">Live: WTA Toronto/ATP Montreal</title>
-    <desc lang="en">Enjoy live action from the ATP and WTA Tours.</desc>
+    <desc lang="en">Iga Swiatek and Marta Kostyuk go head to head for a place in the Toronto quarter-finals, while two-time former champion Jess Pegula meets the number 15 seed Diana Shnaider.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
     <icon src="https://images.metadata.sky.com/pd-image/a8ed7274-62cd-496c-bdfb-a3459ca49322/16-9" />
@@ -13724,7 +13954,7 @@
   </programme>
   <programme channel="SkySp.Tennis.HD.uk" start="20260808203000 +0000" stop="20260808220000 +0000">
     <title lang="en">Live: ATP/WTA Doubles</title>
-    <desc lang="en">Enjoy live action from the ATP and WTA Tours.</desc>
+    <desc lang="en">Britain's Henry Patten joins teammate Harri Heliovaara in a Montreal last-16 clash as the world's number one ranked doubles pairing face singles star Casper Ruud and Swede André Göransson.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
     <icon src="https://images.metadata.sky.com/pd-image/40c50ef5-27a9-4d7a-b630-3c721fd1b221/16-9" />
@@ -13732,7 +13962,7 @@
   </programme>
   <programme channel="SkySp.Tennis.HD.uk" start="20260808220000 +0000" stop="20260809030000 +0000">
     <title lang="en">Live: WTA Toronto/ATP Montreal</title>
-    <desc lang="en">Enjoy live action from the ATP and WTA Tours.</desc>
+    <desc lang="en">Britain's Cam Norrie eyes the Montreal quarter-finals in a clash with 18th seed Arthur Fils. Amanda Anisimova and Elina Svitolina meet in Toronto, while Rafael Jodar plays Jiri Lehecka.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
     <icon src="https://images.metadata.sky.com/pd-image/b4d04ab7-b525-4d35-b347-a657e7bad3de/16-9" />
@@ -13817,19 +14047,19 @@
   </programme>
   <programme channel="SkySp.Tennis.HD.uk" start="20260809070000 +0000" stop="20260809083000 +0000">
     <title lang="en">Tennis Highlights</title>
-    <desc lang="en">Revisit a standout match from yesterday's action on the ATP and WTA Tours.</desc>
+    <desc lang="en">World number one Aryna Sabalenka, boasting an impressive 25-1 record on hard courts this season, continues in Toronto as the 28-year-old plays 16th seed Ekaterina Alexandrova.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
     <icon src="https://images.metadata.sky.com/pd-image/db76770f-8432-4c28-b888-35aaea91b691/16-9" />
-    <episode-num system="xmltv_ns">.20.</episode-num>
+    <episode-num system="onscreen">08</episode-num>
   </programme>
   <programme channel="SkySp.Tennis.HD.uk" start="20260809083000 +0000" stop="20260809100000 +0000">
     <title lang="en">Tennis Highlights</title>
-    <desc lang="en">Revisit a standout match from yesterday's action on the ATP and WTA Tours.</desc>
+    <desc lang="en">A red-hot Cam Norrie eyes the Montreal quarter-finals in a clash with 18th seed Arthur Fils. The British star Norrie saved a match point in his comeback win over Alex de Minaur.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
     <icon src="https://images.metadata.sky.com/pd-image/25d6d476-6eca-4210-bf9a-7aaeed483a0c/16-9" />
-    <episode-num system="xmltv_ns">.20.</episode-num>
+    <episode-num system="onscreen">08</episode-num>
   </programme>
   <programme channel="SkySp.Tennis.HD.uk" start="20260809100000 +0000" stop="20260809110000 +0000">
     <title lang="en">WTA Final: Athens</title>
@@ -13877,19 +14107,19 @@
   </programme>
   <programme channel="SkySp.Tennis.HD.uk" start="20260809133000 +0000" stop="20260809150000 +0000">
     <title lang="en">Tennis Highlights</title>
-    <desc lang="en">Revisit a standout match from yesterday's action on the ATP and WTA Tours.</desc>
+    <desc lang="en">World number one Aryna Sabalenka, boasting an impressive 25-1 record on hard courts this season, continues in Toronto as the 28-year-old plays 16th seed Ekaterina Alexandrova.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
     <icon src="https://images.metadata.sky.com/pd-image/db76770f-8432-4c28-b888-35aaea91b691/16-9" />
-    <episode-num system="xmltv_ns">.20.</episode-num>
+    <episode-num system="onscreen">08</episode-num>
   </programme>
   <programme channel="SkySp.Tennis.HD.uk" start="20260809150000 +0000" stop="20260809163000 +0000">
     <title lang="en">Tennis Highlights</title>
-    <desc lang="en">Revisit a standout match from yesterday's action on the ATP and WTA Tours.</desc>
+    <desc lang="en">A red-hot Cam Norrie eyes the Montreal quarter-finals in a clash with 18th seed Arthur Fils. The British star Norrie saved a match point in his comeback win over Alex de Minaur.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Tennis</category>
     <icon src="https://images.metadata.sky.com/pd-image/25d6d476-6eca-4210-bf9a-7aaeed483a0c/16-9" />
-    <episode-num system="xmltv_ns">.20.</episode-num>
+    <episode-num system="onscreen">08</episode-num>
   </programme>
   <programme channel="SkySp.Tennis.HD.uk" start="20260809163000 +0000" stop="20260809203000 +0000">
     <title lang="en">Live: WTA Toronto/ATP Montreal</title>
