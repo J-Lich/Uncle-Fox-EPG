@@ -7891,52 +7891,17 @@
     <url>http://www.sky.com</url>
     <display-name lang="en">SkySp F1</display-name>
   </channel>
-  <channel id="TNT.Sports.2.HD.uk">
-    <icon src="https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png" />
-    <icon src="https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png" />
-    <url>http://www.tvguide.co.uk</url>
-    <display-name lang="en">TNT Sports 2 HD</display-name>
-  </channel>
-  <channel id="SkySp.Tennis.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1284.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1284.png" />
+  <channel id="SkySp.Fball.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3939.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3939.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp Tennis HD</display-name>
-  </channel>
-  <channel id="SkySp.Cricket.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1302.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1302.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp Cricket</display-name>
-  </channel>
-  <channel id="TNT.Sports.4.HD.uk">
-    <icon src="https://tv.assets.pressassociation.io/056d00c0-1629-5388-857c-f1a9ebdec5b8.png" />
-    <icon src="https://tv.assets.pressassociation.io/056d00c0-1629-5388-857c-f1a9ebdec5b8.png" />
-    <url>http://www.tvguide.co.uk</url>
-    <display-name lang="en">TNT Sports 4 HD</display-name>
-  </channel>
-  <channel id="SkySp.Racing.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1354.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp Racing</display-name>
-  </channel>
-  <channel id="TNT.Sports.3.HD.uk">
-    <icon src="https://tv.assets.pressassociation.io/75c9df5d-d2d8-5d04-92ac-d9973c082c72.png" />
-    <icon src="https://tv.assets.pressassociation.io/75c9df5d-d2d8-5d04-92ac-d9973c082c72.png" />
-    <url>http://www.tvguide.co.uk</url>
-    <display-name lang="en">TNT Sports 3 HD</display-name>
+    <display-name lang="en">SkySp Fball HD</display-name>
   </channel>
   <channel id="TNT.Sports.1.HD.uk">
     <icon src="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" />
     <icon src="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" />
     <url>http://www.tvguide.co.uk</url>
     <display-name lang="en">TNT Sports 1 HD</display-name>
-  </channel>
-  <channel id="SkySp.Fball.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3939.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3939.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp Fball HD</display-name>
   </channel>
   <channel id="SkySp.Fball.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3838.png" />
@@ -7949,6 +7914,41 @@
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1322.png" />
     <url>http://www.sky.com</url>
     <display-name lang="en">SkySp Golf</display-name>
+  </channel>
+  <channel id="SkySp.Cricket.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1302.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1302.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySp Cricket</display-name>
+  </channel>
+  <channel id="TNT.Sports.3.HD.uk">
+    <icon src="https://tv.assets.pressassociation.io/75c9df5d-d2d8-5d04-92ac-d9973c082c72.png" />
+    <icon src="https://tv.assets.pressassociation.io/75c9df5d-d2d8-5d04-92ac-d9973c082c72.png" />
+    <url>http://www.tvguide.co.uk</url>
+    <display-name lang="en">TNT Sports 3 HD</display-name>
+  </channel>
+  <channel id="SkySp.Tennis.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1284.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1284.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySp Tennis HD</display-name>
+  </channel>
+  <channel id="TNT.Sports.2.HD.uk">
+    <icon src="https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png" />
+    <icon src="https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png" />
+    <url>http://www.tvguide.co.uk</url>
+    <display-name lang="en">TNT Sports 2 HD</display-name>
+  </channel>
+  <channel id="TNT.Sports.4.HD.uk">
+    <icon src="https://tv.assets.pressassociation.io/056d00c0-1629-5388-857c-f1a9ebdec5b8.png" />
+    <icon src="https://tv.assets.pressassociation.io/056d00c0-1629-5388-857c-f1a9ebdec5b8.png" />
+    <url>http://www.tvguide.co.uk</url>
+    <display-name lang="en">TNT Sports 4 HD</display-name>
+  </channel>
+  <channel id="SkySp.Racing.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1354.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySp Racing</display-name>
   </channel>
   <programme channel="SkySp.Cricket.uk" start="20260921000000 +0000" stop="20260921043000 +0000">
     <title lang="en">1st T20: England v Sri Lanka</title>
