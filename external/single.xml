@@ -29,238 +29,6 @@
     <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SPS/SPS_425x243.png" />
     <url>http://www.foxtel.com</url>
   </channel>
-  <programme start="20261006000000 +0000" stop="20261006010000 +0000" channel="FoxCricket.au">
-    <title lang="en">ODI: South Africa v Australia G1</title>
-    <sub-title lang="en">South Africa v Australia G1</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/eovv3a.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006010000 +0000" stop="20261006020000 +0000" channel="FoxCricket.au">
-    <title lang="en">ODI: South Africa v Australia G2</title>
-    <sub-title lang="en">South Africa v Australia G2</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/mocp1m.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006020000 +0000" stop="20261006030000 +0000" channel="FoxCricket.au">
-    <title lang="en">ODI: South Africa v Australia G3</title>
-    <sub-title lang="en">South Africa v Australia G3</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/urhp4f.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006030000 +0000" stop="20261006040000 +0000" channel="FoxCricket.au">
-    <title lang="en">Test: 2022/23 AUS v SA 1st Test</title>
-    <sub-title lang="en">2022/23 AUS v SA 1st Test</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7wad6.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006040000 +0000" stop="20261006050000 +0000" channel="FoxCricket.au">
-    <title lang="en">Test: 2022/23 AUS v SA 2nd Test</title>
-    <sub-title lang="en">Carey v SA 2022/23</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7wad6.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006050000 +0000" stop="20261006060000 +0000" channel="FoxCricket.au">
-    <title lang="en">Test: 2022/23 AUS v SA 3rd Test</title>
-    <sub-title lang="en">Khawaja v SA 2022/23</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7wad6.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006060000 +0000" stop="20261006062000 +0000" channel="FoxCricket.au">
-    <title lang="en">ODI Mini: India v West Indies G1</title>
-    <sub-title lang="en">India v West Indies G1</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/2ifnrn.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006062000 +0000" stop="20261006064000 +0000" channel="FoxCricket.au">
-    <title lang="en">ODI Mini: India v West Indies Game 2</title>
-    <sub-title lang="en">India v West Indies Game 2</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/ssot4g.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006064000 +0000" stop="20261006070000 +0000" channel="FoxCricket.au">
-    <title lang="en">ODI Mini: India v West Indies G3</title>
-    <sub-title lang="en">India v West Indies G3</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/qcf5t4.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006070000 +0000" stop="20261006072000 +0000" channel="FoxCricket.au">
-    <title lang="en">ODI Mini: South Africa v Australia G1</title>
-    <sub-title lang="en">South Africa v Australia G1</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/v6oz66.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006072000 +0000" stop="20261006074000 +0000" channel="FoxCricket.au">
-    <title lang="en">ODI Mini: South Africa v Australia G2</title>
-    <sub-title lang="en">South Africa v Australia G2</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/m19iqh.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006074000 +0000" stop="20261006080000 +0000" channel="FoxCricket.au">
-    <title lang="en">ODI Mini: South Africa v Australia G3</title>
-    <sub-title lang="en">South Africa v Australia G3</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/lbuuav.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006080000 +0000" stop="20261006090000 +0000" channel="FoxCricket.au">
-    <title lang="en">Keepin It Cricket</title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6eynlu.png" />
-    <episode-num system="onscreen">E6</episode-num>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006090000 +0000" stop="20261006110000 +0000" channel="FoxCricket.au">
-    <title lang="en">Test Classic: 2009 SA v AUS 2nd Test</title>
-    <sub-title lang="en">2009 SA v AUS 2nd Test</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/huv6l8.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006110000 +0000" stop="20261006120000 +0000" channel="FoxCricket.au">
-    <title lang="en">Test Classic: 2011 SA v AUS 2nd Test</title>
-    <sub-title lang="en">2011 SA v AUS 2nd Test</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/huv6l8.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006120000 +0000" stop="20261006122000 +0000" channel="FoxCricket.au">
-    <title lang="en">ODI Mini: India v West Indies G1</title>
-    <sub-title lang="en">India v West Indies G1</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/2ifnrn.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006122000 +0000" stop="20261006124000 +0000" channel="FoxCricket.au">
-    <title lang="en">ODI Mini: India v West Indies Game 2</title>
-    <sub-title lang="en">India v West Indies Game 2</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/ssot4g.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006124000 +0000" stop="20261006130000 +0000" channel="FoxCricket.au">
-    <title lang="en">ODI Mini: India v West Indies G3</title>
-    <sub-title lang="en">India v West Indies G3</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/qcf5t4.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006130000 +0000" stop="20261006132000 +0000" channel="FoxCricket.au">
-    <title lang="en">ODI Mini: India v West Indies G3</title>
-    <sub-title lang="en">India v West Indies G3</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/qcf5t4.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006132000 +0000" stop="20261006173000 +0000" channel="FoxCricket.au">
-    <title lang="en">Live: T20: India v West Indies</title>
-    <sub-title lang="en">India v West Indies</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/eqladw.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006173000 +0000" stop="20261006180000 +0000" channel="FoxCricket.au">
-    <title lang="en">Ashes Classic: 2002/03 1st Test</title>
-    <sub-title lang="en">2002/03 1st Test</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7ln93.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006180000 +0000" stop="20261006190000 +0000" channel="FoxCricket.au">
-    <title lang="en">Ashes Classic: 2017/18 5th Test</title>
-    <sub-title lang="en">2017/18 5th Test</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7ln93.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006190000 +0000" stop="20261006200000 +0000" channel="FoxCricket.au">
-    <title lang="en">Test Classic: 2020/21 AUS v IND 1st Test</title>
-    <sub-title lang="en">2020/21 AUS v IND 1st Test</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/huv6l8.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006200000 +0000" stop="20261006210000 +0000" channel="FoxCricket.au">
-    <title lang="en">Ashes Classic: 2020/21 2nd Test</title>
-    <sub-title lang="en">2020/21 2nd Test</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7ln93.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006210000 +0000" stop="20261006220000 +0000" channel="FoxCricket.au">
-    <title lang="en">TBA</title>
-    <sub-title lang="en">2020/21 3rd Test</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/epktzq.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006220000 +0000" stop="20261006230000 +0000" channel="FoxCricket.au">
-    <title lang="en">Ashes Classic: 2020/21 4th Test</title>
-    <sub-title lang="en">2020/21 4th Test</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7ln93.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006230000 +0000" stop="20261006232000 +0000" channel="FoxCricket.au">
-    <title lang="en">T20 Mini: India v West Indies G1</title>
-    <sub-title lang="en">India v West Indies G1</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/4b4sic.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006232000 +0000" stop="20261006234000 +0000" channel="FoxCricket.au">
-    <title lang="en">ODI Mini: South Africa v Australia G3</title>
-    <sub-title lang="en">South Africa v Australia G3</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/lbuuav.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006234000 +0000" stop="20261007000000 +0000" channel="FoxCricket.au">
-    <title lang="en">T20 Mini: India v West Indies G1</title>
-    <sub-title lang="en">India v West Indies G1</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/4b4sic.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme start="20261007000000 +0000" stop="20261007010000 +0000" channel="FoxCricket.au">
     <title lang="en">Test: 2024/25 AUS v IND 1st Test</title>
     <sub-title lang="en">2024/25 AUS v IND 1st Test</sub-title>
@@ -827,206 +595,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261006001500 +0000" stop="20261006011500 +0000" channel="FoxLeague.au">
-    <title lang="en">NRL: Roosters v Knights Grand Final</title>
-    <sub-title lang="en">Roosters v Knights Grand Final</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/fcxznx.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006011500 +0000" stop="20261006023000 +0000" channel="FoxLeague.au">
-    <title lang="en">NRLW: Roosters v Broncos Grand Final</title>
-    <sub-title lang="en">Roosters v Broncos Grand Final</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/lgsw9h.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006023000 +0000" stop="20261006033000 +0000" channel="FoxLeague.au">
-    <title lang="en">NRL 360</title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/qkgwql.jpg" />
-    <episode-num system="onscreen">E100</episode-num>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006033000 +0000" stop="20261006043000 +0000" channel="FoxLeague.au">
-    <title lang="en">ESL: Warrington v Wakefield Grand Final</title>
-    <sub-title lang="en">Warrington v Wakefield Grand Final</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/xks5mz.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006043000 +0000" stop="20261006053000 +0000" channel="FoxLeague.au">
-    <title lang="en">NRL 360</title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/qkgwql.jpg" />
-    <episode-num system="onscreen">E100</episode-num>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006053000 +0000" stop="20261006060000 +0000" channel="FoxLeague.au">
-    <title lang="en">NRL: Roosters v Knights Grand Final</title>
-    <sub-title lang="en">Roosters v Knights Grand Final</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/kw4nht.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006060000 +0000" stop="20261006070000 +0000" channel="FoxLeague.au">
-    <title lang="en">Live: The Run Home with Joel and Fletch</title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/zhci72.png" />
-    <episode-num system="onscreen">E70</episode-num>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006070000 +0000" stop="20261006090000 +0000" channel="FoxLeague.au">
-    <title lang="en">NRL: Roosters v Knights Grand Final</title>
-    <sub-title lang="en">Roosters v Knights Grand Final</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/kycadv.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006090000 +0000" stop="20261006100000 +0000" channel="FoxLeague.au">
-    <title lang="en">NRL 360</title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/qkgwql.jpg" />
-    <episode-num system="onscreen">E100</episode-num>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006100000 +0000" stop="20261006110000 +0000" channel="FoxLeague.au">
-    <title lang="en">PNG v AUS PM's XIII: Mens</title>
-    <sub-title lang="en">Mens</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/waatj1.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006110000 +0000" stop="20261006120000 +0000" channel="FoxLeague.au">
-    <title lang="en">NRL 360</title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/qkgwql.jpg" />
-    <episode-num system="onscreen">E100</episode-num>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006120000 +0000" stop="20261006130000 +0000" channel="FoxLeague.au">
-    <title lang="en">NRL: Roosters v Knights Grand Final</title>
-    <sub-title lang="en">Roosters v Knights Grand Final</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/fcxznx.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006130000 +0000" stop="20261006140000 +0000" channel="FoxLeague.au">
-    <title lang="en">NRL: Roosters v Sharks Semi Final</title>
-    <sub-title lang="en">Roosters v Sharks Semi Final</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/4b1zgt.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006140000 +0000" stop="20261006150000 +0000" channel="FoxLeague.au">
-    <title lang="en">NRL: Warriors v Knights Semi Final</title>
-    <sub-title lang="en">Warriors v Knights Semi Final</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/hbzl32.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006150000 +0000" stop="20261006160000 +0000" channel="FoxLeague.au">
-    <title lang="en">NRL: Dolphins v Roosters PF</title>
-    <sub-title lang="en">Dolphins v Roosters PF</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/j0q06f.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006160000 +0000" stop="20261006170000 +0000" channel="FoxLeague.au">
-    <title lang="en">NRL: Panthers v Knights PF</title>
-    <sub-title lang="en">Panthers v Knights PF</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/vqfrx3.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006170000 +0000" stop="20261006180000 +0000" channel="FoxLeague.au">
-    <title lang="en">NRL: Roosters v Knights Grand Final</title>
-    <sub-title lang="en">Roosters v Knights Grand Final</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/fcxznx.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006180000 +0000" stop="20261006182000 +0000" channel="FoxLeague.au">
-    <title lang="en">State Champ Mini: PEN v DOL</title>
-    <sub-title lang="en">Penrith v Redcliffe</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/2z02u3.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006182000 +0000" stop="20261006184000 +0000" channel="FoxLeague.au">
-    <title lang="en">NRLW Mini: Roosters v Broncos Grand Fin</title>
-    <sub-title lang="en">Roosters v Broncos Grand Final</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/jpdm0j.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006184000 +0000" stop="20261006190000 +0000" channel="FoxLeague.au">
-    <title lang="en">NRL Mini: Roosters v Knights Grand Final</title>
-    <sub-title lang="en">Roosters v Knights Grand Final</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/ozspws.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006190000 +0000" stop="20261006200000 +0000" channel="FoxLeague.au">
-    <title lang="en">ESL: Warrington v Wakefield Grand Final</title>
-    <sub-title lang="en">Warrington v Wakefield Grand Final</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/xks5mz.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006200000 +0000" stop="20261006210000 +0000" channel="FoxLeague.au">
-    <title lang="en">PNG v AUS PM's XIII: Women</title>
-    <sub-title lang="en">Women</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/8dvhkd.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006210000 +0000" stop="20261006220000 +0000" channel="FoxLeague.au">
-    <title lang="en">PNG v AUS PM's XIII: Mens</title>
-    <sub-title lang="en">Mens</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/waatj1.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006220000 +0000" stop="20261006230000 +0000" channel="FoxLeague.au">
-    <title lang="en">NRL 360</title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/qkgwql.jpg" />
-    <episode-num system="onscreen">E100</episode-num>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006230000 +0000" stop="20261007001500 +0000" channel="FoxLeague.au">
-    <title lang="en">NRLW: Roosters v Broncos Grand Final</title>
-    <sub-title lang="en">Roosters v Broncos Grand Final</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/lgsw9h.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme start="20261007001500 +0000" stop="20261007003500 +0000" channel="FoxLeague.au">
     <title lang="en">PNG v AUS PM's XIII Mini</title>
     <sub-title lang="en">Mens</sub-title>
@@ -1445,202 +1013,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261006010000 +0000" stop="20261006020000 +0000" channel="FoxSports503.au">
-    <title lang="en">Golf: USPGA: Bank of Utah Championship</title>
-    <sub-title lang="en">Bank of Utah Championship</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/s0u7jz.png" />
-    <episode-num system="onscreen">E267</episode-num>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006020000 +0000" stop="20261006023000 +0000" channel="FoxSports503.au">
-    <title lang="en">Getting A Round In</title>
-    <sub-title lang="en">James Maloney</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/63qq50.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006023000 +0000" stop="20261006043000 +0000" channel="FoxSports503.au">
-    <title lang="en">Golf: Dunhil Links Championship FR</title>
-    <sub-title lang="en">Dunhil Links Championship Final Round</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/pxyea9.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006043000 +0000" stop="20261006050000 +0000" channel="FoxSports503.au">
-    <title lang="en">Getting A Round In</title>
-    <sub-title lang="en">James Maloney</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/63qq50.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006050000 +0000" stop="20261006052000 +0000" channel="FoxSports503.au">
-    <title lang="en">PGA Championship Mini: Final Round</title>
-    <sub-title lang="en">Final Round</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/ebnwcf.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006052000 +0000" stop="20261006054000 +0000" channel="FoxSports503.au">
-    <title lang="en">Golf: US Open Mini: Final Round</title>
-    <sub-title lang="en">Final Round</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/qo5c9c.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006054000 +0000" stop="20261006060000 +0000" channel="FoxSports503.au">
-    <title lang="en">Golf: The Open Mini: Final Round</title>
-    <sub-title lang="en">Final Round</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/n0zdwl.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006060000 +0000" stop="20261006063000 +0000" channel="FoxSports503.au">
-    <title lang="en">DP World Tour Highlights</title>
-    <sub-title lang="en">Dunhill Links Championship</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/v7s1jt.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006063000 +0000" stop="20261006083000 +0000" channel="FoxSports503.au">
-    <title lang="en">USLPGA: Lotte Championship FR</title>
-    <sub-title lang="en">Lotte Championship Final Round</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/jc9c2j.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006083000 +0000" stop="20261006093000 +0000" channel="FoxSports503.au">
-    <title lang="en">Golf: USPGA: Bank of Utah Championship</title>
-    <sub-title lang="en">Bank of Utah Championship</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/s0u7jz.png" />
-    <episode-num system="onscreen">E267</episode-num>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006093000 +0000" stop="20261006100000 +0000" channel="FoxSports503.au">
-    <title lang="en">Getting A Round In</title>
-    <sub-title lang="en">Chris Goulding</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/63qq50.png" />
-    <episode-num system="onscreen">E12</episode-num>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006100000 +0000" stop="20261006103000 +0000" channel="FoxSports503.au">
-    <title lang="en">DP World Tour Highlights</title>
-    <sub-title lang="en">Dunhill Links Championship</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/v7s1jt.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006103000 +0000" stop="20261006105000 +0000" channel="FoxSports503.au">
-    <title lang="en">USPGA Mini: St. Jude Championship FR</title>
-    <sub-title lang="en">St Jude Championship Final Round</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/p9ygnn.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006105000 +0000" stop="20261006111000 +0000" channel="FoxSports503.au">
-    <title lang="en">USPGA Mini: BMW Championship Final Round</title>
-    <sub-title lang="en">BMW Championship Final Round</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/s4xt4u.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006111000 +0000" stop="20261006113000 +0000" channel="FoxSports503.au">
-    <title lang="en">USPGA Mini: Tour Championship FR</title>
-    <sub-title lang="en">Tour Championship Final Round</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/7o2bqq.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006113000 +0000" stop="20261006120000 +0000" channel="FoxSports503.au">
-    <title lang="en">Getting A Round In</title>
-    <sub-title lang="en">Chris Goulding</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/63qq50.png" />
-    <episode-num system="onscreen">E12</episode-num>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006120000 +0000" stop="20261006130000 +0000" channel="FoxSports503.au">
-    <title lang="en">Golf: USPGA: Bank of Utah Championship</title>
-    <sub-title lang="en">Bank of Utah Championship</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/s0u7jz.png" />
-    <episode-num system="onscreen">E267</episode-num>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006130000 +0000" stop="20261006140000 +0000" channel="FoxSports503.au">
-    <title lang="en">Live: Ryder Cup Press Conference: One Y</title>
-    <sub-title lang="en">One Year To Go</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006140000 +0000" stop="20261006150000 +0000" channel="FoxSports503.au">
-    <title lang="en">Golf: USPGA: 2026</title>
-    <sub-title lang="en">2026</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/s0u7jz.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006150000 +0000" stop="20261006170000 +0000" channel="FoxSports503.au">
-    <title lang="en">Golf: China Open Final Round</title>
-    <sub-title lang="en">China Open Final Round</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/c1aozj.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006170000 +0000" stop="20261006190000 +0000" channel="FoxSports503.au">
-    <title lang="en">Golf: Turkish Open Final Round</title>
-    <sub-title lang="en">Turkish Open Final Round</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/cjjwhw.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006190000 +0000" stop="20261006210000 +0000" channel="FoxSports503.au">
-    <title lang="en">Golf: Dunhil Links Championship FR</title>
-    <sub-title lang="en">Dunhil Links Championship Final Round</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/pxyea9.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006210000 +0000" stop="20261006230000 +0000" channel="FoxSports503.au">
-    <title lang="en">USLPGA: Lotte Championship FR</title>
-    <sub-title lang="en">Lotte Championship Final Round</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/jc9c2j.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006230000 +0000" stop="20261007010000 +0000" channel="FoxSports503.au">
-    <title lang="en">USPGA: Utah Championship FR</title>
-    <sub-title lang="en">Bank of Utah Championship Final Round</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/oeny39.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme start="20261007010000 +0000" stop="20261007014500 +0000" channel="FoxSports503.au">
     <title lang="en">Live: Gallen v Asofa-Solomona show: Gal</title>
     <sub-title lang="en">Gallen v Asofa-Solomona Press Conference</sub-title>
@@ -2040,289 +1412,6 @@
     <category lang="en">Sport</category>
     <category lang="en">Golf</category>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/l06dzd.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006000000 +0000" stop="20261006002000 +0000" channel="FoxFooty.au">
-    <title lang="en">AFL Mini: Round 1 CAR v RIC</title>
-    <sub-title lang="en">Round 1 CAR v RIC</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/coyzou.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006002000 +0000" stop="20261006004000 +0000" channel="FoxFooty.au">
-    <title lang="en">AFL Mini: Round 1 ESS v HAW</title>
-    <sub-title lang="en">Round 1 ESS v HAW</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/coyzou.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006004000 +0000" stop="20261006010000 +0000" channel="FoxFooty.au">
-    <title lang="en">AFL Mini: Round 1 WB v GWS</title>
-    <sub-title lang="en">Round 1 WB v GWS</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/coyzou.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006010000 +0000" stop="20261006013000 +0000" channel="FoxFooty.au">
-    <title lang="en">Trading Day: Day 1</title>
-    <sub-title lang="en">Day 1</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006013000 +0000" stop="20261006015000 +0000" channel="FoxFooty.au">
-    <title lang="en">AFL Mini: Round 1 GEE v FRE</title>
-    <sub-title lang="en">Round 1 GEE v FRE</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/coyzou.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006015000 +0000" stop="20261006021000 +0000" channel="FoxFooty.au">
-    <title lang="en">Last Time They Met: AFL Mini</title>
-    <sub-title lang="en">AFL Mini</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/nwyz50.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006021000 +0000" stop="20261006023000 +0000" channel="FoxFooty.au">
-    <title lang="en">AFL Mini: Round 1 COL V ADE</title>
-    <sub-title lang="en">Round 1 COL V ADE</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/coyzou.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006023000 +0000" stop="20261006030000 +0000" channel="FoxFooty.au">
-    <title lang="en">Trading Day: Day 1</title>
-    <sub-title lang="en">Day 1</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006030000 +0000" stop="20261006032000 +0000" channel="FoxFooty.au">
-    <title lang="en">AFL Mini: Round 1 NM v PA</title>
-    <sub-title lang="en">Round 1 NM v PA</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/coyzou.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006032000 +0000" stop="20261006034000 +0000" channel="FoxFooty.au">
-    <title lang="en">AFL Mini: Round 1 MEL v STK</title>
-    <sub-title lang="en">Round 1 MEL v STK</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/coyzou.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006034000 +0000" stop="20261006040000 +0000" channel="FoxFooty.au">
-    <title lang="en">AFL Mini: Round 1 GC v WC</title>
-    <sub-title lang="en">Round 1 GC v WC</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/coyzou.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006040000 +0000" stop="20261006043000 +0000" channel="FoxFooty.au">
-    <title lang="en">Trading Day: Day 1</title>
-    <sub-title lang="en">Day 1</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006043000 +0000" stop="20261006045000 +0000" channel="FoxFooty.au">
-    <title lang="en">AFL Mini: Round 2 HAW v SYD</title>
-    <sub-title lang="en">Round 2 HAW v SYD</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/coyzou.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006045000 +0000" stop="20261006051000 +0000" channel="FoxFooty.au">
-    <title lang="en">Last Time They Met: 2026 R2 ADE v WB</title>
-    <sub-title lang="en">2026 Round 2 ADE v WB</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/nwyz50.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006051000 +0000" stop="20261006053000 +0000" channel="FoxFooty.au">
-    <title lang="en">AFL Mini: Round 2 RIC v GC</title>
-    <sub-title lang="en">Round 2 RIC v GC</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/coyzou.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006053000 +0000" stop="20261006060000 +0000" channel="FoxFooty.au">
-    <title lang="en">Trading Day: Day 1</title>
-    <sub-title lang="en">Day 1</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006060000 +0000" stop="20261006063000 +0000" channel="FoxFooty.au">
-    <title lang="en">Live: Trading Day: Day 2</title>
-    <sub-title lang="en">Day 2</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006063000 +0000" stop="20261006070000 +0000" channel="FoxFooty.au">
-    <title lang="en">Trading Day: Day 2</title>
-    <sub-title lang="en">Day 2</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006070000 +0000" stop="20261006073000 +0000" channel="FoxFooty.au">
-    <title lang="en">Trading Day: Day 2</title>
-    <sub-title lang="en">Day 2</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006073000 +0000" stop="20261006080000 +0000" channel="FoxFooty.au">
-    <title lang="en">Trading Day: Day 2</title>
-    <sub-title lang="en">Day 2</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006080000 +0000" stop="20261006083000 +0000" channel="FoxFooty.au">
-    <title lang="en">Trading Day: Day 2</title>
-    <sub-title lang="en">Day 2</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006083000 +0000" stop="20261006090000 +0000" channel="FoxFooty.au">
-    <title lang="en">Trading Day: Day 2</title>
-    <sub-title lang="en">Day 2</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006090000 +0000" stop="20261006093000 +0000" channel="FoxFooty.au">
-    <title lang="en">Trading Day: Day 2</title>
-    <sub-title lang="en">Day 2</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006093000 +0000" stop="20261006100000 +0000" channel="FoxFooty.au">
-    <title lang="en">Trading Day: Day 2</title>
-    <sub-title lang="en">Day 2</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006100000 +0000" stop="20261006103000 +0000" channel="FoxFooty.au">
-    <title lang="en">Trading Day: Day 2</title>
-    <sub-title lang="en">Day 2</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006103000 +0000" stop="20261006110000 +0000" channel="FoxFooty.au">
-    <title lang="en">Trading Day: Day 2</title>
-    <sub-title lang="en">Day 2</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006110000 +0000" stop="20261006113000 +0000" channel="FoxFooty.au">
-    <title lang="en">Trading Day: Day 2</title>
-    <sub-title lang="en">Day 2</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006113000 +0000" stop="20261006120000 +0000" channel="FoxFooty.au">
-    <title lang="en">Trading Day: Day 2</title>
-    <sub-title lang="en">Day 2</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006120000 +0000" stop="20261006123000 +0000" channel="FoxFooty.au">
-    <title lang="en">Trading Day: Day 2</title>
-    <sub-title lang="en">Day 2</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006123000 +0000" stop="20261006130000 +0000" channel="FoxFooty.au">
-    <title lang="en">Trading Day: Day 2</title>
-    <sub-title lang="en">Day 2</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006130000 +0000" stop="20261006143000 +0000" channel="FoxFooty.au">
-    <title lang="en">AFLW</title>
-    <sub-title lang="en">Western Bulldogs v St Kilda</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/kwxejv.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006143000 +0000" stop="20261006160000 +0000" channel="FoxFooty.au">
-    <title lang="en">AFLW</title>
-    <sub-title lang="en">Brisbane v Gold Coast</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/5gfn3.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006160000 +0000" stop="20261006173000 +0000" channel="FoxFooty.au">
-    <title lang="en">AFLW</title>
-    <sub-title lang="en">Port Adelaide v Adelaide</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/ez7clx.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006173000 +0000" stop="20261006180000 +0000" channel="FoxFooty.au">
-    <title lang="en">Trading Day: Day 2</title>
-    <sub-title lang="en">Day 2</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006180000 +0000" stop="20261006203000 +0000" channel="FoxFooty.au">
-    <title lang="en">AFL: Opening Round GWS v Hawthorn</title>
-    <sub-title lang="en">Opening Round GWS v Hawthorn</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/dpg9xw.png" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261006203000 +0000" stop="20261006210000 +0000" channel="FoxFooty.au">
-    <title lang="en">Trading Day: Day 2</title>
-    <sub-title lang="en">Day 2</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006210000 +0000" stop="20261006233000 +0000" channel="FoxFooty.au">
-    <title lang="en">AFL: SF Fremantle v Geelong</title>
-    <sub-title lang="en">SF Fremantle v Geelong</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/euiuuu.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006233000 +0000" stop="20261007000000 +0000" channel="FoxFooty.au">
-    <title lang="en">Trading Day: Day 2</title>
-    <sub-title lang="en">Day 2</sub-title>
     <rating system="AU">
       <value>NC</value>
     </rating>
@@ -3084,159 +2173,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261006013000 +0000" stop="20261006023000 +0000" channel="FoxSports505.au">
-    <title lang="en">Moto2: Japan Race</title>
-    <sub-title lang="en">Japan Race</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/dl5vyw.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006023000 +0000" stop="20261006043000 +0000" channel="FoxSports505.au">
-    <title lang="en">USLPGA: Lotte Championship FR</title>
-    <sub-title lang="en">Lotte Championship Final Round</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/jc9c2j.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006043000 +0000" stop="20261006053000 +0000" channel="FoxSports505.au">
-    <title lang="en">MotoGP: Japan Race</title>
-    <sub-title lang="en">Japan Race</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/u09q7e.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006053000 +0000" stop="20261006063000 +0000" channel="FoxSports505.au">
-    <title lang="en">Golf: USPGA: Bank of Utah Championship</title>
-    <sub-title lang="en">Bank of Utah Championship</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/s0u7jz.png" />
-    <episode-num system="onscreen">E267</episode-num>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006063000 +0000" stop="20261006073000 +0000" channel="FoxSports505.au">
-    <title lang="en">Pro Bull Riders Australia</title>
-    <sub-title lang="en">Caboolture</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/66d5o.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006073000 +0000" stop="20261006083000 +0000" channel="FoxSports505.au">
-    <title lang="en">British Superbikes Highlights: Round 10</title>
-    <sub-title lang="en">Round 10</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/xkpdpg.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006083000 +0000" stop="20261006090000 +0000" channel="FoxSports505.au">
-    <title lang="en">Getting A Round In</title>
-    <sub-title lang="en">James Maloney</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/63qq50.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006090000 +0000" stop="20261006100000 +0000" channel="FoxSports505.au">
-    <title lang="en">NASCAR Cup Series Highlights</title>
-    <sub-title lang="en">South Point 400</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/h93vb0.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006100000 +0000" stop="20261006110000 +0000" channel="FoxSports505.au">
-    <title lang="en">MotoGP: Japan Race</title>
-    <sub-title lang="en">Japan Race</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/u09q7e.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006110000 +0000" stop="20261006130000 +0000" channel="FoxSports505.au">
-    <title lang="en">Darts: World Grand Prix: Final Day</title>
-    <sub-title lang="en">Finale</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/j1jlqv.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006130000 +0000" stop="20261006143000 +0000" channel="FoxSports505.au">
-    <title lang="en">SailGP: Geneva Day 1</title>
-    <sub-title lang="en">Geneva Day 1</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/64rvf1.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006143000 +0000" stop="20261006160000 +0000" channel="FoxSports505.au">
-    <title lang="en">SailGP: Geneva Day 2</title>
-    <sub-title lang="en">Geneva Day 2</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/62kztr.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006160000 +0000" stop="20261006180000 +0000" channel="FoxSports505.au">
-    <title lang="en">F1: Bahrain Race</title>
-    <sub-title lang="en">Bahrain Race</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/gu16bu.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006180000 +0000" stop="20261006190000 +0000" channel="FoxSports505.au">
-    <title lang="en">F2: Azerbaijan Feature Race</title>
-    <sub-title lang="en">Azerbaijan Feature Races</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/qy0jwx.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006190000 +0000" stop="20261006210000 +0000" channel="FoxSports505.au">
-    <title lang="en">Darts: World Grand Prix: Final Day</title>
-    <sub-title lang="en">Finale</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/j1jlqv.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006210000 +0000" stop="20261006213000 +0000" channel="FoxSports505.au">
-    <title lang="en">F1 Mini</title>
-    <sub-title lang="en">Bahrain Race</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/44d634.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006213000 +0000" stop="20261006223000 +0000" channel="FoxSports505.au">
-    <title lang="en">Moto2: Japan Race</title>
-    <sub-title lang="en">Japan Race</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/dl5vyw.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006223000 +0000" stop="20261006233000 +0000" channel="FoxSports505.au">
-    <title lang="en">MotoGP: Japan Race</title>
-    <sub-title lang="en">Japan Race</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/u09q7e.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006233000 +0000" stop="20261007003000 +0000" channel="FoxSports505.au">
-    <title lang="en">Pro Bull Riders Australia</title>
-    <sub-title lang="en">Caboolture</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/66d5o.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme start="20261007003000 +0000" stop="20261007013000 +0000" channel="FoxSports505.au">
     <title lang="en">NASCAR O'Reilly Auto Parts Series: The</title>
     <sub-title lang="en">NASCAR Auto Parts Series</sub-title>
@@ -3610,273 +2546,6 @@
     <title lang="en">Pro Bull Riders Team Series</title>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6teblf.png" />
     <episode-num system="onscreen">E8</episode-num>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006004500 +0000" stop="20261006010000 +0000" channel="FoxSports506.au">
-    <title lang="en">Supercars: 2025 Bathurst 1000 Recap</title>
-    <sub-title lang="en">2025 Bathurst 1000 Recap</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/xa0137.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006010000 +0000" stop="20261006020000 +0000" channel="FoxSports506.au">
-    <title lang="en">Bathurst Classic: 2022</title>
-    <sub-title lang="en">2022 Bathurst 1000</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006020000 +0000" stop="20261006023000 +0000" channel="FoxSports506.au">
-    <title lang="en">Fox Theatre: 2022 Bathurst 1000</title>
-    <sub-title lang="en">2022 Bathurst</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006023000 +0000" stop="20261006030000 +0000" channel="FoxSports506.au">
-    <title lang="en">Lowndes at the Mountain</title>
-    <sub-title lang="en">Lowndes at the Mountain</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/6dkio.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006030000 +0000" stop="20261006033000 +0000" channel="FoxSports506.au">
-    <title lang="en">Bathurst Top 5 Fast Finishes</title>
-    <sub-title lang="en">#4</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006033000 +0000" stop="20261006040000 +0000" channel="FoxSports506.au">
-    <title lang="en">Supercars: Top 10 Bathurst Races</title>
-    <sub-title lang="en">#3</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006040000 +0000" stop="20261006043000 +0000" channel="FoxSports506.au">
-    <title lang="en">Bathurst Top 5 Fast Finishes</title>
-    <sub-title lang="en">#3</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006043000 +0000" stop="20261006050000 +0000" channel="FoxSports506.au">
-    <title lang="en">Supercars: Top 10 Bathurst Races</title>
-    <sub-title lang="en">#4</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006050000 +0000" stop="20261006053000 +0000" channel="FoxSports506.au">
-    <title lang="en">Bathurst Top 5 Fast Finishes</title>
-    <sub-title lang="en">#1</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006053000 +0000" stop="20261006054500 +0000" channel="FoxSports506.au">
-    <title lang="en">Supercars: 2025 Bathurst 1000 Recap</title>
-    <sub-title lang="en">2025 Bathurst 1000 Recap</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/xa0137.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006054500 +0000" stop="20261006064500 +0000" channel="FoxSports506.au">
-    <title lang="en">Bathurst Classics: 2002</title>
-    <sub-title lang="en">2002</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006064500 +0000" stop="20261006070000 +0000" channel="FoxSports506.au">
-    <title lang="en">Supercars: 2025 Bathurst 1000 Recap</title>
-    <sub-title lang="en">2025 Bathurst 1000 Recap</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/xa0137.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006070000 +0000" stop="20261006080000 +0000" channel="FoxSports506.au">
-    <title lang="en">Fox Theatre</title>
-    <sub-title lang="en">Fox Theatre</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006080000 +0000" stop="20261006090000 +0000" channel="FoxSports506.au">
-    <title lang="en">Beyond The Chase: Bathurst 2014</title>
-    <sub-title lang="en">Bathurst 2014</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006090000 +0000" stop="20261006100100 +0000" channel="FoxSports506.au">
-    <title lang="en">Fox Theatre</title>
-    <sub-title lang="en">Fox Theatre</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006100100 +0000" stop="20261006110000 +0000" channel="FoxSports506.au">
-    <title lang="en">Bathurst Legends: Holden v Ford</title>
-    <sub-title lang="en">Bathurst Legends</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006110000 +0000" stop="20261006120000 +0000" channel="FoxSports506.au">
-    <title lang="en">Bathurst Classics: 2016 Bathurst 1000</title>
-    <sub-title lang="en">2016 Bathurst 1000</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006120000 +0000" stop="20261006130000 +0000" channel="FoxSports506.au">
-    <title lang="en">Fox Theatre</title>
-    <sub-title lang="en">Fox Theatre</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006130000 +0000" stop="20261006133000 +0000" channel="FoxSports506.au">
-    <title lang="en">Supercars: Top 10 Bathurst Races</title>
-    <sub-title lang="en">#5</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006133000 +0000" stop="20261006140000 +0000" channel="FoxSports506.au">
-    <title lang="en">Supercars: Top 10 Bathurst Races</title>
-    <sub-title lang="en">#4</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006140000 +0000" stop="20261006143000 +0000" channel="FoxSports506.au">
-    <title lang="en">Bathurst Classics: 2002</title>
-    <sub-title lang="en">2002</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006143000 +0000" stop="20261006150000 +0000" channel="FoxSports506.au">
-    <title lang="en">Supercars: End of the Lion: #2</title>
-    <sub-title lang="en">#2</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006150000 +0000" stop="20261006153000 +0000" channel="FoxSports506.au">
-    <title lang="en">Supercars: End of the Lion: #1</title>
-    <sub-title lang="en">#1</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006153000 +0000" stop="20261006154500 +0000" channel="FoxSports506.au">
-    <title lang="en">Supercars: 2025 Bathurst 1000 Recap</title>
-    <sub-title lang="en">2025 Bathurst 1000 Recap</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/xa0137.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006154500 +0000" stop="20261006164500 +0000" channel="FoxSports506.au">
-    <title lang="en">Fox Theatre</title>
-    <sub-title lang="en">Fox Theatre</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006164500 +0000" stop="20261006174500 +0000" channel="FoxSports506.au">
-    <title lang="en">20 Greatest Bathurst Laps</title>
-    <sub-title lang="en">20 Greatest Bathurst Laps</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/9uvw0.png" />
-    <episode-num system="onscreen">E1</episode-num>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006174500 +0000" stop="20261006184500 +0000" channel="FoxSports506.au">
-    <title lang="en">Bathurst Classics: 2019</title>
-    <sub-title lang="en">2019</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006184500 +0000" stop="20261006190000 +0000" channel="FoxSports506.au">
-    <title lang="en">Supercars: 2025 Bathurst 1000 Recap</title>
-    <sub-title lang="en">2025 Bathurst 1000 Recap</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/4/xa0137.png" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006190000 +0000" stop="20261006193000 +0000" channel="FoxSports506.au">
-    <title lang="en">Bathurst Top 5 Fast Finishes</title>
-    <sub-title lang="en">#4</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006193000 +0000" stop="20261006200000 +0000" channel="FoxSports506.au">
-    <title lang="en">Supercars: Top 10 Bathurst Races</title>
-    <sub-title lang="en">#3</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006200000 +0000" stop="20261006203000 +0000" channel="FoxSports506.au">
-    <title lang="en">Bathurst Top 5 Fast Finishes</title>
-    <sub-title lang="en">#3</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006203000 +0000" stop="20261006210000 +0000" channel="FoxSports506.au">
-    <title lang="en">Supercars: Top 10 Bathurst Races</title>
-    <sub-title lang="en">#4</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006210000 +0000" stop="20261006213000 +0000" channel="FoxSports506.au">
-    <title lang="en">Bathurst Top 5 Fast Finishes</title>
-    <sub-title lang="en">#1</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006213000 +0000" stop="20261006223000 +0000" channel="FoxSports506.au">
-    <title lang="en">Fox Theatre</title>
-    <sub-title lang="en">Fox Theatre</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006223000 +0000" stop="20261006224500 +0000" channel="FoxSports506.au">
-    <title lang="en">No Program Information Available</title>
-    <sub-title lang="en">No Program Information Available</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006224500 +0000" stop="20261006234500 +0000" channel="FoxSports506.au">
-    <title lang="en">V8 SUPERCARS 2024 R10 BAT V8SC: 2024 Ba</title>
-    <sub-title lang="en">2024 Bathurst 1000</sub-title>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261006234500 +0000" stop="20261007004000 +0000" channel="FoxSports506.au">
-    <title lang="en">FOX THEATRE SUPERCARS: 2024 Bathurst</title>
-    <sub-title lang="en">2024 Bathurst</sub-title>
     <rating system="AU">
       <value>NC</value>
     </rating>
@@ -4260,259 +2929,6 @@
     <display-name lang="en">Hub Premier 4</display-name>
     <url>http://www.mewatch.sg</url>
   </channel>
-  <programme start="20261006010000 -0500" stop="20261006013000 -0500" channel="Hub.Premier.1.sg">
-    <title lang="en">PL STORIES - EP15</title>
-    <desc lang="en">Live. From his early years in Ivory Coast to leaving Africa for Europe, Amad Diallo's journey has been one of talent, determination and sacrifice. After making his breakthrough in Italy, his potential earned him a dream move to Manchester United, where he has fought to establish himself on the Premier League stage. We follow Amad's remarkable rise and the journey that has taken him from humble beginnings to the heights of Old Trafford.</desc>
-    <episode-num system="onscreen">E15</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261006013000 -0500" stop="20261006020000 -0500" channel="Hub.Premier.1.sg">
-    <title lang="en">PL STORIES - EP8</title>
-    <desc lang="en">Live. A Family United', tells the story of the Singh brothers; lifelong Manchester United fans who have followed the club through every twist of its Premier League journey.  From the glory years under Sir Alex Fergsuson to the highs and lows that followed, the brothers relive the moments, memories and matches that shaped both their lives and their bond as a family.</desc>
-    <episode-num system="onscreen">E8</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261006020000 -0500" stop="20261006023000 -0500" channel="Hub.Premier.1.sg">
-    <title lang="en">PL REWIND - EP13</title>
-    <desc lang="en">Live. One of the most elegant players ever to grace the beautiful game, Dimitar Berbatov reached his peak in the red of Manchester United. The Bulgarian recalls his journey, from humble beginnings to becoming a Premier League champion and Golden Boot winner.</desc>
-    <episode-num system="onscreen">E13</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261006023000 -0500" stop="20261006030000 -0500" channel="Hub.Premier.1.sg">
-    <title lang="en">PL REWIND - EP1</title>
-    <desc lang="en">Live. Adored by Liverpool fans around the world, Robbie Fowler is one of the Premier League's all-time greats. The local lad reflects on his remarkable journey, from his prolific breakthrough at Anfield, to an unprecedented cup treble and an emotional homecoming on Merseyside.</desc>
-    <episode-num system="onscreen">E1</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261006030000 -0500" stop="20261006040000 -0500" channel="Hub.Premier.1.sg">
-    <title lang="en">1-TO-11 - EP3</title>
-    <sub-title lang="en">1-TO-11 E3</sub-title>
-    <desc lang="en">Live. Premier League stars select their dream teams from the best they played with or against, guiding us through their picks with stories from on and off the pitch.</desc>
-    <episode-num system="onscreen">E3</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261006040000 -0500" stop="20261006060000 -0500" channel="Hub.Premier.1.sg">
-    <title lang="en">CLASSIC MATCH - LIV v MCI</title>
-    <sub-title lang="en">LIV v MCI</sub-title>
-    <desc lang="en">Live. We delve into the Premier League archive to bring you a Classic Match from the 2013/2014 season.</desc>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261006060000 -0500" stop="20261006070000 -0500" channel="Hub.Premier.1.sg">
-    <title lang="en">GOALS OF THE SEASON - 2013/2014 (GB: SUAREZ)</title>
-    <desc lang="en">Live. We take a look back at some of the most spectacular and important goals from previous Premier League seasons.</desc>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261006070000 -0500" stop="20261006080000 -0500" channel="Hub.Premier.1.sg">
-    <title lang="en">1-TO-11 - EP3</title>
-    <desc lang="en">Live. Premier League stars select their dream teams from the best they played with or against, guiding us through their picks with stories from on and off the pitch.</desc>
-    <episode-num system="onscreen">E3</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261006080000 -0500" stop="20261006083000 -0500" channel="Hub.Premier.1.sg">
-    <title lang="en">PL STORIES - EP5</title>
-    <desc lang="en">Live. One year on from the tragic death of Diogo Jota and his brother André in a car accident, this deeply emotional PL Stories show celebrates the life of one of football's most loved figures. Through interviews with friends, teammates and coaches from Portugal to the Premier League, we look back on Jota's journey, the impact he had on those around him, and the legacy he left behind both on and off the pitch.</desc>
-    <episode-num system="onscreen">E5</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261006083000 -0500" stop="20261006093000 -0500" channel="Hub.Premier.1.sg">
-    <title lang="en">PL STORIES - EP18</title>
-    <desc lang="en">Live. From a celebrated playing career in Italy to becoming the man who transformed Manchester City into Premier League champions, Roberto Mancini's footballing life has been filled with triumph, drama and unforgettable characters. PL Stories explores his fiery relationship with Mario Balotelli, 'that' extraordinary final-day victory over QPR, and the deep friendship he shared with the late Gianluca Vialli. Mancini's interview is brutally honest, highlighting the defining moments and extraordinary car.</desc>
-    <episode-num system="onscreen">E18</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261006093000 -0500" stop="20261006100000 -0500" channel="Hub.Premier.1.sg">
-    <title lang="en">PL REWIND - EP4</title>
-    <sub-title lang="en">PL REWIND E4</sub-title>
-    <desc lang="en">Live. Hassan Kachloul was the first ever Moroccan player to grace the Premier League. Arriving at Southampton in 1998, he quickly became a fan favourite, helping the club to the "Great Escape" in 1999. He recalls the key matches and moments from his Saints career, including the unforgettable final game at The Dell.</desc>
-    <episode-num system="onscreen">E4</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261006100000 -0500" stop="20261006103000 -0500" channel="Hub.Premier.1.sg">
-    <title lang="en">PL REWIND - EP1</title>
-    <desc lang="en">Live. Adored by Liverpool fans around the world, Robbie Fowler is one of the Premier League's all-time greats. The local lad reflects on his remarkable journey, from his prolific breakthrough at Anfield, to an unprecedented cup treble and an emotional homecoming on Merseyside.</desc>
-    <episode-num system="onscreen">E1</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261006103000 -0500" stop="20261006110000 -0500" channel="Hub.Premier.1.sg">
-    <title lang="en">CLASSIC MATCH - LIV v MCI</title>
-    <sub-title lang="en">LIV v MCI</sub-title>
-    <desc lang="en">Live. We delve into the Premier League archive to bring you a Classic Match from the 2017/2018 season.</desc>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261006110000 -0500" stop="20261006120000 -0500" channel="Hub.Premier.1.sg">
-    <title lang="en">REVIEW OF THE SEASON - 2017/2018 (MCI)</title>
-    <desc lang="en">Live. A review of all the best goals, action and drama from Premier League seasons past.</desc>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261006120000 -0500" stop="20261006130000 -0500" channel="Hub.Premier.1.sg">
-    <title lang="en">1-TO-11 - EP3</title>
-    <desc lang="en">Live. Premier League stars select their dream teams from the best they played with or against, guiding us through their picks with stories from on and off the pitch.</desc>
-    <episode-num system="onscreen">E3</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261006130000 -0500" stop="20261006140000 -0500" channel="Hub.Premier.1.sg">
-    <title lang="en">REVIEW - MW05 - EP5</title>
-    <desc lang="en">Live. An extensive recap of Matchweek 5, showcasing the thrills, spills and major talking points from each Premier League fixture.</desc>
-    <episode-num system="onscreen">E5</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261006140000 -0500" stop="20261006143000 -0500" channel="Hub.Premier.1.sg">
-    <title lang="en">PL REWIND - EP13</title>
-    <desc lang="en">Live. One of the most elegant players ever to grace the beautiful game, Dimitar Berbatov reached his peak in the red of Manchester United. The Bulgarian recalls his journey, from humble beginnings to becoming a Premier League champion and Golden Boot winner.</desc>
-    <episode-num system="onscreen">E13</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261006143000 -0500" stop="20261006150000 -0500" channel="Hub.Premier.1.sg">
-    <title lang="en">PL REWIND - EP4</title>
-    <desc lang="en">Live. Hassan Kachloul was the first ever Moroccan player to grace the Premier League. Arriving at Southampton in 1998, he quickly became a fan favourite, helping the club to the "Great Escape" in 1999. He recalls the key matches and moments from his Saints career, including the unforgettable final game at The Dell.</desc>
-    <episode-num system="onscreen">E4</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261006150000 -0500" stop="20261006153000 -0500" channel="Hub.Premier.1.sg">
-    <title lang="en">PL REWIND - EP13</title>
-    <desc lang="en">Live. From the depths of League One to becoming a Premier League and European champion, Adam Lallana emerged as one of English football's standout talents of the 2010s. The midfielder recalls his most memorable matches for Southampton and Liverpool.</desc>
-    <episode-num system="onscreen">E13</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261006153000 -0500" stop="20261006163000 -0500" channel="Hub.Premier.1.sg">
-    <title lang="en">GOALS OF THE SEASON - 2017/2018 (GB: SALAH)</title>
-    <desc lang="en">Live. We take a look back at some of the most spectacular and important goals from previous Premier League seasons.</desc>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261006163000 -0500" stop="20261006170000 -0500" channel="Hub.Premier.1.sg">
-    <title lang="en">CLASSIC MATCH - LIV v MCI</title>
-    <sub-title lang="en">LIV v MCI</sub-title>
-    <desc lang="en">Live. We delve into the Premier League archive to bring you a Classic Match from the 2017/2018 season.</desc>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261006170000 -0500" stop="20261006173000 -0500" channel="Hub.Premier.1.sg">
-    <title lang="en">PL STORIES - EP5</title>
-    <desc lang="en">Live. One year on from the tragic death of Diogo Jota and his brother André in a car accident, this deeply emotional PL Stories show celebrates the life of one of football's most loved figures. Through interviews with friends, teammates and coaches from Portugal to the Premier League, we look back on Jota's journey, the impact he had on those around him, and the legacy he left behind both on and off the pitch.</desc>
-    <episode-num system="onscreen">E5</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261006173000 -0500" stop="20261006183000 -0500" channel="Hub.Premier.1.sg">
-    <title lang="en">1-TO-11 - EP3</title>
-    <desc lang="en">Live. Premier League stars select their dream teams from the best they played with or against, guiding us through their picks with stories from on and off the pitch.</desc>
-    <episode-num system="onscreen">E3</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261006183000 -0500" stop="20261006190000 -0500" channel="Hub.Premier.1.sg">
-    <title lang="en">THE BIG INTERVIEW - EP2</title>
-    <desc lang="en">Live. As a young boy cheering from the terraces of his hometown club, Alemannia Aachen, Kai Havertz fell in love with a striker by the name of Erik Meijer. In this Extended version of the first Masterclass of the new season, Havertz' footballing icon surprises him at training, before the two share tricks of the trade on the art of forward play, recreating some of the Arsenal striker's best goals.</desc>
-    <episode-num system="onscreen">E2</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261006190000 -0500" stop="20261006193000 -0500" channel="Hub.Premier.1.sg">
-    <title lang="en">PL STORIES - EP17</title>
-    <desc lang="en">Live. From his family's courageous journey in search of a better future to becoming one of Europe's most respected midfielders, this is the story of Granit Xhaka. We chart his rise through the game, the highs and lows of a career that tested his resilience, and the turbulent relationship with Arsenal supporters that ultimately became one of football's greatest redemption stories. Now in love with the game again at Sunderland, Xhaka's story proves that perseverance can define a legacy as much as succes.</desc>
-    <episode-num system="onscreen">E17</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261006193000 -0500" stop="20261006200000 -0500" channel="Hub.Premier.1.sg">
-    <title lang="en">PL REWIND - EP9</title>
-    <desc lang="en">Live. Kevin Phillips remembers the unforgettable 1999/00 season, when he took the Premier League by storm with 30 goals for Sunderland - a tally that made him the top scorer in European football that campaign.</desc>
-    <episode-num system="onscreen">E9</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261006200000 -0500" stop="20261006203000 -0500" channel="Hub.Premier.1.sg">
-    <title lang="en">PL REWIND - EP13</title>
-    <desc lang="en">Live. From the depths of League One to becoming a Premier League and European champion, Adam Lallana emerged as one of English football's standout talents of the 2010s. The midfielder recalls his most memorable matches for Southampton and Liverpool.</desc>
-    <episode-num system="onscreen">E13</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261006203000 -0500" stop="20261006210000 -0500" channel="Hub.Premier.1.sg">
-    <title lang="en">PL REWIND - EP4</title>
-    <desc lang="en">Live. Hassan Kachloul was the first ever Moroccan player to grace the Premier League. Arriving at Southampton in 1998, he quickly became a fan favourite, helping the club to the "Great Escape" in 1999. He recalls the key matches and moments from his Saints career, including the unforgettable final game at The Dell.</desc>
-    <episode-num system="onscreen">E4</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261006210000 -0500" stop="20261006213000 -0500" channel="Hub.Premier.1.sg">
-    <title lang="en">PL REWIND - EP2</title>
-    <desc lang="en">Live. Yaya Toure is widely regarded as one of the Premier League's most complete midfielders. He was at the peak of his powers in 2013/14, hitting 20 league goals en route to his second league title with Manchester City. The Ivorian shares his memories of the key matches and goals from that campaign.</desc>
-    <episode-num system="onscreen">E2</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261006213000 -0500" stop="20261006223000 -0500" channel="Hub.Premier.1.sg">
-    <title lang="en">REVIEW OF THE SEASON - 2013/2014 (MCI)</title>
-    <desc lang="en">Live. A review of all the best goals, action and drama from Premier League seasons past.</desc>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261006223000 -0500" stop="20261006233000 -0500" channel="Hub.Premier.1.sg">
-    <title lang="en">GOALS OF THE SEASON - 2013/2014 (GB: SUAREZ)</title>
-    <desc lang="en">Live. We take a look back at some of the most spectacular and important goals from previous Premier League seasons.</desc>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261006233000 -0500" stop="20261007013000 -0500" channel="Hub.Premier.1.sg">
-    <title lang="en">CLASSIC MATCH - LIV v MCI</title>
-    <sub-title lang="en">LIV v MCI</sub-title>
-    <desc lang="en">Live. We delve into the Premier League archive to bring you a Classic Match from the 2013/2014 season.</desc>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
   <programme start="20261007013000 -0500" stop="20261007023000 -0500" channel="Hub.Premier.1.sg">
     <title lang="en">1-TO-11 - EP3</title>
     <desc lang="en">Live. Premier League stars select their dream teams from the best they played with or against, guiding us through their picks with stories from on and off the pitch.</desc>
@@ -4618,6 +3034,7 @@
   </programme>
   <programme start="20261007090000 -0500" stop="20261007100000 -0500" channel="Hub.Premier.1.sg">
     <title lang="en">THE CATCH-UP SHOW - EP7</title>
+    <sub-title lang="en">THE CATCH-UP SHOW E7</sub-title>
     <desc lang="en">Live. Showcasing unforgettable moments, fan favourites and standout goals, The Catch-Up Show revisits the very best digital content from the season so far.</desc>
     <episode-num system="onscreen">E7</episode-num>
     <rating system="IMDA">
@@ -4634,6 +3051,7 @@
   </programme>
   <programme start="20261007120000 -0500" stop="20261007123000 -0500" channel="Hub.Premier.1.sg">
     <title lang="en">PL STORIES - EP19</title>
+    <sub-title lang="en">PL STORIES E19</sub-title>
     <desc lang="en">Live. From his early days at Wallsend Boys Club to emerging at West Ham, Michael Carrick reflects on his remarkable journey through the game. Sharing fascinating stories of Jacques Santini at Spurs and Sir Alex Ferguson at Manchester United, before reflecting on the latest chapter; becoming Head Coach of Manchester United.</desc>
     <episode-num system="onscreen">E19</episode-num>
     <rating system="IMDA">
@@ -4642,7 +3060,7 @@
   </programme>
   <programme start="20261007123000 -0500" stop="20261007130000 -0500" channel="Hub.Premier.1.sg">
     <title lang="en">PL STORIES - EP5</title>
-    <desc lang="en">Live. One year on from the tragic death of Diogo Jota and his brother André in a car accident, this deeply emotional PL Stories show celebrates the life of one of football's most loved figures. Through interviews with friends, teammates and coaches from Portugal to the Premier League, we look back on Jota's journey, the impact he had on those around him, and the legacy he left behind both on and off the pitch.</desc>
+    <desc lang="en">Live. One year on from the tragic death of Diogo Jota and his brother Andre in a car accident, this deeply emotional PL Stories show celebrates the life of one of football's most loved figures. Through interviews with friends, teammates and coaches from Portugal to the Premier League, we look back on Jota's journey, the impact he had on those around him, and the legacy he left behind both on and off the pitch.</desc>
     <episode-num system="onscreen">E5</episode-num>
     <rating system="IMDA">
       <value>PG13</value>
@@ -4873,7 +3291,7 @@
   </programme>
   <programme start="20261008100000 -0500" stop="20261008103000 -0500" channel="Hub.Premier.1.sg">
     <title lang="en">PL STORIES - EP5</title>
-    <desc lang="en">Live. One year on from the tragic death of Diogo Jota and his brother André in a car accident, this deeply emotional PL Stories show celebrates the life of one of football's most loved figures. Through interviews with friends, teammates and coaches from Portugal to the Premier League, we look back on Jota's journey, the impact he had on those around him, and the legacy he left behind both on and off the pitch.</desc>
+    <desc lang="en">Live. One year on from the tragic death of Diogo Jota and his brother Andre in a car accident, this deeply emotional PL Stories show celebrates the life of one of football's most loved figures. Through interviews with friends, teammates and coaches from Portugal to the Premier League, we look back on Jota's journey, the impact he had on those around him, and the legacy he left behind both on and off the pitch.</desc>
     <episode-num system="onscreen">E5</episode-num>
     <rating system="IMDA">
       <value>PG13</value>
@@ -5225,30 +3643,202 @@
       <value>PG13</value>
     </rating>
   </programme>
-  <programme start="20261006050000 -0500" stop="20261006110000 -0500" channel="Hub.Premier.2.sg">
-    <title lang="en">End of Transmission</title>
-    <desc lang="en">Live. End of Transmission.</desc>
+  <programme start="20261009200000 -0500" stop="20261009203000 -0500" channel="Hub.Premier.1.sg">
+    <title lang="en">PREVIEW - FRI 09 OCT</title>
+    <desc lang="en">Live. We preview a blockbuster Premier League weekend as Liverpool clash with Manchester City, Spurs head to Manchester United and Arsenal host Leeds.</desc>
     <rating system="IMDA">
       <value>PG13</value>
     </rating>
   </programme>
-  <programme start="20261006110000 -0500" stop="20261006170000 -0500" channel="Hub.Premier.2.sg">
-    <title lang="en">End of Transmission</title>
-    <desc lang="en">Live. End of Transmission.</desc>
+  <programme start="20261009203000 -0500" stop="20261009213000 -0500" channel="Hub.Premier.1.sg">
+    <title lang="en">WELCOME TO THE WEEKEND - FRI 09 OCT</title>
+    <desc lang="en">Live. Light-hearted, inclusive and entertaining, Welcome to the Weekend is the show that kicks off the Premier League Weekend. We will focus on the football, but also on the lifestyle topics that footballers and fans love - food, fashion, music, movies and much, much more.</desc>
     <rating system="IMDA">
       <value>PG13</value>
     </rating>
   </programme>
-  <programme start="20261006170000 -0500" stop="20261006230000 -0500" channel="Hub.Premier.2.sg">
-    <title lang="en">End of Transmission</title>
-    <desc lang="en">Live. End of Transmission.</desc>
+  <programme start="20261009213000 -0500" stop="20261009220000 -0500" channel="Hub.Premier.1.sg">
+    <title lang="en">CLASSIC MATCH - LIV v MCI</title>
+    <sub-title lang="en">LIV v MCI</sub-title>
+    <desc lang="en">Live. We delve into the Premier League archive to bring you a Classic Match from the 2017/2018 season.</desc>
     <rating system="IMDA">
       <value>PG13</value>
     </rating>
   </programme>
-  <programme start="20261006230000 -0500" stop="20261007050000 -0500" channel="Hub.Premier.2.sg">
-    <title lang="en">End of Transmission</title>
-    <desc lang="en">Live. End of Transmission.</desc>
+  <programme start="20261009220000 -0500" stop="20261009230000 -0500" channel="Hub.Premier.1.sg">
+    <title lang="en">TEAM TALKS - FRI 09 OCT</title>
+    <desc lang="en">Live. Punditry, pressers and predictions ahead of the PL Weekend. Our studio team tackle all the major talking points, and we hear from the headlines acts as the players and the managers have their say ahead of the action.</desc>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261009230000 -0500" stop="20261009233000 -0500" channel="Hub.Premier.1.sg">
+    <title lang="en">THE BIG INTERVIEW - EP8</title>
+    <desc lang="en">Live. From Middlesbrough ball boy to the Championship Player of the Season in 2025/26, Hayden Hackney tells Betty Glover about his start to life in the Premier League with Everton, the culmination of a lifetime of persistence and turning a childhood dream into a reality.</desc>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261009233000 -0500" stop="20261010000000 -0500" channel="Hub.Premier.1.sg">
+    <title lang="en">FANTASY SHOW - FRI 09 OCT</title>
+    <desc lang="en">Live. Haaland or Ekitike? Saka or Palmer? Cunha or Joao Pedro? Picking your Fantasy team is never easy, but the Fantasy Show is on hand to help FPL Managers with those big decisions.</desc>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261010000000 -0500" stop="20261010003000 -0500" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES - EP19</title>
+    <desc lang="en">Live. From his early days at Wallsend Boys Club to emerging at West Ham, Michael Carrick reflects on his remarkable journey through the game. Sharing fascinating stories of Jacques Santini at Spurs and Sir Alex Ferguson at Manchester United, before reflecting on the latest chapter; becoming Head Coach of Manchester United.</desc>
+    <episode-num system="onscreen">E19</episode-num>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261010003000 -0500" stop="20261010013000 -0500" channel="Hub.Premier.1.sg">
+    <title lang="en">FANZONE - FRI 09 OCT</title>
+    <desc lang="en">Live. This is the show that puts international fans at the heart of the Premier League conversation. We connect with fans from around the world as they share their views on their teams and favourite players.</desc>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261010013000 -0500" stop="20261010020000 -0500" channel="Hub.Premier.1.sg">
+    <title lang="en">PREVIEW - FRI 09 OCT</title>
+    <desc lang="en">Live. We preview a blockbuster Premier League weekend as Liverpool clash with Manchester City, Spurs head to Manchester United and Arsenal host Leeds.</desc>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261010020000 -0500" stop="20261010030000 -0500" channel="Hub.Premier.1.sg">
+    <title lang="en">TEAM TALKS - FRI 09 OCT</title>
+    <desc lang="en">Live. Punditry, pressers and predictions ahead of the PL Weekend. Our studio team tackle all the major talking points, and we hear from the headlines acts as the players and the managers have their say ahead of the action.</desc>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261010030000 -0500" stop="20261010033000 -0500" channel="Hub.Premier.1.sg">
+    <title lang="en">THE BIG INTERVIEW - EP8</title>
+    <desc lang="en">Live. From Middlesbrough ball boy to the Championship Player of the Season in 2025/26, Hayden Hackney tells Betty Glover about his start to life in the Premier League with Everton, the culmination of a lifetime of persistence and turning a childhood dream into a reality.</desc>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261010033000 -0500" stop="20261010043000 -0500" channel="Hub.Premier.1.sg">
+    <title lang="en">WELCOME TO THE WEEKEND - FRI 09 OCT</title>
+    <desc lang="en">Live. Light-hearted, inclusive and entertaining, Welcome to the Weekend is the show that kicks off the Premier League Weekend. We will focus on the football, but also on the lifestyle topics that footballers and fans love - food, fashion, music, movies and much, much more.</desc>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261010043000 -0500" stop="20261010050000 -0500" channel="Hub.Premier.1.sg">
+    <title lang="en">FANTASY SHOW - FRI 09 OCT</title>
+    <desc lang="en">Live. Haaland or Ekitike? Saka or Palmer? Cunha or Joao Pedro? Picking your Fantasy team is never easy, but the Fantasy Show is on hand to help FPL Managers with those big decisions.</desc>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261010050000 -0500" stop="20261010053000 -0500" channel="Hub.Premier.1.sg">
+    <title lang="en">PREVIEW - FRI 09 OCT</title>
+    <desc lang="en">Live. We preview a blockbuster Premier League weekend as Liverpool clash with Manchester City, Spurs head to Manchester United and Arsenal host Leeds.</desc>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261010053000 -0500" stop="20261010062000 -0500" channel="Hub.Premier.1.sg">
+    <title lang="en">PREMIER LEAGUE LIVE</title>
+    <desc lang="en">Live. The Premier League returns after the extended international break with Champions Arsenal playing Leeds United. Chelsea against Bournemouth headlines Goal Rush before Manchester United take on Tottenham Hotspur.</desc>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261010062000 -0500" stop="20261010085000 -0500" channel="Hub.Premier.1.sg">
+    <title lang="en">Arsenal v Leeds United (MW06)</title>
+    <desc lang="en">Live. Arsenal have won nine of their last 10 Premier League games against Leeds United (D1), including each of the last seven by an aggregate score of 24-5.</desc>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261010085000 -0500" stop="20261010112000 -0500" channel="Hub.Premier.1.sg">
+    <title lang="en">Chelsea v Bournemouth (MW06) (Goal Rush)</title>
+    <desc lang="en">Live. Chelsea are unbeaten in their last nine Premier League games against Bournemouth (W4 D5), with each of the last three ending level.</desc>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261010112000 -0500" stop="20261010133000 -0500" channel="Hub.Premier.1.sg">
+    <title lang="en">Manchester United v Tottenham Hotspur (MW06)</title>
+    <desc lang="en">Live. Tottenham Hotspur have lost 25 Premier League away games against Manchester United - only Everton (26 at Arsenal) have lost more on the road against an opponent in the competition.</desc>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261010133000 -0500" stop="20261010140000 -0500" channel="Hub.Premier.1.sg">
+    <title lang="en">PREMIER LEAGUE LIVE</title>
+    <desc lang="en">Live. Highlight match action from the Premier League's 2026/27 season.</desc>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261010140000 -0500" stop="20261010150000 -0500" channel="Hub.Premier.1.sg">
+    <title lang="en">THE SATURDAY WRAP - SAT 10 OCT</title>
+    <desc lang="en">Live. A complete review of all the day's Premier League football, with highlights and studio discussion. The Saturday Wrap broadcasts immediately after Premier League Live on Saturday.</desc>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261010150000 -0500" stop="20261010153000 -0500" channel="Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 26/27 MW06 Arsenal v Leeds United</title>
+    <desc lang="en">Live. Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261010153000 -0500" stop="20261010160000 -0500" channel="Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 26/27 MW06 Chelsea v Bournemouth</title>
+    <desc lang="en">Live. Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261010160000 -0500" stop="20261010163000 -0500" channel="Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 26/27 MW06 Aston Villa v Brentford</title>
+    <desc lang="en">Live. Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261010163000 -0500" stop="20261010170000 -0500" channel="Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 26/27 MW06 Ipswich Town v Fulham</title>
+    <desc lang="en">Live. Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261010170000 -0500" stop="20261010173000 -0500" channel="Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 26/27 MW06 Sunderland v Brighton and Hove Albion</title>
+    <desc lang="en">Live. Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261010173000 -0500" stop="20261010180000 -0500" channel="Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 26/27 MW06 Manchester United v Tottenham Hotspur</title>
+    <desc lang="en">Live. Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261010180000 -0500" stop="20261010190000 -0500" channel="Hub.Premier.1.sg">
+    <title lang="en">THE SATURDAY WRAP - SAT 10 OCT</title>
+    <desc lang="en">Live. A complete review of all the day's Premier League football, with highlights and studio discussion. The Saturday Wrap broadcasts immediately after Premier League Live on Saturday.</desc>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261010190000 -0500" stop="20261010193000 -0500" channel="Hub.Premier.1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 26/27 MW06 Arsenal v Leeds United</title>
+    <desc lang="en">Live. Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
     <rating system="IMDA">
       <value>PG13</value>
     </rating>
@@ -5330,30 +3920,152 @@
       <value>PG13</value>
     </rating>
   </programme>
-  <programme start="20261006050000 -0500" stop="20261006110000 -0500" channel="Hub.Premier.3.sg">
-    <title lang="en">End of Transmission</title>
-    <desc lang="en">Live. End of Transmission.</desc>
+  <programme start="20261009230000 -0500" stop="20261009233000 -0500" channel="Hub.Premier.2.sg">
+    <title lang="en">Netbusters 2026/27 - EP5</title>
+    <desc lang="en">Live. Relive the best action from the Premier League with this fast-paced ISO angle highlights show, featuring every game and every goal from each matchround.</desc>
+    <episode-num system="onscreen">E5</episode-num>
     <rating system="IMDA">
       <value>PG13</value>
     </rating>
   </programme>
-  <programme start="20261006110000 -0500" stop="20261006170000 -0500" channel="Hub.Premier.3.sg">
-    <title lang="en">End of Transmission</title>
-    <desc lang="en">Live. End of Transmission.</desc>
+  <programme start="20261009233000 -0500" stop="20261010000000 -0500" channel="Hub.Premier.2.sg">
+    <title lang="en">PL Preview 2026/27 - EP6</title>
+    <desc lang="en">Live. We preview a blockbuster Premier League weekend as Liverpool clash with Manchester City, Spurs head to Manchester United and Arsenal host Leeds.</desc>
+    <episode-num system="onscreen">E6</episode-num>
     <rating system="IMDA">
       <value>PG13</value>
     </rating>
   </programme>
-  <programme start="20261006170000 -0500" stop="20261006230000 -0500" channel="Hub.Premier.3.sg">
-    <title lang="en">End of Transmission</title>
-    <desc lang="en">Live. End of Transmission.</desc>
+  <programme start="20261010000000 -0500" stop="20261010020000 -0500" channel="Hub.Premier.2.sg">
+    <title lang="en">Brighton and Hove Albion vs Arsenal (MW05) - Premier League 2026/27</title>
+    <sub-title lang="en">Premier League 2026/27</sub-title>
+    <desc lang="en">Live. Brighton are winless in their last six Premier League home games against Arsenal (D2 L4), having been unbeaten in their first three against the Gunners at the Amex Stadium (W2 D1).</desc>
+    <episode-num system="onscreen">E43</episode-num>
     <rating system="IMDA">
       <value>PG13</value>
     </rating>
   </programme>
-  <programme start="20261006230000 -0500" stop="20261007050000 -0500" channel="Hub.Premier.3.sg">
-    <title lang="en">End of Transmission</title>
-    <desc lang="en">Live. End of Transmission.</desc>
+  <programme start="20261010020000 -0500" stop="20261010030000 -0500" channel="Hub.Premier.2.sg">
+    <title lang="en">1-to-11 2026/27 - EP3</title>
+    <desc lang="en">Live. A former Premier League star sits down to select the best team they played with, guiding us through their picks from 1-to-11 and including insights and anecdotes from on and off the pitch.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261010030000 -0500" stop="20261010033000 -0500" channel="Hub.Premier.2.sg">
+    <title lang="en">Fantasy Show 2026/27 - EP6</title>
+    <desc lang="en">Live. Haaland or Ekitike? Saka or Palmer? Cunha or Joao Pedro? Picking your Fantasy team is never easy, but the Fantasy Show is on hand to help FPL Managers with those big decisions.</desc>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261010033000 -0500" stop="20261010040000 -0500" channel="Hub.Premier.2.sg">
+    <title lang="en">PL Preview 2026/27 - EP6</title>
+    <desc lang="en">Live. We preview a blockbuster Premier League weekend as Liverpool clash with Manchester City, Spurs head to Manchester United and Arsenal host Leeds.</desc>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261010040000 -0500" stop="20261010043000 -0500" channel="Hub.Premier.2.sg">
+    <title lang="en">PL Rewind 2026/27 - EP4</title>
+    <desc lang="en">Live. Hassan Kachloul was the first ever Moroccan player to grace the Premier League. Arriving at Southampton in 1998, he quickly became a fan favourite, helping the club to the “Great Escape” in 1999. He recalls the key matches and moments from his Saints career, including the unforgettable final game at The Dell.</desc>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261010043000 -0500" stop="20261010062500 -0500" channel="Hub.Premier.2.sg">
+    <title lang="en">Manchester City vs Sunderland (MW05) - Premier League 2026/27</title>
+    <sub-title lang="en">Premier League 2026/27</sub-title>
+    <desc lang="en">Live. Manchester City are unbeaten in all 14 of their Premier League home games against Sunderland (W12 D2). Their last home league defeat against the Black Cats was in the second tier in January 1998 (0-1).</desc>
+    <episode-num system="onscreen">E46</episode-num>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261010062500 -0500" stop="20261010065500 -0500" channel="Hub.Premier.2.sg">
+    <title lang="en">PL Stories 2026/27 - EP19</title>
+    <desc lang="en">Live. From his early days at Wallsend Boys Club to emerging at West Ham, Michael Carrick reflects on his remarkable journey through the game. Sharing fascinating stories of Jacques Santini at Spurs and Sir Alex Ferguson at Manchester United, before reflecting on the latest chapter; becoming Head Coach of Manchester United.</desc>
+    <episode-num system="onscreen">E19</episode-num>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261010065500 -0500" stop="20261010085000 -0500" channel="Hub.Premier.2.sg">
+    <title lang="en">Brentford vs Chelsea (MW05) - Premier League 2026/27</title>
+    <sub-title lang="en">Premier League 2026/27</sub-title>
+    <desc lang="en">Live. Brentford are winless in all five of their Premier League home games against Chelsea, with each of the last four finishing level (L1).</desc>
+    <episode-num system="onscreen">E41</episode-num>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261010085000 -0500" stop="20261010110000 -0500" channel="Hub.Premier.2.sg">
+    <title lang="en">Aston Villa vs Brentford (MW06) - Premier League 2026/27</title>
+    <sub-title lang="en">Premier League 2026/27</sub-title>
+    <desc lang="en">Live. Brentford completed the double over Aston Villa last season, having won just one of their first eight Premier League games against them (D3 L4).</desc>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261010110000 -0500" stop="20261010113000 -0500" channel="Hub.Premier.2.sg">
+    <title lang="en">The Big Interview 2026/27 - EP8</title>
+    <desc lang="en">Live. From Middlesbrough ball boy to the Championship Player of the Season in 2025/26, Hayden Hackney tells Betty Glover about his start to life in the Premier League with Everton, the culmination of a lifetime of persistence and turning a childhood dream into a reality.</desc>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261010113000 -0500" stop="20261010120000 -0500" channel="Hub.Premier.2.sg">
+    <title lang="en">PL Rewind 2026/27 - EP4</title>
+    <desc lang="en">Live. Hassan Kachloul was the first ever Moroccan player to grace the Premier League. Arriving at Southampton in 1998, he quickly became a fan favourite, helping the club to the “Great Escape” in 1999. He recalls the key matches and moments from his Saints career, including the unforgettable final game at The Dell.</desc>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261010120000 -0500" stop="20261010130000 -0500" channel="Hub.Premier.2.sg">
+    <title lang="en">1-to-11 2026/27 - EP3</title>
+    <desc lang="en">Live. A former Premier League star sits down to select the best team they played with, guiding us through their picks from 1-to-11 and including insights and anecdotes from on and off the pitch.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261010130000 -0500" stop="20261010150000 -0500" channel="Hub.Premier.2.sg">
+    <title lang="en">Newcastle United vs Hull City (MW05) - Premier League 2026/27</title>
+    <sub-title lang="en">Premier League 2026/27</sub-title>
+    <desc lang="en">Live. Hull City are looking to become the first newly promoted Premier League side to avoid defeat in their first five games since Portsmouth in 2003-04, while the last promoted side to hit double figures for points after five games was West Ham in 2005-06 (10).</desc>
+    <episode-num system="onscreen">E47</episode-num>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261010150000 -0500" stop="20261010170000 -0500" channel="Hub.Premier.2.sg">
+    <title lang="en">Ipswich Town vs Fulham (MW06) - Premier League 2026/27</title>
+    <sub-title lang="en">Premier League 2026/27</sub-title>
+    <desc lang="en">Live. Fulham are winless in all four of their Premier League games against Ipswich (D3 L1), the joint-most they’ve faced a side without ever winning in the competition (also 4 vs Watford).</desc>
+    <episode-num system="onscreen">E54</episode-num>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261010170000 -0500" stop="20261010190000 -0500" channel="Hub.Premier.2.sg">
+    <title lang="en">Sunderland vs Brighton and Hove Albion (MW06) - Premier League 2026/27</title>
+    <sub-title lang="en">Premier League 2026/27</sub-title>
+    <desc lang="en">Live. Sunderland have won just one of their eight top-flight meetings with Brighton (D2 L5), beating them 3-0 at Roker Park in May 1982.</desc>
+    <episode-num system="onscreen">E55</episode-num>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261010190000 -0500" stop="20261010200000 -0500" channel="Hub.Premier.2.sg">
+    <title lang="en">The Saturday Wrap 2026/27 - EP6</title>
+    <desc lang="en">Live. A complete review of all the day’s Premier League football, with highlights and studio discussion. The Saturday Wrap broadcasts immediately after Premier League Live on Saturday.</desc>
+    <episode-num system="onscreen">E6</episode-num>
     <rating system="IMDA">
       <value>PG13</value>
     </rating>
@@ -5435,28 +4147,36 @@
       <value>PG13</value>
     </rating>
   </programme>
-  <programme start="20261006050000 -0500" stop="20261006110000 -0500" channel="Hub.Premier.4.sg">
+  <programme start="20261009230000 -0500" stop="20261010050000 -0500" channel="Hub.Premier.3.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">Live. End of Transmission.</desc>
     <rating system="IMDA">
       <value>PG13</value>
     </rating>
   </programme>
-  <programme start="20261006110000 -0500" stop="20261006170000 -0500" channel="Hub.Premier.4.sg">
+  <programme start="20261010050000 -0500" stop="20261010085000 -0500" channel="Hub.Premier.3.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">Live. End of Transmission.</desc>
     <rating system="IMDA">
       <value>PG13</value>
     </rating>
   </programme>
-  <programme start="20261006170000 -0500" stop="20261006230000 -0500" channel="Hub.Premier.4.sg">
+  <programme start="20261010085000 -0500" stop="20261010110000 -0500" channel="Hub.Premier.3.sg">
+    <title lang="en">Sunderland vs Brighton and Hove Albion (MW06) - Premier League 2026/27</title>
+    <sub-title lang="en">Premier League 2026/27</sub-title>
+    <desc lang="en">Live. Sunderland have won just one of their eight top-flight meetings with Brighton (D2 L5), beating them 3-0 at Roker Park in May 1982.</desc>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261010110000 -0500" stop="20261010170000 -0500" channel="Hub.Premier.3.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">Live. End of Transmission.</desc>
     <rating system="IMDA">
       <value>PG13</value>
     </rating>
   </programme>
-  <programme start="20261006230000 -0500" stop="20261007050000 -0500" channel="Hub.Premier.4.sg">
+  <programme start="20261010170000 -0500" stop="20261010230000 -0500" channel="Hub.Premier.3.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">Live. End of Transmission.</desc>
     <rating system="IMDA">
@@ -5534,6 +4254,42 @@
     </rating>
   </programme>
   <programme start="20261009170000 -0500" stop="20261009230000 -0500" channel="Hub.Premier.4.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">Live. End of Transmission.</desc>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261009230000 -0500" stop="20261010050000 -0500" channel="Hub.Premier.4.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">Live. End of Transmission.</desc>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261010050000 -0500" stop="20261010085000 -0500" channel="Hub.Premier.4.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">Live. End of Transmission.</desc>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261010085000 -0500" stop="20261010110000 -0500" channel="Hub.Premier.4.sg">
+    <title lang="en">Ipswich Town vs Fulham (MW06) - Premier League 2026/27</title>
+    <sub-title lang="en">Premier League 2026/27</sub-title>
+    <desc lang="en">Live. Fulham are winless in all four of their Premier League games against Ipswich (D3 L1), the joint-most they’ve faced a side without ever winning in the competition (also 4 vs Watford).</desc>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261010110000 -0500" stop="20261010170000 -0500" channel="Hub.Premier.4.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">Live. End of Transmission.</desc>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261010170000 -0500" stop="20261010230000 -0500" channel="Hub.Premier.4.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">Live. End of Transmission.</desc>
     <rating system="IMDA">
