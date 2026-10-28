@@ -1,10 +1,12 @@
-import json
-import requests
+"""Generate Kayo XMLTV from the public service used by the current Kayo site."""
+from collections import Counter
+from datetime import datetime, timedelta, time
+import logging
+from urllib.parse import urlencode, quote
 import xml.etree.ElementTree as ET
-from datetime import datetime, timedelta, timezone
-import pytz
-import time
-import re
+from zoneinfo import ZoneInfo
+
+from epg_runtime import run_generator
 
 # --- Configuration ---
 
@@ -49,194 +51,139 @@ DEFAULT_ICON = "https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icon
 
 # --- End Configuration ---
 
+SYDNEY = ZoneInfo("Australia/Sydney")
+STARTUP_URL = "https://startup.core.indazn.com/v1/main/web?Platform=web&LandingPageKey=generic&Brand=kayo"
+HEADERS = {"Accept": "application/json", "Origin": "https://kayosports.com.au",
+           "Referer": "https://kayosports.com.au/", "User-Agent": "Kayo-EPG/2.0"}
 
-def fetch_epg_data():
-    """
-    Fetches EPG data for the specified number of days from the Kayo Sports API.
-    """
-    base_url = 'https://api.kayosports.com.au/v3/content/types/landing/names/fixtures'
-    headers = {
-        'Accept': '*/*',
-        'Accept-Language': 'en-AU,en;q=0.9',
-        'Cache-Control': 'no-cache',
-        'Connection': 'keep-alive',
-        'Origin': 'https://kayosports.com.au',
-        'Pragma': 'no-cache',
-        'Referer': 'https://kayosports.com.au/',
-        'Sec-Fetch-Dest': 'empty',
-        'Sec-Fetch-Mode': 'cors',
-        'Sec-Fetch-Site': 'same-site',
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36',
-    }
 
-    now = datetime.now(timezone.utc)
+def date_windows(first_day, days):
+    """The API accepts at most seven inclusive days and one UTC offset per call."""
+    current = first_day
+    remaining = days
+    while remaining:
+        offset = int(datetime.combine(current, time(), SYDNEY).utcoffset().total_seconds() / 60)
+        count = 1
+        while count < min(remaining, 7):
+            following = datetime.combine(current + timedelta(days=count), time(), SYDNEY)
+            if following.utcoffset().total_seconds() / 60 != offset:
+                break
+            count += 1
+        yield current, current + timedelta(days=count - 1), offset
+        current += timedelta(days=count)
+        remaining -= count
+
+
+def fetch_epg_data(*, days=TOTAL_DAYS_TO_FETCH, client):
+    startup = client.get(STARTUP_URL, headers=HEADERS).json()
+    if not isinstance(startup, dict):
+        raise ValueError("Invalid Kayo startup response")
+    region = startup.get("Region", {})
+    if not region.get("isAllowed") or region.get("Country", "").lower() != "au":
+        raise ValueError("Kayo startup did not allow the Australian catalogue")
+    services = startup.get("ServiceDictionary", {})
+    # Pin the schema version we parse; discover its host/path from the site.
+    endpoint = services.get("EpgWithDateRange", {}).get("Versions", {}).get("v6", {}).get("ServicePath")
+    image_base = services.get("img", {}).get("Versions", {}).get("v3", {}).get("ServicePath")
+    if not endpoint or not endpoint.startswith("https://"):
+        raise ValueError("Kayo startup is missing the v6 date-range EPG service")
+
+    today = datetime.now(SYDNEY).date()
     all_events = []
-
-    print(f"Starting EPG fetch for {TOTAL_DAYS_TO_FETCH} days...")
-
-    for day in range(TOTAL_DAYS_TO_FETCH):
-        target_date = now + timedelta(days=day)
-        date_str = target_date.strftime('%Y-%m-%dT00:00:00Z')
-        url = f'{base_url}?from={date_str}'
-
-        print(f"Fetching data for day {day + 1}/{TOTAL_DAYS_TO_FETCH} ({target_date.strftime('%Y-%m-%d')})...")
-
-        try:
-            response = requests.get(url, headers=headers)
-            response.raise_for_status()
-            daily_data = response.json()
-
-            if "panels" in daily_data:
-                for panel in daily_data["panels"]:
-                    if "contents" in panel:
-                        all_events.extend(panel["contents"])
-
-            time.sleep(0.5)
-
-        except requests.exceptions.RequestException as e:
-            print(f"    Error fetching data for day {day + 1}: {e}")
-        except json.JSONDecodeError:
-            print(f"    Error decoding JSON for day {day + 1}. Skipping.")
-
+    for first, last, offset in date_windows(today, days):
+        params = {"country": "au", "languageCode": "en", "openBrowse": "true",
+                  "timeZoneOffset": offset, "startDate": first.isoformat(),
+                  "endDate": last.isoformat(), "brand": "kayo"}
+        url = endpoint + "?" + urlencode(params)
+        payload = client.get(url, headers=HEADERS).json()
+        if not isinstance(payload, dict) or not isinstance(payload.get("Tiles"), list):
+            raise ValueError(f"Kayo EPG {first}–{last} is missing the Tiles list")
+        if payload.get("StartDate") != first.isoformat() or payload.get("EndDate") != last.isoformat():
+            raise ValueError("Kayo returned a different date range; refusing to publish it")
+        for tile in payload["Tiles"]:
+            if not isinstance(tile, dict):
+                raise ValueError("Kayo EPG contains a malformed tile")
+            tile = dict(tile)
+            image_id = (tile.get("Image") or {}).get("Id")
+            if image_base and image_id:
+                tile["image_url"] = (f"{image_base.rstrip('/')}/none/{quote(image_id, safe='')}"
+                                     "/fill/none/top/none/80/720/405/webp/image?brand=kayo")
+            all_events.append(tile)
+        logging.info("Kayo %s through %s: %d tiles (generated %s)",
+                     first, last, len(payload["Tiles"]), payload.get("Generated"))
     return all_events
 
 
-def parse_duration(duration_str):
-    """
-    Parses a duration string like "4h 40m" into total minutes.
-    """
-    hours = 0
-    minutes = 0
-    
-    hour_match = re.search(r'(\d+)h', duration_str)
-    if hour_match:
-        hours = int(hour_match.group(1))
-
-    minute_match = re.search(r'(\d+)m', duration_str)
-    if minute_match:
-        minutes = int(minute_match.group(1))
-
-    return (hours * 60) + minutes
+def parse_timestamp(value):
+    parsed = datetime.fromisoformat(value.replace("Z", "+00:00"))
+    if parsed.utcoffset() is None:
+        raise ValueError(f"Timestamp has no timezone: {value}")
+    return parsed
 
 
 def convert_to_xmltv(events_data):
-    """
-    Converts the fetched Kayo JSON data into a standardized XMLTV format.
-    """
-    if not events_data:
-        print("Error: No valid JSON data to convert.")
-        return None
-
-    local_tz = pytz.timezone('Australia/Sydney')
     root = ET.Element("tv", {"generator-info-name": "Kayo EPG Scraper"})
-
-    print("\nGenerating XMLTV file...")
-    # --- Create Channel Elements ---
     for channel_tag, channel_info in CHANNELS_CONFIG.items():
-        xml_channel_id = f"{channel_info['id_num']}.{channel_tag}"
-        channel_el = ET.SubElement(root, "channel", {"id": xml_channel_id})
-        ET.SubElement(channel_el, "display-name").text = channel_info['display_name']
-        ET.SubElement(channel_el, "icon", {"src": ICON_MAP.get(channel_tag, DEFAULT_ICON)})
+        channel = ET.SubElement(root, "channel", {"id": f"{channel_info['id_num']}.{channel_tag}"})
+        ET.SubElement(channel, "display-name").text = channel_info["display_name"]
+        ET.SubElement(channel, "icon", {"src": ICON_MAP.get(channel_tag, DEFAULT_ICON)})
 
-    # --- Create Programme Elements ---
-    print(f"Processing {len(events_data)} total content items...")
-    processed_asset_ids = set()
-
-
+    programmes = []
+    seen = set()
+    unmatched = Counter()
     for item in events_data:
-        try:
-            if item.get("contentType") != "video" or "data" not in item:
-                continue
-            
-            data = item["data"]
-            asset_id = data.get("id")
-            clickthrough = data.get("clickthrough", {})
-            content_display = data.get("contentDisplay", {})
-            
-            if not asset_id or asset_id in processed_asset_ids:
-                continue
+        provider = (item.get("LinearProvider") or "").lower()
+        channel_tag = KAYO_CHANNEL_MAP.get(provider)
+        if channel_tag not in CHANNELS_CONFIG:
+            unmatched[provider or "(none)"] += 1
+            continue
+        asset_id = item.get("AssetId") or item.get("EventId")
+        if not asset_id or not item.get("Title") or not item.get("Start"):
+            raise ValueError(f"Mapped Kayo event has missing identity/title/start: {asset_id}")
+        start = parse_timestamp(item["Start"])
+        end = parse_timestamp(item["End"]) if item.get("End") else None
+        if end is not None and end <= start:
+            raise ValueError(f"Kayo event {asset_id} has an invalid end time")
+        key = (provider, asset_id, start)
+        if key in seen:
+            continue
+        seen.add(key)
+        programmes.append((start, channel_tag, str(asset_id), end, item))
 
-            kayo_channel_name = clickthrough.get("channel")
-            if not kayo_channel_name:
-                continue
-
-            channel_tag = KAYO_CHANNEL_MAP.get(kayo_channel_name.lower())
-            if not channel_tag or channel_tag not in CHANNELS_CONFIG:
-                continue
-                
-            channel_info = CHANNELS_CONFIG[channel_tag]
-            xml_channel_id = f"{channel_info['id_num']}.{channel_tag}"
-
-            start_time_utc_str = clickthrough.get("transmissionTime")
-            if not start_time_utc_str:
-                continue
-            
-            start_dt_utc = datetime.fromisoformat(start_time_utc_str.replace('Z', '+00:00'))
-            
-            duration_minutes = 120
-            if "infoLine" in content_display:
-                for info_item in content_display["infoLine"]:
-                    if info_item.get("type") == "length":
-                        duration_minutes = parse_duration(info_item.get("value", ""))
-                        break
-            
-            end_dt_utc = start_dt_utc + timedelta(minutes=duration_minutes)
-            
-            start_dt_local = start_dt_utc.astimezone(local_tz)
-            end_dt_local = end_dt_utc.astimezone(local_tz)
-
-            start_time_str = start_dt_local.strftime('%Y%m%d%H%M%S %z')
-            end_time_str = end_dt_local.strftime('%Y%m%d%H%M%S %z')
-
-            programme_el = ET.SubElement(root, "programme", {
-                "start": start_time_str,
-                "stop": end_time_str,
-                "channel": xml_channel_id
-            })
-
-            # --- Mapped Titles, Descriptions, and Images ---
-            series_name = clickthrough.get('seriesName', '')
-            title = clickthrough.get('title', 'No Title')
-            ET.SubElement(programme_el, "title", {"lang": "en"}).text = f"{series_name}: {title}"
-            
-            season_name = clickthrough.get('seasonName')
-            if season_name:
-                 ET.SubElement(programme_el, "sub-title", {"lang": "en"}).text = season_name
-
-            if "synopsis" in content_display and content_display["synopsis"]:
-                ET.SubElement(programme_el, "desc", {"lang": "en"}).text = content_display["synopsis"]
-
-            if "images" in content_display and "heroPortrait_m2" in content_display["images"]:
-                img_url = content_display["images"]["heroPortrait_m2"].replace('${WIDTH}', '720')
-                img_url = re.sub(r'[&?]location=[^&]*', '', img_url)
-                ET.SubElement(programme_el, "icon", {"src": img_url})
-
-            processed_asset_ids.add(asset_id)
-
-        except KeyError as e:
-            print(f"    Skipping item due to missing key: {e}")
-        except Exception as e:
-            print(f"    An unexpected error occurred while processing an item: {e}")
-
-    ET.indent(root, space="  ", level=0)
-    xml_string = ET.tostring(root, encoding="UTF-8", xml_declaration=True).decode('utf-8')
-    return xml_string
+    counts = Counter()
+    unknown_end = 0
+    for start, channel_tag, asset_id, end, item in sorted(programmes, key=lambda p: p[:3]):
+        info = CHANNELS_CONFIG[channel_tag]
+        attributes = {"start": start.astimezone(SYDNEY).strftime("%Y%m%d%H%M%S %z"),
+                      "channel": f"{info['id_num']}.{channel_tag}"}
+        # ExpirationDate is an asset expiry, not a broadcast end. XMLTV permits
+        # an absent stop attribute. Do not invent two-hour programmes.
+        if end is not None:
+            attributes["stop"] = end.astimezone(SYDNEY).strftime("%Y%m%d%H%M%S %z")
+        else:
+            unknown_end += 1
+        programme = ET.SubElement(root, "programme", attributes)
+        competition = (item.get("Competition") or {}).get("Title")
+        title = f"{competition}: {item['Title']}" if competition else item["Title"]
+        ET.SubElement(programme, "title", {"lang": "en"}).text = title
+        season = (item.get("TournamentCalendar") or {}).get("Title")
+        if season:
+            ET.SubElement(programme, "sub-title", {"lang": "en"}).text = season
+        if item.get("Description"):
+            ET.SubElement(programme, "desc", {"lang": "en"}).text = item["Description"]
+        if item.get("image_url"):
+            ET.SubElement(programme, "icon", {"src": item["image_url"]})
+        counts[channel_tag] += 1
+    for channel_tag in CHANNELS_CONFIG:
+        logging.info("Channel %s: %d programmes", channel_tag, counts[channel_tag])
+    logging.info("Ignored providers outside the configured mapping: %s", dict(unmatched))
+    if unknown_end:
+        logging.warning("%d programmes have no source end time; XMLTV stop omitted", unknown_end)
+    ET.indent(root, space="  ")
+    return ET.tostring(root, encoding="UTF-8", xml_declaration=True).decode("utf-8")
 
 
-# --- Main Execution ---
 if __name__ == "__main__":
-    epg_data = fetch_epg_data()
-
-    if epg_data:
-        xmltv_output = convert_to_xmltv(epg_data)
-
-        if xmltv_output:
-            output_filename = "kayo_guide.xml"
-            try:
-                with open(output_filename, "w", encoding="utf-8") as f:
-                    f.write(xmltv_output)
-                print(f"\n✅ XMLTV data successfully generated and saved to {output_filename}")
-            except IOError as e:
-                print(f"\n❌ Error saving file: {e}")
-    else:
-        print("\n❌ No programme data was fetched. The XML file was not generated.")
+    raise SystemExit(run_generator(fetch_epg_data, convert_to_xmltv,
+                                   days=TOTAL_DAYS_TO_FETCH, output="kayo_guide.xml",
+                                   max_seconds=300))

@@ -1,10 +1,10 @@
-import json
 import requests
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 import pytz
-import time
-from bs4 import BeautifulSoup 
+from bs4 import BeautifulSoup
+import logging
+from epg_runtime import run_generator
 
 # --- Configuration ---
 
@@ -47,7 +47,7 @@ DEFAULT_ICON = "https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icon
 # --- End Configuration ---
 
 
-def fetch_thumbnail_image(event_id):
+def fetch_thumbnail_image(event_id, client):
     """
     Fetches the thumbnail image URL for a specific event from Foxtel's website.
     """
@@ -60,7 +60,7 @@ def fetch_thumbnail_image(event_id):
     }
     
     try:
-        response = requests.get(url, headers=headers, timeout=10)
+        response = client.get(url, headers=headers, timeout=(5, 5), attempts=1)
         print(f"      -> [DEBUG] Status Code: {response.status_code}", flush=True) 
         
         response.raise_for_status()
@@ -85,7 +85,7 @@ def fetch_thumbnail_image(event_id):
         return None
 
 
-def fetch_epg_data():
+def fetch_epg_data(*, days=TOTAL_DAYS_TO_FETCH, client, thumbnails=True):
     """
     Fetches EPG data by first getting the grid in 6-hour chunks,
     then fetching detailed data for each individual event.
@@ -101,14 +101,16 @@ def fetch_epg_data():
     }
 
     now = datetime.now(timezone.utc)
-    total_duration_hours = TOTAL_DAYS_TO_FETCH * 24
+    total_duration_hours = days * 24
     chunk_duration_hours = 6
     num_iterations = total_duration_hours // chunk_duration_hours
 
     aggregated_data = {"channelEventsByTag": {channel_tag: [] for channel_tag in CHANNELS_CONFIG.keys()}}
     processed_event_ids = set()
+    thumbnail_failures = 0
+    detail_failures = 0
 
-    print(f"Starting EPG fetch for {TOTAL_DAYS_TO_FETCH} days in {num_iterations} chunks...")
+    print(f"Starting EPG fetch for {days} days in {num_iterations} chunks...")
 
     for n in range(num_iterations):
         start_dt = now + timedelta(hours=n * chunk_duration_hours)
@@ -121,62 +123,49 @@ def fetch_epg_data():
         print(f"\nFetching grid chunk {n + 1}/{num_iterations}...")
 
         try:
-            response = requests.get(grid_url, headers=headers)
+            response = client.get(grid_url, headers=headers)
             response.raise_for_status()
             chunk_data = response.json()
 
-            if "channelEventsByTag" in chunk_data:
-                for channel_tag, events in chunk_data["channelEventsByTag"].items():
-                    # Filter based on the keys in the new CHANNELS_CONFIG dictionary
-                    if channel_tag in CHANNELS_CONFIG:
-                        for event_summary in events:
-                            event_id = event_summary.get("eventId")
-                            if event_id and event_id not in processed_event_ids:
-                                print(f"  Fetching details for event ID: {event_id} ({event_summary.get('programTitle', '')})")
-
-                                event_detail_url = f"{event_base_url}{event_id}?movieHeight=720&tvShowHeight=720&regionId=20480"
-                                
-
-                                print(f"      Fetching thumbnail for event {event_id}...")
-                                thumbnail_url = fetch_thumbnail_image(event_id)
-                                if thumbnail_url:
-                                    print(f"      ✓ Thumbnail found: {thumbnail_url}")
-                                else:
-                                    print(f"      - No thumbnail found for event {event_id}")
-                                                        
-                                try:
-                                    event_response = requests.get(event_detail_url, headers=headers)
-                                    event_response.raise_for_status()
-                                    event_detail_json = event_response.json()
-
-                                    if "event" in event_detail_json:
-                                        event_data = event_detail_json["event"]
-                                        
-                                        # Fetch thumbnail image for this event
-                                        print(f"    Fetching thumbnail for event {event_id}...")
-                                        thumbnail_url = fetch_thumbnail_image(event_id)
-                                        if thumbnail_url:
-                                            event_data['thumbnailUrl'] = thumbnail_url
-                                            print(f"    ✓ Thumbnail found: {thumbnail_url}")
-                                        else:
-                                            print(f"    - No thumbnail found for event {event_id}")
-                                        
-                                        aggregated_data["channelEventsByTag"][channel_tag].append(event_data)
-                                        processed_event_ids.add(event_id)
-
-                                    time.sleep(0.1)
-
-                                except requests.exceptions.RequestException as e:
-                                    print(f"    - Could not fetch details for event {event_id}. Using summary. Error: {e}")
-                                    if thumbnail_url:
-                                        event_summary['thumbnailUrl'] = thumbnail_url
-                                    aggregated_data["channelEventsByTag"][channel_tag].append(event_summary)
-                                    processed_event_ids.add(event_id)
-
-        except requests.exceptions.RequestException as e:
-            print(f"    Error fetching grid data for chunk {n + 1}: {e}")
-        except json.JSONDecodeError:
-            print(f"    Error decoding JSON for grid chunk {n + 1}. Skipping.")
+            if not isinstance(chunk_data, dict) or not isinstance(chunk_data.get("channelEventsByTag"), dict):
+                raise ValueError("FOX response is missing channelEventsByTag")
+            for channel_tag, events in chunk_data["channelEventsByTag"].items():
+                if channel_tag not in CHANNELS_CONFIG:
+                    continue
+                for event_summary in events:
+                    event_id = event_summary.get("eventId")
+                    event_key = (channel_tag, event_id)
+                    if not event_id or event_key in processed_event_ids:
+                        continue
+                    event_data = dict(event_summary)
+                    if detail_failures < 3:
+                        event_detail_url = f"{event_base_url}{event_id}?movieHeight=720&tvShowHeight=720&regionId=20480"
+                        try:
+                            detail = client.get(event_detail_url, headers=headers, attempts=1).json()
+                            if not isinstance(detail, dict) or not isinstance(detail.get("event"), dict) or not detail["event"]:
+                                raise ValueError("Missing event details")
+                            event_data.update(detail["event"])
+                            detail_failures = 0
+                        except (requests.exceptions.RequestException, ValueError) as exc:
+                            detail_failures += 1
+                            logging.warning("Event %s: using grid summary: %s", event_id, exc)
+                            if detail_failures == 3:
+                                logging.warning("Disabling event details after 3 consecutive failures; using grid summaries")
+                    # The detail API may already supply an image. Never fetch the same page twice.
+                    if thumbnails and not event_data.get("imageUrl") and thumbnail_failures < 3:
+                        thumbnail_url = fetch_thumbnail_image(event_id, client)
+                        if thumbnail_url:
+                            event_data["thumbnailUrl"] = thumbnail_url
+                            thumbnail_failures = 0
+                        else:
+                            thumbnail_failures += 1
+                            if thumbnail_failures == 3:
+                                logging.warning("Disabling optional thumbnails after 3 consecutive misses/failures")
+                    aggregated_data["channelEventsByTag"][channel_tag].append(event_data)
+                    processed_event_ids.add(event_key)
+            logging.info("Grid chunk %d/%d complete; %d unique events", n + 1, num_iterations, len(processed_event_ids))
+        except (requests.exceptions.RequestException, ValueError) as exc:
+            raise RuntimeError(f"FOX grid chunk {n + 1}/{num_iterations} failed; refusing to publish an incomplete guide") from exc
 
     return aggregated_data
 
@@ -267,18 +256,6 @@ def convert_to_xmltv(json_data):
 
 # --- Main Execution ---
 if __name__ == "__main__":
-    epg_json = fetch_epg_data()
-
-    if epg_json and any(epg_json["channelEventsByTag"].values()):
-        xmltv_output = convert_to_xmltv(epg_json)
-
-        if xmltv_output:
-            output_filename = "guide.xml"
-            try:
-                with open(output_filename, "w", encoding="utf-8") as f:
-                    f.write(xmltv_output)
-                print(f"\n✅ XMLTV data successfully generated and saved to {output_filename}")
-            except IOError as e:
-                print(f"\n❌ Error saving file: {e}")
-    else:
-        print("\n❌ No programme data was fetched. The XML file was not generated.")
+    raise SystemExit(run_generator(fetch_epg_data, convert_to_xmltv,
+                                   days=TOTAL_DAYS_TO_FETCH, output="guide.xml",
+                                   max_seconds=1200, thumbnails=True))
