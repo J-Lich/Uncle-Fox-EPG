@@ -24,92 +24,376 @@
     <display-name>Kayo UHD 4 (F1)</display-name>
     <icon src="https://raw.githubusercontent.com/J-Lich/Uncle-Fox-EPG/main/icons/4k.kayo.506.png" />
   </channel>
-  <programme start="20260425113000 +1000" stop="20260425161000 +1000" channel="4k.1.kayo.504">
-    <title lang="en">AFL: Hawthorn Hawks vs Gold Coast Suns</title>
-    <sub-title lang="en">2026</sub-title>
-    <desc lang="en">The Hawks welcome the Suns in Round 7.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c36020e4b082096d2aa359-1774413070136&amp;imwidth=720" />
+  <programme start="20261028012000 +1100" channel="4k.5.kayo.505" stop="20261028053523 +1100">
+    <title lang="en">T20 Cricket: Afghanistan v Zimbabwe G1</title>
+    <sub-title lang="en">Twenty20 Internationals 2026-27</sub-title>
+    <desc lang="en">T20. Rashid Khan returns for the hosts as the three-match series begins in Sharjah.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/7hfyewzm30bz6qs015zdlbq98_image-header_pRow_1792038316000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
   </programme>
-  <programme start="20260425150000 +1000" stop="20260425191000 +1000" channel="4k.1.kayo.504">
-    <title lang="en">AFL: Essendon Bombers vs Collingwood Magpies</title>
-    <sub-title lang="en">2026</sub-title>
-    <desc lang="en">Old rivals collide as the Bombers take on the Pies.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c3602ae4b082096d2aa35a-1774413153657&amp;imwidth=720" />
+  <programme start="20261028190000 +1100" channel="4k.6.kayo.501">
+    <title lang="en">ICC World Test Championship: South Africa v Australia Third Test Day 2</title>
+    <sub-title lang="en">Test Matches 2026-27</sub-title>
+    <desc lang="en">Mitch Starc’s six-wicket haul sparked an Australian fightback as the visitors begin their first innings in Cape Town.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/d1s930krdc8cdblausqx87dtj_image-header_pRow_1792551250000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
   </programme>
-  <programme start="20260425180000 +1000" stop="20260425224000 +1000" channel="4k.1.kayo.504">
-    <title lang="en">AFL: Port Adelaide Power vs Geelong Cats</title>
-    <sub-title lang="en">2026</sub-title>
-    <desc lang="en">The Power host the Cats in Round 7.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c36078e4b082096d2aa35d-1774413166242&amp;imwidth=720" />
+  <programme start="20261028190000 +1100" channel="4k.5.kayo.505">
+    <title lang="en">Constellation Cup: Australia v New Zealand Game 4</title>
+    <sub-title lang="en">Constellation Cup 2026</sub-title>
+    <desc lang="en">The final chapter of the 2026 Constellation Cup sees The Diamonds playing for revenge against their arch-rivals.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/3ph9fpwfimmijbdz58e2a3n88_image-header_pRow_1788934615000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
   </programme>
-  <programme start="20260425200000 +1000" stop="20260426001000 +1000" channel="4k.3.kayo.503">
-    <title lang="en">AFL: Fremantle Dockers vs Carlton Blues</title>
-    <sub-title lang="en">2026</sub-title>
-    <desc lang="en">The Blues travel to Perth to take on the Dockers.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c36035e4b082096d2aa35b-1774413212072&amp;imwidth=720" />
+  <programme start="20261028230000 +1100" channel="4k.3.kayo.503">
+    <title lang="en">Women's Premier League: WPL Auction</title>
+    <sub-title lang="en">WPL Auction 2026</sub-title>
+    <desc lang="en">Sophie Molineux and Grace Harris lead a strong international field as franchises build their squads at the 2027 WPL Auction.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/eoxutxdjhp4fitrv0odg8m2db_image-header_pRow_1792973690000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
   </programme>
-  <programme start="20260425150000 +1000" stop="20260425190500 +1000" channel="4k.2.kayo.502">
-    <title lang="en">Premiership: St George Illawarra vs Sydney Roosters</title>
-    <sub-title lang="en">2026</sub-title>
-    <desc lang="en">Watch Round 8 of the NRL on Kayo.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bc729ee4b082e790223f19-1776150666363&amp;imwidth=720" />
+  <programme start="20261029120000 +1100" channel="4k.5.kayo.505">
+    <title lang="en">Asia Pacific Amateur Championship: Asia Pacific Amatuer Round 1</title>
+    <sub-title lang="en">Men's Asia Pacific Amateur 2026</sub-title>
+    <desc lang="en">First round action of the Asia Pacific Amatuer Championship from Te Arai Links.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/9udskbkcekgf73k7suaxv5r43_image-header_pRow_1791937601000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
   </programme>
-  <programme start="20260425175500 +1000" stop="20260425211000 +1000" channel="4k.2.kayo.502">
-    <title lang="en">Premiership: Warriors vs Dolphins</title>
-    <sub-title lang="en">2026</sub-title>
-    <desc lang="en">Watch Round 8 of the NRL on Kayo.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bc72a5e4b08ff3d4463175-1773958405779&amp;imwidth=720" />
+  <programme start="20261029123000 +1100" channel="4k.3.kayo.503">
+    <title lang="en">USLPGA: Maybank Championship Round 1</title>
+    <sub-title lang="en">USLPGA 2026</sub-title>
+    <desc lang="en">First round action of the Maybank Championship from Kuala Lumpur Golf &amp; Country Club.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/cmn4t2jjyysdupsldzv1ulblk_image-header_pRow_1791866597000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
   </programme>
-  <programme start="20260425200000 +1000" stop="20260426002500 +1000" channel="4k.2.kayo.502">
-    <title lang="en">Premiership: Melbourne vs South Sydney</title>
-    <sub-title lang="en">2026</sub-title>
-    <desc lang="en">Watch Round 8 of the NRL on Kayo.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bc72afe4b082e790223f1a-1773958401065&amp;imwidth=720" />
+  <programme start="20261029150000 +1100" channel="4k.6.kayo.501">
+    <title lang="en">Women's Big Bash League: Renegades v Thunder</title>
+    <sub-title lang="en">Women's Big Bash League 2026-27</sub-title>
+    <desc lang="en">The 2026 WBBL season gets underway with the Melbourne Renegades hosting the Sydney Thunder at Junction Oval.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/an5idkdqw0yqs6qo5i2udmzv4_image-header_pRow_1792635843000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
   </programme>
-  <programme start="20260425195000 +1000" stop="20260426011000 +1000" channel="4k.6.kayo.501">
-    <title lang="en">Indian Premier League: Delhi Capitals vs Punjab Kings</title>
-    <sub-title lang="en">2026</sub-title>
-    <desc lang="en">Capitals take on Punjab Kings at Arun Jaitley Stadium, Delhi.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69d849c0e4b04a55e8163256-1775783717544&amp;imwidth=720" />
+  <programme start="20261029185000 +1100" channel="4k.5.kayo.505">
+    <title lang="en">ICC ODI Championship: England v Sri Lanka G6</title>
+    <sub-title lang="en">One-Day Internationals 2026-27</sub-title>
+    <desc lang="en">ODI. It's the last chance for the teams to earn points as the group stage wraps up.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/wan8xinist62qsl2daqfu7ic_image-header_pRow_1791771955000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
   </programme>
-  <programme start="20260426050000 +1000" stop="20260426101000 +1000" channel="4k.4.kayo.506">
-    <title lang="en">: NASCAR Talladega</title>
-    <desc lang="en">The 2026 Auto Parts Series moves into its eleventh round in Talladega.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69ddb153e4b012d79ca8a2f6-1776136785622&amp;imwidth=720" />
+  <programme start="20261029190000 +1100" channel="4k.6.kayo.501">
+    <title lang="en">ICC World Test Championship: South Africa v Australia Third Test Day 3</title>
+    <sub-title lang="en">Test Matches 2026-27</sub-title>
+    <desc lang="en">With the series tied at 1-1 it all comes down to the final test in Cape Town to determine the victor.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/4f0futep3xlrf7m4t92oiqutq_image-header_pRow_1793090255000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
   </programme>
-  <programme start="20260426123000 +1000" stop="20260426172000 +1000" channel="4k.1.kayo.504">
-    <title lang="en">AFL: St Kilda Saints vs West Coast Eagles</title>
-    <sub-title lang="en">2026</sub-title>
-    <desc lang="en">The Saints welcome the Eagles in Round 7.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c3603de4b02294161105c9-1774413178563&amp;imwidth=720" />
+  <programme start="20261029190000 +1100" channel="4k.3.kayo.503">
+    <title lang="en">Women's Big Bash League: Stars v Hurricanes</title>
+    <sub-title lang="en">Women's Big Bash League 2026-27</sub-title>
+    <desc lang="en">Last year's champions get their 2026 campaign started as they travel to Melbourne to take on the Stars.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/dbyknqnzy6uks16p5l388934a_image-header_pRow_1792635906000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
   </programme>
-  <programme start="20260426150000 +1000" stop="20260426191000 +1000" channel="4k.3.kayo.503">
-    <title lang="en">AFL: Brisbane Lions vs Adelaide Crows</title>
-    <sub-title lang="en">2026</sub-title>
-    <desc lang="en">Last year's premiers and minor premiers collide in Brisbane.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c36043e4b0304346eb3508-1774413225525&amp;imwidth=720" />
+  <programme start="20261029223000 +1100" channel="4k.3.kayo.503">
+    <title lang="en">European Challenge Tour Final: European Challenge Tour Round 1</title>
+    <sub-title lang="en">European Challenge Tour Final 2026</sub-title>
+    <desc lang="en">First round action of the European Challenge Tour Final fromClub de Golf Alcanada.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/4vdb9y6ge9mr9bsjyu0jzyt6_image-header_pRow_1792451672000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
   </programme>
-  <programme start="20260426161000 +1000" stop="20260426212500 +1000" channel="4k.1.kayo.504">
-    <title lang="en">AFL: Greater Western Sydney Giants vs North Melbourne Kangaroos</title>
-    <sub-title lang="en">2026</sub-title>
-    <desc lang="en">The Giants host the Roos to close out Round 7.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69c36050e4b051b3f1a6fbbc-1774413956092&amp;imwidth=720" />
+  <programme start="20261030012000 +1100" channel="4k.4.kayo.506">
+    <title lang="en">T20 Cricket: Afghanistan v Zimbabwe G2</title>
+    <sub-title lang="en">Twenty20 Internationals 2026-27</sub-title>
+    <desc lang="en">T20. The series in Sharjah continues with game two.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/d14k8pqit7bbq59bangfqyl3m_image-header_pRow_1792038316000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
   </programme>
-  <programme start="20260426130500 +1000" stop="20260426170500 +1000" channel="4k.2.kayo.502">
-    <title lang="en">Premiership: Newcastle vs Penrith</title>
-    <sub-title lang="en">2026</sub-title>
-    <desc lang="en">Watch Round 8 of the NRL on Kayo.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bc72b9e4b0ae86798fd554-1776150649991&amp;imwidth=720" />
+  <programme start="20261030044500 +1100" channel="4k.5.kayo.505">
+    <title lang="en">Saudi Pro League: Al Nassr v Al Kholood</title>
+    <sub-title lang="en">Saudi Pro League 26/27</sub-title>
+    <desc lang="en">Cristiano Ronaldo’s Al Nassr welcome Al Kholood to King Saud University Stadium in Riyadh.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/4sh6gd5gupzj0rpj2bib46lqx_image-header_pRow_1792020484000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
   </programme>
-  <programme start="20260426155500 +1000" stop="20260426192500 +1000" channel="4k.2.kayo.502">
-    <title lang="en">Premiership: Manly vs Parramatta</title>
-    <sub-title lang="en">2026</sub-title>
-    <desc lang="en">Watch Round 8 of the NRL on Kayo.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69bc72c2e4b08e801b5892bc-1773958379500&amp;imwidth=720" />
+  <programme start="20261030070000 +1100" channel="4k.3.kayo.503">
+    <title lang="en">USPGA: Mexico Open Round 1</title>
+    <sub-title lang="en">USPGA 2026</sub-title>
+    <desc lang="en">First round action of the Mexico Open from VidantaWorld Vallarta Course.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/a70z20fywm6wumtpjmvankurk_image-header_pRow_1778818839000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
   </programme>
-  <programme start="20260427040000 +1000" stop="20260427101000 +1000" channel="4k.4.kayo.506">
-    <title lang="en">: NASCAR Talladega</title>
-    <desc lang="en">The 2026 Cup Series moves into its tenth round at Talladega Superspeedway.</desc>
-    <icon src="https://vmndims.kayosports.com.au/api/v2/img/69ddb3ade4b0dad431754bfb-1776137360413&amp;imwidth=720" />
+  <programme start="20261030115500 +1100" channel="4k.4.kayo.506">
+    <title lang="en">FIM Moto3 World Championship: Moto3 Malaysia Practice 1</title>
+    <sub-title lang="en">Moto3 World Championship 2026</sub-title>
+    <desc lang="en">The greatest up and coming talent in two wheel motorsport come from around the world to battle it out for glory and the potential to move up to the big stage.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/9to1rld6elif6k3ztij6op5x6_image-header_pRow_1792024482000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261030120000 +1100" channel="4k.5.kayo.505">
+    <title lang="en">Asia Pacific Amateur Championship: Asia Pacific Amatuer Round 2</title>
+    <sub-title lang="en">Men's Asia Pacific Amateur 2026</sub-title>
+    <desc lang="en">Second round action of the Asia Pacific Amatuer Championship from Te Arai Links.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/k3g692baogln5lehlaew5dm3_image-header_pRow_1791937601000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261030123000 +1100" channel="4k.3.kayo.503">
+    <title lang="en">USLPGA: Maybank Championship Round 2</title>
+    <sub-title lang="en">USLPGA 2026</sub-title>
+    <desc lang="en">Second round action of the Maybank Championship from Kuala Lumpur Golf &amp; Country Club.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/8j7aigqutfpxjco9hhooijb1o_image-header_pRow_1791866597000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261030124000 +1100" channel="4k.4.kayo.506">
+    <title lang="en">FIM Moto2 World Championship: Moto2 Malaysia Practice 1</title>
+    <sub-title lang="en">Moto2 World Championship 2026</sub-title>
+    <desc lang="en">The greatest up and coming talent in two wheel motorsport come from around the world to battle it out for glory and the potential to move up to the big stage.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/a8vjbtfarzqb0tnop47hshtvj_image-header_pRow_1792024532000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261030161000 +1100" channel="4k.4.kayo.506">
+    <title lang="en">FIM Moto3 World Championship: Moto3 Malaysia Practice 2</title>
+    <sub-title lang="en">Moto3 World Championship 2026</sub-title>
+    <desc lang="en">The greatest up and coming talent in two wheel motorsport come from around the world to battle it out for glory and the potential to move up to the big stage.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/d6906bqort06jn1g5qodsg00x_image-header_pRow_1792024482000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261030165500 +1100" channel="4k.4.kayo.506">
+    <title lang="en">FIM Moto2 World Championship: Moto2 Malaysia Practice 2</title>
+    <sub-title lang="en">Moto2 World Championship 2026</sub-title>
+    <desc lang="en">The greatest up and coming talent in two wheel motorsport come from around the world to battle it out for glory and the potential to move up to the big stage.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/7adp9yoe8ee7qavc3pkmw2l1j_image-header_pRow_1792024655000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261030170000 +1100" channel="4k.5.kayo.505">
+    <title lang="en">T20 Cricket: New Zealand v India G4</title>
+    <sub-title lang="en">Twenty20 Internationals 2026-27</sub-title>
+    <desc lang="en">T20. The teams move to Auckland for game four of the five-match series.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/6ajqnhvgls43j1m8rjegyf7dm_image-header_pRow_1791960300000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261030190000 +1100" channel="4k.6.kayo.501">
+    <title lang="en">ICC World Test Championship: South Africa v Australia Third Test Day 4</title>
+    <sub-title lang="en">Test Matches 2026-27</sub-title>
+    <desc lang="en">With the series tied at 1-1 it all comes down to the final test in Cape Town to determine the victor.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/bzkyyzhwnxjo3kqsu5w03qp6b_image-header_pRow_1792551711000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261030190000 +1100" channel="4k.1.kayo.504">
+    <title lang="en">AFL Women: Geelong v Western Bulldogs</title>
+    <sub-title lang="en">AFL Women's 2026</sub-title>
+    <desc lang="en">Watch Australian Rules Football action as Geelong Cats Women takes on Western Bulldogs Women</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/5x1ikiz7xvnak09ajuqkg7ofg_image-header_pRow_1783053267000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261030190700 +1100" channel="4k.3.kayo.503">
+    <title lang="en">Women's Big Bash League: Heat v Sixers</title>
+    <sub-title lang="en">Women's Big Bash League 2026-27</sub-title>
+    <desc lang="en">Ash Gardner leads the Sydney Sixers as they get their campaign started away from home against the Brisbane Heat.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/1qqyrh4yl2a3b2ot59wt1fxja_image-header_pRow_1792636580000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261030223000 +1100" channel="4k.3.kayo.503">
+    <title lang="en">European Challenge Tour Final: European Challenge Tour Round 2</title>
+    <sub-title lang="en">European Challenge Tour Final 2026</sub-title>
+    <desc lang="en">Second round action of the European Challenge Tour Final fromClub de Golf Alcanada.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/7jcgs1u3cpjohvtwhpbug6f6c_image-header_pRow_1792451672000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261031044500 +1100" channel="4k.5.kayo.505">
+    <title lang="en">Saudi Pro League: Al Shabab v Al Ahli</title>
+    <sub-title lang="en">Saudi Pro League 26/27</sub-title>
+    <desc lang="en">Al Ahli make the journey to Riyadh to take on Al Shabab in the Saudi Pro League.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/siyn9mobczjjfroqm1593vvx_image-header_pRow_1792020484000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261031050000 +1100" channel="4k.4.kayo.506">
+    <title lang="en">Formula 1: F1 Mexico Practice 1</title>
+    <sub-title lang="en">F1 World Championship 2026</sub-title>
+    <desc lang="en">From Texas to Mexico City, the F1 season continues at Autodromo Hermanos Rodriguez. Five rookie drivers will partake in this practice session.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/6kc9k5s02zed9speltlkec31o_image-header_pRow_1792032051000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261031070000 +1100" channel="4k.3.kayo.503">
+    <title lang="en">USPGA: Mexico Open Round 2</title>
+    <sub-title lang="en">USPGA 2026</sub-title>
+    <desc lang="en">Second round action of the Mexico Open from VidantaWorld Vallarta Course.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/aru70jjynlkhin6gohp9e7uq3_image-header_pRow_1792983617000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261031083000 +1100" channel="4k.4.kayo.506">
+    <title lang="en">Formula 1: F1 Mexico Practice 2</title>
+    <sub-title lang="en">F1 World Championship 2026</sub-title>
+    <desc lang="en">Practice 2 gets underway in Mexico City as local hero Sergio Perez hits a major career milestone, celebrating his 300th race start on home soil.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/4jd0z02u0zbuvtsqd6clio6tg_image-header_pRow_1792032079000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261031105500 +1100" channel="4k.3.kayo.503">
+    <title lang="en">Australian Sheffield Shield: QLD v VIC Day 1</title>
+    <sub-title lang="en">Sheffield Shield 2026-27</sub-title>
+    <desc lang="en">Victoria travels to Brisbane in search of their first win of the Sheffield Shield season against Queensland.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/f0p5s0oo3nfj72lr7lp6u8qg7_image-header_pRow_1792458771000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261031113500 +1100" channel="4k.4.kayo.506">
+    <title lang="en">FIM Moto3 World Championship: Moto3 Malaysia Practice 3</title>
+    <sub-title lang="en">Moto3 World Championship 2026</sub-title>
+    <desc lang="en">The greatest up and coming talent in two wheel motorsport come from around the world to battle it out for glory and the potential to move up to the big stage.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/8mblhzlu7wtelt65dd5vlmuof_image-header_pRow_1792024482000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261031120000 +1100" channel="4k.5.kayo.505">
+    <title lang="en">Asia Pacific Amateur Championship: Asia Pacific Amatuer Round 3</title>
+    <sub-title lang="en">Men's Asia Pacific Amateur 2026</sub-title>
+    <desc lang="en">Third round action of the Asia Pacific Amatuer Championship from Te Arai Links.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/10pk9b3ivuvjdk1dhna6s8nt_image-header_pRow_1791937602000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261031121500 +1100" channel="4k.4.kayo.506">
+    <title lang="en">FIM Moto2 World Championship: Moto2 Malaysia Practice 3</title>
+    <sub-title lang="en">Moto2 World Championship 2026</sub-title>
+    <desc lang="en">The greatest up and coming talent in two wheel motorsport come from around the world to battle it out for glory and the potential to move up to the big stage.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/5exks289gf8y5mzkduifuf3da_image-header_pRow_1792024800000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261031130000 +1100" channel="4k.1.kayo.504">
+    <title lang="en">AFL Women: St Kilda v Port Adelaide</title>
+    <sub-title lang="en">AFL Women's 2026</sub-title>
+    <desc lang="en">Watch Australian Rules Football action as St Kilda Saints Women takes on Port Adelaide Power Women</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/1hrxcwsm3xjtryaz8teoruwsp_image-header_pRow_1783053364000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261031150000 +1100" channel="4k.6.kayo.501">
+    <title lang="en">Women's Big Bash League: Strikers v Stars</title>
+    <sub-title lang="en">Women's Big Bash League 2026-27</sub-title>
+    <desc lang="en">The Adelaide Strikers get their season started at home as they clash with the Melbourne Stars.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/5o55yhkmu5pl4efahsuub5ckh_image-header_pRow_1792636673000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261031150000 +1100" channel="4k.1.kayo.504">
+    <title lang="en">AFL Women: Richmond v North Melbourne</title>
+    <sub-title lang="en">AFL Women's 2026</sub-title>
+    <desc lang="en">Watch Australian Rules Football action as Richmond Tigers Women takes on North Melbourne Kangaroos Women</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/4qd4kvh2ecfviglvosjzwnrco_image-header_pRow_1783053329000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261031150000 +1100" channel="4k.5.kayo.505">
+    <title lang="en">USLPGA: Maybank Championship Round 3</title>
+    <sub-title lang="en">USLPGA 2026</sub-title>
+    <desc lang="en">Third round action of the Maybank Championship from Kuala Lumpur Golf &amp; Country Club.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/47i3bzortif5r8t7p130l1qem_image-header_pRow_1791866597000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261031170000 +1100" channel="4k.1.kayo.504">
+    <title lang="en">AFL Women: Brisbane v Carlton</title>
+    <sub-title lang="en">AFL Women's 2026</sub-title>
+    <desc lang="en">Watch Australian Rules Football action as Brisbane Lions Women takes on Carlton Blues Women</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/632wdsin3xt1opkcbpi6rtujy_image-header_pRow_1783053154000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261031190000 +1100" channel="4k.6.kayo.501">
+    <title lang="en">ICC World Test Championship: South Africa v Australia Third Test Day 5</title>
+    <sub-title lang="en">Test Matches 2026-27</sub-title>
+    <desc lang="en">With the series tied at 1-1 it all comes down to the final test in Cape Town to determine the victor.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/3xbqcy50gy4eunnjf8lle6qrr_image-header_pRow_1792551192000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261031190000 +1100" channel="4k.1.kayo.504">
+    <title lang="en">AFL Women: West Coast v Hawthorn</title>
+    <sub-title lang="en">AFL Women's 2026</sub-title>
+    <desc lang="en">Watch Australian Rules Football action as West Coast Eagles Women takes on Hawthorn Hawks Women</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/9alslnj7l4ad6qq6np9devett_image-header_pRow_1783053396000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261031190000 +1100" channel="4k.4.kayo.506">
+    <title lang="en">Idemitsu Asia Talent Cup: Malaysia Race 1</title>
+    <sub-title lang="en">Moto4 Asia Cup 2026</sub-title>
+    <desc lang="en">A premier youth motorcycle racing championship designed to find and develop the next generation of stars to reach the MotoGP. Scheduled race start 7:10pm AEDT.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/3k1pdf1tq5zjy6qdllr7mhstc_image-header_pRow_1785900763000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261031190700 +1100" channel="4k.3.kayo.503">
+    <title lang="en">Women's Big Bash League: Scorchers v Renegades</title>
+    <sub-title lang="en">Women's Big Bash League 2026-27</sub-title>
+    <desc lang="en">The Perth Scorchers get their season started at home at the WACA against the Melbourne Renegades.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/9sjm282j9bnn9uv026uxjh85h_image-header_pRow_1792636801000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261031223000 +1100" channel="4k.3.kayo.503">
+    <title lang="en">European Challenge Tour Final: European Challenge Tour Round 3</title>
+    <sub-title lang="en">European Challenge Tour Final 2026</sub-title>
+    <desc lang="en">Third round action of the European Challenge Tour Final fromClub de Golf Alcanada.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/55yvdp9fc1dmdcpwpdwx8l609_image-header_pRow_1792451673000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261101041500 +1100" channel="4k.4.kayo.506">
+    <title lang="en">Formula 1: F1 Mexico Practice 3</title>
+    <sub-title lang="en">F1 World Championship 2026</sub-title>
+    <desc lang="en">Drivers and teams need to complete crucial runs to fine-tune car setup at high altitude before Qualifying begins.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/1ba3dw131y7is6cfgz5hzrlhk_image-header_pRow_1792032106000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261101070000 +1100" channel="4k.3.kayo.503">
+    <title lang="en">USPGA: Mexico Open Round 3</title>
+    <sub-title lang="en">USPGA 2026</sub-title>
+    <desc lang="en">Third round action of the Mexico Open from VidantaWorld Vallarta Course.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/5i4565k2gbviiab1p6ix3z7z4_image-header_pRow_1785297493000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261101105500 +1100" channel="4k.6.kayo.501">
+    <title lang="en">Australian Sheffield Shield: QLD v VIC Day 2</title>
+    <sub-title lang="en">Sheffield Shield 2026-27</sub-title>
+    <desc lang="en">The Gabba sees its first action of the summer as Queensland and Victoria lock horns in the Sheffield Shield.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/1y279fae9hxlt4v9bdqbglsfq_image-header_pRow_1792458771000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261101120000 +1100" channel="4k.5.kayo.505">
+    <title lang="en">Asia Pacific Amateur Championship: Asia Pacific Amatuer Final Round</title>
+    <sub-title lang="en">Men's Asia Pacific Amateur 2026</sub-title>
+    <desc lang="en">Final round action of the Asia Pacific Amatuer Championship from Te Arai Links.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/ac24wbzl83im3wg4u09xu0lfj_image-header_pRow_1791937601000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261101123000 +1100" channel="4k.3.kayo.503">
+    <title lang="en">AFL Women: GWS v Gold Coast</title>
+    <sub-title lang="en">AFL Women's 2026</sub-title>
+    <desc lang="en">Watch Australian Rules Football action as Gold Coast Suns Women takes on Greater Western Sydney Giants Women</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/brgqgfnbqom3z1bgwih04xawy_image-header_pRow_1783053299000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261101123500 +1100" channel="4k.4.kayo.506">
+    <title lang="en">Idemitsu Asia Talent Cup: Malaysia Race 2</title>
+    <sub-title lang="en">Moto4 Asia Cup 2026</sub-title>
+    <desc lang="en">A premier youth motorcycle racing championship designed to find and develop the next generation of stars to reach the MotoGP. Scheduled race start 12:45pm AEDT.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/17wvqy2bnb90ds2p8e9v746e0_image-header_pRow_1785900763000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261101130000 +1100" channel="4k.1.kayo.504">
+    <title lang="en">AFL Women: Essendon v Collingwood</title>
+    <sub-title lang="en">AFL Women's 2026</sub-title>
+    <desc lang="en">Watch Australian Rules Football action as Collingwood Magpies Women takes on Essendon Bombers Women</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/720xbbfmhdrqa11wadvg2qygs_image-header_pRow_1783053187000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261101150000 +1100" channel="4k.1.kayo.504">
+    <title lang="en">AFL Women: Adelaide v Melbourne</title>
+    <sub-title lang="en">AFL Women's 2026</sub-title>
+    <desc lang="en">Watch Australian Rules Football action as Adelaide Crows Women takes on Melbourne Demons Women</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/3y257poo3qxz208votxspgbi2_image-header_pRow_1783053107000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261101150000 +1100" channel="4k.5.kayo.505">
+    <title lang="en">USLPGA: Maybank Championship Final Round</title>
+    <sub-title lang="en">USLPGA 2026</sub-title>
+    <desc lang="en">Final round action of the Maybank Championship from Kuala Lumpur Golf &amp; Country Club.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/7p1f1iewqplobhp1zp7t7zzmv_image-header_pRow_1791866597000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261101153000 +1100" channel="4k.3.kayo.503">
+    <title lang="en">Women's Big Bash League: Thunder v Heat</title>
+    <sub-title lang="en">Women's Big Bash League 2026-27</sub-title>
+    <desc lang="en">The Sydney Thunder host the Brisbane Heat at Drummoyne Oval.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/84volorhebmnppwzgvpdp50lv_image-header_pRow_1792636867000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261101170000 +1100" channel="4k.1.kayo.504">
+    <title lang="en">AFL Women: Fremantle v Sydney</title>
+    <sub-title lang="en">AFL Women's 2026</sub-title>
+    <desc lang="en">Watch Australian Rules Football action as Fremantle Dockers Women takes on Sydney Swans Women</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/63lojs7x2yltzb26y10sh00dl_image-header_pRow_1783053218000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261101173000 +1100" channel="4k.5.kayo.505">
+    <title lang="en">T20 Cricket: New Zealand v India G5</title>
+    <sub-title lang="en">Twenty20 Internationals 2026-27</sub-title>
+    <desc lang="en">T20. The five-game series wraps up in Hamilton.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/67d7kzjplxlhx7ike65cd4duj_image-header_pRow_1791960384000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261101190000 +1100" channel="4k.6.kayo.501">
+    <title lang="en">Women's Big Bash League: Sixers v Hurricanes</title>
+    <sub-title lang="en">Women's Big Bash League 2026-27</sub-title>
+    <desc lang="en">Game 7 of the WBBL sees the Hobart Hurricanes travel to Sydney to take on the Sixers.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/bnfui9yp551z9bo8q7pdoul5t_image-header_pRow_1792734641000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261101213000 +1100" channel="4k.3.kayo.503">
+    <title lang="en">European Challenge Tour Final: European Challenge Tour Final Round</title>
+    <sub-title lang="en">European Challenge Tour Final 2026</sub-title>
+    <desc lang="en">Final round action of the European Challenge Tour Final fromClub de Golf Alcanada.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/2s9ux5q4g47w5awllz8rllu3p_image-header_pRow_1792451672000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261102012000 +1100" channel="4k.6.kayo.501">
+    <title lang="en">T20 Cricket: Afghanistan v Zimbabwe G3</title>
+    <sub-title lang="en">Twenty20 Internationals 2026-27</sub-title>
+    <desc lang="en">T20. The series wraps up in Sharjah.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/crmf5wezb1x5vymafcby0lct0_image-header_pRow_1792038316000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261102070000 +1100" channel="4k.3.kayo.503">
+    <title lang="en">USPGA: Mexico Open Final Round</title>
+    <sub-title lang="en">USPGA 2026</sub-title>
+    <desc lang="en">Final round action of the Mexico Open from VidantaWorld Vallarta Course.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/8q806bycfiy0deout5w00n5no_image-header_pRow_1778821452000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261102105500 +1100" channel="4k.6.kayo.501">
+    <title lang="en">Australian Sheffield Shield: QLD v VIC Day 3</title>
+    <sub-title lang="en">Sheffield Shield 2026-27</sub-title>
+    <desc lang="en">Day three begins at The Gabba with Victoria looking to secure its first Shield win of 2026-27.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/dgsejh50y3k9nd7o8rfu3zljl_image-header_pRow_1792458771000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261102183000 +1100" channel="4k.6.kayo.501">
+    <title lang="en">Women's Big Bash League: Stars v Scorchers</title>
+    <sub-title lang="en">Women's Big Bash League 2026-27</sub-title>
+    <desc lang="en">The Scorchers travel to Melbourne to take on the Stars under the lights at Junction Oval.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/e56vaydkb8zgmz93ux8iscllr_image-header_pRow_1792735446000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
+  </programme>
+  <programme start="20261103105500 +1100" channel="4k.6.kayo.501">
+    <title lang="en">Australian Sheffield Shield: QLD v VIC Day 4</title>
+    <sub-title lang="en">Sheffield Shield 2026-27</sub-title>
+    <desc lang="en">The Sheffield Shield clash between Queensland and Victoria concludes at the Gabba.</desc>
+    <icon src="https://image.discovery.indazn.com/jp/v3/jp/none/uvxmyo74khmci022un4knrpy_image-header_pRow_1792458771000/fill/none/top/none/80/720/405/webp/image?brand=kayo" />
   </programme>
 </tv>
