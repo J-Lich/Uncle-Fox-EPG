@@ -15,6 +15,7 @@ on:
 jobs:
   build-and-commit:
     runs-on: ubuntu-latest # Use the latest Ubuntu runner
+    timeout-minutes: 35
     
     permissions:
       contents: write
@@ -30,27 +31,50 @@ jobs:
         with:
           python-version: '3.x' # Use any Python 3 version
 
-      # 3. Install dependencies (only 'requests' in this case)
+      # 3. Install dependencies
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests pytz beautifulsoup4
 
+      - name: Test generators
+        run: python -m unittest discover -s tests -v
+
       # 4. Run the Python script to generate guide.xml
       - name: Run FOX EPG script
-        run: python fox_epg_scraper.py
+        id: fox
+        continue-on-error: true
+        timeout-minutes: 22
+        shell: bash
+        run: |
+          set -o pipefail
+          python -u fox_epg_scraper.py --debug 2>&1 | tee fox-epg.log
 
       # 5. Run the Python script to generate kayo_guide.xml
       - name: Run Kayo EPG script
-        run: python kayo_epg_scraper.py
+        id: kayo
+        continue-on-error: true
+        timeout-minutes: 7
+        shell: bash
+        run: |
+          set -o pipefail
+          python -u kayo_epg_scraper.py --debug 2>&1 | tee kayo-epg.log
+
+      - name: Save diagnostic logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: epg-diagnostics
+          path: '*-epg.log'
+          retention-days: 7
 
       # 6. Commit and push changes if guide.xml has changed
       - name: Commit and push guide.xml & kayo_guide.xml
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add guide.xml
-          git add kayo_guide.xml
+          if [ "${{ steps.fox.outcome }}" = "success" ]; then git add guide.xml; fi
+          if [ "${{ steps.kayo.outcome }}" = "success" ]; then git add kayo_guide.xml; fi
           # Check if there are changes to commit (using --quiet avoids errors)
           if git diff --staged --quiet; then
             echo "No changes to guides to commit."
@@ -59,3 +83,9 @@ jobs:
             git push
             echo "Committed and pushed guide changes."
           fi
+
+      - name: Report generator failures
+        if: always() && (steps.fox.outcome != 'success' || steps.kayo.outcome != 'success')
+        run: |
+          echo "FOX: ${{ steps.fox.outcome }}; Kayo: ${{ steps.kayo.outcome }}"
+          exit 1
