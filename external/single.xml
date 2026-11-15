@@ -29,233 +29,6 @@
     <icon src="https://imageresizer.static9.net.au/QzjUL2iSkNpFeMARhaVYmR5c-N8=/120x0/smart/https%3A%2F%2Fs3-ap-southeast-2.amazonaws.com%2Fnine-tvmg-images-prod%2F61%2F50%2F92%2F20%2F1%2F615092201.png" />
     <url>http://www.epgshare01.online</url>
   </channel>
-  <programme start="20261114023000 +0800" stop="20261114030000 +0800" channel="FoxCricket.au">
-    <title lang="en">Inside Innovation - Fox Cricket</title>
-    <desc lang="en">Fox Cricket. Get an exclusive look behind the scenes at the technology transforming Fox Cricket’s Summer of the Century broadcast.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/14/67/39/62/72/07/92/33/11/02/14673962720792331102?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114030000 +0800" stop="20261114040000 +0800" channel="FoxCricket.au">
-    <title lang="en">ODI Thrillers - 2014 AUS v ENG Game 2</title>
-    <desc lang="en">2014 AUS v ENG Game 2. We open the Fox Cricket vault and look back at some of the greatest ODI matches from Australian soil.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/45/31/91/79/41/87/42/09/87/6/4531917941874209876?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114040000 +0800" stop="20261114050000 +0800" channel="FoxCricket.au">
-    <title lang="en">Keepin' It Cricket - Episode 10</title>
-    <desc lang="en">Episode 10. Alyssa Healy, Brad Haddin and Adam Peacock talk everything cricket in this weekly podcast.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/14/09/42/10/63/62/64/88/39/41/14094210636264883941?resolution=360x245" />
-    <episode-num system="onscreen">E10</episode-num>
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114050000 +0800" stop="20261114060000 +0800" channel="FoxCricket.au">
-    <title lang="en">ODI - AUS v ENG G1</title>
-    <desc lang="en">AUS v ENG G1. The Summer of the Century continues with the first ODI between Australia and England in Perth.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/45/31/91/79/41/87/42/09/87/6/4531917941874209876?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114060000 +0800" stop="20261114062000 +0800" channel="FoxCricket.au">
-    <title lang="en">ODI Mini - AUS v ENG G1</title>
-    <desc lang="en">AUS v ENG G1. The Summer of the Century continues with the first ODI between Australia and England in Perth.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/17/89/45/62/28/86/3/1789456228863?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114062000 +0800" stop="20261114064000 +0800" channel="FoxCricket.au">
-    <title lang="en">WBBL Mini - Renegades v Sixers</title>
-    <desc lang="en">Renegades v Sixers. The star-studded Sixers look to maintain their unbeaten start as they face the Renegades.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/77/61/59/03/44/20/76/31/90/8/7761590344207631908?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114064000 +0800" stop="20261114070000 +0800" channel="FoxCricket.au">
-    <title lang="en">ODI Mini - AUS v ENG G1</title>
-    <desc lang="en">AUS v ENG G1. The Summer of the Century continues with the first ODI between Australia and England in Perth.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/17/89/45/62/28/86/3/1789456228863?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114070000 +0800" stop="20261114080000 +0800" channel="FoxCricket.au">
-    <title lang="en">ODI - AUS v ENG G1</title>
-    <desc lang="en">AUS v ENG G1. The Summer of the Century continues with the first ODI between Australia and England in Perth.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/45/31/91/79/41/87/42/09/87/6/4531917941874209876?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114080000 +0800" stop="20261114082000 +0800" channel="FoxCricket.au">
-    <title lang="en">ODI Mini - New Zealand v India</title>
-    <desc lang="en">New Zealand v India. The picturesque Bay Oval in Mount Maunganui hosts the first of two ODI’s between the Black Caps and India.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/17/89/45/62/28/86/3/1789456228863?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114082000 +0800" stop="20261114084000 +0800" channel="FoxCricket.au">
-    <title lang="en">ODI Mini - AUS v ENG G1</title>
-    <desc lang="en">AUS v ENG G1. The Summer of the Century continues with the first ODI between Australia and England in Perth.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/17/89/45/62/28/86/3/1789456228863?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114084000 +0800" stop="20261114090000 +0800" channel="FoxCricket.au">
-    <title lang="en">Test Mini - Pakistan v Sri Lanka 1st Test Day 5</title>
-    <desc lang="en">Pakistan v Sri Lanka 1st Test Day 5. Coverage of the Cricket Test Mini.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/15/41/24/54/93/56/77/96/29/34/15412454935677962934?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114090000 +0800" stop="20261114100000 +0800" channel="FoxCricket.au">
-    <title lang="en">ODI - AUS v ENG G1</title>
-    <desc lang="en">AUS v ENG G1. The Summer of the Century continues with the first ODI between Australia and England in Perth.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/45/31/91/79/41/87/42/09/87/6/4531917941874209876?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114100000 +0800" stop="20261114102000 +0800" channel="FoxCricket.au">
-    <title lang="en">ODI Mini - New Zealand v India</title>
-    <desc lang="en">New Zealand v India. The picturesque Bay Oval in Mount Maunganui hosts the first of two ODI’s between the Black Caps and India.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/17/89/45/62/28/86/3/1789456228863?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114102000 +0800" stop="20261114104000 +0800" channel="FoxCricket.au">
-    <title lang="en">WBBL Mini - Renegades v Sixers</title>
-    <desc lang="en">Renegades v Sixers. The star-studded Sixers look to maintain their unbeaten start as they face the Renegades.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/77/61/59/03/44/20/76/31/90/8/7761590344207631908?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114104000 +0800" stop="20261114110000 +0800" channel="FoxCricket.au">
-    <title lang="en">ODI Mini - AUS v ENG G1</title>
-    <desc lang="en">AUS v ENG G1. The Summer of the Century continues with the first ODI between Australia and England in Perth.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/17/89/45/62/28/86/3/1789456228863?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114110000 +0800" stop="20261114113000 +0800" channel="FoxCricket.au">
-    <title lang="en">Inside Innovation - Fox Cricket</title>
-    <desc lang="en">Fox Cricket. Get an exclusive look behind the scenes at the technology transforming Fox Cricket’s Summer of the Century broadcast.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/14/67/39/62/72/07/92/33/11/02/14673962720792331102?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114113000 +0800" stop="20261114123700 +0800" channel="FoxCricket.au">
-    <title lang="en">Summer of the Century - Preview</title>
-    <desc lang="en">Preview. The Summer of the Century is here as Fox Cricket previews a blockbuster summer ahead for the Aussies.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/88/75/93/49/54/42/81/08/31/8/8875934954428108318?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114123700 +0800" stop="20261114160700 +0800" channel="FoxCricket.au">
-    <title lang="en">LIVE: WBBL Mini - Hurricanes v Heat</title>
-    <desc lang="en">Hurricanes v Heat. The best Australian and international players go head-to-head in WBBL. 12.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/77/61/59/03/44/20/76/31/90/8/7761590344207631908?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114160700 +0800" stop="20261114193000 +0800" channel="FoxCricket.au">
-    <title lang="en">LIVE: WBBL - Scorchers v Strikers</title>
-    <desc lang="en">Scorchers v Strikers. Perth can make it six-from-six to start WBBL. 12 with a win at home against the Strikers.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/99/15/17/52/95/96/29/68/93/0/9915175295962968930?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114193000 +0800" stop="20261114214000 +0800" channel="FoxCricket.au">
-    <title lang="en">LIVE: Abu Dhabi T10 League - Champions v Tigers</title>
-    <desc lang="en">Champions v Tigers. Cricket’s biggest names go head-to-head in the game’s shortest and fastest format.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/72/96/31/80/59/84/34/59/77/9/7296318059843459779?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114214000 +0800" stop="20261114235500 +0800" channel="FoxCricket.au">
-    <title lang="en">LIVE: Abu Dhabi T10 League - Aces v Eagles</title>
-    <desc lang="en">Aces v Eagles. Cricket’s biggest names go head-to-head in the game’s shortest and fastest format.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/72/96/31/80/59/84/34/59/77/9/7296318059843459779?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114235500 +0800" stop="20261114235500 +0800" channel="FoxCricket.au">
-    <title lang="en">LIVE: Abu Dhabi T10 League - Aces v Bulls</title>
-    <desc lang="en">Aces v Bulls. Cricket’s biggest names go head-to-head in the game’s shortest and fastest format.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/72/96/31/80/59/84/34/59/77/9/7296318059843459779?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114235500 +0800" stop="20261115023000 +0800" channel="FoxCricket.au">
-    <title lang="en">LIVE: Abu Dhabi T10 League - Lions v Bulls</title>
-    <desc lang="en">Lions v Bulls. Cricket’s biggest names go head-to-head in the game’s shortest and fastest format.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/72/96/31/80/59/84/34/59/77/9/7296318059843459779?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme start="20261115023000 +0800" stop="20261115033000 +0800" channel="FoxCricket.au">
     <title lang="en">Summer of the Century - Preview</title>
     <desc lang="en">Preview. The Summer of the Century is here as Fox Cricket previews a blockbuster summer ahead for the Aussies.</desc>
@@ -295,7 +68,7 @@
   </programme>
   <programme start="20261115053000 +0800" stop="20261115055000 +0800" channel="FoxCricket.au">
     <title lang="en">WBBL Mini - Hurricanes v Heat</title>
-    <desc lang="en">Hurricanes v Heat. The best Australian and international players go head-to-head in WBBL. 12.</desc>
+    <desc lang="en">Hurricanes v Heat. The Hurricanes chase their first win of WBBL. 12 as they welcome the Heat in a bid to turn their season around.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
     <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/77/61/59/03/44/20/76/31/90/8/7761590344207631908?resolution=360x245" />
@@ -315,7 +88,7 @@
   </programme>
   <programme start="20261115061000 +0800" stop="20261115063000 +0800" channel="FoxCricket.au">
     <title lang="en">WBBL Mini - Hurricanes v Heat</title>
-    <desc lang="en">Hurricanes v Heat. The best Australian and international players go head-to-head in WBBL. 12.</desc>
+    <desc lang="en">Hurricanes v Heat. The Hurricanes chase their first win of WBBL. 12 as they welcome the Heat in a bid to turn their season around.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
     <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/77/61/59/03/44/20/76/31/90/8/7761590344207631908?resolution=360x245" />
@@ -391,7 +164,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261115113000 +0800" stop="20261115193000 +0800" channel="FoxCricket.au">
+  <programme start="20261115113000 +0800" stop="20261115150000 +0800" channel="FoxCricket.au">
     <title lang="en">LIVE: ODI - AUS v ENG G2</title>
     <desc lang="en">AUS v ENG G2. The Summer of the Century continues with the second ODI between Australia and England in Adelaide.</desc>
     <date>2026</date>
@@ -401,7 +174,27 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261115193000 +0800" stop="20261115200000 +0800" channel="FoxCricket.au">
+  <programme start="20261115150000 +0800" stop="20261115153000 +0800" channel="FoxCricket.au">
+    <title lang="en">LIVE: ODI - Innings Break</title>
+    <desc lang="en">Innings Break. Join the Fox Cricket team for analysis of the first session and preview of the action to come.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/45/31/91/79/41/87/42/09/87/6/4531917941874209876?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261115153000 +0800" stop="20261115190000 +0800" channel="FoxCricket.au">
+    <title lang="en">LIVE: ODI - AUS v ENG G2 S2</title>
+    <desc lang="en">AUS v ENG G2 S2. The Summer of the Century continues with the first ODI between Australia and England in Perth.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/45/31/91/79/41/87/42/09/87/6/4531917941874209876?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261115190000 +0800" stop="20261115192500 +0800" channel="FoxCricket.au">
     <title lang="en">LIVE: ODI - Post Game</title>
     <desc lang="en">Post Game. Join the Fox Cricket team for an extensive review of the second ODI in Adelaide.</desc>
     <date>2026</date>
@@ -411,7 +204,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261115200000 +0800" stop="20261115214000 +0800" channel="FoxCricket.au">
+  <programme start="20261115192500 +0800" stop="20261115214000 +0800" channel="FoxCricket.au">
     <title lang="en">LIVE: Abu Dhabi T10 League - Champions v Aces</title>
     <desc lang="en">Champions v Aces. Cricket’s biggest names go head-to-head in the game’s shortest and fastest format.</desc>
     <date>2026</date>
@@ -483,7 +276,7 @@
   </programme>
   <programme start="20261116045000 +0800" stop="20261116051000 +0800" channel="FoxCricket.au">
     <title lang="en">WBBL Mini - Hurricanes v Heat</title>
-    <desc lang="en">Hurricanes v Heat. The best Australian and international players go head-to-head in WBBL. 12.</desc>
+    <desc lang="en">Hurricanes v Heat. The Hurricanes chase their first win of WBBL. 12 as they welcome the Heat in a bid to turn their season around.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
     <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/77/61/59/03/44/20/76/31/90/8/7761590344207631908?resolution=360x245" />
@@ -1593,232 +1386,209 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114000000 +0800" stop="20261114010000 +0800" channel="FoxLeague.au">
-    <title lang="en">NRL - R21 Cowboys v Broncos</title>
-    <desc lang="en">R21 Cowboys v Broncos. The hosts are clinging to eighth, while the visitors are hoping their upset win over the Panthers was the spark for a miraculous charge to the Finals.</desc>
+  <programme start="20261119235500 +0800" stop="20261120023000 +0800" channel="FoxCricket.au">
+    <title lang="en">LIVE: Abu Dhabi T10 League - Eagles v Tigers</title>
+    <desc lang="en">Eagles v Tigers. Cricket’s biggest names go head-to-head in the game’s shortest and fastest format.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/93/96/11/91/82/45/36/07/01/939611918245360701?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/72/96/31/80/59/84/34/59/77/9/7296318059843459779?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114010000 +0800" stop="20261114020000 +0800" channel="FoxLeague.au">
-    <title lang="en">NRL - R21 Dragons v Titans</title>
-    <desc lang="en">R21 Dragons v Titans. The Dragons have locked in Dean Young as their head coach. In Round 20, the hosts pushed the Warriors, while the visitors upset the Sea Eagles.</desc>
+  <programme start="20261120023000 +0800" stop="20261120030000 +0800" channel="FoxCricket.au">
+    <title lang="en">Inside Innovation - Fox Cricket</title>
+    <desc lang="en">Fox Cricket. Get an exclusive look behind the scenes at the technology transforming Fox Cricket’s Summer of the Century broadcast.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/14/67/39/62/72/07/92/33/11/02/14673962720792331102?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120030000 +0800" stop="20261120032000 +0800" channel="FoxCricket.au">
+    <title lang="en">T20 Mini - 2022/23 AUS v ENG G1</title>
+    <desc lang="en">2022/23 AUS v ENG G1. We rewind to 2022/23 to the last time England visited Australia for a T20 series.</desc>
+    <date>2022</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/14/18/10/73/48/28/09/16/67/74/14181073482809166774?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120032000 +0800" stop="20261120034000 +0800" channel="FoxCricket.au">
+    <title lang="en">T20 Mini - 2022/23 AUS v ENG G2</title>
+    <desc lang="en">2022/23 AUS v ENG G2. We rewind to 2022/23 to the last time England visited Australia for a T20 series.</desc>
+    <date>2022</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/14/18/10/73/48/28/09/16/67/74/14181073482809166774?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120034000 +0800" stop="20261120043000 +0800" channel="FoxCricket.au">
+    <title lang="en">T20 Cricket - 2007 AUS v ENG G1</title>
+    <desc lang="en">2007 AUS v ENG G1. Relive the greatest T20 classics as cricket’s biggest rivals go head-to-head in unforgettable matches that made history.</desc>
+    <date>2018</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/53/14/87/02/87/02/21/74/91/5/5314870287022174915?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120043000 +0800" stop="20261120045000 +0800" channel="FoxCricket.au">
+    <title lang="en">WBBL - Hobart Hurricanes Women v Perth Scorchers Women</title>
+    <desc lang="en">Hobart Hurricanes Women v Perth Scorchers Women. The best Australian and international players go head-to-head in WBBL. 12.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/93/96/11/91/82/45/36/07/01/939611918245360701?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/99/15/17/52/95/96/29/68/93/0/9915175295962968930?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114020000 +0800" stop="20261114030000 +0800" channel="FoxLeague.au">
-    <title lang="en">NRL - R21 Sea Eagles v Sharks</title>
-    <desc lang="en">R21 Sea Eagles v Sharks. Finals contenders with contrasting formlines &amp; fortunes. The visitors enter the round in fourth, while the hosts lost Tom Trbojevic &amp; their top 8 spot.</desc>
+  <programme start="20261120045000 +0800" stop="20261120051000 +0800" channel="FoxCricket.au">
+    <title lang="en">WBBL Mini - Brisbane Heat Women v Sydney Thunder Women</title>
+    <desc lang="en">Brisbane Heat Women v Sydney Thunder Women. The best Australian and international players go head-to-head in WBBL. 12.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/93/96/11/91/82/45/36/07/01/939611918245360701?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/77/61/59/03/44/20/76/31/90/8/7761590344207631908?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114030000 +0800" stop="20261114040000 +0800" channel="FoxLeague.au">
-    <title lang="en">NRL</title>
-    <desc lang="en">Coverage of top-tier rugby in Australia and New Zealand.</desc>
+  <programme start="20261120051000 +0800" stop="20261120053000 +0800" channel="FoxCricket.au">
+    <title lang="en">Test - New Zealand v India</title>
+    <desc lang="en">New Zealand v India. Coverage of Test Cricket.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/93/96/11/91/82/45/36/07/01/939611918245360701?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/76/15/53/27/51/03/91/88/51/0/7615532751039188510?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114040000 +0800" stop="20261114050000 +0800" channel="FoxLeague.au">
-    <title lang="en">NRL - R22 Dragons v Dolphins</title>
-    <desc lang="en">R22 Dragons v Dolphins. Friday's action begins with Kodi Nikorima at five-eighth for the Dolphins against his 2027 club. The Dragons have won both NSW games in this rivalry.</desc>
+  <programme start="20261120053000 +0800" stop="20261120060000 +0800" channel="FoxCricket.au">
+    <title lang="en">LIVE: Test - New Zealand v India 1st Test Day 2 Pre Game</title>
+    <desc lang="en">New Zealand v India 1st Test Day 2 Pre Game. Join the team at Basin Reserve ahead of play on day two.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/93/96/11/91/82/45/36/07/01/939611918245360701?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/76/15/53/27/51/03/91/88/51/0/7615532751039188510?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114050000 +0800" stop="20261114060000 +0800" channel="FoxLeague.au">
-    <title lang="en">NRL</title>
-    <desc lang="en">Coverage of top-tier rugby in Australia and New Zealand.</desc>
+  <programme start="20261120060000 +0800" stop="20261120080000 +0800" channel="FoxCricket.au">
+    <title lang="en">LIVE: Test - New Zealand v India 1st Test Day 2 Session 1</title>
+    <desc lang="en">New Zealand v India 1st Test Day 2 Session 1. It’s been almost 60 years since India last won a Test at Basin Reserve as day two begins.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/93/96/11/91/82/45/36/07/01/939611918245360701?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/76/15/53/27/51/03/91/88/51/0/7615532751039188510?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114060000 +0800" stop="20261114070000 +0800" channel="FoxLeague.au">
-    <title lang="en">NRL</title>
-    <desc lang="en">Coverage of top-tier rugby in Australia and New Zealand.</desc>
+  <programme start="20261120080000 +0800" stop="20261120084000 +0800" channel="FoxCricket.au">
+    <title lang="en">LIVE: Test - New Zealand v India 1st Test Day 2 Lunch</title>
+    <desc lang="en">New Zealand v India 1st Test Day 2 Lunch. It’s been almost 60 years since India last won a Test at Basin Reserve as day two begins.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/93/96/11/91/82/45/36/07/01/939611918245360701?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/76/15/53/27/51/03/91/88/51/0/7615532751039188510?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114070000 +0800" stop="20261114090000 +0800" channel="FoxLeague.au">
-    <title lang="en">LIVE: Saturday League Kick Off - Saturday League Kick Off</title>
-    <desc lang="en">Saturday League Kick Off. Coverage of the Saturday League Kick Off.</desc>
+  <programme start="20261120084000 +0800" stop="20261120104000 +0800" channel="FoxCricket.au">
+    <title lang="en">LIVE: Test - New Zealand v India 1st Test Day 2 Session 2</title>
+    <desc lang="en">New Zealand v India 1st Test Day 2 Session 2. It’s been almost 60 years since India last won a Test at Basin Reserve as day two begins.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/81/20/49/01/48/66/22/94/51/1/8120490148662294511?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/76/15/53/27/51/03/91/88/51/0/7615532751039188510?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114090000 +0800" stop="20261114100000 +0800" channel="FoxLeague.au">
-    <title lang="en">NRL 360 - Special</title>
-    <desc lang="en">Special. Braith Anasta, Michael Ennis, Paul Crawley and Brent Read preview the World Cup Final. Plus all the latest on player movements.</desc>
-    <date>2015</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/11/31/09/17/32/58/85/22/37/15/11310917325885223715?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114100000 +0800" stop="20261114110000 +0800" channel="FoxLeague.au">
-    <title lang="en">Greatest Tests - 1989 AUS v NZ 3rd Test</title>
-    <desc lang="en">1989 AUS v NZ 3rd Test. A selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.</desc>
-    <date>1989</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/12/72/09/84/63/71/85/51/48/3/1272098463718551483?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114110000 +0800" stop="20261114120000 +0800" channel="FoxLeague.au">
-    <title lang="en">NRL 360 - Special</title>
-    <desc lang="en">Special. Braith Anasta, Michael Ennis, Paul Crawley and Brent Read preview the World Cup Final. Plus all the latest on player movements.</desc>
-    <date>2015</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/11/31/09/17/32/58/85/22/37/15/11310917325885223715?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114120000 +0800" stop="20261114130000 +0800" channel="FoxLeague.au">
-    <title lang="en">Rewind - 1978 Australia v New Zealand 3rd Test</title>
-    <desc lang="en">1978 Australia v New Zealand 3rd Test. Re-live some of the greatest matches and most historic moments in Rugby League history.</desc>
+  <programme start="20261120104000 +0800" stop="20261120110000 +0800" channel="FoxCricket.au">
+    <title lang="en">LIVE: Test - New Zealand v India 1st Test Day 2 Tea</title>
+    <desc lang="en">New Zealand v India 1st Test Day 2 Tea. It’s been almost 60 years since India last won a Test at Basin Reserve as day two begins.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/18/27/13/93/33/96/38/74/36/02/18271393339638743602?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/76/15/53/27/51/03/91/88/51/0/7615532751039188510?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114130000 +0800" stop="20261114140000 +0800" channel="FoxLeague.au">
-    <title lang="en">NRL 360 - Special</title>
-    <desc lang="en">Special. Braith Anasta, Michael Ennis, Paul Crawley and Brent Read preview the World Cup Final. Plus all the latest on player movements.</desc>
-    <date>2015</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/11/31/09/17/32/58/85/22/37/15/11310917325885223715?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114140000 +0800" stop="20261114150000 +0800" channel="FoxLeague.au">
-    <title lang="en">Greatest Tests - 2019 Jillaroos v Kiwi Ferns</title>
-    <desc lang="en">2019 Jillaroos v Kiwi Ferns. A selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.</desc>
+  <programme start="20261120110000 +0800" stop="20261120133000 +0800" channel="FoxCricket.au">
+    <title lang="en">LIVE: Test - New Zealand v India 1st Test Day 2 Session 3</title>
+    <desc lang="en">New Zealand v India 1st Test Day 2 Session 3. It’s been almost 60 years since India last won a Test at Basin Reserve as day two begins.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/12/72/09/84/63/71/85/51/48/3/1272098463718551483?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/76/15/53/27/51/03/91/88/51/0/7615532751039188510?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114150000 +0800" stop="20261114160000 +0800" channel="FoxLeague.au">
-    <title lang="en">NRL 360 - Special</title>
-    <desc lang="en">Special. Braith Anasta, Michael Ennis, Paul Crawley and Brent Read preview the World Cup Final. Plus all the latest on player movements.</desc>
-    <date>2015</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/11/31/09/17/32/58/85/22/37/15/11310917325885223715?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114160000 +0800" stop="20261114170000 +0800" channel="FoxLeague.au">
-    <title lang="en">Greatest Tests - 2008 AUS v NZ Cent Test</title>
-    <desc lang="en">2008 AUS v NZ Cent Test. A selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.</desc>
+  <programme start="20261120133000 +0800" stop="20261120143000 +0800" channel="FoxCricket.au">
+    <title lang="en">ODI - AUS v ENG G3</title>
+    <desc lang="en">AUS v ENG G3. The ODI series concludes in Hobart.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/12/72/09/84/63/71/85/51/48/3/1272098463718551483?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/45/31/91/79/41/87/42/09/87/6/4531917941874209876?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114170000 +0800" stop="20261114180000 +0800" channel="FoxLeague.au">
-    <title lang="en">NRL 360 - Special</title>
-    <desc lang="en">Special. Braith Anasta, Michael Ennis, Paul Crawley and Brent Read preview the World Cup Final. Plus all the latest on player movements.</desc>
-    <date>2015</date>
+  <programme start="20261120143000 +0800" stop="20261120150000 +0800" channel="FoxCricket.au">
+    <title lang="en">Inside Innovation - Fox Cricket</title>
+    <desc lang="en">Fox Cricket. Get an exclusive look behind the scenes at the technology transforming Fox Cricket’s Summer of the Century broadcast.</desc>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/11/31/09/17/32/58/85/22/37/15/11310917325885223715?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/14/67/39/62/72/07/92/33/11/02/14673962720792331102?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114180000 +0800" stop="20261114190000 +0800" channel="FoxLeague.au">
-    <title lang="en">Greatest Tests - 2010 AUS v NZ</title>
-    <desc lang="en">2010 AUS v NZ. The debut game for Melbourne's new rectangular stadium AAMI Park is a sellout, setting up the test match between reigning Four Nations champion Australia, and World Champions New Zealand in fron.</desc>
-    <date>2010</date>
+  <programme start="20261120150000 +0800" stop="20261120152000 +0800" channel="FoxCricket.au">
+    <title lang="en">Test Mini - South Africa v Bangladesh First Test Day 5</title>
+    <desc lang="en">South Africa v Bangladesh First Test Day 5. Following their success over Australia in Cape Town, the Proteas host Bangladesh in the first of two Tests. Scheduled start of play 19:00 AEDT.</desc>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/12/72/09/84/63/71/85/51/48/3/1272098463718551483?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/14/35/64/16/61/20/65/41/29/14/14356416612065412914?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114190000 +0800" stop="20261114200000 +0800" channel="FoxLeague.au">
-    <title lang="en">NRL 360 - Special</title>
-    <desc lang="en">Special. Braith Anasta, Michael Ennis, Paul Crawley and Brent Read preview the World Cup Final. Plus all the latest on player movements.</desc>
-    <date>2015</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/11/31/09/17/32/58/85/22/37/15/11310917325885223715?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114200000 +0800" stop="20261114210000 +0800" channel="FoxLeague.au">
-    <title lang="en">Greatest Tests - 2019 Jillaroos v Kiwi Ferns</title>
-    <desc lang="en">2019 Jillaroos v Kiwi Ferns. A selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.</desc>
+  <programme start="20261120152000 +0800" stop="20261120154500 +0800" channel="FoxCricket.au">
+    <title lang="en">WBBL Mini - Brisbane Heat Women v Sydney Thunder Women</title>
+    <desc lang="en">Brisbane Heat Women v Sydney Thunder Women. The best Australian and international players go head-to-head in WBBL. 12.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/12/72/09/84/63/71/85/51/48/3/1272098463718551483?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/77/61/59/03/44/20/76/31/90/8/7761590344207631908?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114210000 +0800" stop="20261114220000 +0800" channel="FoxLeague.au">
-    <title lang="en">NRL</title>
-    <desc lang="en">Coverage of top-tier rugby in Australia and New Zealand.</desc>
+  <programme start="20261120154500 +0800" stop="20261120161000 +0800" channel="FoxCricket.au">
+    <title lang="en">LIVE: WBBL - Pre Game</title>
+    <desc lang="en">Pre Game. Join the Fox Cricket team for an extensive preview of all the action to come; with the latest news, analysis and interviews.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/93/96/11/91/82/45/36/07/01/939611918245360701?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/99/15/17/52/95/96/29/68/93/0/9915175295962968930?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114220000 +0800" stop="20261114230000 +0800" channel="FoxLeague.au">
-    <title lang="en">NRL</title>
-    <desc lang="en">Coverage of top-tier rugby in Australia and New Zealand.</desc>
+  <programme start="20261120161000 +0800" stop="20261120193000 +0800" channel="FoxCricket.au">
+    <title lang="en">LIVE: WBBL - Strikers v Renegades</title>
+    <desc lang="en">Strikers v Renegades. The best Australian and international players go head-to-head in WBBL. 12.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/93/96/11/91/82/45/36/07/01/939611918245360701?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/99/15/17/52/95/96/29/68/93/0/9915175295962968930?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114230000 +0800" stop="20261115000000 +0800" channel="FoxLeague.au">
-    <title lang="en">NRL</title>
-    <desc lang="en">Coverage of top-tier rugby in Australia and New Zealand.</desc>
-    <date>2026</date>
+  <programme start="20261120193000 +0800" stop="20261120203000 +0800" channel="FoxCricket.au">
+    <title lang="en">Keepin' It Cricket - Episode 11</title>
+    <desc lang="en">Episode 11. Alyssa Healy, Brad Haddin and Adam Peacock talk everything cricket in this weekly podcast.</desc>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/93/96/11/91/82/45/36/07/01/939611918245360701?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/14/09/42/10/63/62/64/88/39/41/14094210636264883941?resolution=360x245" />
+    <episode-num system="onscreen">E11</episode-num>
     <rating system="AU">
       <value>NC</value>
     </rating>
@@ -3224,95 +2994,272 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114030000 +0800" stop="20261114060000 +0800" channel="FoxSports503.au">
-    <title lang="en">LIVE: USPGA Tour - Austin Championship Round 2</title>
-    <desc lang="en">Austin Championship Round 2. Trace Crowe holds a two shot lead after firing a stellar 10-under 61 in the opening round.</desc>
+  <programme start="20261119230000 +0800" stop="20261120000000 +0800" channel="FoxLeague.au">
+    <title lang="en">NRL - R1 Broncos v Panthers</title>
+    <desc lang="en">R1 Broncos v Panthers. On their way to the 2025 title, the Broncos ended the Panthers drive for five in an all-time classic. This shapes as another top shelf clash.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/13/00/74/08/74/08/83/16/29/130074087408831629?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/93/96/11/91/82/45/36/07/01/939611918245360701?resolution=360x245" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261120000000 +0800" stop="20261120010000 +0800" channel="FoxLeague.au">
+    <title lang="en">NRL - R1 Sharks v Titans</title>
+    <desc lang="en">R1 Sharks v Titans. The Titans begin a new era under Josh Hannay. The Sharks have won three straight at home in this rivalry.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/93/96/11/91/82/45/36/07/01/939611918245360701?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114060000 +0800" stop="20261114063000 +0800" channel="FoxSports503.au">
-    <title lang="en">How Good Is Golf - Green Acres Golf Club</title>
-    <desc lang="en">Green Acres Golf Club. How Good Is Golf shows you how to play, where to play and what equipment to use. Join Paul Gow as he takes you through the greatest game of all.</desc>
+  <programme start="20261120010000 +0800" stop="20261120020000 +0800" channel="FoxLeague.au">
+    <title lang="en">NRL - R1 Dolphins v Rabbitohs</title>
+    <desc lang="en">R1 Dolphins v Rabbitohs. High-profile recruits Selwyn Cobbo &amp; David Fifita make their club debuts in the final game of Round 1.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/18/60/95/35/85/18/75/60/16/3/1860953585187560163?resolution=360x245" />
-    <episode-num system="onscreen">S2026 E3</episode-num>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/93/96/11/91/82/45/36/07/01/939611918245360701?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114063000 +0800" stop="20261114070000 +0800" channel="FoxSports503.au">
-    <title lang="en">Getting A Round In - Annabella Smith</title>
-    <desc lang="en">Annabella Smith. Series featuring celebrities who love the game of golf.</desc>
+  <programme start="20261120020000 +0800" stop="20261120030000 +0800" channel="FoxLeague.au">
+    <title lang="en">NRL - R2 Broncos v Eels</title>
+    <desc lang="en">R2 Broncos v Eels. Round 2 begins with the defending premiers looking to reverse last year's Round 21 upset by the visitors.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/91/21/62/90/45/76/91/16/17/1/9121629045769116171?resolution=360x245" />
-    <episode-num system="onscreen">S2026 E2</episode-num>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/93/96/11/91/82/45/36/07/01/939611918245360701?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114070000 +0800" stop="20261114120000 +0800" channel="FoxSports503.au">
-    <title lang="en">LIVE: NSW Open - Round 3</title>
-    <desc lang="en">Round 3. Third Round action of the NSW Open from The Vintage Golf Club.</desc>
+  <programme start="20261120030000 +0800" stop="20261120040000 +0800" channel="FoxLeague.au">
+    <title lang="en">NRL - R2 Warriors v Raiders</title>
+    <desc lang="en">R2 Warriors v Raiders. A great way for Friday Night Footy to kick off with two Round 1 winners.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/43/85/45/83/50/45/04/12/85/0/4385458350450412850?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/93/96/11/91/82/45/36/07/01/939611918245360701?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114120000 +0800" stop="20261114123000 +0800" channel="FoxSports503.au">
-    <title lang="en">How Good Is Golf - Green Acres Golf Club</title>
-    <desc lang="en">Green Acres Golf Club. How Good Is Golf shows you how to play, where to play and what equipment to use. Join Paul Gow as he takes you through the greatest game of all.</desc>
+  <programme start="20261120040000 +0800" stop="20261120050000 +0800" channel="FoxLeague.au">
+    <title lang="en">NRL - R2 Roosters v Rabbitohs</title>
+    <desc lang="en">R2 Roosters v Rabbitohs. The Book of Feuds - the oldest rivalry in rugby league, fuelled by drama on &amp; off the field. Plus the all-time try scoring record looming for AJ.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/18/60/95/35/85/18/75/60/16/3/1860953585187560163?resolution=360x245" />
-    <episode-num system="onscreen">S2026 E3</episode-num>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/93/96/11/91/82/45/36/07/01/939611918245360701?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114123000 +0800" stop="20261114135800 +0800" channel="FoxSports503.au">
-    <title lang="en">DP World Tour - Tour Championship Round 2</title>
-    <desc lang="en">Tour Championship Round 2. Eugenio Chacarra controls his own destiny heading into the final event of the season whilst Rory McIlroy chases a record equalling eighth Race to Dubai title.</desc>
+  <programme start="20261120050000 +0800" stop="20261120060000 +0800" channel="FoxLeague.au">
+    <title lang="en">NRL - R2 Wests Tigers v Cowboys</title>
+    <desc lang="en">R2 Wests Tigers v Cowboys. The hosts return to Wollongong after a heartbreaking loss in Vegas, while the visitors were one of Round 1's most impressive winners.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/17/10/80/70/81/45/27/29/64/99/17108070814527296499?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/93/96/11/91/82/45/36/07/01/939611918245360701?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114135800 +0800" stop="20261114213000 +0800" channel="FoxSports503.au">
-    <title lang="en">LIVE: Test - Afghanistan v Zimbabwe Second Test Day 2</title>
-    <desc lang="en">Afghanistan v Zimbabwe Second Test Day 2. Afghanistan and Zimbabwe return to Sharjah Cricket Stadium for the second Test of the series. Scheduled start of play 1700 AEDT.</desc>
+  <programme start="20261120060000 +0800" stop="20261120070000 +0800" channel="FoxLeague.au">
+    <title lang="en">NRL - R2 Dragons v Storm</title>
+    <desc lang="en">R2 Dragons v Storm. The hosts return to Wollongong after a heartbreaking loss in Vegas, while the visitors were one of Round 1's most impressive winners.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/76/15/53/27/51/03/91/88/51/0/7615532751039188510?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/93/96/11/91/82/45/36/07/01/939611918245360701?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114213000 +0800" stop="20261114230000 +0800" channel="FoxSports503.au">
-    <title lang="en">USPGA Tour - Austin Championship Round 2</title>
-    <desc lang="en">Austin Championship Round 2. Trace Crowe holds a two shot lead after firing a stellar 10-under 61 in the opening round.</desc>
+  <programme start="20261120070000 +0800" stop="20261120080000 +0800" channel="FoxLeague.au">
+    <title lang="en">NRL - R2 Panthers v Sharks</title>
+    <desc lang="en">R2 Panthers v Sharks. Super Saturday's nightcap sees two dominant Round 1 winners meet at Bathurst in Central West NSW.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/13/00/74/08/74/08/83/16/29/130074087408831629?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/93/96/11/91/82/45/36/07/01/939611918245360701?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114230000 +0800" stop="20261115010000 +0800" channel="FoxSports503.au">
-    <title lang="en">The Presidents Cup - Final Day</title>
-    <desc lang="en">Final Day. The final day of the Presidents Cup begins at Medinah Country Club with singles matches set to decide the champions as both teams battle for glory.</desc>
+  <programme start="20261120080000 +0800" stop="20261120082000 +0800" channel="FoxLeague.au">
+    <title lang="en">NRLW - NRLW Mini</title>
+    <desc lang="en">NRLW Mini. Honours are even ahead of the fifth clash between these clubs. The hosts showed they are the team to beat in 2026 with victory over the defending champs.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/13/48/33/38/45/46/54/83/05/91/13483338454654830591?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/14/80/36/44/84/82/64/49/25/79/14803644848264492579?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120082000 +0800" stop="20261120084000 +0800" channel="FoxLeague.au">
+    <title lang="en">NRLW - Cronulla Women v Parramatta Women</title>
+    <desc lang="en">Cronulla Women v Parramatta Women. After their two previous clashes were decided by two points, another thriller is on the cards for this match-up.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/14/80/36/44/84/82/64/49/25/79/14803644848264492579?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120084000 +0800" stop="20261120090000 +0800" channel="FoxLeague.au">
+    <title lang="en">NRLW Mini - Titans v Raiders</title>
+    <desc lang="en">Titans v Raiders. Round 9 begins with a blockbuster clash of second v fourth. Both teams have defeated the Broncos to help their ladder position.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/14/80/36/44/84/82/64/49/25/79/14803644848264492579?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120090000 +0800" stop="20261120100000 +0800" channel="FoxLeague.au">
+    <title lang="en">90's Simply The Best - 1995 R3 ILL v BRI</title>
+    <desc lang="en">1995 R3 ILL v BRI. Tina said it best, take a look back at simply the best of the 1990s, the decade of expansion, fierce rivalries and the dominance of the Broncos and the Raiders.</desc>
+    <date>2021</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/36/71/57/22/89/12/15/99/29/1/3671572289121599291?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120100000 +0800" stop="20261120110000 +0800" channel="FoxLeague.au">
+    <title lang="en">2000's Greatest Games - 2002 R25 PEN v NEW</title>
+    <desc lang="en">2002 R25 PEN v NEW. The 2000's brought a new era to the NRL, the debuts of some of the leagues biggest names and some of the best games in league history.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/97/45/49/44/26/88/25/28/72/10974549442688252872?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120110000 +0800" stop="20261120113000 +0800" channel="FoxLeague.au">
+    <title lang="en">Face to Face on Fox - Shane Flanagan</title>
+    <desc lang="en">Shane Flanagan. Dragons coach, Shane Flanagan, sits down with Matty Johns to discuss his optimism ahead of the 2026 season and their first round matchup in Las Vegas.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/14/80/09/67/03/36/47/19/08/33/14800967033647190833?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120113000 +0800" stop="20261120120000 +0800" channel="FoxLeague.au">
+    <title lang="en">THE FAN - Episode 23</title>
+    <desc lang="en">Episode 23. Hosted by Andrew Voss and Lara Pitt, the players tell their stories as we celebrate the game from the big moments to the bizarre and everything in between.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/17/04/25/99/33/40/71/85/10/22/17042599334071851022?resolution=360x245" />
+    <episode-num system="onscreen">S2026 E23</episode-num>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120120000 +0800" stop="20261120130000 +0800" channel="FoxLeague.au">
+    <title lang="en">Greatest Tests - 2017 ENG v SAM</title>
+    <desc lang="en">2017 ENG v SAM. A selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/12/72/09/84/63/71/85/51/48/3/1272098463718551483?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120130000 +0800" stop="20261120140000 +0800" channel="FoxLeague.au">
+    <title lang="en">Golden Point Thrillers - 10 R16 NQL v CRO</title>
+    <desc lang="en">10 R16 NQL v CRO. When rugby league goes into extra time special things happen, the best Golden Point victories from the NRL.</desc>
+    <date>2010</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/99/27/04/02/73/19/78/43/93/10992704027319784393?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120140000 +0800" stop="20261120143000 +0800" channel="FoxLeague.au">
+    <title lang="en">Grand Final Classics - 2003 GF SYD v PEN</title>
+    <desc lang="en">2003 GF SYD v PEN. Classic tries, heroic plays, first class performances. These are the games that created the legends.</desc>
+    <date>2021</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/78/32/05/52/75/59/50/50/73/1/7832055275595050731?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120143000 +0800" stop="20261120150000 +0800" channel="FoxLeague.au">
+    <title lang="en">Origin Classics - 2000 Game 1</title>
+    <desc lang="en">2000 Game 1. State against State. Mate against Mate. FOX LEAGUE celebrates one of the fiercest rivalries in Australian sport with the greatest State of Origin matches ever played.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/78/32/62/26/14/20/32/52/15/5/7832622614203252155?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120150000 +0800" stop="20261120160000 +0800" channel="FoxLeague.au">
+    <title lang="en">Superstars - John Sutton</title>
+    <desc lang="en">John Sutton. 2005 R26 CRO v SOU: An exclusive list of the biggest names in the game past and present, see their best games here.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/15/60/19/98/09/57/14/62/24/09/15601998095714622409?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120160000 +0800" stop="20261120170000 +0800" channel="FoxLeague.au">
+    <title lang="en">90's Simply The Best - 1995 R3 ILL v BRI</title>
+    <desc lang="en">1995 R3 ILL v BRI. Tina said it best, take a look back at simply the best of the 1990s, the decade of expansion, fierce rivalries and the dominance of the Broncos and the Raiders.</desc>
+    <date>2021</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/36/71/57/22/89/12/15/99/29/1/3671572289121599291?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120170000 +0800" stop="20261120180000 +0800" channel="FoxLeague.au">
+    <title lang="en">Greatest Tests - 2017 ENG v SAM</title>
+    <desc lang="en">2017 ENG v SAM. A selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/12/72/09/84/63/71/85/51/48/3/1272098463718551483?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120180000 +0800" stop="20261120190000 +0800" channel="FoxLeague.au">
+    <title lang="en">Golden Point Thrillers - 10 R16 NQL v CRO</title>
+    <desc lang="en">10 R16 NQL v CRO. When rugby league goes into extra time special things happen, the best Golden Point victories from the NRL.</desc>
+    <date>2010</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/99/27/04/02/73/19/78/43/93/10992704027319784393?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120190000 +0800" stop="20261120193000 +0800" channel="FoxLeague.au">
+    <title lang="en">Face to Face on Fox - Shane Flanagan</title>
+    <desc lang="en">Shane Flanagan. Dragons coach, Shane Flanagan, sits down with Matty Johns to discuss his optimism ahead of the 2026 season and their first round matchup in Las Vegas.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/14/80/09/67/03/36/47/19/08/33/14800967033647190833?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120193000 +0800" stop="20261120200000 +0800" channel="FoxLeague.au">
+    <title lang="en">THE FAN - Episode 23</title>
+    <desc lang="en">Episode 23. Hosted by Andrew Voss and Lara Pitt, the players tell their stories as we celebrate the game from the big moments to the bizarre and everything in between.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/17/04/25/99/33/40/71/85/10/22/17042599334071851022?resolution=360x245" />
+    <episode-num system="onscreen">S2026 E23</episode-num>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120200000 +0800" stop="20261120203000 +0800" channel="FoxLeague.au">
+    <title lang="en">Grand Final Classics - 2003 GF SYD v PEN</title>
+    <desc lang="en">2003 GF SYD v PEN. Classic tries, heroic plays, first class performances. These are the games that created the legends.</desc>
+    <date>2021</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/78/32/05/52/75/59/50/50/73/1/7832055275595050731?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
@@ -3928,212 +3875,153 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114000000 +0800" stop="20261114013000 +0800" channel="FoxFooty.au">
-    <title lang="en">AFLW - Geelong v Melbourne</title>
-    <desc lang="en">Geelong v Melbourne. Geelong and Melbourne go head-to-head in a blockbuster AFLW Qualifying Final at Ikon Park to kick off the 2026 Finals Series on Saturday afternoon.</desc>
+  <programme start="20261119233000 +0800" stop="20261120010000 +0800" channel="FoxSports503.au">
+    <title lang="en">WTGL - Game 3 Boston v Detroit</title>
+    <desc lang="en">Game 3 Boston v Detroit. Boston will make its inaugural WTGL appearance against Motor City, which will be looking for back to back victories after defeating LA in its last start.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/72/09/37/87/30/74/14/58/66/3/7209378730741458663?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/16/48/20/78/58/75/56/18/10/30/16482078587556181030?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114013000 +0800" stop="20261114040000 +0800" channel="FoxFooty.au">
-    <title lang="en">AFL - Round 5 Hawthorn v Western Bulldogs</title>
-    <desc lang="en">Round 5 Hawthorn v Western Bulldogs. It's a Saturday night blockbuster at Gather Round as the undefeated Dogs face the Hawks, riding high off a thrilling Easter Monday win.</desc>
+  <programme start="20261120010000 +0800" stop="20261120040000 +0800" channel="FoxSports503.au">
+    <title lang="en">LIVE: USPGA Tour - RSM Classic Round 1</title>
+    <desc lang="en">RSM Classic Round 1. First round action of the RSM Classic from the Sea Island Golf Club.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/24/79/70/96/20/57/91/98/33/4/2479709620579198334?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/13/00/74/08/74/08/83/16/29/130074087408831629?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114040000 +0800" stop="20261114041500 +0800" channel="FoxFooty.au">
-    <title lang="en">AFLW Mini - QF GEE v MEL</title>
-    <desc lang="en">QF GEE v MEL. Geelong and Melbourne go head-to-head in a blockbuster AFLW Qualifying Final at Ikon Park to kick off the 2026 Finals Series on Saturday afternoon.</desc>
+  <programme start="20261120040000 +0800" stop="20261120060000 +0800" channel="FoxSports503.au">
+    <title lang="en">DP World Tour - Tour Championship Final Round</title>
+    <desc lang="en">Tour Championship Final Round. Final round action from the Tour Championship as Rory McIlroy chases a record equalling eigth Race to Dubai title.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/17/85/37/16/20/43/1/1785371620431?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/17/10/80/70/81/45/27/29/64/99/17108070814527296499?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114041500 +0800" stop="20261114043000 +0800" channel="FoxFooty.au">
-    <title lang="en">AFLW Mini - QF NM v CAR</title>
-    <desc lang="en">QF NM v CAR. Reigning premiers North Melbourne face Carlton in a high-stakes Qualifying Final at Ikon Park on Saturday with a Preliminary Final berth up for grabs.</desc>
+  <programme start="20261120060000 +0800" stop="20261120073000 +0800" channel="FoxSports503.au">
+    <title lang="en">USPGA Tour - RSM Classic Round 1</title>
+    <desc lang="en">RSM Classic Round 1. First round action of the RSM Classic from the Sea Island Golf Club.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/17/85/37/16/20/43/1/1785371620431?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/13/00/74/08/74/08/83/16/29/130074087408831629?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114043000 +0800" stop="20261114044500 +0800" channel="FoxFooty.au">
-    <title lang="en">AFLW Mini - EF SYD v WB</title>
-    <desc lang="en">EF SYD v WB. Sydney and the Western Bulldogs clash in a do-or-die Elimination Final at Henson Park on Sunday with both sides fighting to keep their premiership dreams alive.</desc>
+  <programme start="20261120073000 +0800" stop="20261120093000 +0800" channel="FoxSports503.au">
+    <title lang="en">USLPGA - The ANNIKA Final Round</title>
+    <desc lang="en">The ANNIKA Final Round. Final round action of The ANNIKA from the Pelican Golf Club.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/17/85/37/16/20/43/1/1785371620431?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/28/28/60/42/60/87/65/17/06/282860426087651706?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114044500 +0800" stop="20261114050000 +0800" channel="FoxFooty.au">
-    <title lang="en">AFLW Mini - EF GC v HAW</title>
-    <desc lang="en">EF GC v HAW. Gold Coast and Hawthorn meet in a cut-throat Elimination Final at People First Stadium on Sunday with a place in the Semi-Finals on the line.</desc>
+  <programme start="20261120093000 +0800" stop="20261120110000 +0800" channel="FoxSports503.au">
+    <title lang="en">USPGA Tour - RSM Classic Round 1</title>
+    <desc lang="en">RSM Classic Round 1. First round action of the RSM Classic from the Sea Island Golf Club.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/17/85/37/16/20/43/1/1785371620431?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/13/00/74/08/74/08/83/16/29/130074087408831629?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114050000 +0800" stop="20261114063000 +0800" channel="FoxFooty.au">
-    <title lang="en">AFLW - North Melbourne v Carlton</title>
-    <desc lang="en">North Melbourne v Carlton. Reigning premiers North Melbourne face Carlton in a high-stakes Qualifying Final at Ikon Park on Saturday with a Preliminary Final berth up for grabs.</desc>
+  <programme start="20261120110000 +0800" stop="20261120123000 +0800" channel="FoxSports503.au">
+    <title lang="en">WTGL - Game 3 Boston v Detroit</title>
+    <desc lang="en">Game 3 Boston v Detroit. Boston will make its inaugural WTGL appearance against Motor City, which will be looking for back to back victories after defeating LA in its last start.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/72/09/37/87/30/74/14/58/66/3/7209378730741458663?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/16/48/20/78/58/75/56/18/10/30/16482078587556181030?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114063000 +0800" stop="20261114080000 +0800" channel="FoxFooty.au">
-    <title lang="en">AFLW - Sydney v Western Bulldogs</title>
-    <desc lang="en">Sydney v Western Bulldogs. Sydney and the Western Bulldogs clash in a do-or-die Elimination Final at Henson Park on Sunday with both sides fighting to keep their premiership dreams alive.</desc>
+  <programme start="20261120123000 +0800" stop="20261120140000 +0800" channel="FoxSports503.au">
+    <title lang="en">USPGA Tour - RSM Classic Round 1</title>
+    <desc lang="en">RSM Classic Round 1. First round action of the RSM Classic from the Sea Island Golf Club.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/72/09/37/87/30/74/14/58/66/3/7209378730741458663?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/13/00/74/08/74/08/83/16/29/130074087408831629?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114080000 +0800" stop="20261114093000 +0800" channel="FoxFooty.au">
-    <title lang="en">AFLW - Gold Coast v Hawthorn</title>
-    <desc lang="en">Gold Coast v Hawthorn. Gold Coast and Hawthorn meet in a cut-throat Elimination Final at People First Stadium on Sunday with a place in the Semi-Finals on the line.</desc>
+  <programme start="20261120140000 +0800" stop="20261120150000 +0800" channel="FoxSports503.au">
+    <title lang="en">NSW Open - Final Round</title>
+    <desc lang="en">Final Round. Final Round action of the NSW Open from The Vintage Golf Club.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/72/09/37/87/30/74/14/58/66/3/7209378730741458663?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/43/85/45/83/50/45/04/12/85/0/4385458350450412850?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114093000 +0800" stop="20261114110000 +0800" channel="FoxFooty.au">
-    <title lang="en">AFLW - Geelong v Melbourne</title>
-    <desc lang="en">Geelong v Melbourne. Geelong and Melbourne go head-to-head in a blockbuster AFLW Qualifying Final at Ikon Park to kick off the 2026 Finals Series on Saturday afternoon.</desc>
+  <programme start="20261120150000 +0800" stop="20261120163000 +0800" channel="FoxSports503.au">
+    <title lang="en">USPGA Tour - RSM Classic Round 1</title>
+    <desc lang="en">RSM Classic Round 1. First round action of the RSM Classic from the Sea Island Golf Club.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/72/09/37/87/30/74/14/58/66/3/7209378730741458663?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/13/00/74/08/74/08/83/16/29/130074087408831629?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114110000 +0800" stop="20261114123000 +0800" channel="FoxFooty.au">
-    <title lang="en">AFLW - North Melbourne v Carlton</title>
-    <desc lang="en">North Melbourne v Carlton. Reigning premiers North Melbourne face Carlton in a high-stakes Qualifying Final at Ikon Park on Saturday with a Preliminary Final berth up for grabs.</desc>
+  <programme start="20261120163000 +0800" stop="20261120180000 +0800" channel="FoxSports503.au">
+    <title lang="en">WTGL - Game 3 Boston v Detroit</title>
+    <desc lang="en">Game 3 Boston v Detroit. Boston will make its inaugural WTGL appearance against Motor City, which will be looking for back to back victories after defeating LA in its last start.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/72/09/37/87/30/74/14/58/66/3/7209378730741458663?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/16/48/20/78/58/75/56/18/10/30/16482078587556181030?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114123000 +0800" stop="20261114130600 +0800" channel="FoxFooty.au">
-    <title lang="en">LIVE: AFLW Pre Game - AFLW Pre Show - 14/11 - Geelong v Sydney</title>
-    <desc lang="en">AFLW Pre Show - 14/11 - Geelong v Sydney. Join the team for an extensive preview of all the action to come; with the latest news, best analysis, entertainment &amp; interviews.</desc>
+  <programme start="20261120180000 +0800" stop="20261120193000 +0800" channel="FoxSports503.au">
+    <title lang="en">USPGA Tour - RSM Classic Round 1</title>
+    <desc lang="en">RSM Classic Round 1. First round action of the RSM Classic from the Sea Island Golf Club.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/65/13/43/26/34/03/13/26/01/10651343263403132601?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/13/00/74/08/74/08/83/16/29/130074087408831629?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114130600 +0800" stop="20261114145200 +0800" channel="FoxFooty.au">
-    <title lang="en">LIVE: AFLW - Geelong v Sydney</title>
-    <desc lang="en">Geelong v Sydney. Geelong takes on Sydney in an AFLW semi-final showdown at GMHBA Stadium on Saturday afternoon. Scheduled Start of Play 4:05pm AEDT.</desc>
+  <programme start="20261120193000 +0800" stop="20261120203000 +0800" channel="FoxSports503.au">
+    <title lang="en">NSW Open - Final Round</title>
+    <desc lang="en">Final Round. Final Round action of the NSW Open from The Vintage Golf Club.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/72/09/37/87/30/74/14/58/66/3/7209378730741458663?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/43/85/45/83/50/45/04/12/85/0/4385458350450412850?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114145200 +0800" stop="20261114153000 +0800" channel="FoxFooty.au">
-    <title lang="en">LIVE: AFLW Post Game - AFLW</title>
-    <desc lang="en">AFLW. Join the team for a review of all the action; with the latest news, best analysis, entertainment &amp; interviews.</desc>
+  <programme start="20261120203000 +0800" stop="20261120210000 +0800" channel="FoxSports503.au">
+    <title lang="en">DP World Tour Highlights - Tour Championship</title>
+    <desc lang="en">Tour Championship. Highlights of the Tour Championship from Jumeriah Golf Estates - Earth Course.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/14/89/46/54/50/60/54/10/99/69/14894654506054109969?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/17/10/80/70/81/45/27/29/64/99/17108070814527296499?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114153000 +0800" stop="20261114161500 +0800" channel="FoxFooty.au">
-    <title lang="en">LIVE: AFLW Pre Game - AFLW Pre Show - 14/11 - Carlton v Hawthorn</title>
-    <desc lang="en">AFLW Pre Show - 14/11 - Carlton v Hawthorn. Join the team for an extensive preview of all the action to come; with the latest news, best analysis, entertainment &amp; interviews.</desc>
+  <programme start="20261120210000 +0800" stop="20261120213000 +0800" channel="FoxSports503.au">
+    <title lang="en">How Good Is Golf - Episode 7</title>
+    <desc lang="en">Episode 7. How Good Is Golf shows you how to play, where to play and what equipment to use. Join Paul Gow as he takes you through the greatest game of all.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/65/13/43/26/34/03/13/26/01/10651343263403132601?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114161500 +0800" stop="20261114180000 +0800" channel="FoxFooty.au">
-    <title lang="en">LIVE: AFLW - Carlton v Hawthorn</title>
-    <desc lang="en">Carlton v Hawthorn. A rematch of last year's AFLW semi-final as Carlton and Hawthorn clash under lights at Ikon Park on Saturday night. Scheduled Start of Play 7:15pm AEDT.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/72/09/37/87/30/74/14/58/66/3/7209378730741458663?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114180000 +0800" stop="20261114183000 +0800" channel="FoxFooty.au">
-    <title lang="en">LIVE: AFLW Post Game - AFLW</title>
-    <desc lang="en">AFLW. Join the team for a review of all the action; with the latest news, best analysis, entertainment &amp; interviews.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/14/89/46/54/50/60/54/10/99/69/14894654506054109969?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114183000 +0800" stop="20261114200000 +0800" channel="FoxFooty.au">
-    <title lang="en">AFLW - Geelong v Sydney</title>
-    <desc lang="en">Geelong v Sydney. Geelong takes on Sydney in an AFLW semi-final showdown at GMHBA Stadium on Saturday afternoon.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/72/09/37/87/30/74/14/58/66/3/7209378730741458663?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114200000 +0800" stop="20261114213000 +0800" channel="FoxFooty.au">
-    <title lang="en">AFLW - Carlton v Hawthorn</title>
-    <desc lang="en">Carlton v Hawthorn. A rematch of last year's AFLW semi-final as Carlton and Hawthorn clash under lights at Ikon Park on Saturday night.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/72/09/37/87/30/74/14/58/66/3/7209378730741458663?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114213000 +0800" stop="20261114230000 +0800" channel="FoxFooty.au">
-    <title lang="en">AFLW - Geelong v Sydney</title>
-    <desc lang="en">Geelong v Sydney. Geelong takes on Sydney in an AFLW semi-final showdown at GMHBA Stadium on Saturday afternoon.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/72/09/37/87/30/74/14/58/66/3/7209378730741458663?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114230000 +0800" stop="20261115003000 +0800" channel="FoxFooty.au">
-    <title lang="en">AFLW - Carlton v Hawthorn</title>
-    <desc lang="en">Carlton v Hawthorn. A rematch of last year's AFLW semi-final as Carlton and Hawthorn clash under lights at Ikon Park on Saturday night.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/72/09/37/87/30/74/14/58/66/3/7209378730741458663?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/18/60/95/35/85/18/75/60/16/3/1860953585187560163?resolution=360x245" />
+    <episode-num system="onscreen">S2026 E7</episode-num>
     <rating system="AU">
       <value>NC</value>
     </rating>
@@ -5336,102 +5224,107 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114000000 +0800" stop="20261114030000 +0800" channel="FoxSports505.au">
-    <title lang="en">LIVE: USLPGA - The ANNIKA Round 2</title>
-    <desc lang="en">The ANNIKA Round 2. World number one Nelly Korda heads in as favourite as she looks to become a four-time winner of this event against a stacked field in the penultimate event of the season.</desc>
-    <date>2026</date>
+  <programme start="20261119234500 +0800" stop="20261120021500 +0800" channel="FoxFooty.au">
+    <title lang="en">AFL Draft - Day 1</title>
+    <desc lang="en">Day 1. Join the Fox Footy team for the first round of the 2025 AFL Draft.</desc>
+    <date>2025</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/28/28/60/42/60/87/65/17/06/282860426087651706?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/12/95/58/15/10/96/41/15/53/79/12955815109641155379?resolution=360x245" />
+    <episode-num system="onscreen">S2025 E1</episode-num>
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114030000 +0800" stop="20261114040000 +0800" channel="FoxSports505.au">
-    <title lang="en">MotorRacing 360 - Episode 36</title>
-    <desc lang="en">Episode 36. Entertaining, informing and debating all the biggest news across the week of Motor Sport, including Supercars, Formula 1 and MotoGP.</desc>
-    <date>2026</date>
+  <programme start="20261120021500 +0800" stop="20261120044500 +0800" channel="FoxFooty.au">
+    <title lang="en">AFL Draft - Day 1</title>
+    <desc lang="en">Day 1. Join the Fox Footy team for the first round of the 2025 AFL Draft.</desc>
+    <date>2025</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/55/92/00/03/51/80/29/97/86/8/5592000351802997868?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/12/95/58/15/10/96/41/15/53/79/12955815109641155379?resolution=360x245" />
+    <episode-num system="onscreen">S2025 E1</episode-num>
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114040000 +0800" stop="20261114050000 +0800" channel="FoxSports505.au">
-    <title lang="en">UFC Countdown - UFC 334</title>
-    <desc lang="en">UFC 334. UFC 334 Countdown previews the heavyweight title clash between Ciryl Gane and Josh Hokit, at MSG.</desc>
+  <programme start="20261120044500 +0800" stop="20261120061500 +0800" channel="FoxFooty.au">
+    <title lang="en">AFLW - Geelong v Sydney</title>
+    <desc lang="en">Geelong v Sydney. Geelong takes on Sydney in an AFLW semi-final showdown at GMHBA Stadium on Saturday afternoon.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/59/19/81/80/79/59/83/83/82/7/5919818079598383827?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/72/09/37/87/30/74/14/58/66/3/7209378730741458663?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114050000 +0800" stop="20261114070000 +0800" channel="FoxSports505.au">
-    <title lang="en">Formula 1 - Brazil Race</title>
-    <desc lang="en">Brazil Race. Kimi Antonelli has clinched the championship but the F1 action is far from done. Old foes Max Verstappen and Lewis Hamilton head a five-driver battle for P2 in the championship.</desc>
+  <programme start="20261120061500 +0800" stop="20261120074500 +0800" channel="FoxFooty.au">
+    <title lang="en">AFLW - Carlton v Hawthorn</title>
+    <desc lang="en">Carlton v Hawthorn. A rematch of last year's AFLW semi-final as Carlton and Hawthorn clash under lights at Ikon Park on Saturday night.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/61/75/88/11/32/35/96/38/42/4/6175881132359638424?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/72/09/37/87/30/74/14/58/66/3/7209378730741458663?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114070000 +0800" stop="20261114072500 +0800" channel="FoxSports505.au">
-    <title lang="en">MotoGP Mini - Qatar Race</title>
-    <desc lang="en">Qatar Race. Marc Marquez eyes his eighth world title under the Lusail lights in Qatar, while an injured Jorge Martin fights to keep his championship hopes alive.</desc>
-    <date>2026</date>
+  <programme start="20261120074500 +0800" stop="20261120101500 +0800" channel="FoxFooty.au">
+    <title lang="en">AFL Draft - Day 1</title>
+    <desc lang="en">Day 1. Join the Fox Footy team for the first round of the 2025 AFL Draft.</desc>
+    <date>2025</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/17/34/45/83/08/64/37/27/65/88/17344583086437276588?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/12/95/58/15/10/96/41/15/53/79/12955815109641155379?resolution=360x245" />
+    <episode-num system="onscreen">S2025 E1</episode-num>
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114072500 +0800" stop="20261114093000 +0800" channel="FoxSports505.au">
-    <title lang="en">LIVE: Sheffield Shield - VIC v WA D4 P1</title>
-    <desc lang="en">VIC v WA D4 P1. Red ball cricket returns to the MCG with Victoria looking to secure their first Shield win of 2026-27. Scheduled start of play 10:30am AEDT.</desc>
+  <programme start="20261120101500 +0800" stop="20261120114500 +0800" channel="FoxFooty.au">
+    <title lang="en">AFLW - Geelong v Sydney</title>
+    <desc lang="en">Geelong v Sydney. Geelong takes on Sydney in an AFLW semi-final showdown at GMHBA Stadium on Saturday afternoon.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/13/03/54/47/35/67/06/90/23/25/13035447356706902325?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/72/09/37/87/30/74/14/58/66/3/7209378730741458663?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114093000 +0800" stop="20261114100700 +0800" channel="FoxSports505.au">
-    <title lang="en">Test Classic - 2001/02 AUS v NZL 3rd Test</title>
-    <desc lang="en">2001/02 AUS v NZL 3rd Test. We open the Fox Cricket vault and look back at some of the greatest Test matches from Australian soil.</desc>
-    <date>2022</date>
+  <programme start="20261120114500 +0800" stop="20261120131500 +0800" channel="FoxFooty.au">
+    <title lang="en">AFLW - Carlton v Hawthorn</title>
+    <desc lang="en">Carlton v Hawthorn. A rematch of last year's AFLW semi-final as Carlton and Hawthorn clash under lights at Ikon Park on Saturday night.</desc>
+    <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/15/41/41/78/97/79/41/04/00/67/15414178977941040067?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/72/09/37/87/30/74/14/58/66/3/7209378730741458663?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114100700 +0800" stop="20261114150000 +0800" channel="FoxSports505.au">
-    <title lang="en">LIVE: Sheffield Shield - VIC v WA D4 P2</title>
-    <desc lang="en">VIC v WA D4 P2. Red ball cricket returns to the MCG with Victoria looking to secure their first Shield win of 2026-27.</desc>
+  <programme start="20261120131500 +0800" stop="20261120133000 +0800" channel="FoxFooty.au">
+    <title lang="en">AFLW Mini - SF GEE v SYD</title>
+    <desc lang="en">SF GEE v SYD. Geelong takes on Sydney in an AFLW semi-final showdown at GMHBA Stadium on Saturday afternoon.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/13/03/54/47/35/67/06/90/23/25/13035447356706902325?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/17/85/37/16/20/43/1/1785371620431?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114150000 +0800" stop="20261114210000 +0800" channel="FoxSports505.au">
-    <title lang="en">LIVE: DP World Tour - Tour Championship Round 3</title>
-    <desc lang="en">Tour Championship Round 3. Third round action from the Tour Championship as Rory McIlroy chases a record equalling eigth Race to Dubai title.</desc>
-    <date>2026</date>
+  <programme start="20261120133000 +0800" stop="20261120160000 +0800" channel="FoxFooty.au">
+    <title lang="en">AFL Draft - Day 1</title>
+    <desc lang="en">Day 1. Join the Fox Footy team for the first round of the 2025 AFL Draft.</desc>
+    <date>2025</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/17/10/80/70/81/45/27/29/64/99/17108070814527296499?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/12/95/58/15/10/96/41/15/53/79/12955815109641155379?resolution=360x245" />
+    <episode-num system="onscreen">S2025 E1</episode-num>
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114210000 +0800" stop="20261115010000 +0800" channel="FoxSports505.au">
-    <title lang="en">LIVE: Grand Slam of Darts - Day 1 DS</title>
-    <desc lang="en">Day 1 DS. Luke Littler looks to equal the great Phil 'The Power' Taylor with a 3rd consequective Grand Slam of Darts win.</desc>
+  <programme start="20261120160000 +0800" stop="20261120190000 +0800" channel="FoxFooty.au">
+    <title lang="en">LIVE: AFL Draft - Day 2</title>
+    <desc lang="en">Day 2. AFL Draft.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/18/70/09/14/84/80/98/68/13/4/1870091484809868134?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/12/95/58/15/10/96/41/15/53/79/12955815109641155379?resolution=360x245" />
+    <episode-num system="onscreen">S2024 E2</episode-num>
     <rating system="AU">
       <value>NC</value>
     </rating>
@@ -5456,17 +5349,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261115060000 +0800" stop="20261115080000 +0800" channel="FoxSports505.au">
-    <title lang="en">LIVE: PGA Tour Champions - Charles Schwab R3</title>
-    <desc lang="en">Charles Schwab R3. Round 3 action of the Charles Schwab Cup from the historic Phoenix Country Club.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/18/23/43/36/40/29/14/71/88/42/18234336402914718842?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261115080000 +0800" stop="20261115090000 +0800" channel="FoxSports505.au">
+  <programme start="20261115060000 +0800" stop="20261115070000 +0800" channel="FoxSports505.au">
     <title lang="en">MotoGP - Qatar Race</title>
     <desc lang="en">Qatar Race. Marc Marquez eyes his eighth world title under the Lusail lights in Qatar, while an injured Jorge Martin fights to keep his championship hopes alive.</desc>
     <date>2026</date>
@@ -5476,7 +5359,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261115090000 +0800" stop="20261115140000 +0800" channel="FoxSports505.au">
+  <programme start="20261115070000 +0800" stop="20261115120000 +0800" channel="FoxSports505.au">
     <title lang="en">LIVE: NSW Open - Final Round</title>
     <desc lang="en">Final Round. Final Round action of the NSW Open from The Vintage Golf Club.</desc>
     <date>2026</date>
@@ -5486,13 +5369,22 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261115140000 +0800" stop="20261115143000 +0800" channel="FoxSports505.au">
-    <title lang="en">Getting A Round In - Season Review</title>
-    <desc lang="en">Season Review. Episode 15: The season finale revisits all 14 guests as Gowie tallies their challenge scores to crown the champion celebrity.</desc>
+  <programme start="20261115120000 +0800" stop="20261115130000 +0800" channel="FoxSports505.au">
+    <title lang="en">PBR Australia - Coffs Harbour and Orange</title>
+    <desc lang="en">Coffs Harbour and Orange. A sport like no other. A showdown of the greatest. Heart-stopping action. It’s man vs. beast, where every second counts.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/91/21/62/90/45/76/91/16/17/1/9121629045769116171?resolution=360x245" />
-    <episode-num system="onscreen">S2026 E15</episode-num>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/74/42/60/05/81/28/82/16/59/8/7442600581288216598?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261115130000 +0800" stop="20261115143000 +0800" channel="FoxSports505.au">
+    <title lang="en">DP World Tour - Tour Championship Round 3</title>
+    <desc lang="en">Tour Championship Round 3. Third round action from the Tour Championship as Rory McIlroy chases a record equalling eigth Race to Dubai title.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/17/10/80/70/81/45/27/29/64/99/17108070814527296499?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
@@ -6050,49 +5942,9 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114003000 +0800" stop="20261114010000 +0800" channel="FoxSports506.au">
-    <title lang="en">MotoGP After the Flag - Qatar</title>
-    <desc lang="en">Qatar. The MotoGP commentary team interview the top riders and wrap up the weekend of action after the Grand Prix.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/14/02/14/54/01/76/38/70/60/93/14021454017638706093?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114010000 +0800" stop="20261114020000 +0800" channel="FoxSports506.au">
-    <title lang="en">World Superbikes - Spain Race 1</title>
-    <desc lang="en">Spain Race 1. World Superbike's final round kicks off in Spain, with drivers battling for top honours in Race 1.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/25/39/88/10/00/80/30/01/2/7325398810008030012?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114020000 +0800" stop="20261114030000 +0800" channel="FoxSports506.au">
-    <title lang="en">World Superbikes - Spain Race 2</title>
-    <desc lang="en">Spain Race 2. The World Superbike season concludes in Spain, with riders pushing to the limit in one last thrilling race.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/25/39/88/10/00/80/30/01/2/7325398810008030012?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114030000 +0800" stop="20261114040000 +0800" channel="FoxSports506.au">
-    <title lang="en">UFC Countdown - UFC 334</title>
-    <desc lang="en">UFC 334. UFC 334 Countdown previews the heavyweight title clash between Ciryl Gane and Josh Hokit, at MSG.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/59/19/81/80/79/59/83/83/82/7/5919818079598383827?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114040000 +0800" stop="20261114050000 +0800" channel="FoxSports506.au">
-    <title lang="en">USPGA Tour - WWT Championship Final Round</title>
-    <desc lang="en">WWT Championship Final Round. Rookie Ben James holds a four-shot lead heading into the final round of play as he looks to secure his first PGA Tour title.</desc>
+  <programme start="20261119213000 +0800" stop="20261120010000 +0800" channel="FoxSports505.au">
+    <title lang="en">LIVE: USPGA Tour - RSM Classic Round 1 (Featured Coverage)</title>
+    <desc lang="en">RSM Classic Round 1 (Featured Coverage). Coverage of the professional USPGA Tour.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
     <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/13/00/74/08/74/08/83/16/29/130074087408831629?resolution=360x245" />
@@ -6100,109 +5952,39 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114050000 +0800" stop="20261114080000 +0800" channel="FoxSports506.au">
-    <title lang="en">LIVE: PGA Tour Champions - Charles Schwab Cup Round 2</title>
-    <desc lang="en">Charles Schwab Cup Round 2. Second round action of the Charles Schwab Cup from Phoenix Country Club.</desc>
+  <programme start="20261120010000 +0800" stop="20261120030000 +0800" channel="FoxSports505.au">
+    <title lang="en">Grand Slam of Darts - Grand Slam of Darts - Day 5</title>
+    <desc lang="en">Grand Slam of Darts - Day 5. Coverage of the Grand Slam of Darts.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/18/23/43/36/40/29/14/71/88/42/18234336402914718842?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/18/70/09/14/84/80/98/68/13/4/1870091484809868134?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114080000 +0800" stop="20261114090000 +0800" channel="FoxSports506.au">
-    <title lang="en">Bowls Premier League - BPL 24 Final Day</title>
-    <desc lang="en">BPL 24 Final Day. The final day of BPL24 at Ocean Grove, where Australia's elite teams face off in elimination finals to crown the champion.</desc>
+  <programme start="20261120030000 +0800" stop="20261120070000 +0800" channel="FoxSports505.au">
+    <title lang="en">LIVE: Grand Slam of Darts - Grand Slam of Darts - Day 6</title>
+    <desc lang="en">Grand Slam of Darts - Day 6. Coverage of the Grand Slam of Darts.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/12/05/34/21/89/40/37/95/91/53/12053421894037959153?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/18/70/09/14/84/80/98/68/13/4/1870091484809868134?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114090000 +0800" stop="20261114100000 +0800" channel="FoxSports506.au">
-    <title lang="en">Formula 1 - 2021 Brazilian Grand Prix</title>
-    <desc lang="en">2021 Brazilian Grand Prix. Championship leader Max Verstappen will start near the front, but defending champion Lewis Hamilton faces a massive challenge starting with a grid penalty.</desc>
-    <date>2025</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/61/75/88/11/32/35/96/38/42/4/6175881132359638424?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114100000 +0800" stop="20261114120000 +0800" channel="FoxSports506.au">
-    <title lang="en">Formula 1 - Brazil Race</title>
-    <desc lang="en">Brazil Race. Kimi Antonelli has clinched the championship but the F1 action is far from done. Old foes Max Verstappen and Lewis Hamilton head a five-driver battle for P2 in the championship.</desc>
+  <programme start="20261120070000 +0800" stop="20261120073000 +0800" channel="FoxSports505.au">
+    <title lang="en">T100 Triathlon World Tour - Dubai Programme 2</title>
+    <desc lang="en">Dubai Programme 2. Broadcast of Triathlon T100 in Dubai.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/61/75/88/11/32/35/96/38/42/4/6175881132359638424?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/99/15/40/60/98/54/27/75/93/10991540609854277593?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114120000 +0800" stop="20261114130000 +0800" channel="FoxSports506.au">
-    <title lang="en">Formula 1 - 2012 Brazilian Grand Prix</title>
-    <desc lang="en">2012 Brazilian Grand Prix. The final race of the season and the final race for Michael Schumacher. Ferrari's Fernando Alonso looks to deny Red Bull's Sebastian Vettel a third world championship title.</desc>
-    <date>2023</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/61/75/88/11/32/35/96/38/42/4/6175881132359638424?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114130000 +0800" stop="20261114140000 +0800" channel="FoxSports506.au">
-    <title lang="en">Shannons SpeedSeries - Sandown Day 1</title>
-    <desc lang="en">Sandown Day 1. Australia's best GT3, GT4 and Mustang stars take on Sandown International Raceway the final round of the season.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/37/16/53/90/71/58/06/28/88/3/3716539071580628883?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114140000 +0800" stop="20261114150000 +0800" channel="FoxSports506.au">
-    <title lang="en">Shannons SpeedSeries - Sandown Day 2</title>
-    <desc lang="en">Sandown Day 2. Australia's best GT3, GT4 and Mustang stars take on Sandown International Raceway the final round of the season.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/37/16/53/90/71/58/06/28/88/3/3716539071580628883?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114150000 +0800" stop="20261114190000 +0800" channel="FoxSports506.au">
-    <title lang="en">LIVE: Hi-Tec Oils Super Series - Calder Park Day 1</title>
-    <desc lang="en">Calder Park Day 1. Championships are on the line at Sydney Motorsport Park as the Hi-Tec Oils Super Series reaches its thrilling season finale in high-octane fashion.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/51/76/73/28/56/73/27/37/64/0/5176732856732737640?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114190000 +0800" stop="20261114200000 +0800" channel="FoxSports506.au">
-    <title lang="en">Bowls Premier League - BPL 24 Day 3</title>
-    <desc lang="en">BPL 24 Day 3. The race for the finals heats up on Day 3 of BPL24 as Australia's top bowling franchises clash in high-stakes fixtures at Ocean Grove Bowling Club.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/12/05/34/21/89/40/37/95/91/53/12053421894037959153?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114200000 +0800" stop="20261114210000 +0800" channel="FoxSports506.au">
-    <title lang="en">Bowls Premier League - BPL 24 Final Day</title>
-    <desc lang="en">BPL 24 Final Day. The final day of BPL24 at Ocean Grove, where Australia's elite teams face off in elimination finals to crown the champion.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/12/05/34/21/89/40/37/95/91/53/12053421894037959153?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261114210000 +0800" stop="20261114220000 +0800" channel="FoxSports506.au">
-    <title lang="en">MotorRacing 360 - Episode 36</title>
-    <desc lang="en">Episode 36. Entertaining, informing and debating all the biggest news across the week of Motor Sport, including Supercars, Formula 1 and MotoGP.</desc>
+  <programme start="20261120073000 +0800" stop="20261120083000 +0800" channel="FoxSports505.au">
+    <title lang="en">MotorRacing 360</title>
+    <desc lang="en">Entertaining, informing and debating all the biggest news across the week of Motor Sport, including Supercars, Formula 1 and MotoGP.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
     <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/55/92/00/03/51/80/29/97/86/8/5592000351802997868?resolution=360x245" />
@@ -6210,22 +5992,69 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114220000 +0800" stop="20261114230000 +0800" channel="FoxSports506.au">
-    <title lang="en">UFC Countdown - UFC 334</title>
-    <desc lang="en">UFC 334. UFC 334 Countdown previews the heavyweight title clash between Ciryl Gane and Josh Hokit, at MSG.</desc>
-    <date>2026</date>
+  <programme start="20261120083000 +0800" stop="20261120090000 +0800" channel="FoxSports505.au">
+    <title lang="en">IBC 30min Highlights - Highlights Part 1</title>
+    <desc lang="en">Highlights Part 1. Combining the raw intensity of boxing with the dynamic versatility of mixed martial arts, IBC delivers an experience unlike anything you’ve seen before.</desc>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/59/19/81/80/79/59/83/83/82/7/5919818079598383827?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/75/80/56/81/36/19/74/93/35/8/7580568136197493358?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
   </programme>
-  <programme start="20261114230000 +0800" stop="20261115000000 +0800" channel="FoxSports506.au">
-    <title lang="en">Bowls Premier League - BPL 24 Day 1</title>
-    <desc lang="en">BPL 24 Day 1. BPL24 gets underway at Ocean Grove as the nation's elite bowlers lock horns on Day 1 for early tournament positioning under the Victorian dome.</desc>
+  <programme start="20261120090000 +0800" stop="20261120093000 +0800" channel="FoxSports505.au">
+    <title lang="en">IBC 30min Highlights - Highlights Part 2</title>
+    <desc lang="en">Highlights Part 2. Combining the raw intensity of boxing with the dynamic versatility of mixed martial arts, IBC delivers an experience unlike anything you’ve seen before.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/75/80/56/81/36/19/74/93/35/8/7580568136197493358?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120093000 +0800" stop="20261120113000 +0800" channel="FoxSports505.au">
+    <title lang="en">Grand Slam of Darts - Grand Slam of Darts - Day 6</title>
+    <desc lang="en">Grand Slam of Darts - Day 6. Coverage of the Grand Slam of Darts.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/12/05/34/21/89/40/37/95/91/53/12053421894037959153?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/18/70/09/14/84/80/98/68/13/4/1870091484809868134?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120113000 +0800" stop="20261120120000 +0800" channel="FoxSports505.au">
+    <title lang="en">IBC 30min Highlights - Programme 5</title>
+    <desc lang="en">Programme 5.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/75/80/56/81/36/19/74/93/35/8/7580568136197493358?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120120000 +0800" stop="20261120122000 +0800" channel="FoxSports505.au">
+    <title lang="en">Women's Big Bash League - Hobart Hurricanes Women v Perth Scorchers Women</title>
+    <desc lang="en">Hobart Hurricanes Women v Perth Scorchers Women. The best Australian and international players go head-to-head in WBBL. 12.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/99/15/17/52/95/96/29/68/93/0/9915175295962968930?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120122000 +0800" stop="20261120210000 +0800" channel="FoxSports505.au">
+    <title lang="en">LIVE: Test - Pakistan v Sri Lanka 2nd Test Day 4</title>
+    <desc lang="en">Pakistan v Sri Lanka 2nd Test Day 4. Coverage of Test Cricket.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/76/15/53/27/51/03/91/88/51/0/7615532751039188510?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120210000 +0800" stop="20261120230000 +0800" channel="FoxSports505.au">
+    <title lang="en">Grand Slam of Darts - Grand Slam of Darts - Day 5</title>
+    <desc lang="en">Grand Slam of Darts - Day 5. Coverage of the Grand Slam of Darts.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/18/70/09/14/84/80/98/68/13/4/1870091484809868134?resolution=360x245" />
     <rating system="AU">
       <value>NC</value>
     </rating>
@@ -7320,6 +7149,208 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme start="20261119230000 +0800" stop="20261120000000 +0800" channel="FoxSports506.au">
+    <title lang="en">MotorRacing 360</title>
+    <desc lang="en">Entertaining, informing and debating all the biggest news across the week of Motor Sport, including Supercars, Formula 1 and MotoGP.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/55/92/00/03/51/80/29/97/86/8/5592000351802997868?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120000000 +0800" stop="20261120013000 +0800" channel="FoxSports506.au">
+    <title lang="en">SailGP - Geneva Day 1</title>
+    <desc lang="en">Geneva Day 1. The global championship features national teams battling in short, intense races at iconic stadium-style venues across the globe, producing the world's most exciting racing on water.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/12/78/84/79/76/67/16/15/74/68/12788479766716157468?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120013000 +0800" stop="20261120030000 +0800" channel="FoxSports506.au">
+    <title lang="en">SailGP - Geneva Day 2</title>
+    <desc lang="en">Geneva Day 2. Tom Slingsby and the Bonds Flying Roos hold a commanding lead in the overall placing as SailGP heads to Switzerland.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/12/78/84/79/76/67/16/15/74/68/12788479766716157468?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120030000 +0800" stop="20261120060000 +0800" channel="FoxSports506.au">
+    <title lang="en">LIVE: USLPGA - Tour Championship Round 1</title>
+    <desc lang="en">Tour Championship Round 1. First round action of the USLPGA Tour Championship from the Tiburón Golf Club.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/28/28/60/42/60/87/65/17/06/282860426087651706?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120060000 +0800" stop="20261120063000 +0800" channel="FoxSports506.au">
+    <title lang="en">F1 Mini - Brazil Race</title>
+    <desc lang="en">Brazil Race. Kimi Antonelli has clinched the championship but the F1 action is far from done. Old foes Max Verstappen and Lewis Hamilton head a five-driver battle for P2 in the championship.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/28/25/24/72/62/91/88/59/08/9/2825247262918859089?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120063000 +0800" stop="20261120073000 +0800" channel="FoxSports506.au">
+    <title lang="en">MotorRacing 360</title>
+    <desc lang="en">Entertaining, informing and debating all the biggest news across the week of Motor Sport, including Supercars, Formula 1 and MotoGP.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/55/92/00/03/51/80/29/97/86/8/5592000351802997868?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120073000 +0800" stop="20261120080000 +0800" channel="FoxSports506.au">
+    <title lang="en">F1 Paddock Uncut - Las Vegas</title>
+    <desc lang="en">Las Vegas. All the top stories coming out of media day in Las Vegas.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/11/61/17/74/46/51/78/62/38/25/11611774465178623825?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120080000 +0800" stop="20261120100000 +0800" channel="FoxSports506.au">
+    <title lang="en">LIVE: Formula 1 - Las Vegas Practice 1 (KAYO)</title>
+    <desc lang="en">Las Vegas Practice 1 (KAYO). The premier open-wheel racing organization, Formula 1 originated in 1950 as the top drivers traveled around the world to compete for the series championship, gaining points at each stop based upon their finish in the fast-paced races.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/61/75/88/11/32/35/96/38/42/4/6175881132359638424?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120100000 +0800" stop="20261120104500 +0800" channel="FoxSports506.au">
+    <title lang="en">LIVE: F1 Academy - Las Vegas Practice (KAYO)</title>
+    <desc lang="en">Las Vegas Practice (KAYO). Coverage of the program - F1 Academy.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/16/97/44/78/69/1697447869?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120104500 +0800" stop="20261120114500 +0800" channel="FoxSports506.au">
+    <title lang="en">MotorRacing 360</title>
+    <desc lang="en">Entertaining, informing and debating all the biggest news across the week of Motor Sport, including Supercars, Formula 1 and MotoGP.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/55/92/00/03/51/80/29/97/86/8/5592000351802997868?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120114500 +0800" stop="20261120132500 +0800" channel="FoxSports506.au">
+    <title lang="en">LIVE: Formula 1 - Las Vegas Practice 2 (KAYO)</title>
+    <desc lang="en">Las Vegas Practice 2 (KAYO). The premier open-wheel racing organization, Formula 1 originated in 1950 as the top drivers traveled around the world to compete for the series championship, gaining points at each stop based upon their finish in the fast-paced races.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/61/75/88/11/32/35/96/38/42/4/6175881132359638424?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120132500 +0800" stop="20261120141000 +0800" channel="FoxSports506.au">
+    <title lang="en">LIVE: F1 Academy - Las Vegas Qualifying (KAYO)</title>
+    <desc lang="en">Las Vegas Qualifying (KAYO). Coverage of the program - F1 Academy.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/16/97/44/78/69/1697447869?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120141000 +0800" stop="20261120151000 +0800" channel="FoxSports506.au">
+    <title lang="en">LIVE: The F1 Show - Las Vegas</title>
+    <desc lang="en">Las Vegas. The F1 Show.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/61/75/88/11/32/35/96/38/42/4/6175881132359638424?resolution=360x245" />
+    <episode-num system="onscreen">S2024 E18</episode-num>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120151000 +0800" stop="20261120161000 +0800" channel="FoxSports506.au">
+    <title lang="en">Formula 1 - Las Vegas Practice 1</title>
+    <desc lang="en">Las Vegas Practice 1. The premier open-wheel racing organization, Formula 1 originated in 1950 as the top drivers traveled around the world to compete for the series championship, gaining points at each stop based upon their finish in the fast-paced races.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/61/75/88/11/32/35/96/38/42/4/6175881132359638424?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120161000 +0800" stop="20261120164000 +0800" channel="FoxSports506.au">
+    <title lang="en">Formula 2 - Special</title>
+    <desc lang="en">Special. Coverage of the program - Formula 2.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/83/14/65/55/53/03/61/45/54/1/8314655553036145541?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120164000 +0800" stop="20261120165500 +0800" channel="FoxSports506.au">
+    <title lang="en">INSIDE Ducati Lenovo Team - Episode 20</title>
+    <desc lang="en">Episode 20.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/16/41/52/90/99/94/57/09/89/16/16415290999457098916?resolution=360x245" />
+    <episode-num system="onscreen">S2026 E20</episode-num>
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120165500 +0800" stop="20261120174000 +0800" channel="FoxSports506.au">
+    <title lang="en">LIVE: MotoGP - DAZN Only - FIM Moto3 World Championship</title>
+    <desc lang="en">DAZN Only - FIM Moto3 World Championship. The MotoGP Championship is the pinnacle class of world championship motorcycle road racing.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/17/34/45/83/08/64/37/27/65/88/17344583086437276588?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120174000 +0800" stop="20261120183500 +0800" channel="FoxSports506.au">
+    <title lang="en">LIVE: DAZN ONLY - FIM MotoGP World Championship - DAZN Only - FIM Moto2 World Championship</title>
+    <desc lang="en">DAZN Only - FIM Moto2 World Championship.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/13/36/15/05/22/12/12/77/90/56/13361505221212779056?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120183500 +0800" stop="20261120195000 +0800" channel="FoxSports506.au">
+    <title lang="en">LIVE: DAZN ONLY - FIM MotoGP World Championship - Portugal Practice 1 (KAYO)</title>
+    <desc lang="en">Portugal Practice 1 (KAYO).</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/13/36/15/05/22/12/12/77/90/56/13361505221212779056?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261120195000 +0800" stop="20261120205000 +0800" channel="FoxSports506.au">
+    <title lang="en">Formula 1 - Las Vegas Practice 2</title>
+    <desc lang="en">Las Vegas Practice 2. The premier open-wheel racing organization, Formula 1 originated in 1950 as the top drivers traveled around the world to compete for the series championship, gaining points at each stop based upon their finish in the fast-paced races.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/61/75/88/11/32/35/96/38/42/4/6175881132359638424?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
   <channel id="Hub.Premier.1.sg">
     <display-name lang="en">Hub Premier 1</display-name>
     <url>http://www.mewatch.sg</url>
@@ -7336,258 +7367,6 @@
     <display-name lang="en">Hub Premier 4</display-name>
     <url>http://www.mewatch.sg</url>
   </channel>
-  <programme start="20261113000000 -0600" stop="20261113003000 -0600" channel="Hub.Premier.1.sg">
-    <title lang="en">THE BIG INTERVIEW - EP12</title>
-    <desc lang="en">Live. Marc Guehi arrived at Manchester City as an FA Cup winner with Crystal Palace before winning the same trophy with his new club 12 months later. The centre-back sits down with The Big Interview to talk about becoming a key figure in Enzo Maresca's team, as well as how a love for music has formed a key part of his life.</desc>
-    <episode-num system="onscreen">E12</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261113003000 -0600" stop="20261113013000 -0600" channel="Hub.Premier.1.sg">
-    <title lang="en">THE CATCH-UP SHOW - EP12</title>
-    <desc lang="en">Live. The Catch-Up Show is your chance to relive the 'best bits' from across the Premier League week with a compilation of all PLP content and programming.</desc>
-    <episode-num system="onscreen">E12</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261113013000 -0600" stop="20261113020000 -0600" channel="Hub.Premier.1.sg">
-    <title lang="en">NETBUSTERS - MW10 - EP10</title>
-    <desc lang="en">Live. A fast-paced music and commentary driven ISO angle highlights show featuring every game and every goal from each match round.</desc>
-    <episode-num system="onscreen">E10</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261113020000 -0600" stop="20261113030000 -0600" channel="Hub.Premier.1.sg">
-    <title lang="en">PL MOMENTS - EP7</title>
-    <desc lang="en">Live. Over a nine season spell in the Premier League, Jimmy Floyd Hasselbaink etched his name into footballing folklore as one of the most dynamic goalscorers in the competition's history. Fourth all time in Premier League goals for Chelsea, Hasselbaink's iconic freekicks and powerful finishes have seen him score some of the League's most memorable goals. This week, the Dutch international sits down with PL Moments to break down how to strike the ball, and talk us through his ten favourite moments fro.</desc>
-    <episode-num system="onscreen">E7</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261113030000 -0600" stop="20261113033000 -0600" channel="Hub.Premier.1.sg">
-    <title lang="en">PL STORIES - EP24</title>
-    <desc lang="en">Live. We explore Mikel Arteta's impact at Arsenal and the managerial approach behind his success, reflecting on how his upbringing and football education in the Basque region shaped his thinking. We examine his tactics, how he develops players and the standards he sets throughout the club. We look at the key decisions that have turned Arsenal into Premier League champions.</desc>
-    <episode-num system="onscreen">E24</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261113033000 -0600" stop="20261113040000 -0600" channel="Hub.Premier.1.sg">
-    <title lang="en">THE BIG INTERVIEW - EP13</title>
-    <desc lang="en">Live. Alan Shearer reflects on a childhood where his eye for goal came naturally, and led to a career that ended with him setting a Premier League goalscoring record that remains unchallenged. The former Southampton, Blackburn and Newcastle man explains what makes a great striker, and reveals a piece of advice that he's passed on to a Premier League star of today.</desc>
-    <episode-num system="onscreen">E13</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261113040000 -0600" stop="20261113050000 -0600" channel="Hub.Premier.1.sg">
-    <title lang="en">REVIEW - MW10 - EP10</title>
-    <desc lang="en">Live. An extensive recap of Matchweek 10, showcasing the thrills, spills and major talking points from each Premier League fixture.</desc>
-    <episode-num system="onscreen">E10</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261113050000 -0600" stop="20261113060000 -0600" channel="Hub.Premier.1.sg">
-    <title lang="en">THE CATCH-UP SHOW - EP12</title>
-    <desc lang="en">Live. The Catch-Up Show is your chance to relive the 'best bits' from across the Premier League week with a compilation of all PLP content and programming.</desc>
-    <episode-num system="onscreen">E12</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261113060000 -0600" stop="20261113070000 -0600" channel="Hub.Premier.1.sg">
-    <title lang="en">PL STORIES - EP18</title>
-    <desc lang="en">Live. From a celebrated playing career in Italy to becoming the man who transformed Manchester City into Premier League champions, Roberto Mancini's footballing life has been filled with triumph, drama and unforgettable characters. PL Stories explores his fiery relationship with Mario Balotelli, 'that' extraordinary final-day victory over QPR, and the deep friendship he shared with the late Gianluca Vialli. Mancini's interview is brutally honest, highlighting the defining moments and extraordinary car.</desc>
-    <episode-num system="onscreen">E18</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261113070000 -0600" stop="20261113073000 -0600" channel="Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 26/27 MW10 Nottingham Forest v Manchester City</title>
-    <desc lang="en">Live. Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261113073000 -0600" stop="20261113083000 -0600" channel="Hub.Premier.1.sg">
-    <title lang="en">PL MOMENTS - EP7</title>
-    <desc lang="en">Live. Over a nine season spell in the Premier League, Jimmy Floyd Hasselbaink etched his name into footballing folklore as one of the most dynamic goalscorers in the competition's history. Fourth all time in Premier League goals for Chelsea, Hasselbaink's iconic freekicks and powerful finishes have seen him score some of the League's most memorable goals. This week, the Dutch international sits down with PL Moments to break down how to strike the ball, and talk us through his ten favourite moments fro.</desc>
-    <episode-num system="onscreen">E7</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261113083000 -0600" stop="20261113090000 -0600" channel="Hub.Premier.1.sg">
-    <title lang="en">THE BIG INTERVIEW - EP13</title>
-    <desc lang="en">Live. Alan Shearer reflects on a childhood where his eye for goal came naturally, and led to a career that ended with him setting a Premier League goalscoring record that remains unchallenged. The former Southampton, Blackburn and Newcastle man explains what makes a great striker, and reveals a piece of advice that he's passed on to a Premier League star of today.</desc>
-    <episode-num system="onscreen">E13</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261113090000 -0600" stop="20261113093000 -0600" channel="Hub.Premier.1.sg">
-    <title lang="en">PL STORIES - EP24</title>
-    <desc lang="en">Live. We explore Mikel Arteta's impact at Arsenal and the managerial approach behind his success, reflecting on how his upbringing and football education in the Basque region shaped his thinking. We examine his tactics, how he develops players and the standards he sets throughout the club. We look at the key decisions that have turned Arsenal into Premier League champions.</desc>
-    <episode-num system="onscreen">E24</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261113093000 -0600" stop="20261113100000 -0600" channel="Hub.Premier.1.sg">
-    <title lang="en">PL REWIND - EP5</title>
-    <desc lang="en">Live. At just 16 years old, Theo Walcott attracted the attention of Arsene Wenger, who brought the electric youngster to Arsenal. The Englishman bagged over 100 goals for the Gunners, becoming one of their most prolific Premier League stars. He recalls the key moments and matches from 12 years in north London.</desc>
-    <episode-num system="onscreen">E5</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261113100000 -0600" stop="20261113103000 -0600" channel="Hub.Premier.1.sg">
-    <title lang="en">PL REWIND - EP6</title>
-    <desc lang="en">Live. 2007/08 saw Manchester United crowned both Premier League and European champions. Owen Hargreaves played a pivotal role in that success, in his debut season at Old Trafford. He recalls the drama and glory of an unforgettable campaign.</desc>
-    <episode-num system="onscreen">E6</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261113103000 -0600" stop="20261113110000 -0600" channel="Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 26/27 MW10 Manchester United v Aston Villa</title>
-    <desc lang="en">Live. Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261113110000 -0600" stop="20261113120000 -0600" channel="Hub.Premier.1.sg">
-    <title lang="en">REVIEW - MW10 - EP10</title>
-    <desc lang="en">Live. An extensive recap of Matchweek 10, showcasing the thrills, spills and major talking points from each Premier League fixture.</desc>
-    <episode-num system="onscreen">E10</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261113120000 -0600" stop="20261113130000 -0600" channel="Hub.Premier.1.sg">
-    <title lang="en">THE CATCH-UP SHOW - EP12</title>
-    <desc lang="en">Live. The Catch-Up Show is your chance to relive the 'best bits' from across the Premier League week with a compilation of all PLP content and programming.</desc>
-    <episode-num system="onscreen">E12</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261113130000 -0600" stop="20261113133000 -0600" channel="Hub.Premier.1.sg">
-    <title lang="en">NETBUSTERS - MW10 - EP10</title>
-    <desc lang="en">Live. A fast-paced music and commentary driven ISO angle highlights show featuring every game and every goal from each match round.</desc>
-    <episode-num system="onscreen">E10</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261113133000 -0600" stop="20261113140000 -0600" channel="Hub.Premier.1.sg">
-    <title lang="en">PL STORIES - EP4</title>
-    <desc lang="en">Live. Soaring Seagulls' tells the incredible story of Brighton &amp; Hove Albion; from the brink of collapse and years in the lower leagues to becoming one of the Premier League's smartest and most admired clubs. Featuring interviews with the key figures behind Brighton's rise, alongside celebrity fans who followed every twist along the way, this documentary charts a remarkable journey of survival, ambition and one of the greatest comebacks in modern football.</desc>
-    <episode-num system="onscreen">E4</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261113140000 -0600" stop="20261113160000 -0600" channel="Hub.Premier.1.sg">
-    <title lang="en">REVIEW OF THE SEASON - 2017/2018 (MCI)</title>
-    <desc lang="en">Live. A review of all the best goals, action and drama from Premier League seasons past.</desc>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261113160000 -0600" stop="20261113170000 -0600" channel="Hub.Premier.1.sg">
-    <title lang="en">PL MOMENTS - EP7</title>
-    <desc lang="en">Live. Over a nine season spell in the Premier League, Jimmy Floyd Hasselbaink etched his name into footballing folklore as one of the most dynamic goalscorers in the competition's history. Fourth all time in Premier League goals for Chelsea, Hasselbaink's iconic freekicks and powerful finishes have seen him score some of the League's most memorable goals. This week, the Dutch international sits down with PL Moments to break down how to strike the ball, and talk us through his ten favourite moments fro.</desc>
-    <episode-num system="onscreen">E7</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261113170000 -0600" stop="20261113173000 -0600" channel="Hub.Premier.1.sg">
-    <title lang="en">THE BIG INTERVIEW - EP10</title>
-    <desc lang="en">Live. Romeo Lavia's performances at the heart of Chelsea's midfield this season suggest he is on the way to fulfilling the immense promise that persuaded Pep Guardiola to sign him for Manchester City, having spotted him at an under-15 youth tournament in Belgium. Lavia then impressed at Southampton but injuries and the burden of expectation have stalled his progress at Chelsea. The Belgian opens up on the challenges he has overcome so far and his hunger to make up for lost time under Xabi Alonso.</desc>
-    <episode-num system="onscreen">E10</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261113173000 -0600" stop="20261113180000 -0600" channel="Hub.Premier.1.sg">
-    <title lang="en">THE BIG INTERVIEW - EP12</title>
-    <desc lang="en">Live. Marc Guehi arrived at Manchester City as an FA Cup winner with Crystal Palace before winning the same trophy with his new club 12 months later. The centre-back sits down with The Big Interview to talk about becoming a key figure in Enzo Maresca's team, as well as how a love for music has formed a key part of his life.</desc>
-    <episode-num system="onscreen">E12</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261113180000 -0600" stop="20261113183000 -0600" channel="Hub.Premier.1.sg">
-    <title lang="en">PL REWIND - EP5</title>
-    <desc lang="en">Live. At just 16 years old, Theo Walcott attracted the attention of Arsene Wenger, who brought the electric youngster to Arsenal. The Englishman bagged over 100 goals for the Gunners, becoming one of their most prolific Premier League stars. He recalls the key moments and matches from 12 years in north London.</desc>
-    <episode-num system="onscreen">E5</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261113183000 -0600" stop="20261113190000 -0600" channel="Hub.Premier.1.sg">
-    <title lang="en">PL REWIND - EP6</title>
-    <desc lang="en">Live. 2007/08 saw Manchester United crowned both Premier League and European champions. Owen Hargreaves played a pivotal role in that success, in his debut season at Old Trafford. He recalls the drama and glory of an unforgettable campaign.</desc>
-    <episode-num system="onscreen">E6</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261113190000 -0600" stop="20261113193000 -0600" channel="Hub.Premier.1.sg">
-    <title lang="en">MATCH HIGHLIGHTS 26/27 MW10 Manchester United v Aston Villa</title>
-    <desc lang="en">Live. Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261113193000 -0600" stop="20261113203000 -0600" channel="Hub.Premier.1.sg">
-    <title lang="en">PL MOMENTS - EP2</title>
-    <desc lang="en">Live. After more than two decades at the top, Ashley Young looks back on an incredible Premier League career. From breaking through at Watford and starring for Aston Villa to becoming a champion with Manchester United and playing on until the age of 40, Ashley counts down the 10 moments that defined his time at the very top of English football.</desc>
-    <episode-num system="onscreen">E2</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261113203000 -0600" stop="20261113210000 -0600" channel="Hub.Premier.1.sg">
-    <title lang="en">THE BIG INTERVIEW - EP13</title>
-    <desc lang="en">Live. Alan Shearer reflects on a childhood where his eye for goal came naturally, and led to a career that ended with him setting a Premier League goalscoring record that remains unchallenged. The former Southampton, Blackburn and Newcastle man explains what makes a great striker, and reveals a piece of advice that he's passed on to a Premier League star of today.</desc>
-    <episode-num system="onscreen">E13</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261113210000 -0600" stop="20261113220000 -0600" channel="Hub.Premier.1.sg">
-    <title lang="en">REVIEW - MW10 - EP10</title>
-    <desc lang="en">Live. An extensive recap of Matchweek 10, showcasing the thrills, spills and major talking points from each Premier League fixture.</desc>
-    <episode-num system="onscreen">E10</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261113220000 -0600" stop="20261113230000 -0600" channel="Hub.Premier.1.sg">
-    <title lang="en">THE CATCH-UP SHOW - EP12</title>
-    <desc lang="en">Live. The Catch-Up Show is your chance to relive the 'best bits' from across the Premier League week with a compilation of all PLP content and programming.</desc>
-    <episode-num system="onscreen">E12</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
-  <programme start="20261113230000 -0600" stop="20261114000000 -0600" channel="Hub.Premier.1.sg">
-    <title lang="en">PL STORIES - EP21</title>
-    <desc lang="en">Live. Ipswich Town legend and former Sunderland striker Marcus Stewart built a career on taking on some of football's toughest challenges. Now, he faces a very different battle; one that has changed his life beyond the pitch and revealed a strength and determination far greater than anything football demanded of him.</desc>
-    <episode-num system="onscreen">E21</episode-num>
-    <rating system="IMDA">
-      <value>PG13</value>
-    </rating>
-  </programme>
   <programme start="20261114000000 -0600" stop="20261114003000 -0600" channel="Hub.Premier.1.sg">
     <title lang="en">PL STORIES - EP24</title>
     <desc lang="en">Live. We explore Mikel Arteta's impact at Arsenal and the managerial approach behind his success, reflecting on how his upbringing and football education in the Basque region shaped his thinking. We examine his tactics, how he develops players and the standards he sets throughout the club. We look at the key decisions that have turned Arsenal into Premier League champions.</desc>
@@ -8367,30 +8146,255 @@
       <value>PG13</value>
     </rating>
   </programme>
-  <programme start="20261113040000 -0600" stop="20261113100000 -0600" channel="Hub.Premier.2.sg">
-    <title lang="en">End of Transmission</title>
-    <desc lang="en">Live. End of Transmission.</desc>
+  <programme start="20261116190000 -0600" stop="20261116200000 -0600" channel="Hub.Premier.1.sg">
+    <title lang="en">PL MOMENTS - EP7</title>
+    <desc lang="en">Live. Over a nine season spell in the Premier League, Jimmy Floyd Hasselbaink etched his name into footballing folklore as one of the most dynamic goalscorers in the competition's history. Fourth all time in Premier League goals for Chelsea, Hasselbaink's iconic freekicks and powerful finishes have seen him score some of the League's most memorable goals. This week, the Dutch international sits down with PL Moments to break down how to strike the ball, and talk us through his ten favourite moments fro.</desc>
+    <episode-num system="onscreen">E7</episode-num>
     <rating system="IMDA">
       <value>PG13</value>
     </rating>
   </programme>
-  <programme start="20261113100000 -0600" stop="20261113160000 -0600" channel="Hub.Premier.2.sg">
-    <title lang="en">End of Transmission</title>
-    <desc lang="en">Live. End of Transmission.</desc>
+  <programme start="20261116200000 -0600" stop="20261116203000 -0600" channel="Hub.Premier.1.sg">
+    <title lang="en">THE BIG INTERVIEW - EP12</title>
+    <desc lang="en">Live. Marc Guehi arrived at Manchester City as an FA Cup winner with Crystal Palace before winning the same trophy with his new club 12 months later. The centre-back sits down with The Big Interview to talk about becoming a key figure in Enzo Maresca's team, as well as how a love for music has formed a key part of his life.</desc>
+    <episode-num system="onscreen">E12</episode-num>
     <rating system="IMDA">
       <value>PG13</value>
     </rating>
   </programme>
-  <programme start="20261113160000 -0600" stop="20261113220000 -0600" channel="Hub.Premier.2.sg">
-    <title lang="en">End of Transmission</title>
-    <desc lang="en">Live. End of Transmission.</desc>
+  <programme start="20261116203000 -0600" stop="20261116210000 -0600" channel="Hub.Premier.1.sg">
+    <title lang="en">THE BIG INTERVIEW - EP11</title>
+    <desc lang="en">Live. At just 16 years and 361 days old, Rio Ngumoha became Liverpool's youngest ever goalscorer, scoring a 100th minute winner on his Premier League debut at Newcastle. The records kept on falling in the 2025/26 season as the young winger went from wonderkid to first team regular. The East Londoner reflects on his meteoric rise and the importance of family support along the way.</desc>
+    <episode-num system="onscreen">E11</episode-num>
     <rating system="IMDA">
       <value>PG13</value>
     </rating>
   </programme>
-  <programme start="20261113220000 -0600" stop="20261114040000 -0600" channel="Hub.Premier.2.sg">
-    <title lang="en">End of Transmission</title>
-    <desc lang="en">Live. End of Transmission.</desc>
+  <programme start="20261116210000 -0600" stop="20261116213000 -0600" channel="Hub.Premier.1.sg">
+    <title lang="en">NETBUSTERS - MW10 - EP10</title>
+    <desc lang="en">Live. A fast-paced music and commentary driven ISO angle highlights show featuring every game and every goal from each match round.</desc>
+    <episode-num system="onscreen">E10</episode-num>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261116213000 -0600" stop="20261116223000 -0600" channel="Hub.Premier.1.sg">
+    <title lang="en">THE CATCH-UP SHOW - EP12</title>
+    <desc lang="en">Live. The Catch-Up Show is your chance to relive the 'best bits' from across the Premier League week with a compilation of all PLP content and programming.</desc>
+    <episode-num system="onscreen">E12</episode-num>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261116223000 -0600" stop="20261116230000 -0600" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES - EP24</title>
+    <desc lang="en">Live. We explore Mikel Arteta's impact at Arsenal and the managerial approach behind his success, reflecting on how his upbringing and football education in the Basque region shaped his thinking. We examine his tactics, how he develops players and the standards he sets throughout the club. We look at the key decisions that have turned Arsenal into Premier League champions.</desc>
+    <episode-num system="onscreen">E24</episode-num>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261116230000 -0600" stop="20261117000000 -0600" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES - EP18</title>
+    <desc lang="en">Live. From a celebrated playing career in Italy to becoming the man who transformed Manchester City into Premier League champions, Roberto Mancini's footballing life has been filled with triumph, drama and unforgettable characters. PL Stories explores his fiery relationship with Mario Balotelli, 'that' extraordinary final-day victory over QPR, and the deep friendship he shared with the late Gianluca Vialli. Mancini's interview is brutally honest, highlighting the defining moments and extraordinary car.</desc>
+    <episode-num system="onscreen">E18</episode-num>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261117000000 -0600" stop="20261117003000 -0600" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES - EP13</title>
+    <desc lang="en">Live. As Manchester City embark on a new chapter, we celebrate the extraordinary legacy of Pep Guardiola, the visionary who transformed not only a football club, but the Premier League itself. From his formative years as a player and coach to redefining excellence in English football, we trace the journey that made him one of the greatest managers the game has ever seen. Through unprecedented success, relentless innovation and a lasting influence on generations to come, this is the story of the man wh.</desc>
+    <episode-num system="onscreen">E13</episode-num>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261117003000 -0600" stop="20261117010000 -0600" channel="Hub.Premier.1.sg">
+    <title lang="en">THE BIG INTERVIEW - EP13</title>
+    <desc lang="en">Live. Alan Shearer reflects on a childhood where his eye for goal came naturally, and led to a career that ended with him setting a Premier League goalscoring record that remains unchallenged. The former Southampton, Blackburn and Newcastle man explains what makes a great striker, and reveals a piece of advice that he's passed on to a Premier League star of today.</desc>
+    <episode-num system="onscreen">E13</episode-num>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261117010000 -0600" stop="20261117013000 -0600" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES - EP23</title>
+    <desc lang="en">Live. Aston Villa's 1992/93 season had all the ingredients of a defining football story. Through special behind-the-scenes footage, PL Stories takes viewers inside Ron Atkinson's Villa, revealing the characters, camaraderie and mounting pressure of a gripping title challenge. From the dressing room to the drama on the pitch, this is the inside story of Villa's pursuit of the first Premier League crown.</desc>
+    <episode-num system="onscreen">E23</episode-num>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261117013000 -0600" stop="20261117023000 -0600" channel="Hub.Premier.1.sg">
+    <title lang="en">REVIEW - MW10 - EP10</title>
+    <desc lang="en">Live. An extensive recap of Matchweek 10, showcasing the thrills, spills and major talking points from each Premier League fixture.</desc>
+    <episode-num system="onscreen">E10</episode-num>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261117023000 -0600" stop="20261117030000 -0600" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES - EP14</title>
+    <desc lang="en">Live. One of the Premier League's greatest-ever goalkeepers, Petr Cech's career was nearly changed forever by the horrific head injury he suffered in 2006. We sit down with him to discuss his remarkable recovery and journey back to the very top, before discovering how his competitive drive has continued, with the Czech shot stopper swapping football for a new challenge playing Ice Hockey.</desc>
+    <episode-num system="onscreen">E14</episode-num>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261117030000 -0600" stop="20261117040000 -0600" channel="Hub.Premier.1.sg">
+    <title lang="en">THE ART OF... - EP1</title>
+    <desc lang="en">Live. Peter and Kasper Schmeichel explore how the art of goalkeeping has evolved throughout the Premier League era. From the fundamentals of shot-stopping, positioning and commanding the penalty area to the modern demands of distribution and playing with the ball at your feet, the Schmeichels break down what it takes to be an elite goalkeeper. Featuring some of the Premier League's greatest number ones, the show examines how one of football's most specialised positions has been transformed.</desc>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261117040000 -0600" stop="20261117043000 -0600" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES - EP20</title>
+    <desc lang="en">Live. Once the last line of defence, today's goalkeeper is expected to be so much more. From sweeper-keepers to playing out under pressure, we explore the innovations, characters and changing demands that have revolutionised one of football's most fascinating positions.</desc>
+    <episode-num system="onscreen">E20</episode-num>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261117043000 -0600" stop="20261117063000 -0600" channel="Hub.Premier.1.sg">
+    <title lang="en">REVIEW OF THE SEASON - 2016/2017 (CHE)</title>
+    <desc lang="en">Live. A review of all the best goals, action and drama from Premier League seasons past.</desc>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261117063000 -0600" stop="20261117070000 -0600" channel="Hub.Premier.1.sg">
+    <title lang="en">THE BIG INTERVIEW - EP4</title>
+    <desc lang="en">Live. Sharing 6 Premier League trophies between them, Peter and Kasper Schmeichel can be classed individually amongst the best goalkeepers of the Premier League era. This week, the Big Interview takes the rare opportunity of having father and son together. The pair discuss their fascinating dynamic, a relationship that developed from Kasper's formative years growing up around a father who won 5 Premier League titles in a dominant Manchester United side. The pair then share incredible insight around th.</desc>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261117070000 -0600" stop="20261117080000 -0600" channel="Hub.Premier.1.sg">
+    <title lang="en">THE ART OF... - EP1</title>
+    <desc lang="en">Live. Peter and Kasper Schmeichel explore how the art of goalkeeping has evolved throughout the Premier League era. From the fundamentals of shot-stopping, positioning and commanding the penalty area to the modern demands of distribution and playing with the ball at your feet, the Schmeichels break down what it takes to be an elite goalkeeper. Featuring some of the Premier League's greatest number ones, the show examines how one of football's most specialised positions has been transformed.</desc>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261117080000 -0600" stop="20261117090000 -0600" channel="Hub.Premier.1.sg">
+    <title lang="en">REVIEW - MW10 - EP10</title>
+    <desc lang="en">Live. An extensive recap of Matchweek 10, showcasing the thrills, spills and major talking points from each Premier League fixture.</desc>
+    <episode-num system="onscreen">E10</episode-num>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261117090000 -0600" stop="20261117093000 -0600" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES - EP20</title>
+    <desc lang="en">Live. Once the last line of defence, today's goalkeeper is expected to be so much more. From sweeper-keepers to playing out under pressure, we explore the innovations, characters and changing demands that have revolutionised one of football's most fascinating positions.</desc>
+    <episode-num system="onscreen">E20</episode-num>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261117093000 -0600" stop="20261117100000 -0600" channel="Hub.Premier.1.sg">
+    <title lang="en">PL REWIND - EP7</title>
+    <desc lang="en">Live. David James is one of the Premier League's most memorable goalkeepers. Few can match the England international for his longevity in the top flight, where he played with distinction between 1992 and 2010. He shares his memories of the key matches and best saves of his career.</desc>
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261117100000 -0600" stop="20261117103000 -0600" channel="Hub.Premier.1.sg">
+    <title lang="en">PL REWIND - EP10</title>
+    <desc lang="en">Live. Michael Owen burst onto the scene for Liverpool at just seventeen years of age, and in two consecutive seasons the teenage sensation won the Premier League Golden Boot. Owen recalls those campaigns for the Reds, reliving the key moments that helped him develop into one of the greatest players of his generation.</desc>
+    <episode-num system="onscreen">E10</episode-num>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261117103000 -0600" stop="20261117110000 -0600" channel="Hub.Premier.1.sg">
+    <title lang="en">NETBUSTERS - MW10 - EP10</title>
+    <desc lang="en">Live. A fast-paced music and commentary driven ISO angle highlights show featuring every game and every goal from each match round.</desc>
+    <episode-num system="onscreen">E10</episode-num>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261117110000 -0600" stop="20261117120000 -0600" channel="Hub.Premier.1.sg">
+    <title lang="en">GOALS OF THE SEASON - 2016/2017 (GB: KANE)</title>
+    <desc lang="en">Live. We take a look back at some of the most spectacular and important goals from previous Premier League seasons.</desc>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261117120000 -0600" stop="20261117130000 -0600" channel="Hub.Premier.1.sg">
+    <title lang="en">THE ART OF... - EP1</title>
+    <desc lang="en">Live. Peter and Kasper Schmeichel explore how the art of goalkeeping has evolved throughout the Premier League era. From the fundamentals of shot-stopping, positioning and commanding the penalty area to the modern demands of distribution and playing with the ball at your feet, the Schmeichels break down what it takes to be an elite goalkeeper. Featuring some of the Premier League's greatest number ones, the show examines how one of football's most specialised positions has been transformed.</desc>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261117130000 -0600" stop="20261117133000 -0600" channel="Hub.Premier.1.sg">
+    <title lang="en">THE BIG INTERVIEW - EP13</title>
+    <desc lang="en">Live. Alan Shearer reflects on a childhood where his eye for goal came naturally, and led to a career that ended with him setting a Premier League goalscoring record that remains unchallenged. The former Southampton, Blackburn and Newcastle man explains what makes a great striker, and reveals a piece of advice that he's passed on to a Premier League star of today.</desc>
+    <episode-num system="onscreen">E13</episode-num>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261117133000 -0600" stop="20261117143000 -0600" channel="Hub.Premier.1.sg">
+    <title lang="en">REVIEW - MW10 - EP10</title>
+    <desc lang="en">Live. An extensive recap of Matchweek 10, showcasing the thrills, spills and major talking points from each Premier League fixture.</desc>
+    <episode-num system="onscreen">E10</episode-num>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261117143000 -0600" stop="20261117150000 -0600" channel="Hub.Premier.1.sg">
+    <title lang="en">PL REWIND - EP7</title>
+    <desc lang="en">Live. David James is one of the Premier League's most memorable goalkeepers. Few can match the England international for his longevity in the top flight, where he played with distinction between 1992 and 2010. He shares his memories of the key matches and best saves of his career.</desc>
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261117150000 -0600" stop="20261117153000 -0600" channel="Hub.Premier.1.sg">
+    <title lang="en">PL REWIND - EP15</title>
+    <desc lang="en">Live. Renowned for his lightning-fast reflexes and unwavering courage, Shay Given is one of the Premier League's all-time greatest goalkeepers. The Irishman reflects on his most memorable moments between the posts as Newcastle's number one.</desc>
+    <episode-num system="onscreen">E15</episode-num>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261117153000 -0600" stop="20261117160000 -0600" channel="Hub.Premier.1.sg">
+    <title lang="en">PL STORIES - EP23</title>
+    <desc lang="en">Live. Aston Villa's 1992/93 season had all the ingredients of a defining football story. Through special behind-the-scenes footage, PL Stories takes viewers inside Ron Atkinson's Villa, revealing the characters, camaraderie and mounting pressure of a gripping title challenge. From the dressing room to the drama on the pitch, this is the inside story of Villa's pursuit of the first Premier League crown.</desc>
+    <episode-num system="onscreen">E23</episode-num>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261117160000 -0600" stop="20261117170000 -0600" channel="Hub.Premier.1.sg">
+    <title lang="en">GOALS OF THE SEASON - 2016/2017 (GB: KANE)</title>
+    <desc lang="en">Live. We take a look back at some of the most spectacular and important goals from previous Premier League seasons.</desc>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261117170000 -0600" stop="20261117173000 -0600" channel="Hub.Premier.1.sg">
+    <title lang="en">NETBUSTERS - MW10 - EP10</title>
+    <desc lang="en">Live. A fast-paced music and commentary driven ISO angle highlights show featuring every game and every goal from each match round.</desc>
+    <episode-num system="onscreen">E10</episode-num>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261117173000 -0600" stop="20261117183000 -0600" channel="Hub.Premier.1.sg">
+    <title lang="en">THE ART OF... - EP1</title>
+    <desc lang="en">Live. Peter and Kasper Schmeichel explore how the art of goalkeeping has evolved throughout the Premier League era. From the fundamentals of shot-stopping, positioning and commanding the penalty area to the modern demands of distribution and playing with the ball at your feet, the Schmeichels break down what it takes to be an elite goalkeeper. Featuring some of the Premier League's greatest number ones, the show examines how one of football's most specialised positions has been transformed.</desc>
+    <episode-num system="onscreen">E1</episode-num>
     <rating system="IMDA">
       <value>PG13</value>
     </rating>
@@ -8472,28 +8476,28 @@
       <value>PG13</value>
     </rating>
   </programme>
-  <programme start="20261113040000 -0600" stop="20261113100000 -0600" channel="Hub.Premier.3.sg">
+  <programme start="20261116220000 -0600" stop="20261117040000 -0600" channel="Hub.Premier.2.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">Live. End of Transmission.</desc>
     <rating system="IMDA">
       <value>PG13</value>
     </rating>
   </programme>
-  <programme start="20261113100000 -0600" stop="20261113160000 -0600" channel="Hub.Premier.3.sg">
+  <programme start="20261117040000 -0600" stop="20261117100000 -0600" channel="Hub.Premier.2.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">Live. End of Transmission.</desc>
     <rating system="IMDA">
       <value>PG13</value>
     </rating>
   </programme>
-  <programme start="20261113160000 -0600" stop="20261113220000 -0600" channel="Hub.Premier.3.sg">
+  <programme start="20261117100000 -0600" stop="20261117160000 -0600" channel="Hub.Premier.2.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">Live. End of Transmission.</desc>
     <rating system="IMDA">
       <value>PG13</value>
     </rating>
   </programme>
-  <programme start="20261113220000 -0600" stop="20261114040000 -0600" channel="Hub.Premier.3.sg">
+  <programme start="20261117160000 -0600" stop="20261117220000 -0600" channel="Hub.Premier.2.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">Live. End of Transmission.</desc>
     <rating system="IMDA">
@@ -8577,28 +8581,28 @@
       <value>PG13</value>
     </rating>
   </programme>
-  <programme start="20261113040000 -0600" stop="20261113100000 -0600" channel="Hub.Premier.4.sg">
+  <programme start="20261116220000 -0600" stop="20261117040000 -0600" channel="Hub.Premier.3.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">Live. End of Transmission.</desc>
     <rating system="IMDA">
       <value>PG13</value>
     </rating>
   </programme>
-  <programme start="20261113100000 -0600" stop="20261113160000 -0600" channel="Hub.Premier.4.sg">
+  <programme start="20261117040000 -0600" stop="20261117100000 -0600" channel="Hub.Premier.3.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">Live. End of Transmission.</desc>
     <rating system="IMDA">
       <value>PG13</value>
     </rating>
   </programme>
-  <programme start="20261113160000 -0600" stop="20261113220000 -0600" channel="Hub.Premier.4.sg">
+  <programme start="20261117100000 -0600" stop="20261117160000 -0600" channel="Hub.Premier.3.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">Live. End of Transmission.</desc>
     <rating system="IMDA">
       <value>PG13</value>
     </rating>
   </programme>
-  <programme start="20261113220000 -0600" stop="20261114040000 -0600" channel="Hub.Premier.4.sg">
+  <programme start="20261117160000 -0600" stop="20261117220000 -0600" channel="Hub.Premier.3.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">Live. End of Transmission.</desc>
     <rating system="IMDA">
@@ -8676,6 +8680,34 @@
     </rating>
   </programme>
   <programme start="20261116160000 -0600" stop="20261116220000 -0600" channel="Hub.Premier.4.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">Live. End of Transmission.</desc>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261116220000 -0600" stop="20261117040000 -0600" channel="Hub.Premier.4.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">Live. End of Transmission.</desc>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261117040000 -0600" stop="20261117100000 -0600" channel="Hub.Premier.4.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">Live. End of Transmission.</desc>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261117100000 -0600" stop="20261117160000 -0600" channel="Hub.Premier.4.sg">
+    <title lang="en">End of Transmission</title>
+    <desc lang="en">Live. End of Transmission.</desc>
+    <rating system="IMDA">
+      <value>PG13</value>
+    </rating>
+  </programme>
+  <programme start="20261117160000 -0600" stop="20261117220000 -0600" channel="Hub.Premier.4.sg">
     <title lang="en">End of Transmission</title>
     <desc lang="en">Live. End of Transmission.</desc>
     <rating system="IMDA">
